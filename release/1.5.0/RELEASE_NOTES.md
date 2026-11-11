@@ -12,4 +12,4 @@ Review release for the OJT technical review (staging first).
 - Creates only one table (`tdb_migrations`) through the standard installer; no OJS core table is changed; nothing is dropped on uninstall.
 - OJS 3.5.0.x (tested 3.5.0.6), PHP ≥ 8.2. Tested on PostgreSQL; MySQL/MariaDB to be tested on staging.
 
-The archives are identical in content to `plugins/generic/tadabburSuite` and `plugins/themes/tadabbur` at this tag; `scripts/build.sh` rebuilds them from source (checksums differ only because of file timestamps).
+The archives are identical in content to `plugins/generic/tadabburSuite` and `plugins/themes/tadabbur` in this commit; `scripts/build.sh` rebuilds them from source (checksums differ only because of file timestamps).
