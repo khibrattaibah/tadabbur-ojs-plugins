@@ -23,6 +23,10 @@ Each folder is a complete OJS plugin in the standard layout (`version.xml`, plug
 - **Database:** creates only `tdb_migrations` through the standard installer. No OJS core table is created, altered or dropped; nothing is dropped on uninstall.
 - **Compatibility:** OJS 3.5.0.x (tested 3.5.0.6), PHP ≥ 8.2 (tested 8.3). Tested on PostgreSQL 16; MySQL/MariaDB to be tested on staging.
 
+## Review release (ready to install)
+
+The exact archives submitted for review are in **[`release/1.5.0/`](release/1.5.0/)**: `tadabburSuite-1.5.0.zip`, `tadabbur-theme-2.0.1.zip`, `TECHNICAL_REVIEW.pdf`, `SHA256SUMS.txt`, `RELEASE_NOTES.md`. Verify with `cd release/1.5.0 && sha256sum -c SHA256SUMS.txt`.
+
 ## Building installable archives
 
 ```bash

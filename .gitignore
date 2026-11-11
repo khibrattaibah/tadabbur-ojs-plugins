@@ -1,5 +1,6 @@
 dist/
 *.zip
+!release/**/*.zip
 *.tar.gz
 *.tmp
 .DS_Store
