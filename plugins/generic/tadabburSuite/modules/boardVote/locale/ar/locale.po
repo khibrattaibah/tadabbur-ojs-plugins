@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.boardVote.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.boardVote.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.boardVote.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.boardVote.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.boardVote.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.boardVote.name"
+msgstr "القرار الجماعي"
+
+msgid "plugins.generic.boardVote.description"
+msgstr "تصويت هيئة التحرير على بحث أو مسألة إدارية: خيارات القرار الجاهزة أو خيارات مخصصة، ومهلة، ونِصاب، واقتراع سري أو علني مع التعليل، وإشعار المصوّتين بالبريد، ونتيجة موثّقة بمحضر قابل للطباعة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.boardVote.open"
+msgstr "فتح القرار الجماعي"
+
+msgid "plugins.generic.boardVote.menu"
+msgstr "القرار الجماعي"
+
+msgid "plugins.generic.boardVote.myMenu"
+msgstr "تصويتاتي"
+
+msgid "plugins.generic.boardVote.intro"
+msgstr "اطرح بحثًا أو مسألة للتصويت على المحررين وأعضاء الهيئة المرتبطين بحسابات. النتائج لا تظهر للمصوّت قبل أن يصوّت."
+
+msgid "plugins.generic.boardVote.new"
+msgstr "تصويت جديد"
+
+msgid "plugins.generic.boardVote.col.title"
+msgstr "الموضوع"
+
+msgid "plugins.generic.boardVote.col.deadline"
+msgstr "المهلة"
+
+msgid "plugins.generic.boardVote.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.boardVote.col.turnout"
+msgstr "المشاركة"
+
+msgid "plugins.generic.boardVote.col.mine"
+msgstr "صوتي"
+
+msgid "plugins.generic.boardVote.closed"
+msgstr "مغلق"
+
+msgid "plugins.generic.boardVote.expired"
+msgstr "انتهت المهلة"
+
+msgid "plugins.generic.boardVote.open_"
+msgstr "مفتوح"
+
+msgid "plugins.generic.boardVote.voted"
+msgstr "صوّتُّ"
+
+msgid "plugins.generic.boardVote.notVoted"
+msgstr "لم أصوّت"
+
+msgid "plugins.generic.boardVote.openBtn"
+msgstr "فتح"
+
+msgid "plugins.generic.boardVote.f.title"
+msgstr "موضوع التصويت"
+
+msgid "plugins.generic.boardVote.f.sid"
+msgstr "رقم البحث (اختياري)"
+
+msgid "plugins.generic.boardVote.f.body"
+msgstr "الخلفية والمرفقات (روابط)"
+
+msgid "plugins.generic.boardVote.f.options"
+msgstr "الخيارات"
+
+msgid "plugins.generic.boardVote.preset.decision"
+msgstr "قرار تحريري (قبول/تعديلات طفيفة/جوهرية/رفض)"
+
+msgid "plugins.generic.boardVote.preset.yesno"
+msgstr "موافق/غير موافق/ممتنع"
+
+msgid "plugins.generic.boardVote.preset.custom"
+msgstr "خيارات مخصصة"
+
+msgid "plugins.generic.boardVote.customHint"
+msgstr "خيار في كل سطر (للخيارات المخصصة)"
+
+msgid "plugins.generic.boardVote.f.voters"
+msgstr "المصوّتون"
+
+msgid "plugins.generic.boardVote.noCands"
+msgstr "لا يوجد محررون أو أعضاء مرتبطون بحسابات."
+
+msgid "plugins.generic.boardVote.f.deadline"
+msgstr "آخر موعد"
+
+msgid "plugins.generic.boardVote.f.quorum"
+msgstr "النِّصاب"
+
+msgid "plugins.generic.boardVote.f.secret"
+msgstr "اقتراع سري"
+
+msgid "plugins.generic.boardVote.f.notify"
+msgstr "إشعار المصوّتين بالبريد"
+
+msgid "plugins.generic.boardVote.create"
+msgstr "طرح التصويت"
+
+msgid "plugins.generic.boardVote.opt.accept"
+msgstr "قبول"
+
+msgid "plugins.generic.boardVote.opt.minor"
+msgstr "قبول بتعديلات طفيفة"
+
+msgid "plugins.generic.boardVote.opt.major"
+msgstr "تعديلات جوهرية وإعادة تحكيم"
+
+msgid "plugins.generic.boardVote.opt.reject"
+msgstr "رفض"
+
+msgid "plugins.generic.boardVote.opt.yes"
+msgstr "موافق"
+
+msgid "plugins.generic.boardVote.opt.no"
+msgstr "غير موافق"
+
+msgid "plugins.generic.boardVote.opt.abstain"
+msgstr "ممتنع"
+
+msgid "plugins.generic.boardVote.by"
+msgstr "طرحه {$n} في {$d}"
+
+msgid "plugins.generic.boardVote.until"
+msgstr "حتى {$d}"
+
+msgid "plugins.generic.boardVote.workflow"
+msgstr "صفحة البحث"
+
+msgid "plugins.generic.boardVote.yourVote"
+msgstr "صوتك"
+
+msgid "plugins.generic.boardVote.reasonHint"
+msgstr "التعليل (اختياري، ويظهر في المحضر)"
+
+msgid "plugins.generic.boardVote.cast"
+msgstr "تصويت"
+
+msgid "plugins.generic.boardVote.change"
+msgstr "تعديل صوتي"
+
+msgid "plugins.generic.boardVote.results"
+msgstr "النتيجة"
+
+msgid "plugins.generic.boardVote.hidden"
+msgstr "تظهر النتيجة بعد تصويتك أو بعد إغلاق التصويت."
+
+msgid "plugins.generic.boardVote.turnout"
+msgstr "صوّت {$c} من {$n}"
+
+msgid "plugins.generic.boardVote.quorumOk"
+msgstr "تحقق النِّصاب ({$q}%)"
+
+msgid "plugins.generic.boardVote.quorumNo"
+msgstr "لم يتحقق النِّصاب ({$q}%)"
+
+msgid "plugins.generic.boardVote.ballots"
+msgstr "الأصوات"
+
+msgid "plugins.generic.boardVote.reasons"
+msgstr "التعليلات"
+
+msgid "plugins.generic.boardVote.missing"
+msgstr "لم يصوّت بعد"
+
+msgid "plugins.generic.boardVote.closeTitle"
+msgstr "إغلاق التصويت واعتماد النتيجة"
+
+msgid "plugins.generic.boardVote.resultHint"
+msgstr "النتيجة المعتمدة"
+
+msgid "plugins.generic.boardVote.close"
+msgstr "إغلاق"
+
+msgid "plugins.generic.boardVote.confirmClose"
+msgstr "بعد الإغلاق لا يمكن التصويت أو التعديل. متابعة؟"
+
+msgid "plugins.generic.boardVote.minutes"
+msgstr "محضر التصويت"
+
+msgid "plugins.generic.boardVote.closedOn"
+msgstr "أُغلق في {$d}"
+
+msgid "plugins.generic.boardVote.finalResult"
+msgstr "النتيجة المعتمدة"
+
+msgid "plugins.generic.boardVote.signLine"
+msgstr "توقيع رئيس التحرير:"
+
+msgid "plugins.generic.boardVote.mail.subject"
+msgstr "تصويت مطلوب: {$t}"
+
+msgid "plugins.generic.boardVote.mail.body"
+msgstr "طُرح موضوع للتصويت على هيئة التحرير، وآخر موعد للتصويت {$d}."
+
+msgid "plugins.generic.boardVote.mail.link"
+msgstr "افتح التصويت"
+
+msgid "plugins.generic.boardVote.msg.created"
+msgstr "طُرح التصويت."
+
+msgid "plugins.generic.boardVote.msg.cast"
+msgstr "سُجّل صوتك."
+
+msgid "plugins.generic.boardVote.msg.closedOk"
+msgstr "أُغلق التصويت."
+
+msgid "plugins.generic.boardVote.msg.errForm"
+msgstr "أكمل الموضوع وخيارين على الأقل ومصوّتًا واحدًا."
+

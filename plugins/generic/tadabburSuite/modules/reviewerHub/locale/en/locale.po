@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.reviewerHub.name"
+msgstr "Reviewer Hub"
+
+msgid "plugins.generic.reviewerHub.description"
+msgstr "A reviewer directory with real performance indicators, best-match reviewer suggestions per manuscript based on interests and review history balanced by quality, speed and load, and conflict-of-interest detection. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.reviewerHub.open"
+msgstr "Open reviewer hub"
+
+msgid "plugins.generic.reviewerHub.menu"
+msgstr "Reviewer Hub"
+
+msgid "plugins.generic.reviewerHub.suggestTitle"
+msgstr "Suggest reviewers"
+
+msgid "plugins.generic.reviewerHub.profileTitle"
+msgstr "Reviewer profile"
+
+msgid "plugins.generic.reviewerHub.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.reviewerHub.notFound"
+msgstr "Reviewer not found."
+
+msgid "plugins.generic.reviewerHub.nav.directory"
+msgstr "Directory"
+
+msgid "plugins.generic.reviewerHub.nav.suggest"
+msgstr "Suggest for a manuscript"
+
+msgid "plugins.generic.reviewerHub.k.reviewers"
+msgstr "registered reviewers"
+
+msgid "plugins.generic.reviewerHub.k.countries"
+msgstr "countries"
+
+msgid "plugins.generic.reviewerHub.k.active"
+msgstr "reviews in progress"
+
+msgid "plugins.generic.reviewerHub.k.turnaround"
+msgstr "average turnaround"
+
+msgid "plugins.generic.reviewerHub.k.noInterests"
+msgstr "without interests"
+
+msgid "plugins.generic.reviewerHub.daysN"
+msgstr "{$n} days"
+
+msgid "plugins.generic.reviewerHub.lateN"
+msgstr "{$n} late"
+
+msgid "plugins.generic.reviewerHub.incompleteNote"
+msgstr "{$n} reviewers have no research interests recorded, so they cannot be suggested automatically. Ask them to update their profiles."
+
+msgid "plugins.generic.reviewerHub.requestBtn"
+msgstr "Request profile updates"
+
+msgid "plugins.generic.reviewerHub.confirmRequest"
+msgstr "An email will be sent to {$n} reviewers."
+
+msgid "plugins.generic.reviewerHub.requestSent"
+msgstr "Request sent to {$n} reviewers."
+
+msgid "plugins.generic.reviewerHub.allCountries"
+msgstr "All countries"
+
+msgid "plugins.generic.reviewerHub.search"
+msgstr "Search name, institution or field"
+
+msgid "plugins.generic.reviewerHub.availableOnly"
+msgstr "Available only (no current load)"
+
+msgid "plugins.generic.reviewerHub.filter"
+msgstr "Filter"
+
+msgid "plugins.generic.reviewerHub.sort.completed"
+msgstr "Most reviews"
+
+msgid "plugins.generic.reviewerHub.sort.quality"
+msgstr "Highest quality"
+
+msgid "plugins.generic.reviewerHub.sort.speed"
+msgstr "Fastest"
+
+msgid "plugins.generic.reviewerHub.sort.load"
+msgstr "Least load"
+
+msgid "plugins.generic.reviewerHub.sort.name"
+msgstr "Name"
+
+msgid "plugins.generic.reviewerHub.col.reviewer"
+msgstr "Reviewer"
+
+msgid "plugins.generic.reviewerHub.col.interests"
+msgstr "Interests"
+
+msgid "plugins.generic.reviewerHub.col.completed"
+msgstr "Done / invited"
+
+msgid "plugins.generic.reviewerHub.col.acceptRate"
+msgstr "Accepts"
+
+msgid "plugins.generic.reviewerHub.col.avgDays"
+msgstr "Avg time"
+
+msgid "plugins.generic.reviewerHub.col.onTime"
+msgstr "On time"
+
+msgid "plugins.generic.reviewerHub.col.quality"
+msgstr "Quality"
+
+msgid "plugins.generic.reviewerHub.col.load"
+msgstr "Current load"
+
+msgid "plugins.generic.reviewerHub.col.last"
+msgstr "Last invited"
+
+msgid "plugins.generic.reviewerHub.noInterests"
+msgstr "not recorded"
+
+msgid "plugins.generic.reviewerHub.dirNote"
+msgstr "Indicators come from the journal’s actual review records. “Quality” is the editor’s rating of the report (1–5) in OJS. Load = accepted unfinished reviews + unanswered invitations."
+
+msgid "plugins.generic.reviewerHub.suggestIntro"
+msgstr "Choose a manuscript to get the best-matched reviewers: keywords, title and abstract are matched with reviewers’ interests and the papers they reviewed before; ranking is balanced by quality, speed and current load; conflicted reviewers are excluded."
+
+msgid "plugins.generic.reviewerHub.pickSubmission"
+msgstr "— choose manuscript —"
+
+msgid "plugins.generic.reviewerHub.suggestBtn"
+msgstr "Suggest"
+
+msgid "plugins.generic.reviewerHub.noKeywords"
+msgstr "No keywords; title and abstract words are used."
+
+msgid "plugins.generic.reviewerHub.openWorkflow"
+msgstr "Open manuscript to assign"
+
+msgid "plugins.generic.reviewerHub.suggested"
+msgstr "Suggested reviewers ({$n} of {$p})"
+
+msgid "plugins.generic.reviewerHub.noMatch"
+msgstr "No matching reviewer; add reviewers in this field or complete their interests."
+
+msgid "plugins.generic.reviewerHub.col.why"
+msgstr "Why"
+
+msgid "plugins.generic.reviewerHub.col.score"
+msgstr "Score"
+
+msgid "plugins.generic.reviewerHub.col.record"
+msgstr "Record"
+
+msgid "plugins.generic.reviewerHub.why.kw"
+msgstr "Matches keywords"
+
+msgid "plugins.generic.reviewerHub.why.title"
+msgstr "Matches title"
+
+msgid "plugins.generic.reviewerHub.why.abs"
+msgstr "In abstract"
+
+msgid "plugins.generic.reviewerHub.why.history"
+msgstr "Reviewed {$n} related paper(s)"
+
+msgid "plugins.generic.reviewerHub.relevance"
+msgstr "relevance {$n}"
+
+msgid "plugins.generic.reviewerHub.record"
+msgstr "{$c} reviews · {$d} days · accepts {$a}%"
+
+msgid "plugins.generic.reviewerHub.assignNote"
+msgstr "Invitations are sent from the manuscript page in OJS (Review → Add reviewer) so the journal’s email templates and deadlines apply."
+
+msgid "plugins.generic.reviewerHub.excluded"
+msgstr "Excluded for conflict of interest ({$n})"
+
+msgid "plugins.generic.reviewerHub.coi.author"
+msgstr "is an author"
+
+msgid "plugins.generic.reviewerHub.coi.affiliation"
+msgstr "same institution as an author"
+
+msgid "plugins.generic.reviewerHub.coi.coauthor"
+msgstr "co-authored with an author"
+
+msgid "plugins.generic.reviewerHub.coi.assigned"
+msgstr "already assigned"
+
+msgid "plugins.generic.reviewerHub.history"
+msgstr "Review history in this journal"
+
+msgid "plugins.generic.reviewerHub.col.submission"
+msgstr "Manuscript"
+
+msgid "plugins.generic.reviewerHub.col.invited"
+msgstr "Invited"
+
+msgid "plugins.generic.reviewerHub.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.reviewerHub.col.days"
+msgstr "Days"
+
+msgid "plugins.generic.reviewerHub.col.recommendation"
+msgstr "Recommendation"
+
+msgid "plugins.generic.reviewerHub.roundN"
+msgstr "round {$n}"
+
+msgid "plugins.generic.reviewerHub.st.declined"
+msgstr "Declined"
+
+msgid "plugins.generic.reviewerHub.st.completed"
+msgstr "Completed"
+
+msgid "plugins.generic.reviewerHub.st.accepted"
+msgstr "In progress"
+
+msgid "plugins.generic.reviewerHub.st.pending"
+msgstr "No reply"
+
+msgid "plugins.generic.reviewerHub.rec.1"
+msgstr "Accept"
+
+msgid "plugins.generic.reviewerHub.rec.2"
+msgstr "Revisions required"
+
+msgid "plugins.generic.reviewerHub.rec.3"
+msgstr "Resubmit for review"
+
+msgid "plugins.generic.reviewerHub.rec.4"
+msgstr "Resubmit elsewhere"
+
+msgid "plugins.generic.reviewerHub.rec.5"
+msgstr "Decline"
+
+msgid "plugins.generic.reviewerHub.rec.6"
+msgstr "See comments"
+
+msgid "plugins.generic.reviewerHub.mail.subject"
+msgstr "Please update your profile at {$journal}"
+
+msgid "plugins.generic.reviewerHub.mail.body"
+msgstr "Dear {$name},\n\nThank you for reviewing for the journal. To invite you to manuscripts closest to your expertise, please update your research interests and ORCID iD in your profile:\n{$url}\n\nKind regards,\nEditorial Office, {$journal}"
+

@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.authorResponse.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.authorResponse.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.authorResponse.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.authorResponse.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.authorResponse.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.authorResponse.name"
+msgstr "رد الباحث على المحكّمين"
+
+msgid "plugins.generic.authorResponse.description"
+msgstr "مصفوفة ردود منظّمة عند طلب التعديلات: تُقسَّم ملاحظات كل محكّم إلى بنود تلقائيًا، ويكتب الباحث لكل بند ردّه وموضع التعديل ونوع الاستجابة (نُفِّذ/جزئيًا/لم يُنفَّذ مع التعليل). يراها المحرر ومحكّمو الجولة التالية، وتُطبع وثيقة رسمية. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.authorResponse.open"
+msgstr "فتح ردود الباحثين"
+
+msgid "plugins.generic.authorResponse.menu"
+msgstr "ردود الباحثين"
+
+msgid "plugins.generic.authorResponse.myMenu"
+msgstr "الرد على المحكّمين"
+
+msgid "plugins.generic.authorResponse.intro"
+msgstr "ردود الباحثين على ملاحظات المحكّمين في جولات «التعديلات المطلوبة» و«إعادة التقديم». المحكّم في الجولة التالية يرى الرد أيضًا."
+
+msgid "plugins.generic.authorResponse.responses"
+msgstr "الردود"
+
+msgid "plugins.generic.authorResponse.waiting"
+msgstr "جولات تنتظر رد الباحث"
+
+msgid "plugins.generic.authorResponse.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.authorResponse.col.round"
+msgstr "الجولة"
+
+msgid "plugins.generic.authorResponse.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.authorResponse.col.progress"
+msgstr "الإنجاز"
+
+msgid "plugins.generic.authorResponse.col.updated"
+msgstr "آخر تحديث"
+
+msgid "plugins.generic.authorResponse.col.decided"
+msgstr "تاريخ القرار"
+
+msgid "plugins.generic.authorResponse.col.comment"
+msgstr "ملاحظة المحكّم"
+
+msgid "plugins.generic.authorResponse.col.reply"
+msgstr "رد الباحث"
+
+msgid "plugins.generic.authorResponse.col.action"
+msgstr "الاستجابة وموضعها"
+
+msgid "plugins.generic.authorResponse.st.draft"
+msgstr "مسودة"
+
+msgid "plugins.generic.authorResponse.st.submitted"
+msgstr "مُرسل"
+
+msgid "plugins.generic.authorResponse.statsLine"
+msgstr "أُجيب {$a} من {$t} · نُفِّذ {$d} · جزئيًا {$p} · لم يُنفَّذ {$x}"
+
+msgid "plugins.generic.authorResponse.openBtn"
+msgstr "فتح"
+
+msgid "plugins.generic.authorResponse.start"
+msgstr "ابدأ الرد"
+
+msgid "plugins.generic.authorResponse.continue"
+msgstr "أكمل الرد"
+
+msgid "plugins.generic.authorResponse.reopen"
+msgstr "إعادة فتح للباحث"
+
+msgid "plugins.generic.authorResponse.confirmReopen"
+msgstr "سيتمكن الباحث من تعديل الرد وإعادة إرساله. متابعة؟"
+
+msgid "plugins.generic.authorResponse.mineIntro"
+msgstr "البحوث التي طُلب فيها تعديل. اكتب ردك على كل ملاحظة، ثم أرسله ليطّلع عليه المحرر قبل رفع النسخة المعدّلة أو معها."
+
+msgid "plugins.generic.authorResponse.editHelp"
+msgstr "قُسِّمت ملاحظات كل محكّم إلى بنود تلقائيًا؛ يمكنك تعديل تقسيمها أو حذف بند أو إضافة بند في السطر الأخير من كل جدول. لكل بند: ردّك، ونوع الاستجابة، وموضع التعديل (الصفحة/الفقرة). الحفظ مسودةً متاح في أي وقت."
+
+msgid "plugins.generic.authorResponse.f.intro"
+msgstr "كلمة افتتاحية (اختيارية): شكر المحكّمين وملخص التعديلات"
+
+msgid "plugins.generic.authorResponse.f.comment"
+msgstr "نص الملاحظة"
+
+msgid "plugins.generic.authorResponse.f.newComment"
+msgstr "أضف ملاحظة أخرى (اختياري)"
+
+msgid "plugins.generic.authorResponse.f.reply"
+msgstr "ردّك على الملاحظة"
+
+msgid "plugins.generic.authorResponse.f.location"
+msgstr "الموضع"
+
+msgid "plugins.generic.authorResponse.act.done"
+msgstr "نُفِّذ"
+
+msgid "plugins.generic.authorResponse.act.partial"
+msgstr "نُفِّذ جزئيًا"
+
+msgid "plugins.generic.authorResponse.act.declined"
+msgstr "لم يُنفَّذ (مع التعليل)"
+
+msgid "plugins.generic.authorResponse.delete"
+msgstr "حذف البند"
+
+msgid "plugins.generic.authorResponse.saveDraft"
+msgstr "حفظ مسودة"
+
+msgid "plugins.generic.authorResponse.submit"
+msgstr "إرسال الرد للمحرر"
+
+msgid "plugins.generic.authorResponse.confirmSubmit"
+msgstr "بعد الإرسال لا يمكن التعديل إلا إذا أعاد المحرر فتحه. إرسال الآن؟"
+
+msgid "plugins.generic.authorResponse.reviewer"
+msgstr "المحكّم ({$l})"
+
+msgid "plugins.generic.authorResponse.editorPoints"
+msgstr "ملاحظات المحرر أو ملاحظات إضافية"
+
+msgid "plugins.generic.authorResponse.roundN"
+msgstr "الجولة {$n}"
+
+msgid "plugins.generic.authorResponse.print"
+msgstr "طباعة / PDF"
+
+msgid "plugins.generic.authorResponse.docTitle"
+msgstr "خطاب الرد على ملاحظات المحكّمين"
+
+msgid "plugins.generic.authorResponse.printFoot"
+msgstr "أُعدّ عبر نظام المجلة بتاريخ {$d}."
+
+msgid "plugins.generic.authorResponse.msg.submitted"
+msgstr "أُرسل الرد إلى المحرر."
+
+msgid "plugins.generic.authorResponse.msg.reopened"
+msgstr "أُعيد فتح الرد للباحث."
+
+msgid "plugins.generic.authorResponse.msg.errUnanswered"
+msgstr "لم يُرسل: هناك بنود بلا رد. حُفظت مسودتك."
+

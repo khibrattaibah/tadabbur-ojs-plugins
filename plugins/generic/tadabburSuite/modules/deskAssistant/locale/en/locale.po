@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.deskAssistant.name"
+msgstr "Desk Decision Assistant"
+
+msgid "plugins.generic.deskAssistant.description"
+msgstr "A decision card for each new submission: scope fit and closest published papers, possible duplicate submission, author history, technical and Quran checks, a preliminary recommendation, and optional Claude analysis. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.deskAssistant.open"
+msgstr "Open desk assistant"
+
+msgid "plugins.generic.deskAssistant.menu"
+msgstr "Desk Decisions"
+
+msgid "plugins.generic.deskAssistant.cardTitle"
+msgstr "Desk decision card"
+
+msgid "plugins.generic.deskAssistant.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.deskAssistant.notFound"
+msgstr "Submission not found."
+
+msgid "plugins.generic.deskAssistant.intro"
+msgstr "New submissions in the submission stage, each with a card gathering what the editor needs for an initial decision in minutes: send to review, return to the author for fixes, or desk-reject. The decision itself stays with the editor in OJS."
+
+msgid "plugins.generic.deskAssistant.queue"
+msgstr "Awaiting initial decision ({$n})"
+
+msgid "plugins.generic.deskAssistant.none"
+msgstr "No submissions in the submission stage."
+
+msgid "plugins.generic.deskAssistant.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.deskAssistant.col.submitted"
+msgstr "Submitted"
+
+msgid "plugins.generic.deskAssistant.col.fit"
+msgstr "Fit"
+
+msgid "plugins.generic.deskAssistant.col.rule"
+msgstr "Preliminary"
+
+msgid "plugins.generic.deskAssistant.col.ai"
+msgstr "Assistant"
+
+msgid "plugins.generic.deskAssistant.openCard"
+msgstr "Decision card"
+
+msgid "plugins.generic.deskAssistant.back"
+msgstr "All submissions"
+
+msgid "plugins.generic.deskAssistant.openWorkflow"
+msgstr "Open to decide"
+
+msgid "plugins.generic.deskAssistant.lvl.high"
+msgstr "high"
+
+msgid "plugins.generic.deskAssistant.lvl.medium"
+msgstr "medium"
+
+msgid "plugins.generic.deskAssistant.lvl.low"
+msgstr "low"
+
+msgid "plugins.generic.deskAssistant.rec.review"
+msgstr "Send to review"
+
+msgid "plugins.generic.deskAssistant.rec.revise_first"
+msgstr "Return to author first"
+
+msgid "plugins.generic.deskAssistant.rec.desk_reject"
+msgstr "Desk reject"
+
+msgid "plugins.generic.deskAssistant.rec.check_duplicate"
+msgstr "Check duplicate"
+
+msgid "plugins.generic.deskAssistant.rec.consider_reject"
+msgstr "Consider desk reject"
+
+msgid "plugins.generic.deskAssistant.r.dup"
+msgstr "The manuscript closely matches another manuscript in the system."
+
+msgid "plugins.generic.deskAssistant.r.technical"
+msgstr "The technical check found {$n} blocking issue(s)."
+
+msgid "plugins.generic.deskAssistant.r.quran"
+msgstr "The Quran check found {$n} issue(s)."
+
+msgid "plugins.generic.deskAssistant.r.fit"
+msgstr "Fit with the journal’s scope and published work is low."
+
+msgid "plugins.generic.deskAssistant.r.ok"
+msgstr "No apparent obstacles."
+
+msgid "plugins.generic.deskAssistant.ruleTitle"
+msgstr "Preliminary recommendation (automatic)"
+
+msgid "plugins.generic.deskAssistant.fitTitle"
+msgstr "Scope fit"
+
+msgid "plugins.generic.deskAssistant.fitDetail"
+msgstr "Similarity to scope text: {$s} · to published work: {$c} (of {$n} published papers)"
+
+msgid "plugins.generic.deskAssistant.checksTitle"
+msgstr "Other checks"
+
+msgid "plugins.generic.deskAssistant.c.preReview"
+msgstr "Technical check"
+
+msgid "plugins.generic.deskAssistant.c.notRun"
+msgstr "not run"
+
+msgid "plugins.generic.deskAssistant.c.blocking"
+msgstr "{$n} blocking"
+
+msgid "plugins.generic.deskAssistant.c.ready"
+msgstr "ready"
+
+msgid "plugins.generic.deskAssistant.c.quran"
+msgstr "Quran check"
+
+msgid "plugins.generic.deskAssistant.c.quranRes"
+msgstr "{$t} verses · {$p} issues · {$h} referencing gaps"
+
+msgid "plugins.generic.deskAssistant.c.decl"
+msgstr "Declarations"
+
+msgid "plugins.generic.deskAssistant.c.declMissing"
+msgstr "{$n} missing"
+
+msgid "plugins.generic.deskAssistant.c.complete"
+msgstr "complete"
+
+msgid "plugins.generic.deskAssistant.c.reviewers"
+msgstr "Suggest suitable reviewers →"
+
+msgid "plugins.generic.deskAssistant.c.none"
+msgstr "No checking plugins enabled."
+
+msgid "plugins.generic.deskAssistant.dupTitle"
+msgstr "Possible duplicate submission"
+
+msgid "plugins.generic.deskAssistant.simPct"
+msgstr "{$n}% similar"
+
+msgid "plugins.generic.deskAssistant.published"
+msgstr "published"
+
+msgid "plugins.generic.deskAssistant.similarTitle"
+msgstr "Closest published papers"
+
+msgid "plugins.generic.deskAssistant.noCorpus"
+msgstr "Not enough published papers to compare."
+
+msgid "plugins.generic.deskAssistant.authorsTitle"
+msgstr "Authors’ history with the journal"
+
+msgid "plugins.generic.deskAssistant.newAuthors"
+msgstr "New authors to the journal."
+
+msgid "plugins.generic.deskAssistant.authorHist"
+msgstr "{$t} previous: {$p} published, {$d} declined, {$a} in progress"
+
+msgid "plugins.generic.deskAssistant.aiTitle"
+msgstr "Assistant analysis (Claude)"
+
+msgid "plugins.generic.deskAssistant.analyze"
+msgstr "Analyse"
+
+msgid "plugins.generic.deskAssistant.reanalyze"
+msgstr "Re-analyse"
+
+msgid "plugins.generic.deskAssistant.noKey"
+msgstr "To enable analysis, enter a Claude key in settings (or set it in the Translation Assistant and it will be reused here)."
+
+msgid "plugins.generic.deskAssistant.privacyMeta"
+msgstr "Only title, abstract and keywords are sent — no author names."
+
+msgid "plugins.generic.deskAssistant.privacyText"
+msgstr "Title, abstract, keywords and the beginning of the manuscript text are sent (author names are not included in the metadata)."
+
+msgid "plugins.generic.deskAssistant.aiError"
+msgstr "Analysis failed:"
+
+msgid "plugins.generic.deskAssistant.fitAi"
+msgstr "Fit"
+
+msgid "plugins.generic.deskAssistant.withText"
+msgstr "with manuscript text"
+
+msgid "plugins.generic.deskAssistant.a.summary"
+msgstr "Summary"
+
+msgid "plugins.generic.deskAssistant.a.question"
+msgstr "Research problem"
+
+msgid "plugins.generic.deskAssistant.a.method"
+msgstr "Method"
+
+msgid "plugins.generic.deskAssistant.a.contribution"
+msgstr "Contribution"
+
+msgid "plugins.generic.deskAssistant.a.scope"
+msgstr "Scope fit"
+
+msgid "plugins.generic.deskAssistant.a.strengths"
+msgstr "Strengths"
+
+msgid "plugins.generic.deskAssistant.a.concerns"
+msgstr "Concerns"
+
+msgid "plugins.generic.deskAssistant.a.decisionReason"
+msgstr "Rationale"
+
+msgid "plugins.generic.deskAssistant.a.expertise"
+msgstr "Reviewer expertise"
+
+msgid "plugins.generic.deskAssistant.a.questions"
+msgstr "Questions for the author"
+
+msgid "plugins.generic.deskAssistant.aiNote"
+msgstr "The assistant’s analysis is advisory and does not replace the editor’s judgement. Each analysis is stored with the model name and date."
+
+msgid "plugins.generic.deskAssistant.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.deskAssistant.save"
+msgstr "Save"
+
+msgid "plugins.generic.deskAssistant.set.apiKey"
+msgstr "Claude API key"
+
+msgid "plugins.generic.deskAssistant.set.apiKeyHelp"
+msgstr "Leave empty to reuse the Translation Assistant key."
+
+msgid "plugins.generic.deskAssistant.set.keyShared"
+msgstr "(currently using the Translation Assistant key)"
+
+msgid "plugins.generic.deskAssistant.set.model"
+msgstr "Model"
+
+msgid "plugins.generic.deskAssistant.set.endpoint"
+msgstr "API endpoint"
+
+msgid "plugins.generic.deskAssistant.set.sendText"
+msgstr "Send the beginning of the manuscript text (more accurate; requires journal policy approval)"
+
+msgid "plugins.generic.deskAssistant.set.maxWords"
+msgstr "Maximum words of text"
+
+msgid "plugins.generic.deskAssistant.set.scope"
+msgstr "Journal aims and scope text (optional)"
+
+msgid "plugins.generic.deskAssistant.set.scopeHelp"
+msgstr "If empty, the journal description and About text are used."
+

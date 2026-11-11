@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.articleImpact.name"
+msgstr "مؤشرات تأثير البحث"
+
+msgid "plugins.generic.articleImpact.description"
+msgstr "يعرض في صفحة كل بحث المشاهدات والتنزيلات ومنحنى شهريًا وعدد الاستشهادات (Crossref وOpenAlex) وقائمة «استُشهد به في»، مع لوحة ترتيب للمحررين وتصدير CSV. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.articleImpact.open"
+msgstr "فتح لوحة التأثير"
+
+msgid "plugins.generic.articleImpact.menu"
+msgstr "تأثير البحوث"
+
+msgid "plugins.generic.articleImpact.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.articleImpact.blockTitle"
+msgstr "مؤشرات البحث"
+
+msgid "plugins.generic.articleImpact.views"
+msgstr "مشاهدة"
+
+msgid "plugins.generic.articleImpact.downloads"
+msgstr "تنزيل"
+
+msgid "plugins.generic.articleImpact.citations"
+msgstr "استشهاد"
+
+msgid "plugins.generic.articleImpact.chartLabel"
+msgstr "القراءات والتنزيلات في 12 شهرًا"
+
+msgid "plugins.generic.articleImpact.sourceNote"
+msgstr "المشاهدات والتنزيلات وفق COUNTER؛ الاستشهادات من Crossref وOpenAlex."
+
+msgid "plugins.generic.articleImpact.citedByTitle"
+msgstr "استُشهد به في ({$n})"
+
+msgid "plugins.generic.articleImpact.citedByNote"
+msgstr "المصدر: OpenAlex. قد لا تظهر كل الاستشهادات، خاصة من المصادر غير المفهرسة."
+
+msgid "plugins.generic.articleImpact.intro"
+msgstr "ترتيب البحوث المنشورة بالقراءة والتنزيل والاستشهاد. تُحدَّث الاستشهادات من Crossref وOpenAlex عبر DOI، وتُخزَّن مؤقتًا حتى لا تبطئ صفحات الموقع."
+
+msgid "plugins.generic.articleImpact.stat.articles"
+msgstr "بحثًا منشورًا"
+
+msgid "plugins.generic.articleImpact.stat.citations"
+msgstr "استشهادًا (الأعلى من المصدرين)"
+
+msgid "plugins.generic.articleImpact.stat.cited"
+msgstr "{$n} بحثًا مستشهدًا به"
+
+msgid "plugins.generic.articleImpact.refreshTitle"
+msgstr "تحديث الاستشهادات"
+
+msgid "plugins.generic.articleImpact.lastRefresh"
+msgstr "آخر تحديث: {$d}"
+
+msgid "plugins.generic.articleImpact.refreshHelp"
+msgstr "كل ضغطة تحدّث حتى 40 بحثًا، الأقدم أولًا."
+
+msgid "plugins.generic.articleImpact.refreshBtn"
+msgstr "تحديث الآن"
+
+msgid "plugins.generic.articleImpact.refreshed"
+msgstr "حُدّث {$n} بحثًا."
+
+msgid "plugins.generic.articleImpact.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.articleImpact.ranking"
+msgstr "ترتيب البحوث"
+
+msgid "plugins.generic.articleImpact.none"
+msgstr "لا توجد بحوث منشورة."
+
+msgid "plugins.generic.articleImpact.col.article"
+msgstr "البحث"
+
+msgid "plugins.generic.articleImpact.col.published"
+msgstr "النشر"
+
+msgid "plugins.generic.articleImpact.noDoi"
+msgstr "لا يوجد DOI؛ لا يمكن جلب الاستشهادات"
+
+msgid "plugins.generic.articleImpact.notFetched"
+msgstr "لم يُحدَّث بعد"
+
+msgid "plugins.generic.articleImpact.err.nodoi"
+msgstr "لا يوجد DOI"
+
+msgid "plugins.generic.articleImpact.err.notfound"
+msgstr "DOI غير موجود في Crossref/OpenAlex بعد"
+
+msgid "plugins.generic.articleImpact.err.error"
+msgstr "تعذّر الاتصال؛ أعد المحاولة لاحقًا"
+
+msgid "plugins.generic.articleImpact.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.articleImpact.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.articleImpact.set.showBlock"
+msgstr "عرض صندوق المؤشرات في صفحة البحث"
+
+msgid "plugins.generic.articleImpact.set.showChart"
+msgstr "عرض المنحنى الشهري"
+
+msgid "plugins.generic.articleImpact.set.showCitedBy"
+msgstr "عرض قائمة «استُشهد به في»"
+
+msgid "plugins.generic.articleImpact.set.altmetric"
+msgstr "عرض شارة Altmetric (تُحمَّل من موقع Altmetric)"
+
+msgid "plugins.generic.articleImpact.set.dimensions"
+msgstr "عرض شارة Dimensions (تُحمَّل من موقع Dimensions)"
+
+msgid "plugins.generic.articleImpact.set.refreshOnView"
+msgstr "تحديث الاستشهادات تلقائيًا عند زيارة البحث إن كانت قديمة (مهلة 4 ثوانٍ)"
+
+msgid "plugins.generic.articleImpact.set.staleDays"
+msgstr "تُعد البيانات قديمة بعد (أيام):"
+
+msgid "plugins.generic.articleImpact.set.openalexKey"
+msgstr "مفتاح OpenAlex API (مجاني، موصى به)"
+
+msgid "plugins.generic.articleImpact.set.openalexKeyHelp"
+msgstr "من دون مفتاح تتشارك المواقع على الخادم نفسه حصة يومية محدودة. احصل على مفتاح مجاني من openalex.org باسم المجلة."
+
+msgid "plugins.generic.articleImpact.cslOn"
+msgstr "«كيف تستشهد» وتنزيل RIS/BibTeX مفعّلان عبر إضافة Citation Style Language."
+
+msgid "plugins.generic.articleImpact.cslOff"
+msgstr "ننصح بتفعيل إضافة Citation Style Language المدمجة لعرض «كيف تستشهد» وتنزيل RIS/BibTeX."
+
+msgid "plugins.generic.articleImpact.countNote"
+msgstr "تختلف أعداد الاستشهاد بين المصادر بحسب تغطيتها؛ تعرض الإضافة الأعلى منهما."
+

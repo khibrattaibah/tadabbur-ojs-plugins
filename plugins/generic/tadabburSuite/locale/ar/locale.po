@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.tadabburSuite.name"
+msgstr "حزمة تدبر (كل الأدوات في إضافة واحدة)"
+
+msgid "plugins.generic.tadabburSuite.description"
+msgstr "إضافة واحدة تضم أدوات المجلة كلها كوحدات: التحقق من الآيات، وجاهزية الفهرسة، وغرفة القيادة، ومركز المحكّمين، والخطابات الموثقة، وغيرها. تُرفع وتُحدَّث مرة واحدة، وتجمع قوائمها الجانبية في بند واحد، وتحفظ توقيع رئيس التحرير والختم والترويسة خارج مجلد الإضافة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.tadabburSuite.st.active"
+msgstr "وحدة مفعّلة"
+
+msgid "plugins.generic.tadabburSuite.st.dups"
+msgstr "نسخة منفردة مكررة"
+
+msgid "plugins.generic.tadabburSuite.st.db"
+msgstr "جداول قاعدة البيانات"
+
+msgid "plugins.generic.tadabburSuite.st.pdf"
+msgstr "توليد PDF"
+
+msgid "plugins.generic.tadabburSuite.dupsNote"
+msgstr "عُطّلت تلقائيًا النسخ المنفردة القديمة ({$list}) لأن الحزمة تحتويها؛ احذف مجلداتها من plugins/generic متى شئت، وبياناتك محفوظة."
+
+msgid "plugins.generic.tadabburSuite.standaloneShort"
+msgstr "توجد نسخة منفردة قديمة (معطّلة تلقائيًا)"
+
+msgid "plugins.generic.tadabburSuite.searchModules"
+msgstr "ابحث عن وحدة…"
+
+msgid "plugins.generic.tadabburSuite.cat.all"
+msgstr "الكل"
+
+msgid "plugins.generic.tadabburSuite.cat.docs"
+msgstr "المستندات والشهادات"
+
+msgid "plugins.generic.tadabburSuite.cat.editorial"
+msgstr "التحرير والتحكيم"
+
+msgid "plugins.generic.tadabburSuite.cat.quality"
+msgstr "الجودة والبيانات"
+
+msgid "plugins.generic.tadabburSuite.cat.reach"
+msgstr "الفهرسة والانتشار"
+
+msgid "plugins.generic.tadabburSuite.cat.other"
+msgstr "أخرى"
+
+msgid "plugins.generic.tadabburSuite.menu"
+msgstr "أدوات تدبر"
+
+msgid "plugins.generic.tadabburSuite.menuManage"
+msgstr "إدارة الحزمة"
+
+msgid "plugins.generic.tadabburSuite.openPanel"
+msgstr "فتح لوحة الحزمة"
+
+msgid "plugins.generic.tadabburSuite.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.tadabburSuite.intro"
+msgstr "الإصدار {$v}. كل أدوات المجلة هنا وحدات داخل إضافة واحدة؛ عطّل ما لا تحتاجه، وحدّث كل شيء برفع الحزمة مرة واحدة. بيانات الوحدات وإعداداتها تبقى كما هي عند التحديث."
+
+msgid "plugins.generic.tadabburSuite.modules"
+msgstr "الوحدات"
+
+msgid "plugins.generic.tadabburSuite.on"
+msgstr "مفعّلة"
+
+msgid "plugins.generic.tadabburSuite.module"
+msgstr "الوحدة"
+
+msgid "plugins.generic.tadabburSuite.version"
+msgstr "الإصدار"
+
+msgid "plugins.generic.tadabburSuite.open"
+msgstr "فتح"
+
+msgid "plugins.generic.tadabburSuite.standaloneWarn"
+msgstr "وُجدت نسخة منفردة قديمة من هذه الإضافة في plugins/generic؛ عُطّلت تلقائيًا ووحدة الحزمة هي العاملة. يمكنك حذف مجلدها بأمان (بياناتك محفوظة)."
+
+msgid "plugins.generic.tadabburSuite.groupMenu"
+msgstr "جمع قوائم الوحدات في بند واحد «أدوات تدبر» في الشريط الجانبي"
+
+msgid "plugins.generic.tadabburSuite.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.tadabburSuite.branding"
+msgstr "هوية المجلة المشتركة"
+
+msgid "plugins.generic.tadabburSuite.brandingHelp"
+msgstr "ترفع هنا توقيع رئيس التحرير والختم والترويسة، فتُستعمل فورًا في الخطابات الرسمية وشهادات المحكّمين ونماذج التحكيم. تُحفظ في مجلد الملفات خارج مجلد الإضافة فلا يمحوها أي تحديث، ويمكن استعادة الصورة الافتراضية في أي وقت. عند تغيير رئيس التحرير: ارفع الاسم والتوقيع (والتوقيع الأزرق) معًا."
+
+msgid "plugins.generic.tadabburSuite.usingDefault"
+msgstr "الصورة الافتراضية المرفقة"
+
+msgid "plugins.generic.tadabburSuite.upload"
+msgstr "رفع واستبدال"
+
+msgid "plugins.generic.tadabburSuite.reset"
+msgstr "استعادة الافتراضية"
+
+msgid "plugins.generic.tadabburSuite.env"
+msgstr "فحص البيئة"
+
+msgid "plugins.generic.tadabburSuite.hijri"
+msgstr "التاريخ الهجري"
+
+msgid "plugins.generic.tadabburSuite.images"
+msgstr "الصور"
+
+msgid "plugins.generic.tadabburSuite.filesDir"
+msgstr "مجلد الملفات قابل للكتابة"
+
+msgid "plugins.generic.tadabburSuite.dbUpdates"
+msgstr "تحديثات قاعدة البيانات للوحدات"
+
+msgid "plugins.generic.tadabburSuite.runDb"
+msgstr "تشغيل تحديثات قاعدة البيانات الآن"
+
+msgid "plugins.generic.tadabburSuite.services"
+msgstr "مفاتيح الخدمات المشتركة"
+
+msgid "plugins.generic.tadabburSuite.servicesHelp"
+msgstr "مفتاح OpenAlex المجاني يُستعمل في كل الوحدات التي تقرأ الاستشهادات والفهرسة (تأثير البحوث، الجاهزية للفهرسة، الإيداع والربط) ما لم يُضبط لها مفتاح خاص. احصل عليه من حساب OpenAlex: Settings ← API key."
+
+msgid "plugins.generic.tadabburSuite.openalexKey"
+msgstr "مفتاح OpenAlex API"
+
+msgid "plugins.generic.tadabburSuite.msg.saved"
+msgstr "تم حفظ الإعدادات."
+
+msgid "plugins.generic.tadabburSuite.msg.uploaded"
+msgstr "تم رفع الصورة وستُستعمل في كل الوثائق الجديدة."
+
+msgid "plugins.generic.tadabburSuite.msg.reset"
+msgstr "أُعيدت الصورة الافتراضية."
+
+msgid "plugins.generic.tadabburSuite.msg.migrated"
+msgstr "اكتملت تحديثات قاعدة البيانات."
+
+msgid "plugins.generic.tadabburSuite.msg.migrateErr"
+msgstr "تعذّر تحديث بعض الوحدات؛ راجع فحص البيئة."
+
+msgid "plugins.generic.tadabburSuite.msg.uploadFailed"
+msgstr "فشل الرفع."
+
+msgid "plugins.generic.tadabburSuite.msg.tooBig"
+msgstr "الصورة أكبر من 6 ميغابايت."
+
+msgid "plugins.generic.tadabburSuite.msg.notImage"
+msgstr "الملف ليس صورة PNG أو JPG صالحة."
+
+msgid "plugins.generic.tadabburSuite.msg.noGd"
+msgstr "امتداد GD غير متوفر على الخادم."
+
+msgid "plugins.generic.tadabburSuite.msg.notWritable"
+msgstr "تعذّر الكتابة في مجلد الملفات."
+
+msgid "plugins.generic.tadabburSuite.msg.unknownKey"
+msgstr "صورة غير معروفة."
+
+
+msgid "plugins.generic.tadabburSuite.st.held"
+msgstr "وحدة مؤجلة"
+
+msgid "plugins.generic.tadabburSuite.st.fail"
+msgstr "فحص فاشل"
+
+msgid "plugins.generic.tadabburSuite.st.unknown"
+msgstr "غير قابل للتحقق"
+
+msgid "plugins.generic.tadabburSuite.readinessOpen"
+msgstr "فحص الجاهزية"
+
+msgid "plugins.generic.tadabburSuite.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.tadabburSuite.legacyBrand"
+msgstr "توجد ملفات هوية قديمة كانت مشتركة بين المجلات (قبل 1.5.0). لا تُستعمل تلقائيًا."
+
+msgid "plugins.generic.tadabburSuite.legacyBrandImport"
+msgstr "نسخها إلى هذه المجلة"
+
+msgid "plugins.generic.tadabburSuite.state.held"
+msgstr "مؤجلة — المرحلة {$n}"
+
+msgid "plugins.generic.tadabburSuite.state.off"
+msgstr "غير مفعّلة"
+
+msgid "plugins.generic.tadabburSuite.state.on"
+msgstr "مفعّلة"
+
+msgid "plugins.generic.tadabburSuite.state.ro"
+msgstr "قراءة فقط"
+
+msgid "plugins.generic.tadabburSuite.state.needs"
+msgstr "تنقصها تبعية: {$m}"
+
+msgid "plugins.generic.tadabburSuite.state.noMig"
+msgstr "لم ينجح ترحيلها — راجع فحص الجاهزية"
+
+msgid "plugins.generic.tadabburSuite.envHelp"
+msgstr "يُنفَّذ الترحيل تلقائيًا عند تثبيت الحزمة أو ترقيتها من صفحة الإضافات. اضغط الزر فقط إذا رُفعت الملفات يدويًا. حالة كل وحدة وأي خطأ تجدها في صفحة فحص الجاهزية."
+
+msgid "plugins.generic.tadabburSuite.msg.savedPartial"
+msgstr "حُفظت الوحدات الصالحة فقط؛ استُبعدت وحدات لم يُصرَّح بإطلاقها أو لم ينجح ترحيلها أو تنقصها تبعية."
+
+msgid "plugins.generic.tadabburSuite.rd.ok"
+msgstr "متحقق"
+
+msgid "plugins.generic.tadabburSuite.rd.fail"
+msgstr "فشل"
+
+msgid "plugins.generic.tadabburSuite.rd.unknown"
+msgstr "غير قابل للتحقق"
+
+msgid "plugins.generic.tadabburSuite.rd.info"
+msgstr "معلومة"
+
+msgid "plugins.generic.tadabburSuite.rd.lead"
+msgstr "«متحقق» تعني أننا قرأنا الواقع وطابق المطلوب. «غير قابل للتحقق» تعني أن التطبيق لا يملك دليلًا (مثل وصول البريد أو سلامة النسخ الاحتياطي) ولا تُعدّ سليمة بمجرد وجود إعدادها."
+
+msgid "plugins.generic.tadabburSuite.rd.g.platform"
+msgstr "المنصة"
+
+msgid "plugins.generic.tadabburSuite.rd.g.identity"
+msgstr "هوية المنتج وبقايا التثبيت"
+
+msgid "plugins.generic.tadabburSuite.rd.g.migration"
+msgstr "ترحيل قاعدة البيانات"
+
+msgid "plugins.generic.tadabburSuite.rd.g.storage"
+msgstr "الملفات"
+
+msgid "plugins.generic.tadabburSuite.rd.g.ops"
+msgstr "التشغيل: البريد والمهام والنسخ"
+
+msgid "plugins.generic.tadabburSuite.rd.g.context"
+msgstr "السياق"

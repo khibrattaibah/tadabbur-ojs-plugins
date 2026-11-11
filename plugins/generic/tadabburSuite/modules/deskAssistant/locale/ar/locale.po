@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.deskAssistant.name"
+msgstr "مساعد القرار الأولي"
+
+msgid "plugins.generic.deskAssistant.description"
+msgstr "بطاقة قرار لكل بحث جديد: الملاءمة لنطاق المجلة وأقرب المنشور فيها، واحتمال التقديم المكرر، وسجل المؤلفين، ونتائج الفحص الفني وتدقيق الآيات، وتوصية مبدئية، وتحليل اختياري عبر Claude. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.deskAssistant.open"
+msgstr "فتح مساعد القرار"
+
+msgid "plugins.generic.deskAssistant.menu"
+msgstr "القرار الأولي"
+
+msgid "plugins.generic.deskAssistant.cardTitle"
+msgstr "بطاقة القرار الأولي"
+
+msgid "plugins.generic.deskAssistant.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.deskAssistant.notFound"
+msgstr "البحث غير موجود."
+
+msgid "plugins.generic.deskAssistant.intro"
+msgstr "البحوث الجديدة في مرحلة التقديم، ولكل منها بطاقة تجمع ما يحتاجه المحرر لقرار أولي خلال دقائق: هل يُحال للتحكيم، أم يُعاد للمؤلف لاستكمال نواقص، أم يُرفض مكتبيًا. القرار يبقى للمحرر في OJS."
+
+msgid "plugins.generic.deskAssistant.queue"
+msgstr "بحوث بانتظار القرار الأولي ({$n})"
+
+msgid "plugins.generic.deskAssistant.none"
+msgstr "لا توجد بحوث في مرحلة التقديم."
+
+msgid "plugins.generic.deskAssistant.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.deskAssistant.col.submitted"
+msgstr "التقديم"
+
+msgid "plugins.generic.deskAssistant.col.fit"
+msgstr "الملاءمة"
+
+msgid "plugins.generic.deskAssistant.col.rule"
+msgstr "التوصية المبدئية"
+
+msgid "plugins.generic.deskAssistant.col.ai"
+msgstr "رأي المساعد"
+
+msgid "plugins.generic.deskAssistant.openCard"
+msgstr "بطاقة القرار"
+
+msgid "plugins.generic.deskAssistant.back"
+msgstr "كل البحوث"
+
+msgid "plugins.generic.deskAssistant.openWorkflow"
+msgstr "فتح البحث لاتخاذ القرار"
+
+msgid "plugins.generic.deskAssistant.lvl.high"
+msgstr "عالية"
+
+msgid "plugins.generic.deskAssistant.lvl.medium"
+msgstr "متوسطة"
+
+msgid "plugins.generic.deskAssistant.lvl.low"
+msgstr "منخفضة"
+
+msgid "plugins.generic.deskAssistant.rec.review"
+msgstr "يُحال إلى التحكيم"
+
+msgid "plugins.generic.deskAssistant.rec.revise_first"
+msgstr "يُعاد للمؤلف قبل التحكيم"
+
+msgid "plugins.generic.deskAssistant.rec.desk_reject"
+msgstr "رفض مكتبي"
+
+msgid "plugins.generic.deskAssistant.rec.check_duplicate"
+msgstr "تحقق من التكرار"
+
+msgid "plugins.generic.deskAssistant.rec.consider_reject"
+msgstr "يُنظر في الرفض المكتبي"
+
+msgid "plugins.generic.deskAssistant.r.dup"
+msgstr "يتطابق البحث بنسبة عالية جدًا مع بحث آخر في النظام."
+
+msgid "plugins.generic.deskAssistant.r.technical"
+msgstr "في الفحص الفني {$n} ملاحظة مانعة."
+
+msgid "plugins.generic.deskAssistant.r.quran"
+msgstr "في تدقيق الآيات {$n} ملاحظة."
+
+msgid "plugins.generic.deskAssistant.r.fit"
+msgstr "ملاءمة البحث لنطاق المجلة ومنشوراتها منخفضة."
+
+msgid "plugins.generic.deskAssistant.r.ok"
+msgstr "لا موانع ظاهرة."
+
+msgid "plugins.generic.deskAssistant.ruleTitle"
+msgstr "التوصية المبدئية (آلية)"
+
+msgid "plugins.generic.deskAssistant.fitTitle"
+msgstr "الملاءمة لنطاق المجلة"
+
+msgid "plugins.generic.deskAssistant.fitDetail"
+msgstr "تشابه مع نص النطاق: {$s} · مع المنشور: {$c} (من {$n} بحثًا منشورًا)"
+
+msgid "plugins.generic.deskAssistant.checksTitle"
+msgstr "نتائج الفحوص الأخرى"
+
+msgid "plugins.generic.deskAssistant.c.preReview"
+msgstr "الفحص الفني"
+
+msgid "plugins.generic.deskAssistant.c.notRun"
+msgstr "لم يُشغَّل"
+
+msgid "plugins.generic.deskAssistant.c.blocking"
+msgstr "{$n} مانع"
+
+msgid "plugins.generic.deskAssistant.c.ready"
+msgstr "جاهز"
+
+msgid "plugins.generic.deskAssistant.c.quran"
+msgstr "تدقيق الآيات"
+
+msgid "plugins.generic.deskAssistant.c.quranRes"
+msgstr "{$t} آية · {$p} ملاحظة · {$h} نقص تخريج"
+
+msgid "plugins.generic.deskAssistant.c.decl"
+msgstr "الإقرارات"
+
+msgid "plugins.generic.deskAssistant.c.declMissing"
+msgstr "{$n} ناقص"
+
+msgid "plugins.generic.deskAssistant.c.complete"
+msgstr "مكتملة"
+
+msgid "plugins.generic.deskAssistant.c.reviewers"
+msgstr "اقتراح المحكّمين المناسبين ←"
+
+msgid "plugins.generic.deskAssistant.c.none"
+msgstr "لا توجد إضافات فحص مفعّلة."
+
+msgid "plugins.generic.deskAssistant.dupTitle"
+msgstr "احتمال تقديم مكرر"
+
+msgid "plugins.generic.deskAssistant.simPct"
+msgstr "تشابه {$n}%"
+
+msgid "plugins.generic.deskAssistant.published"
+msgstr "منشور"
+
+msgid "plugins.generic.deskAssistant.similarTitle"
+msgstr "أقرب ما نشرته المجلة"
+
+msgid "plugins.generic.deskAssistant.noCorpus"
+msgstr "لا بحوث منشورة كافية للمقارنة."
+
+msgid "plugins.generic.deskAssistant.authorsTitle"
+msgstr "سجل المؤلفين في المجلة"
+
+msgid "plugins.generic.deskAssistant.newAuthors"
+msgstr "مؤلفون جدد على المجلة."
+
+msgid "plugins.generic.deskAssistant.authorHist"
+msgstr "{$t} تقديم سابق: {$p} منشور، {$d} مرفوض، {$a} قيد المعالجة"
+
+msgid "plugins.generic.deskAssistant.aiTitle"
+msgstr "تحليل المساعد (Claude)"
+
+msgid "plugins.generic.deskAssistant.analyze"
+msgstr "حلّل البحث"
+
+msgid "plugins.generic.deskAssistant.reanalyze"
+msgstr "أعد التحليل"
+
+msgid "plugins.generic.deskAssistant.noKey"
+msgstr "لتفعيل التحليل أدخل مفتاح Claude في الإعدادات (أو اضبطه في «مساعد الترجمة» فيُستعمل هنا تلقائيًا)."
+
+msgid "plugins.generic.deskAssistant.privacyMeta"
+msgstr "يُرسل العنوان والملخص والكلمات المفتاحية فقط، دون أسماء المؤلفين."
+
+msgid "plugins.generic.deskAssistant.privacyText"
+msgstr "يُرسل العنوان والملخص والكلمات ومطلع نص البحث (دون أسماء المؤلفين في البيانات)."
+
+msgid "plugins.generic.deskAssistant.aiError"
+msgstr "تعذّر التحليل:"
+
+msgid "plugins.generic.deskAssistant.fitAi"
+msgstr "الملاءمة"
+
+msgid "plugins.generic.deskAssistant.withText"
+msgstr "مع نص البحث"
+
+msgid "plugins.generic.deskAssistant.a.summary"
+msgstr "الخلاصة"
+
+msgid "plugins.generic.deskAssistant.a.question"
+msgstr "مشكلة البحث"
+
+msgid "plugins.generic.deskAssistant.a.method"
+msgstr "المنهج"
+
+msgid "plugins.generic.deskAssistant.a.contribution"
+msgstr "الإضافة العلمية"
+
+msgid "plugins.generic.deskAssistant.a.scope"
+msgstr "الملاءمة للنطاق"
+
+msgid "plugins.generic.deskAssistant.a.strengths"
+msgstr "نقاط القوة"
+
+msgid "plugins.generic.deskAssistant.a.concerns"
+msgstr "ملاحظات وتحفظات"
+
+msgid "plugins.generic.deskAssistant.a.decisionReason"
+msgstr "مسوّغ التوصية"
+
+msgid "plugins.generic.deskAssistant.a.expertise"
+msgstr "تخصصات المحكّمين المناسبة"
+
+msgid "plugins.generic.deskAssistant.a.questions"
+msgstr "أسئلة للمؤلف"
+
+msgid "plugins.generic.deskAssistant.aiNote"
+msgstr "تحليل المساعد رأي استشاري يُعين المحرر ولا يحل محل حكمه. يُحفظ كل تحليل مع اسم النموذج وتاريخه."
+
+msgid "plugins.generic.deskAssistant.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.deskAssistant.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.deskAssistant.set.apiKey"
+msgstr "مفتاح Claude API"
+
+msgid "plugins.generic.deskAssistant.set.apiKeyHelp"
+msgstr "اتركه فارغًا لاستعمال مفتاح «مساعد الترجمة»."
+
+msgid "plugins.generic.deskAssistant.set.keyShared"
+msgstr "(يُستعمل حاليًا مفتاح مساعد الترجمة)"
+
+msgid "plugins.generic.deskAssistant.set.model"
+msgstr "النموذج"
+
+msgid "plugins.generic.deskAssistant.set.endpoint"
+msgstr "عنوان الواجهة"
+
+msgid "plugins.generic.deskAssistant.set.sendText"
+msgstr "إرسال مطلع نص البحث للتحليل (أدق، ويتطلب موافقة سياسة المجلة)"
+
+msgid "plugins.generic.deskAssistant.set.maxWords"
+msgstr "أقصى عدد كلمات من النص"
+
+msgid "plugins.generic.deskAssistant.set.scope"
+msgstr "نص أهداف المجلة ونطاقها (اختياري)"
+
+msgid "plugins.generic.deskAssistant.set.scopeHelp"
+msgstr "إن تُرك فارغًا يُستعمل «وصف المجلة» و«عن المجلة» من إعداداتها."
+

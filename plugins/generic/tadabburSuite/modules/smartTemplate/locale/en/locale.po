@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.smartTemplate.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.smartTemplate.none"
+msgstr "None."
+
+msgid "plugins.generic.smartTemplate.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.smartTemplate.save"
+msgstr "Save"
+
+msgid "plugins.generic.smartTemplate.back"
+msgstr "Back"
+
+msgid "plugins.generic.smartTemplate.name"
+msgstr "Smart Manuscript Template"
+
+msgid "plugins.generic.smartTemplate.description"
+msgstr "A Word template with the journal's specification: fonts and sizes, margins, styles for headings, Qur'anic verses, footnotes and references, the mandatory section headings and brief in-file guidance. It is prefilled with the author's submission data (both titles, abstracts, keywords, authors) in a full and an anonymised version, with a public link to the blank template. Compatible with the suite's technical check and JATS conversion. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.smartTemplate.open"
+msgstr "Open template"
+
+msgid "plugins.generic.smartTemplate.menu"
+msgstr "Manuscript template"
+
+msgid "plugins.generic.smartTemplate.myMenu"
+msgstr "My paper template"
+
+msgid "plugins.generic.smartTemplate.intro"
+msgstr "The template is built at download time from the settings below, so any change applies immediately. Put the public link in the Author Guidelines."
+
+msgid "plugins.generic.smartTemplate.downloads"
+msgstr "Download"
+
+msgid "plugins.generic.smartTemplate.blank"
+msgstr "Blank template"
+
+msgid "plugins.generic.smartTemplate.blankAnon"
+msgstr "Blank template (anonymised)"
+
+msgid "plugins.generic.smartTemplate.publicLink"
+msgstr "Public link (no login needed):"
+
+msgid "plugins.generic.smartTemplate.mineIntro"
+msgstr "Download a template prefilled with your paper's data: the full version for publication and the anonymised version (no names or author file properties) for review."
+
+msgid "plugins.generic.smartTemplate.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.smartTemplate.full"
+msgstr "Full version"
+
+msgid "plugins.generic.smartTemplate.anonymous"
+msgstr "Anonymised version"
+
+msgid "plugins.generic.smartTemplate.blankTitle"
+msgstr "New paper"
+
+msgid "plugins.generic.smartTemplate.settings"
+msgstr "Template specification"
+
+msgid "plugins.generic.smartTemplate.f.fontAr"
+msgstr "Arabic font"
+
+msgid "plugins.generic.smartTemplate.f.fontEn"
+msgstr "English font"
+
+msgid "plugins.generic.smartTemplate.f.fontQuran"
+msgstr "Qur'an font"
+
+msgid "plugins.generic.smartTemplate.f.size"
+msgstr "Body size"
+
+msgid "plugins.generic.smartTemplate.f.fnSize"
+msgstr "Footnote size"
+
+msgid "plugins.generic.smartTemplate.f.line"
+msgstr "Line spacing"
+
+msgid "plugins.generic.smartTemplate.f.margin"
+msgstr "Margins (mm)"
+
+msgid "plugins.generic.smartTemplate.f.wordsMin"
+msgstr "Min words"
+
+msgid "plugins.generic.smartTemplate.f.wordsMax"
+msgstr "Max words"
+
+msgid "plugins.generic.smartTemplate.f.absMax"
+msgstr "Abstract words"
+
+msgid "plugins.generic.smartTemplate.f.kwMax"
+msgstr "Keywords"
+
+msgid "plugins.generic.smartTemplate.f.headings"
+msgstr "Mandatory headings in order (one per line; ## for sub-heading, ### for third level)"
+
+msgid "plugins.generic.smartTemplate.d.banner"
+msgstr "{$j} template: body in {$f} size {$s}, footnotes size {$fs}; length {$min}–{$max} words. Use the built-in styles (Heading 1, Heading 2, Quran Verse, Reference) instead of manual formatting. Delete these coloured notes before submitting."
+
+msgid "plugins.generic.smartTemplate.d.titleAr"
+msgstr "Title of the paper in Arabic"
+
+msgid "plugins.generic.smartTemplate.d.anon"
+msgstr "Anonymised review version: do not write author names or anything identifying them in the text, footnotes or acknowledgements."
+
+msgid "plugins.generic.smartTemplate.d.author"
+msgstr "Author name"
+
+msgid "plugins.generic.smartTemplate.d.aff"
+msgstr "Institution, city, country"
+
+msgid "plugins.generic.smartTemplate.d.abstract"
+msgstr "Abstract"
+
+msgid "plugins.generic.smartTemplate.d.absHint"
+msgstr "Write the abstract here in up to {$n} words: topic, aim, method and main findings."
+
+msgid "plugins.generic.smartTemplate.d.kw"
+msgstr "Keywords:"
+
+msgid "plugins.generic.smartTemplate.d.kwHint"
+msgstr "3 to {$n} keywords separated by commas"
+
+msgid "plugins.generic.smartTemplate.d.sampleText"
+msgstr "Write here. This is a sample body paragraph with a footnote"
+
+msgid "plugins.generic.smartTemplate.d.sampleFn"
+msgstr "Sample footnote: Author, Title (Publisher, year), vol/page."
+
+msgid "plugins.generic.smartTemplate.d.quranHint"
+msgstr "Verses in the Quran Verse style within ornate brackets, followed by surah name and verse number in square brackets."
+
+msgid "plugins.generic.smartTemplate.d.write"
+msgstr "Write here."
+
+msgid "plugins.generic.smartTemplate.d.refs"
+msgstr "References"
+
+msgid "plugins.generic.smartTemplate.d.refsHint"
+msgstr "Order references alphabetically in the Reference style, add a DOI where one exists, and add romanised Arabic references after them if the journal requires."
+
+msgid "plugins.generic.smartTemplate.d.ref1"
+msgstr "Ibn Kathir, Tafsir al-Quran al-Azim, ed. Sami Salamah, 2nd ed. (Riyadh: Dar Taibah, 1999)."
+

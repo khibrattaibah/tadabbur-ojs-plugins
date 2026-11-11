@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.articleImpact.name"
+msgstr "Article Impact Metrics"
+
+msgid "plugins.generic.articleImpact.description"
+msgstr "Shows views, downloads, a monthly chart, citation counts (Crossref and OpenAlex) and a “Cited by” list on each article, with an editorial ranking dashboard and CSV export. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.articleImpact.open"
+msgstr "Open dashboard"
+
+msgid "plugins.generic.articleImpact.menu"
+msgstr "Article Impact"
+
+msgid "plugins.generic.articleImpact.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.articleImpact.blockTitle"
+msgstr "Article metrics"
+
+msgid "plugins.generic.articleImpact.views"
+msgstr "Views"
+
+msgid "plugins.generic.articleImpact.downloads"
+msgstr "Downloads"
+
+msgid "plugins.generic.articleImpact.citations"
+msgstr "Citations"
+
+msgid "plugins.generic.articleImpact.chartLabel"
+msgstr "Views and downloads, last 12 months"
+
+msgid "plugins.generic.articleImpact.sourceNote"
+msgstr "Views/downloads per COUNTER; citations from Crossref and OpenAlex."
+
+msgid "plugins.generic.articleImpact.citedByTitle"
+msgstr "Cited by ({$n})"
+
+msgid "plugins.generic.articleImpact.citedByNote"
+msgstr "Source: OpenAlex. Not every citation may be listed, especially from unindexed sources."
+
+msgid "plugins.generic.articleImpact.intro"
+msgstr "Published articles ranked by views, downloads and citations. Citations are refreshed from Crossref and OpenAlex via DOI and cached so the site stays fast."
+
+msgid "plugins.generic.articleImpact.stat.articles"
+msgstr "published articles"
+
+msgid "plugins.generic.articleImpact.stat.citations"
+msgstr "citations (max of both sources)"
+
+msgid "plugins.generic.articleImpact.stat.cited"
+msgstr "{$n} articles cited"
+
+msgid "plugins.generic.articleImpact.refreshTitle"
+msgstr "Refresh citations"
+
+msgid "plugins.generic.articleImpact.lastRefresh"
+msgstr "Last refresh: {$d}"
+
+msgid "plugins.generic.articleImpact.refreshHelp"
+msgstr "Each click refreshes up to 40 articles, oldest first."
+
+msgid "plugins.generic.articleImpact.refreshBtn"
+msgstr "Refresh now"
+
+msgid "plugins.generic.articleImpact.refreshed"
+msgstr "{$n} articles refreshed."
+
+msgid "plugins.generic.articleImpact.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.articleImpact.ranking"
+msgstr "Article ranking"
+
+msgid "plugins.generic.articleImpact.none"
+msgstr "No published articles."
+
+msgid "plugins.generic.articleImpact.col.article"
+msgstr "Article"
+
+msgid "plugins.generic.articleImpact.col.published"
+msgstr "Published"
+
+msgid "plugins.generic.articleImpact.noDoi"
+msgstr "No DOI; citations cannot be fetched"
+
+msgid "plugins.generic.articleImpact.notFetched"
+msgstr "Not refreshed yet"
+
+msgid "plugins.generic.articleImpact.err.nodoi"
+msgstr "No DOI"
+
+msgid "plugins.generic.articleImpact.err.notfound"
+msgstr "DOI not yet found in Crossref/OpenAlex"
+
+msgid "plugins.generic.articleImpact.err.error"
+msgstr "Connection failed; retry later"
+
+msgid "plugins.generic.articleImpact.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.articleImpact.save"
+msgstr "Save"
+
+msgid "plugins.generic.articleImpact.set.showBlock"
+msgstr "Show the metrics box on the article page"
+
+msgid "plugins.generic.articleImpact.set.showChart"
+msgstr "Show the monthly chart"
+
+msgid "plugins.generic.articleImpact.set.showCitedBy"
+msgstr "Show the “Cited by” list"
+
+msgid "plugins.generic.articleImpact.set.altmetric"
+msgstr "Show the Altmetric badge (loaded from Altmetric)"
+
+msgid "plugins.generic.articleImpact.set.dimensions"
+msgstr "Show the Dimensions badge (loaded from Dimensions)"
+
+msgid "plugins.generic.articleImpact.set.refreshOnView"
+msgstr "Auto-refresh stale citations when an article is viewed (4-second timeout)"
+
+msgid "plugins.generic.articleImpact.set.staleDays"
+msgstr "Data is stale after (days):"
+
+msgid "plugins.generic.articleImpact.set.openalexKey"
+msgstr "OpenAlex API key (free, recommended)"
+
+msgid "plugins.generic.articleImpact.set.openalexKeyHelp"
+msgstr "Without a key, sites on the same server share a small daily quota. Get a free key from openalex.org in the journal’s name."
+
+msgid "plugins.generic.articleImpact.cslOn"
+msgstr "“How to cite” and RIS/BibTeX downloads are enabled via the Citation Style Language plugin."
+
+msgid "plugins.generic.articleImpact.cslOff"
+msgstr "Enable the bundled Citation Style Language plugin for “How to cite” and RIS/BibTeX downloads."
+
+msgid "plugins.generic.articleImpact.countNote"
+msgstr "Citation counts differ by source coverage; the plugin shows the higher of the two."
+

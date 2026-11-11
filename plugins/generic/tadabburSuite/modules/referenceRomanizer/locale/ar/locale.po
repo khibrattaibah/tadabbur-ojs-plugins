@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.referenceRomanizer.name"
+msgstr "مساعد المراجع والرومنة"
+
+msgid "plugins.generic.referenceRomanizer.description"
+msgstr "يكتشف المراجع غير اللاتينية ويقترح رومنتها (ALA-LC) وترجمة عناوينها، ثم يطبقها على قائمة المراجع ويحتفظ بالأصل العربي ويعرضه في صفحة البحث. — تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات"
+
+msgid "plugins.generic.referenceRomanizer.menu"
+msgstr "رومنة المراجع"
+
+msgid "plugins.generic.referenceRomanizer.open"
+msgstr "فتح مساعد المراجع"
+
+msgid "plugins.generic.referenceRomanizer.forbidden"
+msgstr "غير مصرح بالوصول."
+
+msgid "plugins.generic.referenceRomanizer.notFound"
+msgstr "البحث غير موجود."
+
+msgid "plugins.generic.referenceRomanizer.intro"
+msgstr "تشترط Scopus وWeb of Science أن تكون قوائم المراجع بحروف لاتينية. يكتشف المساعد المراجع العربية في كل بحث ويقترح رومنتها، ثم يراجعها المحرر ويطبقها على قائمة المراجع، فتُرسل إلى Crossref بحروف لاتينية ويبقى الأصل العربي محفوظًا ومعروضًا في صفحة البحث."
+
+msgid "plugins.generic.referenceRomanizer.pending"
+msgstr "بحوث تحتاج رومنة: {$count}"
+
+msgid "plugins.generic.referenceRomanizer.find"
+msgstr "بحث"
+
+msgid "plugins.generic.referenceRomanizer.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.referenceRomanizer.refs"
+msgstr "المراجع"
+
+msgid "plugins.generic.referenceRomanizer.arabicRefs"
+msgstr "غير لاتينية"
+
+msgid "plugins.generic.referenceRomanizer.state"
+msgstr "الحالة"
+
+msgid "plugins.generic.referenceRomanizer.state.applied"
+msgstr "مطبَّقة"
+
+msgid "plugins.generic.referenceRomanizer.state.draft"
+msgstr "مسودة"
+
+msgid "plugins.generic.referenceRomanizer.state.todo"
+msgstr "تحتاج رومنة"
+
+msgid "plugins.generic.referenceRomanizer.state.roman"
+msgstr "لاتينية"
+
+msgid "plugins.generic.referenceRomanizer.review"
+msgstr "مراجعة"
+
+msgid "plugins.generic.referenceRomanizer.none"
+msgstr "لا توجد بحوث مقبولة أو منشورة."
+
+msgid "plugins.generic.referenceRomanizer.back"
+msgstr "العودة إلى القائمة"
+
+msgid "plugins.generic.referenceRomanizer.workflow"
+msgstr "سير عمل البحث"
+
+msgid "plugins.generic.referenceRomanizer.stats"
+msgstr "{$total} مرجعًا، منها {$arabic} غير لاتيني"
+
+msgid "plugins.generic.referenceRomanizer.publishedNote"
+msgstr "هذا البحث منشور: التطبيق يعدّل قائمة مراجعه مباشرة، فأعد إيداع بياناته في Crossref بعد التطبيق."
+
+msgid "plugins.generic.referenceRomanizer.noRefs"
+msgstr "لا توجد قائمة مراجع لهذا البحث."
+
+msgid "plugins.generic.referenceRomanizer.unknown"
+msgstr "كلمات خارج المعجم (راجعها)"
+
+msgid "plugins.generic.referenceRomanizer.transPlaceholder"
+msgstr "ترجمة عنوان العمل بالإنجليزية"
+
+msgid "plugins.generic.referenceRomanizer.original"
+msgstr "المرجع الأصلي"
+
+msgid "plugins.generic.referenceRomanizer.romanized"
+msgstr "الرومنة المقترحة (قابلة للتعديل)"
+
+msgid "plugins.generic.referenceRomanizer.translation"
+msgstr "ترجمة العنوان"
+
+msgid "plugins.generic.referenceRomanizer.preview"
+msgstr "معاينة قائمة المراجع بعد التطبيق"
+
+msgid "plugins.generic.referenceRomanizer.applyHelp"
+msgstr "«تطبيق» يستبدل قائمة المراجع في OJS بالمعاينة أعلاه ويحفظ الأصل العربي. يمكن الاستعادة في أي وقت."
+
+msgid "plugins.generic.referenceRomanizer.do.save"
+msgstr "حفظ المسودة"
+
+msgid "plugins.generic.referenceRomanizer.do.regenerate"
+msgstr "إعادة التوليد الآلي"
+
+msgid "plugins.generic.referenceRomanizer.do.ai"
+msgstr "اقتراح بالذكاء الاصطناعي (Claude)"
+
+msgid "plugins.generic.referenceRomanizer.do.apply"
+msgstr "تطبيق على قائمة المراجع"
+
+msgid "plugins.generic.referenceRomanizer.do.restore"
+msgstr "استعادة المراجع الأصلية"
+
+msgid "plugins.generic.referenceRomanizer.aiOff"
+msgstr "المساعد الذكي غير مفعّل (أضف مفتاح API في الإعدادات)."
+
+msgid "plugins.generic.referenceRomanizer.msg.saved"
+msgstr "حُفظت المسودة."
+
+msgid "plugins.generic.referenceRomanizer.msg.regenerated"
+msgstr "أُعيد التوليد من المرجع الأصلي."
+
+msgid "plugins.generic.referenceRomanizer.msg.ai"
+msgstr "وصلت اقتراحات الذكاء الاصطناعي لـ {$count} مرجعًا. راجعها قبل التطبيق."
+
+msgid "plugins.generic.referenceRomanizer.msg.applied"
+msgstr "طُبّقت الرومنة على قائمة المراجع، وحُفظ الأصل العربي."
+
+msgid "plugins.generic.referenceRomanizer.msg.restored"
+msgstr "استُعيدت المراجع الأصلية."
+
+msgid "plugins.generic.referenceRomanizer.msg.nothing"
+msgstr "لا يوجد ما يُستعاد."
+
+msgid "plugins.generic.referenceRomanizer.msg.error"
+msgstr "تعذّر التنفيذ:"
+
+msgid "plugins.generic.referenceRomanizer.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.referenceRomanizer.set.style"
+msgstr "نظام الرومنة"
+
+msgid "plugins.generic.referenceRomanizer.set.simple"
+msgstr "مبسّطة دون علامات"
+
+msgid "plugins.generic.referenceRomanizer.set.suffix"
+msgstr "لاحقة المرجع المرومن"
+
+msgid "plugins.generic.referenceRomanizer.set.suffixHelp"
+msgstr "مثل (in Arabic) كما توصي APA وChicago. اتركه فارغًا لإلغائه."
+
+msgid "plugins.generic.referenceRomanizer.set.showOriginal"
+msgstr "صفحة البحث"
+
+msgid "plugins.generic.referenceRomanizer.set.showOriginalHelp"
+msgstr "عرض المراجع العربية الأصلية تحت المراجع المرومنة"
+
+msgid "plugins.generic.referenceRomanizer.set.apiKey"
+msgstr "مفتاح Claude API (اختياري)"
+
+msgid "plugins.generic.referenceRomanizer.set.apiKeyHelp"
+msgstr "يُرسل نص المراجع العربية فقط إلى Anthropic لاقتراح الرومنة والترجمة. يحفظ في إعدادات الإضافة ولا يظهر بعد الحفظ."
+
+msgid "plugins.generic.referenceRomanizer.set.clearKey"
+msgstr "حذف المفتاح"
+
+msgid "plugins.generic.referenceRomanizer.set.model"
+msgstr "النموذج"
+
+msgid "plugins.generic.referenceRomanizer.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.referenceRomanizer.originalRefs"
+msgstr "المراجع بلغتها الأصلية"
+

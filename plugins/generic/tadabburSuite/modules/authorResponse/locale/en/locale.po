@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.authorResponse.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.authorResponse.none"
+msgstr "None."
+
+msgid "plugins.generic.authorResponse.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.authorResponse.save"
+msgstr "Save"
+
+msgid "plugins.generic.authorResponse.back"
+msgstr "Back"
+
+msgid "plugins.generic.authorResponse.name"
+msgstr "Author Response to Reviewers"
+
+msgid "plugins.generic.authorResponse.description"
+msgstr "A structured response matrix for revisions: each reviewer's comments are split into points automatically; the author gives a reply, the location of the change and the type of response for each. Editors and next-round reviewers see it, and it prints as a formal document. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.authorResponse.open"
+msgstr "Open author responses"
+
+msgid "plugins.generic.authorResponse.menu"
+msgstr "Author responses"
+
+msgid "plugins.generic.authorResponse.myMenu"
+msgstr "Respond to reviewers"
+
+msgid "plugins.generic.authorResponse.intro"
+msgstr "Authors' responses to reviewer comments in \"revisions required\" and \"resubmit\" rounds. Reviewers in the next round see the response too."
+
+msgid "plugins.generic.authorResponse.responses"
+msgstr "Responses"
+
+msgid "plugins.generic.authorResponse.waiting"
+msgstr "Rounds awaiting the author's response"
+
+msgid "plugins.generic.authorResponse.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.authorResponse.col.round"
+msgstr "Round"
+
+msgid "plugins.generic.authorResponse.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.authorResponse.col.progress"
+msgstr "Progress"
+
+msgid "plugins.generic.authorResponse.col.updated"
+msgstr "Updated"
+
+msgid "plugins.generic.authorResponse.col.decided"
+msgstr "Decision date"
+
+msgid "plugins.generic.authorResponse.col.comment"
+msgstr "Reviewer comment"
+
+msgid "plugins.generic.authorResponse.col.reply"
+msgstr "Author reply"
+
+msgid "plugins.generic.authorResponse.col.action"
+msgstr "Response & location"
+
+msgid "plugins.generic.authorResponse.st.draft"
+msgstr "Draft"
+
+msgid "plugins.generic.authorResponse.st.submitted"
+msgstr "Submitted"
+
+msgid "plugins.generic.authorResponse.statsLine"
+msgstr "{$a}/{$t} answered · done {$d} · partial {$p} · declined {$x}"
+
+msgid "plugins.generic.authorResponse.openBtn"
+msgstr "Open"
+
+msgid "plugins.generic.authorResponse.start"
+msgstr "Start response"
+
+msgid "plugins.generic.authorResponse.continue"
+msgstr "Continue"
+
+msgid "plugins.generic.authorResponse.reopen"
+msgstr "Reopen for author"
+
+msgid "plugins.generic.authorResponse.confirmReopen"
+msgstr "The author will be able to edit and resubmit. Continue?"
+
+msgid "plugins.generic.authorResponse.mineIntro"
+msgstr "Submissions where revisions were requested. Reply to each comment, then submit so the editor can read it with your revised version."
+
+msgid "plugins.generic.authorResponse.editHelp"
+msgstr "Each reviewer's comments were split into points automatically; you may edit the split, delete a point or add one in the last row of each table. For each point: your reply, the type of response and the location of the change (page/paragraph). You can save a draft at any time."
+
+msgid "plugins.generic.authorResponse.f.intro"
+msgstr "Opening note (optional): thanks and summary of changes"
+
+msgid "plugins.generic.authorResponse.f.comment"
+msgstr "Comment text"
+
+msgid "plugins.generic.authorResponse.f.newComment"
+msgstr "Add another point (optional)"
+
+msgid "plugins.generic.authorResponse.f.reply"
+msgstr "Your reply"
+
+msgid "plugins.generic.authorResponse.f.location"
+msgstr "Location"
+
+msgid "plugins.generic.authorResponse.act.done"
+msgstr "Done"
+
+msgid "plugins.generic.authorResponse.act.partial"
+msgstr "Partly done"
+
+msgid "plugins.generic.authorResponse.act.declined"
+msgstr "Not done (with justification)"
+
+msgid "plugins.generic.authorResponse.delete"
+msgstr "Delete point"
+
+msgid "plugins.generic.authorResponse.saveDraft"
+msgstr "Save draft"
+
+msgid "plugins.generic.authorResponse.submit"
+msgstr "Submit to editor"
+
+msgid "plugins.generic.authorResponse.confirmSubmit"
+msgstr "After submitting you cannot edit unless the editor reopens it. Submit now?"
+
+msgid "plugins.generic.authorResponse.reviewer"
+msgstr "Reviewer {$l}"
+
+msgid "plugins.generic.authorResponse.editorPoints"
+msgstr "Editor or additional comments"
+
+msgid "plugins.generic.authorResponse.roundN"
+msgstr "Round {$n}"
+
+msgid "plugins.generic.authorResponse.print"
+msgstr "Print / PDF"
+
+msgid "plugins.generic.authorResponse.docTitle"
+msgstr "Response to Reviewers"
+
+msgid "plugins.generic.authorResponse.printFoot"
+msgstr "Prepared via the journal system on {$d}."
+
+msgid "plugins.generic.authorResponse.msg.submitted"
+msgstr "Response submitted to the editor."
+
+msgid "plugins.generic.authorResponse.msg.reopened"
+msgstr "Response reopened for the author."
+
+msgid "plugins.generic.authorResponse.msg.errUnanswered"
+msgstr "Not submitted: some points have no reply. Your draft was saved."
+

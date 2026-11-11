@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.abstractAssistant.name"
+msgstr "مساعد الترجمة والملخصات"
+
+msgid "plugins.generic.abstractAssistant.description"
+msgstr "يترجم العنوان والملخص والكلمات المفتاحية بين العربية والإنجليزية بمساعدة Claude، أو يدقق النسخة الإنجليزية لغويًا، مع مسرد مصطلحات للمجلة. لا يُطبَّق شيء إلا باعتماد المحرر. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.abstractAssistant.open"
+msgstr "فتح المساعد"
+
+msgid "plugins.generic.abstractAssistant.menu"
+msgstr "مساعد الترجمة"
+
+msgid "plugins.generic.abstractAssistant.reviewTitle"
+msgstr "مراجعة المسودة"
+
+msgid "plugins.generic.abstractAssistant.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.abstractAssistant.notFound"
+msgstr "المسودة غير موجودة."
+
+msgid "plugins.generic.abstractAssistant.intro"
+msgstr "يُعدّ المساعد مسودة ترجمة للعنوان والملخص والكلمات المفتاحية أو تدقيقًا لغويًا للنسخة الموجودة، ثم يراجعها المحرر ويعدّلها ويعتمدها حقلًا حقلًا. الملخص الإنجليزي الجيد شرط عملي للقبول في Scopus وWeb of Science."
+
+msgid "plugins.generic.abstractAssistant.noKey"
+msgstr "أدخل مفتاح Claude API في الإعدادات أسفل الصفحة لتفعيل المساعد."
+
+msgid "plugins.generic.abstractAssistant.error"
+msgstr "تعذّر إعداد المسودة:"
+
+msgid "plugins.generic.abstractAssistant.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.abstractAssistant.emptySource"
+msgstr "لا يوجد عنوان أو ملخص في لغة المصدر."
+
+msgid "plugins.generic.abstractAssistant.submissions"
+msgstr "البحوث"
+
+msgid "plugins.generic.abstractAssistant.search"
+msgstr "بحث بالعنوان أو المؤلف"
+
+msgid "plugins.generic.abstractAssistant.searchBtn"
+msgstr "بحث"
+
+msgid "plugins.generic.abstractAssistant.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.abstractAssistant.col.metadata"
+msgstr "اكتمال البيانات"
+
+msgid "plugins.generic.abstractAssistant.col.action"
+msgstr "الإجراء"
+
+msgid "plugins.generic.abstractAssistant.f.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.abstractAssistant.f.subtitle"
+msgstr "العنوان الفرعي"
+
+msgid "plugins.generic.abstractAssistant.f.abstract"
+msgstr "الملخص"
+
+msgid "plugins.generic.abstractAssistant.f.keywords"
+msgstr "الكلمات المفتاحية"
+
+msgid "plugins.generic.abstractAssistant.mode.translate"
+msgstr "ترجمة من {$from} إلى {$to}"
+
+msgid "plugins.generic.abstractAssistant.lang.ar"
+msgstr "العربية"
+
+msgid "plugins.generic.abstractAssistant.lang.en"
+msgstr "الإنجليزية"
+
+msgid "plugins.generic.abstractAssistant.lang.fr"
+msgstr "الفرنسية"
+
+msgid "plugins.generic.abstractAssistant.lang.tr"
+msgstr "التركية"
+
+msgid "plugins.generic.abstractAssistant.lang.ur"
+msgstr "الأردية"
+
+msgid "plugins.generic.abstractAssistant.mode.polish"
+msgstr "تدقيق لغوي للنسخة {$to}"
+
+msgid "plugins.generic.abstractAssistant.generate"
+msgstr "إعداد مسودة"
+
+msgid "plugins.generic.abstractAssistant.lastDraft"
+msgstr "آخر مسودة: {$s} ({$d})"
+
+msgid "plugins.generic.abstractAssistant.pubStatus.published"
+msgstr "منشور"
+
+msgid "plugins.generic.abstractAssistant.pubStatus.draft"
+msgstr "غير منشور"
+
+msgid "plugins.generic.abstractAssistant.status.draft"
+msgstr "بانتظار المراجعة"
+
+msgid "plugins.generic.abstractAssistant.status.applied"
+msgstr "اعتُمدت"
+
+msgid "plugins.generic.abstractAssistant.status.discarded"
+msgstr "أُهملت"
+
+msgid "plugins.generic.abstractAssistant.privacy"
+msgstr "يُرسل إلى Claude العنوانُ والملخص والكلمات المفتاحية فقط (لا ملف البحث ولا أسماء المؤلفين). تخضع المعالجة لشروط Anthropic التجارية التي لا تستخدم بيانات API في التدريب افتراضيًا."
+
+msgid "plugins.generic.abstractAssistant.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.abstractAssistant.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.abstractAssistant.set.apiKey"
+msgstr "مفتاح Claude API"
+
+msgid "plugins.generic.abstractAssistant.set.apiKeyHelp"
+msgstr "من console.anthropic.com. يُحفظ في إعدادات الإضافة ولا يظهر بعد الحفظ."
+
+msgid "plugins.generic.abstractAssistant.set.model"
+msgstr "النموذج"
+
+msgid "plugins.generic.abstractAssistant.set.endpoint"
+msgstr "عنوان الواجهة"
+
+msgid "plugins.generic.abstractAssistant.set.field"
+msgstr "تخصص المجلة (بالإنجليزية)"
+
+msgid "plugins.generic.abstractAssistant.set.glossary"
+msgstr "مسرد المجلة: سطر لكل مصطلح بصيغة «عربي = English»"
+
+msgid "plugins.generic.abstractAssistant.set.glossaryHelp"
+msgstr "يلتزم المساعد بهذه الترجمات في كل مسودة، فتتوحد المصطلحات عبر أعداد المجلة."
+
+msgid "plugins.generic.abstractAssistant.usage"
+msgstr "هذا الشهر: {$n} مسودة · {$i} رمز إدخال · {$o} رمز إخراج"
+
+msgid "plugins.generic.abstractAssistant.back"
+msgstr "كل البحوث"
+
+msgid "plugins.generic.abstractAssistant.notes"
+msgstr "ملاحظات المساعد للمحرر"
+
+msgid "plugins.generic.abstractAssistant.publishedNote"
+msgstr "هذا البحث منشور: لا تُطبَّق التعديلات عليه مباشرة. أنشئ إصدارًا جديدًا من صفحة النشر ثم أعد إعداد المسودة، أو انسخ النص يدويًا."
+
+msgid "plugins.generic.abstractAssistant.col.field"
+msgstr "الحقل"
+
+msgid "plugins.generic.abstractAssistant.col.source"
+msgstr "الأصل ({$l})"
+
+msgid "plugins.generic.abstractAssistant.col.current"
+msgstr "الحالي ({$l})"
+
+msgid "plugins.generic.abstractAssistant.col.draft"
+msgstr "المسودة (قابلة للتعديل)"
+
+msgid "plugins.generic.abstractAssistant.applyField"
+msgstr "اعتماد هذا الحقل"
+
+msgid "plugins.generic.abstractAssistant.empty"
+msgstr "فارغ"
+
+msgid "plugins.generic.abstractAssistant.words"
+msgstr "الأصل {$s} كلمة · المسودة {$d} كلمة"
+
+msgid "plugins.generic.abstractAssistant.apply"
+msgstr "اعتماد الحقول المحددة"
+
+msgid "plugins.generic.abstractAssistant.applyNote"
+msgstr "تُكتب الحقول المحددة في بيانات البحث وتحل محل القيم الحالية لتلك اللغة."
+
+msgid "plugins.generic.abstractAssistant.appliedMsg"
+msgstr "اعتُمدت الحقول وحُفظت في بيانات البحث."
+
+msgid "plugins.generic.abstractAssistant.discard"
+msgstr "إهمال المسودة"
+
+msgid "plugins.generic.abstractAssistant.history"
+msgstr "مسودات هذا البحث"
+

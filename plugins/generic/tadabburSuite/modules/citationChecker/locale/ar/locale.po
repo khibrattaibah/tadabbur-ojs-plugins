@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.citationChecker.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.citationChecker.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.citationChecker.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.citationChecker.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.citationChecker.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.citationChecker.name"
+msgstr "مدقّق التوثيق"
+
+msgid "plugins.generic.citationChecker.description"
+msgstr "يفحص قائمة مراجع البحث: صحة كل DOI ووجوده في Crossref ومطابقته للمرجع، والمراجع المسحوبة أو الملغاة، واقتراح DOI للمراجع اللاتينية التي تفتقده مع إضافته بنقرة، ونواقص المراجع العربية (المؤلف، العنوان، الناشر، سنة النشر)، والتكرار، والترتيب الهجائي. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.citationChecker.open"
+msgstr "فتح مدقق التوثيق"
+
+msgid "plugins.generic.citationChecker.menu"
+msgstr "مدقّق التوثيق"
+
+msgid "plugins.generic.citationChecker.intro"
+msgstr "المراجع تُقرأ من حقل المراجع في OJS، وإن كان فارغًا فمن ملف Word المحوَّل في وحدة JATS، أو تُلصق يدويًا. الفحص الحي عبر Crossref (حتى 80 مرجعًا في المرة)."
+
+msgid "plugins.generic.citationChecker.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.citationChecker.col.refs"
+msgstr "المراجع"
+
+msgid "plugins.generic.citationChecker.col.result"
+msgstr "آخر فحص"
+
+msgid "plugins.generic.citationChecker.openBtn"
+msgstr "فتح"
+
+msgid "plugins.generic.citationChecker.col.ref"
+msgstr "المرجع"
+
+msgid "plugins.generic.citationChecker.col.notes"
+msgstr "الملاحظات"
+
+msgid "plugins.generic.citationChecker.sumLine"
+msgstr "{$i} من {$n} بملاحظات · {$s} اقتراح DOI"
+
+msgid "plugins.generic.citationChecker.retractedN"
+msgstr "{$n} مسحوب"
+
+msgid "plugins.generic.citationChecker.src.ojs"
+msgstr "{$n} مرجعًا من حقل المراجع في OJS."
+
+msgid "plugins.generic.citationChecker.src.word"
+msgstr "{$n} مرجعًا مستخرجًا من ملف Word (وحدة JATS)."
+
+msgid "plugins.generic.citationChecker.src.none"
+msgstr "لا توجد مراجع مدخلة؛ الصقها أدناه."
+
+msgid "plugins.generic.citationChecker.lastCheck"
+msgstr "آخر فحص {$d}"
+
+msgid "plugins.generic.citationChecker.run"
+msgstr "فحص المراجع الآن"
+
+msgid "plugins.generic.citationChecker.pasteTitle"
+msgstr "فحص قائمة ملصوقة"
+
+msgid "plugins.generic.citationChecker.pasteHint"
+msgstr "مرجع في كل سطر"
+
+msgid "plugins.generic.citationChecker.results"
+msgstr "النتائج"
+
+msgid "plugins.generic.citationChecker.s.refs"
+msgstr "مرجعًا"
+
+msgid "plugins.generic.citationChecker.s.doi"
+msgstr "بها DOI"
+
+msgid "plugins.generic.citationChecker.s.issues"
+msgstr "بملاحظات"
+
+msgid "plugins.generic.citationChecker.s.suggest"
+msgstr "اقتراح DOI"
+
+msgid "plugins.generic.citationChecker.s.retracted"
+msgstr "مسحوب"
+
+msgid "plugins.generic.citationChecker.orderBreak"
+msgstr "القائمة غير مرتبة هجائيًا بدءًا من المرجع رقم {$n}."
+
+msgid "plugins.generic.citationChecker.i.dup"
+msgstr "مكرر مع المرجع {$n}"
+
+msgid "plugins.generic.citationChecker.i.noYear"
+msgstr "لا تظهر سنة النشر (أو «د.ت»)"
+
+msgid "plugins.generic.citationChecker.i.tooShort"
+msgstr "بيانات المرجع ناقصة على ما يبدو"
+
+msgid "plugins.generic.citationChecker.i.noPublisher"
+msgstr "لا يظهر الناشر أو مكان النشر"
+
+msgid "plugins.generic.citationChecker.i.startsOdd"
+msgstr "يبدأ برقم أو قوس؛ ابدأ باسم المؤلف"
+
+msgid "plugins.generic.citationChecker.i.doiNotFound"
+msgstr "الـDOI غير موجود في Crossref (قد يكون خطأ)"
+
+msgid "plugins.generic.citationChecker.i.doiMismatch"
+msgstr "الـDOI يخص عملًا آخر: «{$t}»"
+
+msgid "plugins.generic.citationChecker.i.retracted"
+msgstr "العمل مسحوب أو ملغى"
+
+msgid "plugins.generic.citationChecker.i.doiOk"
+msgstr "DOI صحيح"
+
+msgid "plugins.generic.citationChecker.i.suggest"
+msgstr "DOI مقترح:"
+
+msgid "plugins.generic.citationChecker.addDoi"
+msgstr "أضفه"
+
+msgid "plugins.generic.citationChecker.applyBtn"
+msgstr "إضافة الـDOI المحددة إلى المراجع"
+
+msgid "plugins.generic.citationChecker.confirmApply"
+msgstr "سيُضاف رابط DOI في آخر كل مرجع محدد في حقل المراجع. متابعة؟"
+
+msgid "plugins.generic.citationChecker.msg.checked"
+msgstr "اكتمل الفحص."
+
+msgid "plugins.generic.citationChecker.msg.applied"
+msgstr "أُضيفت الـDOI إلى المراجع."
+

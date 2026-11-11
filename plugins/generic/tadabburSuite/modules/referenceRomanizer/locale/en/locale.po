@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.referenceRomanizer.name"
+msgstr "Reference Romanizer"
+
+msgid "plugins.generic.referenceRomanizer.description"
+msgstr "Detects non-Roman references, proposes ALA-LC romanization and title translations, applies them to the reference list and keeps the Arabic originals on the article page. — Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies"
+
+msgid "plugins.generic.referenceRomanizer.menu"
+msgstr "Reference Romanization"
+
+msgid "plugins.generic.referenceRomanizer.open"
+msgstr "Open reference helper"
+
+msgid "plugins.generic.referenceRomanizer.forbidden"
+msgstr "Access denied."
+
+msgid "plugins.generic.referenceRomanizer.notFound"
+msgstr "Submission not found."
+
+msgid "plugins.generic.referenceRomanizer.intro"
+msgstr "Scopus and Web of Science require references in Roman script. This helper detects Arabic references, proposes a romanization for the editor to review, and applies it to the reference list (deposited to Crossref), while keeping and displaying the Arabic originals."
+
+msgid "plugins.generic.referenceRomanizer.pending"
+msgstr "Articles needing romanization: {$count}"
+
+msgid "plugins.generic.referenceRomanizer.find"
+msgstr "Find"
+
+msgid "plugins.generic.referenceRomanizer.title"
+msgstr "Title"
+
+msgid "plugins.generic.referenceRomanizer.refs"
+msgstr "References"
+
+msgid "plugins.generic.referenceRomanizer.arabicRefs"
+msgstr "Non-Roman"
+
+msgid "plugins.generic.referenceRomanizer.state"
+msgstr "Status"
+
+msgid "plugins.generic.referenceRomanizer.state.applied"
+msgstr "Applied"
+
+msgid "plugins.generic.referenceRomanizer.state.draft"
+msgstr "Draft"
+
+msgid "plugins.generic.referenceRomanizer.state.todo"
+msgstr "Needs romanization"
+
+msgid "plugins.generic.referenceRomanizer.state.roman"
+msgstr "Roman script"
+
+msgid "plugins.generic.referenceRomanizer.review"
+msgstr "Review"
+
+msgid "plugins.generic.referenceRomanizer.none"
+msgstr "No accepted or published articles."
+
+msgid "plugins.generic.referenceRomanizer.back"
+msgstr "Back to list"
+
+msgid "plugins.generic.referenceRomanizer.workflow"
+msgstr "Workflow"
+
+msgid "plugins.generic.referenceRomanizer.stats"
+msgstr "{$total} references, {$arabic} non-Roman"
+
+msgid "plugins.generic.referenceRomanizer.publishedNote"
+msgstr "This article is published: applying changes its reference list directly; redeposit its metadata to Crossref afterwards."
+
+msgid "plugins.generic.referenceRomanizer.noRefs"
+msgstr "This article has no reference list."
+
+msgid "plugins.generic.referenceRomanizer.unknown"
+msgstr "Words outside the dictionary (check)"
+
+msgid "plugins.generic.referenceRomanizer.transPlaceholder"
+msgstr "English translation of the title"
+
+msgid "plugins.generic.referenceRomanizer.original"
+msgstr "Original reference"
+
+msgid "plugins.generic.referenceRomanizer.romanized"
+msgstr "Proposed romanization (editable)"
+
+msgid "plugins.generic.referenceRomanizer.translation"
+msgstr "Title translation"
+
+msgid "plugins.generic.referenceRomanizer.preview"
+msgstr "Preview of the reference list after applying"
+
+msgid "plugins.generic.referenceRomanizer.applyHelp"
+msgstr "“Apply” replaces the OJS reference list with the preview above and keeps the Arabic original. You can restore it at any time."
+
+msgid "plugins.generic.referenceRomanizer.do.save"
+msgstr "Save draft"
+
+msgid "plugins.generic.referenceRomanizer.do.regenerate"
+msgstr "Regenerate automatically"
+
+msgid "plugins.generic.referenceRomanizer.do.ai"
+msgstr "Suggest with AI (Claude)"
+
+msgid "plugins.generic.referenceRomanizer.do.apply"
+msgstr "Apply to reference list"
+
+msgid "plugins.generic.referenceRomanizer.do.restore"
+msgstr "Restore original references"
+
+msgid "plugins.generic.referenceRomanizer.aiOff"
+msgstr "AI assistant is off (add an API key in settings)."
+
+msgid "plugins.generic.referenceRomanizer.msg.saved"
+msgstr "Draft saved."
+
+msgid "plugins.generic.referenceRomanizer.msg.regenerated"
+msgstr "Regenerated from the originals."
+
+msgid "plugins.generic.referenceRomanizer.msg.ai"
+msgstr "AI suggestions received for {$count} references. Review them before applying."
+
+msgid "plugins.generic.referenceRomanizer.msg.applied"
+msgstr "Romanization applied; Arabic originals kept."
+
+msgid "plugins.generic.referenceRomanizer.msg.restored"
+msgstr "Original references restored."
+
+msgid "plugins.generic.referenceRomanizer.msg.nothing"
+msgstr "Nothing to restore."
+
+msgid "plugins.generic.referenceRomanizer.msg.error"
+msgstr "Action failed:"
+
+msgid "plugins.generic.referenceRomanizer.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.referenceRomanizer.set.style"
+msgstr "Romanization style"
+
+msgid "plugins.generic.referenceRomanizer.set.simple"
+msgstr "Simplified, no diacritics"
+
+msgid "plugins.generic.referenceRomanizer.set.suffix"
+msgstr "Suffix for romanized references"
+
+msgid "plugins.generic.referenceRomanizer.set.suffixHelp"
+msgstr "E.g. (in Arabic) as recommended by APA/Chicago. Leave empty to omit."
+
+msgid "plugins.generic.referenceRomanizer.set.showOriginal"
+msgstr "Article page"
+
+msgid "plugins.generic.referenceRomanizer.set.showOriginalHelp"
+msgstr "Show Arabic originals below the romanized references"
+
+msgid "plugins.generic.referenceRomanizer.set.apiKey"
+msgstr "Claude API key (optional)"
+
+msgid "plugins.generic.referenceRomanizer.set.apiKeyHelp"
+msgstr "Only the Arabic reference text is sent to Anthropic. Stored in plugin settings and never shown again."
+
+msgid "plugins.generic.referenceRomanizer.set.clearKey"
+msgstr "Remove key"
+
+msgid "plugins.generic.referenceRomanizer.set.model"
+msgstr "Model"
+
+msgid "plugins.generic.referenceRomanizer.save"
+msgstr "Save"
+
+msgid "plugins.generic.referenceRomanizer.originalRefs"
+msgstr "References in original language"
+

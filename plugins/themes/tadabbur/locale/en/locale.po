@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.themes.tadabbur.name"
+msgstr "Tadabbur Theme"
+
+msgid "plugins.themes.tadabbur.publisher"
+msgstr "Publisher"
+
+msgid "plugins.themes.tadabbur.policies"
+msgstr "Journal Policies"
+
+msgid "plugins.themes.tadabbur.contactPage"
+msgstr "Contact page"
+
+msgid "plugins.themes.tadabbur.licenseNote"
+msgstr "Content is licensed under"
+
+msgid "plugins.themes.tadabbur.indexedIn"
+msgstr "Indexing & Abstracting"
+
+msgid "plugins.themes.tadabbur.peerReviewedJournal"
+msgstr "Peer-reviewed scholarly journal"
+
+msgid "plugins.themes.tadabbur.submit"
+msgstr "Submit a manuscript"
+
+msgid "plugins.themes.tadabbur.journalFacts"
+msgstr "Journal facts"
+
+msgid "plugins.themes.tadabbur.peerReview"
+msgstr "Peer review"
+
+msgid "plugins.themes.tadabbur.frequency"
+msgstr "Frequency"
+
+msgid "plugins.themes.tadabbur.access"
+msgstr "Access"
+
+msgid "plugins.themes.tadabbur.openAccess"
+msgstr "Open access"
+
+msgid "plugins.themes.tadabbur.apc"
+msgstr "Publication fees"
+
+msgid "plugins.themes.tadabbur.since"
+msgstr "Established"
+
+msgid "plugins.themes.tadabbur.policiesTitle"
+msgstr "Policies & Standards"
+
+msgid "plugins.themes.tadabbur.inLanguage"
+msgstr "Title & abstract ({$language})"
+
+msgid "plugins.themes.tadabbur.articleHistory"
+msgstr "Article history"
+
+msgid "plugins.themes.tadabbur.received"
+msgstr "Received"
+
+msgid "plugins.themes.tadabbur.accepted"
+msgstr "Accepted"
+
+msgid "plugins.themes.tadabbur.published"
+msgstr "Published"
+
+msgid "plugins.themes.tadabbur.copyDoi"
+msgstr "Copy DOI link"
+
+msgid "plugins.themes.tadabbur.copied"
+msgstr "Copied ✓"
+
+msgid "plugins.themes.tadabbur.contactUs"
+msgstr "Contact us"
+
+msgid "plugins.themes.tadabbur.developedBy"
+msgstr "Designed & developed by"
+
+msgid "plugins.themes.tadabbur.developer"
+msgstr "Moustafa Mahmoud"
+
+msgid "plugins.themes.tadabbur.office"
+msgstr "Khibrat Taibah"
+
+
+msgid "plugins.themes.tadabbur.menu"
+msgstr "Menu"
+
+msgid "plugins.themes.tadabbur.searchPh"
+msgstr "Search articles and authors…"
+
+msgid "plugins.themes.tadabbur.guidelines"
+msgstr "Author guidelines"
+
+msgid "plugins.themes.tadabbur.standards"
+msgstr "Publishing standards"
+
+msgid "plugins.themes.tadabbur.visibility"
+msgstr "Visibility"
+
+msgid "plugins.themes.tadabbur.forAuthors"
+msgstr "For authors"
+
+msgid "plugins.themes.tadabbur.pagesShort"
+msgstr "pp."
+
+msgid "plugins.themes.tadabbur.readAbstract"
+msgstr "Abstract & details"
+
+msgid "plugins.themes.tadabbur.stArticles"
+msgstr "published articles"
+
+msgid "plugins.themes.tadabbur.stIssues"
+msgstr "issues"
+
+msgid "plugins.themes.tadabbur.stAcceptance"
+msgstr "acceptance rate"
+
+msgid "plugins.themes.tadabbur.stDecision"
+msgstr "days to first decision (median)"

@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.reviewCompare.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.reviewCompare.none"
+msgstr "None."
+
+msgid "plugins.generic.reviewCompare.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.reviewCompare.save"
+msgstr "Save"
+
+msgid "plugins.generic.reviewCompare.back"
+msgstr "Back"
+
+msgid "plugins.generic.reviewCompare.name"
+msgstr "Reviewer Report Comparison"
+
+msgid "plugins.generic.reviewCompare.description"
+msgstr "The reports of one round side by side: each reviewer's recommendation, review-form answers question by question, comments to the author and editor, and time taken; with a reviewer-agreement indicator (consensus/close/divergent), a provisional decision suggestion and a printable decision brief for the board. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.reviewCompare.open"
+msgstr "Open report comparison"
+
+msgid "plugins.generic.reviewCompare.menu"
+msgstr "Compare reports"
+
+msgid "plugins.generic.reviewCompare.intro"
+msgstr "Review rounds with at least one completed report. Large divergence between recommendations signals a tie-breaker reviewer or a careful read."
+
+msgid "plugins.generic.reviewCompare.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.reviewCompare.col.round"
+msgstr "Round"
+
+msgid "plugins.generic.reviewCompare.col.reports"
+msgstr "Reports"
+
+msgid "plugins.generic.reviewCompare.col.recs"
+msgstr "Recommendations"
+
+msgid "plugins.generic.reviewCompare.col.agreement"
+msgstr "Agreement"
+
+msgid "plugins.generic.reviewCompare.col.suggest"
+msgstr "Suggested"
+
+msgid "plugins.generic.reviewCompare.compare"
+msgstr "Compare"
+
+msgid "plugins.generic.reviewCompare.reviewer"
+msgstr "Reviewer {$l}"
+
+msgid "plugins.generic.reviewCompare.roundN"
+msgstr "Round {$n}"
+
+msgid "plugins.generic.reviewCompare.days"
+msgstr "{$n} days"
+
+msgid "plugins.generic.reviewCompare.late"
+msgstr "late"
+
+msgid "plugins.generic.reviewCompare.words"
+msgstr "{$n} words"
+
+msgid "plugins.generic.reviewCompare.rec.1"
+msgstr "Accept"
+
+msgid "plugins.generic.reviewCompare.rec.2"
+msgstr "Revisions required"
+
+msgid "plugins.generic.reviewCompare.rec.3"
+msgstr "Resubmit"
+
+msgid "plugins.generic.reviewCompare.rec.4"
+msgstr "Submit elsewhere"
+
+msgid "plugins.generic.reviewCompare.rec.5"
+msgstr "Decline"
+
+msgid "plugins.generic.reviewCompare.rec.6"
+msgstr "See comments"
+
+msgid "plugins.generic.reviewCompare.ag.consensus"
+msgstr "Consensus"
+
+msgid "plugins.generic.reviewCompare.ag.close"
+msgstr "Close"
+
+msgid "plugins.generic.reviewCompare.ag.divergent"
+msgstr "Divergent"
+
+msgid "plugins.generic.reviewCompare.ag.insufficient"
+msgstr "Single report"
+
+msgid "plugins.generic.reviewCompare.agreement"
+msgstr "Reviewer agreement"
+
+msgid "plugins.generic.reviewCompare.suggested"
+msgstr "Suggested decision"
+
+msgid "plugins.generic.reviewCompare.pending"
+msgstr "{$n} report(s) still pending"
+
+msgid "plugins.generic.reviewCompare.divergentHelp"
+msgstr "Recommendations are two or more steps apart: read the comments carefully or add a tie-breaker reviewer before deciding."
+
+msgid "plugins.generic.reviewCompare.suggestNote"
+msgstr "The suggestion is only the median of the recommendations; the decision is the editor's after reading the reports."
+
+msgid "plugins.generic.reviewCompare.side"
+msgstr "Reports side by side"
+
+msgid "plugins.generic.reviewCompare.noReports"
+msgstr "No completed reports."
+
+msgid "plugins.generic.reviewCompare.r.rec"
+msgstr "Recommendation"
+
+msgid "plugins.generic.reviewCompare.r.days"
+msgstr "Time taken"
+
+msgid "plugins.generic.reviewCompare.r.quality"
+msgstr "Editor rating of report"
+
+msgid "plugins.generic.reviewCompare.r.toAuthor"
+msgstr "Comments to author"
+
+msgid "plugins.generic.reviewCompare.r.toEditor"
+msgstr "Comments to editor (confidential)"
+
+msgid "plugins.generic.reviewCompare.brief"
+msgstr "Decision brief"
+
+msgid "plugins.generic.reviewCompare.decisionLine"
+msgstr "Decision:"
+
+msgid "plugins.generic.reviewCompare.signLine"
+msgstr "Signature:"
+

@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.authorTracker.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.authorTracker.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.authorTracker.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.authorTracker.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.authorTracker.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.authorTracker.name"
+msgstr "متتبع البحث للمؤلف"
+
+msgid "plugins.generic.authorTracker.description"
+msgstr "خط زمني واضح لكل بحث يراه المؤلف: المرحلة الحالية، ومن ينتظر الآن (المجلة أم المؤلف)، وتقدّم التحكيم (عدد التقارير المكتملة دون كشف المحكّمين)، والقرارات بتواريخها، مقارنةً بمتوسطات المجلة الفعلية؛ فتقل رسائل الاستفسار عن حالة البحث. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.authorTracker.open"
+msgstr "فتح المتتبع"
+
+msgid "plugins.generic.authorTracker.menu"
+msgstr "متتبع المؤلفين"
+
+msgid "plugins.generic.authorTracker.myMenu"
+msgstr "أين وصل بحثي؟"
+
+msgid "plugins.generic.authorTracker.intro"
+msgstr "ما يراه كل مؤلف عن بحثه. المعاينة تعرض الصفحة كما تظهر له."
+
+msgid "plugins.generic.authorTracker.mineIntro"
+msgstr "حالة بحوثك لحظيًا. المدد المعروضة هي الوسيط الفعلي في المجلة خلال السنتين الأخيرتين."
+
+msgid "plugins.generic.authorTracker.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.authorTracker.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.authorTracker.col.waiting"
+msgstr "بانتظار"
+
+msgid "plugins.generic.authorTracker.preview"
+msgstr "معاينة"
+
+msgid "plugins.generic.authorTracker.details"
+msgstr "التفاصيل والخط الزمني"
+
+msgid "plugins.generic.authorTracker.since"
+msgstr "قُدِّم في {$d} (منذ {$n} يومًا)"
+
+msgid "plugins.generic.authorTracker.days"
+msgstr "{$n} يومًا"
+
+msgid "plugins.generic.authorTracker.b.firstDecision"
+msgstr "حتى أول قرار"
+
+msgid "plugins.generic.authorTracker.b.review"
+msgstr "مدة التقرير الواحد"
+
+msgid "plugins.generic.authorTracker.b.acceptToPub"
+msgstr "من القبول حتى النشر"
+
+msgid "plugins.generic.authorTracker.b.total"
+msgstr "من التقديم حتى النشر"
+
+msgid "plugins.generic.authorTracker.step.received"
+msgstr "الاستلام والفحص"
+
+msgid "plugins.generic.authorTracker.step.review"
+msgstr "التحكيم"
+
+msgid "plugins.generic.authorTracker.step.revision"
+msgstr "التعديل والقرار"
+
+msgid "plugins.generic.authorTracker.step.copyediting"
+msgstr "التحرير اللغوي"
+
+msgid "plugins.generic.authorTracker.step.production"
+msgstr "الإخراج"
+
+msgid "plugins.generic.authorTracker.step.published"
+msgstr "النشر"
+
+msgid "plugins.generic.authorTracker.st.published"
+msgstr "نُشر البحث"
+
+msgid "plugins.generic.authorTracker.st.declined"
+msgstr "اعتذرت المجلة عن نشر البحث"
+
+msgid "plugins.generic.authorTracker.st.scheduled"
+msgstr "مجدول للنشر في عدد قادم"
+
+msgid "plugins.generic.authorTracker.st.desk"
+msgstr "قيد الفحص الأولي لدى هيئة التحرير"
+
+msgid "plugins.generic.authorTracker.st.findingReviewers"
+msgstr "جارٍ اختيار المحكّمين"
+
+msgid "plugins.generic.authorTracker.st.inReview"
+msgstr "قيد التحكيم: اكتمل {$d} من {$n} تقارير (الجولة {$r})"
+
+msgid "plugins.generic.authorTracker.st.reviewsComplete"
+msgstr "اكتملت تقارير الجولة {$r}؛ القرار لدى المحرر"
+
+msgid "plugins.generic.authorTracker.st.awaitingRevision"
+msgstr "بانتظار نسختك المعدّلة (طُلب التعديل في {$d})"
+
+msgid "plugins.generic.authorTracker.st.revisionReceived"
+msgstr "وصلت النسخة المعدّلة وهي قيد المراجعة"
+
+msgid "plugins.generic.authorTracker.st.copyediting"
+msgstr "مقبول؛ قيد التحرير اللغوي"
+
+msgid "plugins.generic.authorTracker.st.production"
+msgstr "قيد الإخراج والتجهيز للنشر"
+
+msgid "plugins.generic.authorTracker.waiting.author"
+msgstr "الخطوة التالية عندك"
+
+msgid "plugins.generic.authorTracker.waiting.journal"
+msgstr "الخطوة التالية لدى المجلة"
+
+msgid "plugins.generic.authorTracker.waiting.none"
+msgstr "—"
+
+msgid "plugins.generic.authorTracker.timeline"
+msgstr "الخط الزمني"
+
+msgid "plugins.generic.authorTracker.related"
+msgstr "روابط تخص البحث"
+
+msgid "plugins.generic.authorTracker.editorPreview"
+msgstr "معاينة المحرر: هذا ما يراه المؤلف."
+
+msgid "plugins.generic.authorTracker.link.officialLetters"
+msgstr "خطاباتي الرسمية"
+
+msgid "plugins.generic.authorTracker.link.authorResponse"
+msgstr "الرد على المحكّمين"
+
+msgid "plugins.generic.authorTracker.link.proofApproval"
+msgstr "اعتماد البروفة"
+
+msgid "plugins.generic.authorTracker.ev.submitted"
+msgstr "استلام البحث"
+
+msgid "plugins.generic.authorTracker.ev.reviewersAssigned"
+msgstr "أُرسل البحث إلى {$n} من المحكّمين (الجولة {$r})"
+
+msgid "plugins.generic.authorTracker.ev.reviewDone"
+msgstr "اكتمل تقرير التحكيم {$i} من {$n} (الجولة {$r})"
+
+msgid "plugins.generic.authorTracker.ev.revisionUploaded"
+msgstr "رُفعت نسخة معدّلة"
+
+msgid "plugins.generic.authorTracker.ev.published"
+msgstr "نُشر البحث"
+
+msgid "plugins.generic.authorTracker.ev.dec.3"
+msgstr "اجتاز الفحص الأولي وأُحيل إلى التحكيم"
+
+msgid "plugins.generic.authorTracker.ev.dec.2"
+msgstr "قرار: قبول البحث للنشر"
+
+msgid "plugins.generic.authorTracker.ev.dec.17"
+msgstr "قرار: قبول البحث للنشر"
+
+msgid "plugins.generic.authorTracker.ev.dec.4"
+msgstr "قرار: تعديلات مطلوبة"
+
+msgid "plugins.generic.authorTracker.ev.dec.5"
+msgstr "قرار: إعادة التقديم للتحكيم"
+
+msgid "plugins.generic.authorTracker.ev.dec.6"
+msgstr "قرار: الاعتذار عن النشر"
+
+msgid "plugins.generic.authorTracker.ev.dec.8"
+msgstr "قرار: الاعتذار في الفحص الأولي"
+
+msgid "plugins.generic.authorTracker.ev.dec.7"
+msgstr "أُحيل إلى الإخراج"
+
+msgid "plugins.generic.authorTracker.ev.dec.14"
+msgstr "بدأت جولة تحكيم جديدة"
+
+msgid "plugins.generic.authorTracker.ev.dec.15"
+msgstr "أُعيد فتح البحث"
+
+msgid "plugins.generic.authorTracker.ev.dec.16"
+msgstr "أُعيد فتح البحث"
+

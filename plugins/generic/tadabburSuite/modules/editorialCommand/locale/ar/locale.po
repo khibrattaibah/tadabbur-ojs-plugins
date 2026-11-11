@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.editorialCommand.name"
+msgstr "غرفة القيادة التحريرية"
+
+msgid "plugins.generic.editorialCommand.description"
+msgstr "لوحة واحدة لكل البحوث النشطة: المرحلة والأيام فيها، ومن ينتظر الآن، والمتأخر عن المهلة، وأعباء المحررين، مع تذكيرات وملخص يومي بالبريد. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.editorialCommand.open"
+msgstr "فتح"
+
+msgid "plugins.generic.editorialCommand.menu"
+msgstr "غرفة القيادة"
+
+msgid "plugins.generic.editorialCommand.remindTitle"
+msgstr "رسالة تذكير"
+
+msgid "plugins.generic.editorialCommand.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.editorialCommand.k.active"
+msgstr "بحثًا نشطًا"
+
+msgid "plugins.generic.editorialCommand.k.overdue"
+msgstr "متأخرة عن المهلة"
+
+msgid "plugins.generic.editorialCommand.k.median"
+msgstr "وسيط العمر منذ التقديم"
+
+msgid "plugins.generic.editorialCommand.k.mine"
+msgstr "تنتظر قراري"
+
+msgid "plugins.generic.editorialCommand.whoWaits"
+msgstr "على من ينتظر البحث الآن؟"
+
+msgid "plugins.generic.editorialCommand.byStage"
+msgstr "حسب المرحلة"
+
+msgid "plugins.generic.editorialCommand.late"
+msgstr "متأخر"
+
+msgid "plugins.generic.editorialCommand.party.editor"
+msgstr "المحرر"
+
+msgid "plugins.generic.editorialCommand.party.reviewer"
+msgstr "المحكّم"
+
+msgid "plugins.generic.editorialCommand.party.author"
+msgstr "المؤلف"
+
+msgid "plugins.generic.editorialCommand.party.production"
+msgstr "التحرير والإخراج"
+
+msgid "plugins.generic.editorialCommand.stage.submission"
+msgstr "التقديم"
+
+msgid "plugins.generic.editorialCommand.stage.review"
+msgstr "التحكيم"
+
+msgid "plugins.generic.editorialCommand.stage.copyediting"
+msgstr "التدقيق اللغوي"
+
+msgid "plugins.generic.editorialCommand.stage.production"
+msgstr "الإنتاج"
+
+msgid "plugins.generic.editorialCommand.stage.other"
+msgstr "أخرى"
+
+msgid "plugins.generic.editorialCommand.wait.assignEditor"
+msgstr "بانتظار تعيين محرر"
+
+msgid "plugins.generic.editorialCommand.wait.deskDecision"
+msgstr "بانتظار القرار الأولي"
+
+msgid "plugins.generic.editorialCommand.wait.needReviewers"
+msgstr "يحتاج دعوة محكّمين"
+
+msgid "plugins.generic.editorialCommand.wait.reviewerResponse"
+msgstr "بانتظار رد المحكّم على الدعوة"
+
+msgid "plugins.generic.editorialCommand.wait.reviewerReport"
+msgstr "بانتظار تقارير التحكيم"
+
+msgid "plugins.generic.editorialCommand.wait.reviewDecision"
+msgstr "التقارير اكتملت؛ بانتظار القرار"
+
+msgid "plugins.generic.editorialCommand.wait.authorRevision"
+msgstr "بانتظار تعديلات المؤلف"
+
+msgid "plugins.generic.editorialCommand.wait.revisionReceived"
+msgstr "وصل التعديل؛ بانتظار المحرر"
+
+msgid "plugins.generic.editorialCommand.wait.copyediting"
+msgstr "قيد التدقيق اللغوي"
+
+msgid "plugins.generic.editorialCommand.wait.production"
+msgstr "قيد الإخراج والنشر"
+
+msgid "plugins.generic.editorialCommand.daysN"
+msgstr "{$n} يومًا"
+
+msgid "plugins.generic.editorialCommand.since"
+msgstr "منذ {$d}"
+
+msgid "plugins.generic.editorialCommand.revSummary"
+msgstr "{$completed}/{$active} مكتمل · {$pending} بلا رد · {$late} متأخر"
+
+msgid "plugins.generic.editorialCommand.editorsLoad"
+msgstr "أعباء المحررين"
+
+msgid "plugins.generic.editorialCommand.col.editor"
+msgstr "المحرر"
+
+msgid "plugins.generic.editorialCommand.col.assigned"
+msgstr "بحوث مسندة"
+
+msgid "plugins.generic.editorialCommand.col.awaitingThem"
+msgstr "تنتظر قراره"
+
+msgid "plugins.generic.editorialCommand.col.lateThem"
+msgstr "متأخرة عنده"
+
+msgid "plugins.generic.editorialCommand.all"
+msgstr "الكل"
+
+msgid "plugins.generic.editorialCommand.lateOnly"
+msgstr "المتأخرة فقط"
+
+msgid "plugins.generic.editorialCommand.filter"
+msgstr "تصفية"
+
+msgid "plugins.generic.editorialCommand.reset"
+msgstr "إلغاء التصفية"
+
+msgid "plugins.generic.editorialCommand.showing"
+msgstr "يعرض {$n} من {$t}"
+
+msgid "plugins.generic.editorialCommand.none"
+msgstr "لا توجد بحوث تطابق التصفية."
+
+msgid "plugins.generic.editorialCommand.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.editorialCommand.col.stage"
+msgstr "المرحلة"
+
+msgid "plugins.generic.editorialCommand.col.waiting"
+msgstr "ينتظر"
+
+msgid "plugins.generic.editorialCommand.col.wait"
+msgstr "مدة الانتظار"
+
+msgid "plugins.generic.editorialCommand.col.total"
+msgstr "منذ التقديم"
+
+msgid "plugins.generic.editorialCommand.col.editors"
+msgstr "المحرر"
+
+msgid "plugins.generic.editorialCommand.col.reviews"
+msgstr "التحكيم"
+
+msgid "plugins.generic.editorialCommand.remindAuthor"
+msgstr "ذكّر المؤلف"
+
+msgid "plugins.generic.editorialCommand.remindEditor"
+msgstr "ذكّر المحرر"
+
+msgid "plugins.generic.editorialCommand.note"
+msgstr "تُحسب المدد من قرارات OJS وتواريخ التحكيم. تذكير المحكّمين يتولاه OJS آليًا (الإعدادات ← سير العمل ← التحكيم)، وهذه اللوحة تكمّله بتذكير المؤلفين والمحررين."
+
+msgid "plugins.generic.editorialCommand.settings"
+msgstr "الإعدادات والمهل"
+
+msgid "plugins.generic.editorialCommand.set.slaTitle"
+msgstr "المهل بالأيام (يُعد البحث متأخرًا بعدها)"
+
+msgid "plugins.generic.editorialCommand.set.slaAssign"
+msgstr "تعيين محرر"
+
+msgid "plugins.generic.editorialCommand.set.slaDesk"
+msgstr "القرار الأولي"
+
+msgid "plugins.generic.editorialCommand.set.slaInvite"
+msgstr "دعوة المحكّمين"
+
+msgid "plugins.generic.editorialCommand.set.slaDecision"
+msgstr "القرار بعد التحكيم"
+
+msgid "plugins.generic.editorialCommand.set.slaRevision"
+msgstr "تعديلات المؤلف"
+
+msgid "plugins.generic.editorialCommand.set.slaCopyedit"
+msgstr "التدقيق اللغوي"
+
+msgid "plugins.generic.editorialCommand.set.slaProduction"
+msgstr "الإنتاج"
+
+msgid "plugins.generic.editorialCommand.set.minReviewers"
+msgstr "أقل عدد محكّمين"
+
+msgid "plugins.generic.editorialCommand.set.digest"
+msgstr "إرسال ملخص يومي لكل محرر بما ينتظر قراره"
+
+msgid "plugins.generic.editorialCommand.set.digestManagers"
+msgstr "وإرسال قائمة المتأخرات لمديري المجلة"
+
+msgid "plugins.generic.editorialCommand.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.editorialCommand.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.editorialCommand.runDigest"
+msgstr "أرسل الملخص الآن"
+
+msgid "plugins.generic.editorialCommand.lastDigest"
+msgstr "آخر إرسال: {$d}"
+
+msgid "plugins.generic.editorialCommand.digestDone"
+msgstr "أُرسل {$n} ملخصًا."
+
+msgid "plugins.generic.editorialCommand.back"
+msgstr "غرفة القيادة"
+
+msgid "plugins.generic.editorialCommand.to"
+msgstr "إلى"
+
+msgid "plugins.generic.editorialCommand.send"
+msgstr "إرسال"
+
+msgid "plugins.generic.editorialCommand.mailNote"
+msgstr "تُرسل من بريد المجلة وتُسجَّل في سجل مراسلات البحث."
+
+msgid "plugins.generic.editorialCommand.noRecipient"
+msgstr "لا يوجد بريد للمستلم."
+
+msgid "plugins.generic.editorialCommand.sentMsg"
+msgstr "أُرسل التذكير إلى {$n} مستلم."
+
+msgid "plugins.generic.editorialCommand.mail.author.subject"
+msgstr "تذكير بتعديلات البحث رقم {$id}"
+
+msgid "plugins.generic.editorialCommand.mail.author.body"
+msgstr "حضرة الباحث/ة {$name}، السلام عليكم ورحمة الله وبركاته،\n\nنذكّركم بأن بحثكم «{$title}» (رقم {$id}) بانتظار النسخة المعدلة منذ {$days} يومًا. نرجو رفعها من خلال منصة المجلة مع مصفوفة الرد على ملاحظات المحكّمين، أو إفادتنا بالموعد المتوقع.\n\nمع خالص التقدير،\nهيئة تحرير {$journal}"
+
+msgid "plugins.generic.editorialCommand.mail.editor.subject"
+msgstr "البحث رقم {$id} بانتظار قراركم"
+
+msgid "plugins.generic.editorialCommand.mail.editor.body"
+msgstr "الزميل الكريم {$name}،\n\nالبحث «{$title}» (رقم {$id}) بانتظار إجرائكم منذ {$days} يومًا. نرجو التكرم بمراجعته واتخاذ القرار المناسب.\n\nمع التقدير،\nإدارة {$journal}"
+
+msgid "plugins.generic.editorialCommand.digest.subject"
+msgstr "ملخصك اليومي: {$n} بحثًا بانتظارك ({$late} متأخر)"
+
+msgid "plugins.generic.editorialCommand.digest.intro"
+msgstr "السلام عليكم {$name}، هذه البحوث بانتظار إجرائكم:"
+
+msgid "plugins.generic.editorialCommand.digest.mgrSubject"
+msgstr "المتأخرات التحريرية اليوم: {$n}"
+
+msgid "plugins.generic.editorialCommand.digest.mgrIntro"
+msgstr "البحوث المتجاوزة للمهل المحددة:"
+
+msgid "plugins.generic.editorialCommand.digest.open"
+msgstr "فتح غرفة القيادة"
+
+
+msgid "plugins.generic.editorialCommand.readOnlyMode"
+msgstr "وضع القراءة فقط في هذا الإصدار: لا يُرسل بريد ولا يُعدَّل أي سجل تحريري من هذه اللوحة."

@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.autoAnnounce.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.autoAnnounce.none"
+msgstr "None."
+
+msgid "plugins.generic.autoAnnounce.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.autoAnnounce.save"
+msgstr "Save"
+
+msgid "plugins.generic.autoAnnounce.back"
+msgstr "Back"
+
+msgid "plugins.generic.autoAnnounce.name"
+msgstr "Automatic Announcements"
+
+msgid "plugins.generic.autoAnnounce.description"
+msgstr "Creates a site announcement automatically when each issue is published (with its table of contents and article links) in Arabic and English, optionally when each article is published, and generates ready-to-post texts for X, LinkedIn, WhatsApp and Telegram with your hashtags, with a log that prevents duplicates. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.autoAnnounce.open"
+msgstr "Open announcements"
+
+msgid "plugins.generic.autoAnnounce.menu"
+msgstr "Announcements"
+
+msgid "plugins.generic.autoAnnounce.intro"
+msgstr "When you publish an issue from \"Issues\", its announcement is created automatically. You can also announce a past issue or an article manually, and take ready text for social media."
+
+msgid "plugins.generic.autoAnnounce.annOff"
+msgstr "Announcements are disabled for the journal; enable them in Settings → Website → Announcements so readers see them."
+
+msgid "plugins.generic.autoAnnounce.issues"
+msgstr "Published issues"
+
+msgid "plugins.generic.autoAnnounce.articles"
+msgstr "Latest published papers"
+
+msgid "plugins.generic.autoAnnounce.col.issue"
+msgstr "Issue"
+
+msgid "plugins.generic.autoAnnounce.col.papers"
+msgstr "Papers"
+
+msgid "plugins.generic.autoAnnounce.col.ann"
+msgstr "Announcement"
+
+msgid "plugins.generic.autoAnnounce.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.autoAnnounce.issueLabel"
+msgstr "Vol. {$v} No. {$n} ({$y})"
+
+msgid "plugins.generic.autoAnnounce.announced"
+msgstr "Announced"
+
+msgid "plugins.generic.autoAnnounce.announce"
+msgstr "Announce now"
+
+msgid "plugins.generic.autoAnnounce.again"
+msgstr "Announce again"
+
+msgid "plugins.generic.autoAnnounce.confirmAgain"
+msgstr "Already announced; create another announcement?"
+
+msgid "plugins.generic.autoAnnounce.social"
+msgstr "Social texts"
+
+msgid "plugins.generic.autoAnnounce.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.autoAnnounce.set.autoIssue"
+msgstr "Announce automatically when an issue is published"
+
+msgid "plugins.generic.autoAnnounce.set.autoArticle"
+msgstr "Announce automatically when each article is published (continuous publishing)"
+
+msgid "plugins.generic.autoAnnounce.set.tags"
+msgstr "Hashtags"
+
+msgid "plugins.generic.autoAnnounce.tpl.issueTitle"
+msgstr "{$j}: Volume {$v}, Issue {$n} ({$y}) is out"
+
+msgid "plugins.generic.autoAnnounce.tpl.issueShort"
+msgstr "The editorial board of {$j} is pleased to announce Volume {$v}, Issue {$n} ({$y}), with {$c} peer-reviewed papers."
+
+msgid "plugins.generic.autoAnnounce.tpl.readIssue"
+msgstr "Browse the issue"
+
+msgid "plugins.generic.autoAnnounce.tpl.toc"
+msgstr "Contents"
+
+msgid "plugins.generic.autoAnnounce.tpl.articleTitle"
+msgstr "New paper: {$t}"
+
+msgid "plugins.generic.autoAnnounce.tpl.articleShort"
+msgstr "{$j} has published \"{$t}\" by {$a}."
+
+msgid "plugins.generic.autoAnnounce.tpl.readArticle"
+msgstr "Read the paper"
+
+msgid "plugins.generic.autoAnnounce.net.x"
+msgstr "X (Twitter)"
+
+msgid "plugins.generic.autoAnnounce.net.x_en"
+msgstr "X (English)"
+
+msgid "plugins.generic.autoAnnounce.net.linkedin"
+msgstr "LinkedIn / Facebook"
+
+msgid "plugins.generic.autoAnnounce.net.whatsapp"
+msgstr "WhatsApp / Telegram"
+
+msgid "plugins.generic.autoAnnounce.copy"
+msgstr "Copy"
+
+msgid "plugins.generic.autoAnnounce.openX"
+msgstr "Open in X"
+
+msgid "plugins.generic.autoAnnounce.msg.done"
+msgstr "Announcement created."
+

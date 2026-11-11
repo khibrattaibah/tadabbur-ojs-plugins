@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.earlyView.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.earlyView.none"
+msgstr "None."
+
+msgid "plugins.generic.earlyView.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.earlyView.save"
+msgstr "Save"
+
+msgid "plugins.generic.earlyView.back"
+msgstr "Back"
+
+msgid "plugins.generic.earlyView.name"
+msgstr "Early View"
+
+msgid "plugins.generic.earlyView.description"
+msgstr "A public page for accepted papers before their issue appears: title, authors and affiliations, both abstracts, keywords, acceptance date, the accepted manuscript PDF and an \"in press\" citation. The editor chooses what to show and which file; a paper leaves the list automatically when published and its link redirects to the final article. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.earlyView.open"
+msgstr "Open Early View"
+
+msgid "plugins.generic.earlyView.menu"
+msgstr "Early view"
+
+msgid "plugins.generic.earlyView.intro"
+msgstr "Accepted papers (copyediting or production) not yet published. Pick a PDF (copyedited or proof) and tick \"Show\". Add the public page link to the site menu from Settings → Website → Navigation."
+
+msgid "plugins.generic.earlyView.publicLink"
+msgstr "Public page link:"
+
+msgid "plugins.generic.earlyView.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.earlyView.col.early"
+msgstr "Early view"
+
+msgid "plugins.generic.earlyView.noFile"
+msgstr "No file (metadata only)"
+
+msgid "plugins.generic.earlyView.show"
+msgstr "Show"
+
+msgid "plugins.generic.earlyView.view"
+msgstr "Preview"
+
+msgid "plugins.generic.earlyView.stage.6"
+msgstr "Final file"
+
+msgid "plugins.generic.earlyView.stage.9"
+msgstr "Copyedited"
+
+msgid "plugins.generic.earlyView.stage.10"
+msgstr "Proof"
+
+msgid "plugins.generic.earlyView.stage.11"
+msgstr "Production ready"
+
+msgid "plugins.generic.earlyView.noAccepted"
+msgstr "No accepted unpublished papers."
+
+msgid "plugins.generic.earlyView.acceptedOn"
+msgstr "Accepted {$d}"
+
+msgid "plugins.generic.earlyView.submittedOn"
+msgstr "Submitted {$d}"
+
+msgid "plugins.generic.earlyView.publicTitle"
+msgstr "Accepted papers (Early View)"
+
+msgid "plugins.generic.earlyView.publicIntro"
+msgstr "Peer-reviewed papers accepted for publication whose issue has not yet appeared. The version shown is the accepted manuscript before final typesetting."
+
+msgid "plugins.generic.earlyView.badge"
+msgstr "In press"
+
+msgid "plugins.generic.earlyView.notice"
+msgstr "This paper has been accepted after peer review; the available version is the accepted manuscript before final typesetting and pagination, and may differ from the version published in the issue."
+
+msgid "plugins.generic.earlyView.download"
+msgstr "Download accepted manuscript (PDF)"
+
+msgid "plugins.generic.earlyView.howToCite"
+msgstr "How to cite"
+

@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.integrityLog.name"
+msgstr "Research Integrity Log"
+
+msgid "plugins.generic.integrityLog.description"
+msgstr "A confidential register of research-integrity cases following COPE flowcharts, with a documented timeline and public notices (correction, expression of concern, retraction) shown on the article page and a public page. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.integrityLog.open"
+msgstr "Open log"
+
+msgid "plugins.generic.integrityLog.menu"
+msgstr "Research Integrity"
+
+msgid "plugins.generic.integrityLog.caseTitle"
+msgstr "Integrity case"
+
+msgid "plugins.generic.integrityLog.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.integrityLog.notFound"
+msgstr "Case not found."
+
+msgid "plugins.generic.integrityLog.intro"
+msgstr "A confidential register of integrity cases: it documents each report, the actions taken and the decision following COPE flowcharts, and issues public notices linked to articles. Only journal managers and section editors can see it."
+
+msgid "plugins.generic.integrityLog.stat.active"
+msgstr "Open cases"
+
+msgid "plugins.generic.integrityLog.stat.closed"
+msgstr "Closed cases"
+
+msgid "plugins.generic.integrityLog.stat.notices"
+msgstr "Public notices"
+
+msgid "plugins.generic.integrityLog.stat.retractions"
+msgstr "Retractions"
+
+msgid "plugins.generic.integrityLog.newCase"
+msgstr "Open a new case"
+
+msgid "plugins.generic.integrityLog.f.title"
+msgstr "Short case title"
+
+msgid "plugins.generic.integrityLog.f.type"
+msgstr "Type"
+
+msgid "plugins.generic.integrityLog.f.source"
+msgstr "Reported by"
+
+msgid "plugins.generic.integrityLog.f.submission"
+msgstr "Submission ID (optional)"
+
+msgid "plugins.generic.integrityLog.f.summary"
+msgstr "Summary and facts"
+
+msgid "plugins.generic.integrityLog.create"
+msgstr "Open case"
+
+msgid "plugins.generic.integrityLog.confidential"
+msgstr "Cases are confidential and permanent; nothing is published except a notice you explicitly issue."
+
+msgid "plugins.generic.integrityLog.cases"
+msgstr "Cases"
+
+msgid "plugins.generic.integrityLog.filter.active"
+msgstr "Open"
+
+msgid "plugins.generic.integrityLog.filter.closed"
+msgstr "Closed"
+
+msgid "plugins.generic.integrityLog.filter.all"
+msgstr "All"
+
+msgid "plugins.generic.integrityLog.publicPage"
+msgstr "Public notices page"
+
+msgid "plugins.generic.integrityLog.noCases"
+msgstr "No cases."
+
+msgid "plugins.generic.integrityLog.col.id"
+msgstr "ID"
+
+msgid "plugins.generic.integrityLog.col.case"
+msgstr "Case"
+
+msgid "plugins.generic.integrityLog.col.submission"
+msgstr "Submission"
+
+msgid "plugins.generic.integrityLog.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.integrityLog.col.outcome"
+msgstr "Outcome"
+
+msgid "plugins.generic.integrityLog.col.assigned"
+msgstr "Handled by"
+
+msgid "plugins.generic.integrityLog.col.updated"
+msgstr "Updated"
+
+msgid "plugins.generic.integrityLog.copeNote"
+msgstr "Suggested steps are summarised from COPE flowcharts; the official COPE guidance remains the reference."
+
+msgid "plugins.generic.integrityLog.back"
+msgstr "All cases"
+
+msgid "plugins.generic.integrityLog.dates"
+msgstr "Opened: {$o} · Updated: {$u} · Closed: {$c}"
+
+msgid "plugins.generic.integrityLog.manage"
+msgstr "Manage case"
+
+msgid "plugins.generic.integrityLog.save"
+msgstr "Save"
+
+msgid "plugins.generic.integrityLog.copeSteps"
+msgstr "Recommended COPE steps"
+
+msgid "plugins.generic.integrityLog.copeStepsNote"
+msgstr "Tick completed steps; they are saved with the case."
+
+msgid "plugins.generic.integrityLog.saveSteps"
+msgstr "Save steps"
+
+msgid "plugins.generic.integrityLog.timeline"
+msgstr "Action timeline"
+
+msgid "plugins.generic.integrityLog.addEvent"
+msgstr "Add"
+
+msgid "plugins.generic.integrityLog.kind.note"
+msgstr "Note"
+
+msgid "plugins.generic.integrityLog.kind.contactAuthor"
+msgstr "Author contacted"
+
+msgid "plugins.generic.integrityLog.kind.response"
+msgstr "Response received"
+
+msgid "plugins.generic.integrityLog.kind.contactInstitution"
+msgstr "Institution contacted"
+
+msgid "plugins.generic.integrityLog.kind.evidence"
+msgstr "Evidence"
+
+msgid "plugins.generic.integrityLog.kind.decision"
+msgstr "Decision"
+
+msgid "plugins.generic.integrityLog.kind.opened"
+msgstr "Case opened"
+
+msgid "plugins.generic.integrityLog.kind.status"
+msgstr "Status change"
+
+msgid "plugins.generic.integrityLog.ev.opened"
+msgstr "Case opened: {$type}"
+
+msgid "plugins.generic.integrityLog.ev.status"
+msgstr "Status changed from “{$from}” to “{$to}”"
+
+msgid "plugins.generic.integrityLog.ev.outcome"
+msgstr "Outcome: {$o}"
+
+msgid "plugins.generic.integrityLog.ev.notice"
+msgstr "Public notice issued: {$t}"
+
+msgid "plugins.generic.integrityLog.notices"
+msgstr "Public notices for this case"
+
+msgid "plugins.generic.integrityLog.newNotice"
+msgstr "Issue a public notice"
+
+msgid "plugins.generic.integrityLog.f.noticeType"
+msgstr "Notice type"
+
+msgid "plugins.generic.integrityLog.f.date"
+msgstr "Date"
+
+msgid "plugins.generic.integrityLog.f.doi"
+msgstr "Notice DOI (optional)"
+
+msgid "plugins.generic.integrityLog.f.textAr"
+msgstr "Notice text (Arabic)"
+
+msgid "plugins.generic.integrityLog.f.textEn"
+msgstr "Notice text (English)"
+
+msgid "plugins.generic.integrityLog.noticeHelp"
+msgstr "The notice appears as a prominent banner at the top of the article page and on the public notices page. Per COPE, retracted articles are not deleted: they remain available, clearly marked, with the reason and who requested it."
+
+msgid "plugins.generic.integrityLog.issueNotice"
+msgstr "Issue notice"
+
+msgid "plugins.generic.integrityLog.noticeNeedsSubmission"
+msgstr "Link the case to a published article to issue a public notice."
+
+msgid "plugins.generic.integrityLog.public"
+msgstr "public"
+
+msgid "plugins.generic.integrityLog.hidden"
+msgstr "hidden"
+
+msgid "plugins.generic.integrityLog.hide"
+msgstr "Hide"
+
+msgid "plugins.generic.integrityLog.publish"
+msgstr "Publish"
+
+msgid "plugins.generic.integrityLog.publicSection"
+msgstr "Editorial notices"
+
+msgid "plugins.generic.integrityLog.publicTitle"
+msgstr "Corrections and Retractions"
+
+msgid "plugins.generic.integrityLog.publicIntro"
+msgstr "The journal follows COPE guidance on correcting the scholarly record. Corrections, expressions of concern and retractions relating to its articles are listed here."
+
+msgid "plugins.generic.integrityLog.publicNone"
+msgstr "No notices."
+
+msgid "plugins.generic.integrityLog.publicCope"
+msgstr "To raise an integrity concern about a published article, please contact the editorial office."
+
+msgid "plugins.generic.integrityLog.banner.correction"
+msgstr "A correction has been published for this article"
+
+msgid "plugins.generic.integrityLog.banner.concern"
+msgstr "Editorial expression of concern"
+
+msgid "plugins.generic.integrityLog.banner.retraction"
+msgstr "This article has been retracted"
+
+msgid "plugins.generic.integrityLog.banner.removal"
+msgstr "This article has been removed"
+
+msgid "plugins.generic.integrityLog.banner.more"
+msgstr "Notice details"
+
+msgid "plugins.generic.integrityLog.notice.correction"
+msgstr "Correction"
+
+msgid "plugins.generic.integrityLog.notice.concern"
+msgstr "Expression of concern"
+
+msgid "plugins.generic.integrityLog.notice.retraction"
+msgstr "Retraction"
+
+msgid "plugins.generic.integrityLog.notice.removal"
+msgstr "Removal"
+
+msgid "plugins.generic.integrityLog.notice.correction.default"
+msgstr "A correction has been issued for this article."
+
+msgid "plugins.generic.integrityLog.notice.concern.default"
+msgstr "The editors express concern about this article while an investigation is under way."
+
+msgid "plugins.generic.integrityLog.notice.retraction.default"
+msgstr "This article has been retracted by the editors."
+
+msgid "plugins.generic.integrityLog.notice.removal.default"
+msgstr "The content of this article has been removed for legal reasons."
+
+msgid "plugins.generic.integrityLog.type.plagiarism"
+msgstr "Plagiarism"
+
+msgid "plugins.generic.integrityLog.type.duplicate"
+msgstr "Duplicate/redundant publication"
+
+msgid "plugins.generic.integrityLog.type.authorship"
+msgstr "Authorship dispute"
+
+msgid "plugins.generic.integrityLog.type.fabrication"
+msgstr "Fabrication/falsification"
+
+msgid "plugins.generic.integrityLog.type.reviewerMisconduct"
+msgstr "Reviewer misconduct"
+
+msgid "plugins.generic.integrityLog.type.coi"
+msgstr "Undisclosed conflict of interest"
+
+msgid "plugins.generic.integrityLog.type.citationManipulation"
+msgstr "Citation manipulation"
+
+msgid "plugins.generic.integrityLog.type.paperMill"
+msgstr "Suspected paper mill"
+
+msgid "plugins.generic.integrityLog.type.ethics"
+msgstr "Research ethics concern"
+
+msgid "plugins.generic.integrityLog.type.other"
+msgstr "Other"
+
+msgid "plugins.generic.integrityLog.source.reader"
+msgstr "Reader"
+
+msgid "plugins.generic.integrityLog.source.reviewer"
+msgstr "Reviewer"
+
+msgid "plugins.generic.integrityLog.source.editor"
+msgstr "Editor"
+
+msgid "plugins.generic.integrityLog.source.author"
+msgstr "Author"
+
+msgid "plugins.generic.integrityLog.source.institution"
+msgstr "Institution"
+
+msgid "plugins.generic.integrityLog.source.screening"
+msgstr "Automated screening"
+
+msgid "plugins.generic.integrityLog.source.anonymous"
+msgstr "Anonymous"
+
+msgid "plugins.generic.integrityLog.status.open"
+msgstr "Open"
+
+msgid "plugins.generic.integrityLog.status.investigating"
+msgstr "Investigating"
+
+msgid "plugins.generic.integrityLog.status.awaitingResponse"
+msgstr "Awaiting response"
+
+msgid "plugins.generic.integrityLog.status.referred"
+msgstr "Referred"
+
+msgid "plugins.generic.integrityLog.status.closed"
+msgstr "Closed"
+
+msgid "plugins.generic.integrityLog.outcome.noAction"
+msgstr "No action (not upheld)"
+
+msgid "plugins.generic.integrityLog.outcome.educated"
+msgstr "Author advised"
+
+msgid "plugins.generic.integrityLog.outcome.correction"
+msgstr "Correction"
+
+msgid "plugins.generic.integrityLog.outcome.concern"
+msgstr "Expression of concern"
+
+msgid "plugins.generic.integrityLog.outcome.retraction"
+msgstr "Retraction"
+
+msgid "plugins.generic.integrityLog.outcome.rejected"
+msgstr "Manuscript rejected"
+
+msgid "plugins.generic.integrityLog.outcome.referred"
+msgstr "Referred to institution"
+
+msgid "plugins.generic.integrityLog.outcome.other"
+msgstr "Other"
+
+msgid "plugins.generic.integrityLog.steps.plagiarism"
+msgstr "Obtain the full similarity report and identify the extent and source of copied text|Assess: minor copying with poor attribution, or clear plagiarism of ideas or text|Contact the corresponding author with the evidence and ask for a written explanation|Assess the reply: if satisfactory or minor, ask for rewriting and proper attribution|If major plagiarism is confirmed, reject — or retract if already published|If needed, inform the author’s institution and the original author|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.duplicate"
+msgstr "Obtain both publications and compare text, data and submission dates|Contact the author with the evidence and ask for an explanation|Contact the other journal’s editor to coordinate|If confirmed, reject; if published, issue a redundant-publication notice or retract|Inform the institution if the behaviour is repeated|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.authorship"
+msgstr "Ask all authors for a signed statement agreeing to the author list and contributions|Hear all parties and request evidence of contribution|The journal does not adjudicate: refer to the institution(s) if no agreement|Pause processing until the dispute is resolved|Once agreed, amend the author list (publish a correction if already published)|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.fabrication"
+msgstr "Gather evidence and consult an independent reviewer or expert|Contact the author with the concerns and request the original data|If unsatisfactory, contact the institution and request an investigation|If published, issue an expression of concern pending the investigation|If fabrication is confirmed, retract and inform relevant parties|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.reviewerMisconduct"
+msgstr "Gather evidence (report, correspondence, overlap with the reviewer’s own work)|Contact the reviewer for an explanation|Remove the reviewer from the manuscript and re-review if needed|Inform the author as appropriate while keeping review confidential|If confirmed, remove from the reviewer pool and inform their institution if serious|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.coi"
+msgstr "Identify the undisclosed interest and its potential influence|Contact the author and request full disclosure|Assess its impact on the findings and the review|Publish the disclosure (a correction if already published)|If it compromised the findings: expression of concern or retraction|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.citationManipulation"
+msgstr "Analyse references: excessive self-citation, citations demanded by a reviewer/editor, or citation cartels|Contact the party concerned for an explanation|Remove unjustified citations before publication|If a reviewer or editor was involved, remove them from the process|Publish a correction if already published|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.paperMill"
+msgstr "Record the indicators: template text, fabricated data, non-institutional email, similar submissions|Check other submissions by the same authors or with the same pattern|Contact the author for raw data and proof of affiliation|Pause or reject; if published, issue an expression of concern pending checks, then retract|Share information with other publishers per COPE/STM guidance|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.ethics"
+msgstr "Identify the concern (no ethics approval, participant consent, data privacy)|Ask the author for the ethics approval documents|If approval is missing, contact the institution|Decide: reject, correct the ethics statement, or retract|Record the decision and close the case"
+
+msgid "plugins.generic.integrityLog.steps.other"
+msgstr "Gather information and evidence from the reporter|Contact the parties concerned and request a response|Consult the closest COPE flowchart|Decide and inform the parties|Record the decision and close the case"
+

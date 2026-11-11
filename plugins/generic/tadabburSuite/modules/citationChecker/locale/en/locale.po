@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.citationChecker.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.citationChecker.none"
+msgstr "None."
+
+msgid "plugins.generic.citationChecker.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.citationChecker.save"
+msgstr "Save"
+
+msgid "plugins.generic.citationChecker.back"
+msgstr "Back"
+
+msgid "plugins.generic.citationChecker.name"
+msgstr "Citation Checker"
+
+msgid "plugins.generic.citationChecker.description"
+msgstr "Checks a paper's reference list: each DOI's validity, presence in Crossref and match to the reference, retracted or withdrawn works, DOI suggestions for Latin-script references that lack one (added in one click), gaps in Arabic references (author, title, publisher, year), duplicates and alphabetical order. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.citationChecker.open"
+msgstr "Open citation checker"
+
+msgid "plugins.generic.citationChecker.menu"
+msgstr "Citation checker"
+
+msgid "plugins.generic.citationChecker.intro"
+msgstr "References come from the OJS references field, or, if empty, from the Word file converted in the JATS module, or can be pasted. Live checks use Crossref (up to 80 references per run)."
+
+msgid "plugins.generic.citationChecker.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.citationChecker.col.refs"
+msgstr "References"
+
+msgid "plugins.generic.citationChecker.col.result"
+msgstr "Last check"
+
+msgid "plugins.generic.citationChecker.openBtn"
+msgstr "Open"
+
+msgid "plugins.generic.citationChecker.col.ref"
+msgstr "Reference"
+
+msgid "plugins.generic.citationChecker.col.notes"
+msgstr "Notes"
+
+msgid "plugins.generic.citationChecker.sumLine"
+msgstr "{$i} of {$n} with notes · {$s} DOI suggestions"
+
+msgid "plugins.generic.citationChecker.retractedN"
+msgstr "{$n} retracted"
+
+msgid "plugins.generic.citationChecker.src.ojs"
+msgstr "{$n} references from the OJS references field."
+
+msgid "plugins.generic.citationChecker.src.word"
+msgstr "{$n} references extracted from the Word file (JATS module)."
+
+msgid "plugins.generic.citationChecker.src.none"
+msgstr "No references entered; paste them below."
+
+msgid "plugins.generic.citationChecker.lastCheck"
+msgstr "last checked {$d}"
+
+msgid "plugins.generic.citationChecker.run"
+msgstr "Check references now"
+
+msgid "plugins.generic.citationChecker.pasteTitle"
+msgstr "Check a pasted list"
+
+msgid "plugins.generic.citationChecker.pasteHint"
+msgstr "One reference per line"
+
+msgid "plugins.generic.citationChecker.results"
+msgstr "Results"
+
+msgid "plugins.generic.citationChecker.s.refs"
+msgstr "references"
+
+msgid "plugins.generic.citationChecker.s.doi"
+msgstr "with DOI"
+
+msgid "plugins.generic.citationChecker.s.issues"
+msgstr "with notes"
+
+msgid "plugins.generic.citationChecker.s.suggest"
+msgstr "DOI suggestions"
+
+msgid "plugins.generic.citationChecker.s.retracted"
+msgstr "retracted"
+
+msgid "plugins.generic.citationChecker.orderBreak"
+msgstr "The list is not in alphabetical order from reference {$n}."
+
+msgid "plugins.generic.citationChecker.i.dup"
+msgstr "Duplicate of reference {$n}"
+
+msgid "plugins.generic.citationChecker.i.noYear"
+msgstr "No publication year (or \"n.d.\")"
+
+msgid "plugins.generic.citationChecker.i.tooShort"
+msgstr "Reference data seem incomplete"
+
+msgid "plugins.generic.citationChecker.i.noPublisher"
+msgstr "No publisher or place shown"
+
+msgid "plugins.generic.citationChecker.i.startsOdd"
+msgstr "Starts with a number or bracket; start with the author"
+
+msgid "plugins.generic.citationChecker.i.doiNotFound"
+msgstr "DOI not found in Crossref (possibly wrong)"
+
+msgid "plugins.generic.citationChecker.i.doiMismatch"
+msgstr "The DOI belongs to another work: \"{$t}\""
+
+msgid "plugins.generic.citationChecker.i.retracted"
+msgstr "The work is retracted or withdrawn"
+
+msgid "plugins.generic.citationChecker.i.doiOk"
+msgstr "Valid DOI"
+
+msgid "plugins.generic.citationChecker.i.suggest"
+msgstr "Suggested DOI:"
+
+msgid "plugins.generic.citationChecker.addDoi"
+msgstr "Add it"
+
+msgid "plugins.generic.citationChecker.applyBtn"
+msgstr "Add the selected DOIs to the references"
+
+msgid "plugins.generic.citationChecker.confirmApply"
+msgstr "A DOI link will be appended to each selected reference. Continue?"
+
+msgid "plugins.generic.citationChecker.msg.checked"
+msgstr "Check complete."
+
+msgid "plugins.generic.citationChecker.msg.applied"
+msgstr "DOIs added to the references."
+

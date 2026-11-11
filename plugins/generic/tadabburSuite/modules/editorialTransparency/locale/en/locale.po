@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.editorialTransparency.name"
+msgstr "Editorial Transparency & Statistics"
+
+msgid "plugins.generic.editorialTransparency.description"
+msgstr "A bilingual public page with editorial and peer-review indicators computed from OJS: acceptance/rejection rates, decision, review and publication times, annual output and geographic diversity, with methodology and open JSON data. — Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies"
+
+msgid "plugins.generic.editorialTransparency.open"
+msgstr "View page (refresh data)"
+
+msgid "plugins.generic.editorialTransparency.title"
+msgstr "Editorial Transparency & Performance"
+
+msgid "plugins.generic.editorialTransparency.lead"
+msgstr "We are committed to transparency in our editorial processes. The indicators below are computed automatically from our journal management system (OJS), refreshed regularly, and reflect the path of manuscripts from submission to publication."
+
+msgid "plugins.generic.editorialTransparency.period"
+msgstr "Period"
+
+msgid "plugins.generic.editorialTransparency.last12"
+msgstr "Last 12 months"
+
+msgid "plugins.generic.editorialTransparency.allTime"
+msgstr "All time"
+
+msgid "plugins.generic.editorialTransparency.h.decisions"
+msgstr "Submissions & decisions"
+
+msgid "plugins.generic.editorialTransparency.h.time"
+msgstr "Speed"
+
+msgid "plugins.generic.editorialTransparency.h.review"
+msgstr "Peer review"
+
+msgid "plugins.generic.editorialTransparency.h.output"
+msgstr "Publishing & reach"
+
+msgid "plugins.generic.editorialTransparency.h.trend"
+msgstr "Annual trend"
+
+msgid "plugins.generic.editorialTransparency.h.geo"
+msgstr "Geographic distribution of authors (published articles)"
+
+msgid "plugins.generic.editorialTransparency.h.method"
+msgstr "Methodology & definitions"
+
+msgid "plugins.generic.editorialTransparency.received"
+msgstr "Submissions received"
+
+msgid "plugins.generic.editorialTransparency.accepted"
+msgstr "Accepted"
+
+msgid "plugins.generic.editorialTransparency.declined"
+msgstr "Declined"
+
+msgid "plugins.generic.editorialTransparency.published"
+msgstr "Articles published"
+
+msgid "plugins.generic.editorialTransparency.acceptanceRate"
+msgstr "Acceptance rate"
+
+msgid "plugins.generic.editorialTransparency.deskRate"
+msgstr "Desk rejection"
+
+msgid "plugins.generic.editorialTransparency.reviewRejectRate"
+msgstr "Rejection after review"
+
+msgid "plugins.generic.editorialTransparency.acceptedN"
+msgstr "{$n} accepted"
+
+msgid "plugins.generic.editorialTransparency.declinedN"
+msgstr "{$n} manuscripts"
+
+msgid "plugins.generic.editorialTransparency.daysFirst"
+msgstr "To first decision (median)"
+
+msgid "plugins.generic.editorialTransparency.reviewTurn"
+msgstr "Review turnaround (median)"
+
+msgid "plugins.generic.editorialTransparency.daysAccept"
+msgstr "Submission to acceptance (median)"
+
+msgid "plugins.generic.editorialTransparency.daysAcceptToPub"
+msgstr "Acceptance to publication (median)"
+
+msgid "plugins.generic.editorialTransparency.p80"
+msgstr "80% within {$v}"
+
+msgid "plugins.generic.editorialTransparency.subToPub"
+msgstr "Submission to publication: {$v}"
+
+msgid "plugins.generic.editorialTransparency.days"
+msgstr "{$n} days"
+
+msgid "plugins.generic.editorialTransparency.reviewsCompleted"
+msgstr "Completed review reports"
+
+msgid "plugins.generic.editorialTransparency.reviewsPerArticle"
+msgstr "Average reports per manuscript"
+
+msgid "plugins.generic.editorialTransparency.reviewers"
+msgstr "Contributing reviewers"
+
+msgid "plugins.generic.editorialTransparency.fromCountries"
+msgstr "from {$n} countries"
+
+msgid "plugins.generic.editorialTransparency.invitationAccept"
+msgstr "Review invitations accepted"
+
+msgid "plugins.generic.editorialTransparency.issuesN"
+msgstr "in {$n} issue(s)"
+
+msgid "plugins.generic.editorialTransparency.authorCountries"
+msgstr "Author countries"
+
+msgid "plugins.generic.editorialTransparency.views"
+msgstr "Abstract views"
+
+msgid "plugins.generic.editorialTransparency.downloads"
+msgstr "Full-text downloads"
+
+msgid "plugins.generic.editorialTransparency.asTable"
+msgstr "Show data as a table"
+
+msgid "plugins.generic.editorialTransparency.year"
+msgstr "Year"
+
+msgid "plugins.generic.editorialTransparency.others"
+msgstr "Other countries"
+
+msgid "plugins.generic.editorialTransparency.m.source"
+msgstr "Source: the journal’s OJS database; rates use the same method as OJS editorial statistics."
+
+msgid "plugins.generic.editorialTransparency.m.rates"
+msgstr "Acceptance/rejection rates: manuscripts submitted in the period that received a final decision. Desk rejection happens before peer review."
+
+msgid "plugins.generic.editorialTransparency.m.times"
+msgstr "Times are in days; we show the median (half are faster) and the 80th percentile. Acceptance→publication is computed for articles published in the period."
+
+msgid "plugins.generic.editorialTransparency.m.review"
+msgstr "Review turnaround: from invitation to report submission, for invitations issued in the period. Reviewer identities are never shown."
+
+msgid "plugins.generic.editorialTransparency.m.geo"
+msgstr "Geography: by the country recorded for each author of articles published in the period."
+
+msgid "plugins.generic.editorialTransparency.m.metrics"
+msgstr "Views and downloads follow OJS COUNTER-compliant usage statistics."
+
+msgid "plugins.generic.editorialTransparency.meta"
+msgstr "Period: {$range} · Last updated: {$date}"
+
+msgid "plugins.generic.editorialTransparency.credit"
+msgstr "Transparency tool developed by"
+
+msgid "plugins.generic.editorialTransparency.developer"
+msgstr "Moustafa Mahmoud"
+
+msgid "plugins.generic.editorialTransparency.office"
+msgstr "Khibrat Taibah"
+

@@ -1,0 +1,206 @@
+/*!
+ * Tadabbur Suite — UI kit 2
+ * Copyright (c) 2026 Moustafa Mahmoud & Khibrat Taibah for Research and Studies — GPL-3.0-or-later
+ * نظام تصميم واحد لكل شاشات الحزمة: رموز (tokens) ← مكوّنات ← تخطيط متجاوب. كل شيء محصور داخل .tdb
+ */
+.tdb {
+  --tdb-brand: #5a3a1e;          /* بني تدبر للأزرار والروابط */
+  --tdb-brand-strong: #43260f;
+  --tdb-brand-soft: #f5efe6;
+  --tdb-gold: #b8913f;
+  --tdb-gold-soft: #fbf6ea;
+  --tdb-ink: #1d2430;
+  --tdb-ink-2: #3b4452;
+  --tdb-muted: #667085;
+  --tdb-line: #e5e1d9;
+  --tdb-line-2: #d6d0c4;
+  --tdb-surface: #ffffff;
+  --tdb-canvas: #faf8f4;
+  --tdb-ok: #1d7a4c;   --tdb-ok-bg: #e7f5ed;
+  --tdb-warn: #8a5a00; --tdb-warn-bg: #fdf3dc;
+  --tdb-bad: #a82424;  --tdb-bad-bg: #fbeaea;
+  --tdb-info: #1f4f86; --tdb-info-bg: #e8f0fb;
+  --tdb-radius: 12px;
+  --tdb-radius-sm: 8px;
+  --tdb-shadow: 0 1px 2px rgba(29, 36, 48, .05), 0 4px 16px rgba(29, 36, 48, .05);
+  --tdb-focus: 0 0 0 3px rgba(184, 145, 63, .35);
+  --tdb-font: "IBM Plex Sans Arabic", "Noto Sans Arabic", -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, sans-serif;
+  font-family: var(--tdb-font);
+  color: var(--tdb-ink);
+  font-size: 14px;
+  line-height: 1.75;
+}
+.tdb *, .tdb *::before, .tdb *::after { box-sizing: border-box; }
+.tdb a { color: var(--tdb-brand); text-underline-offset: 3px; }
+.tdb h2 { font-size: 16px; line-height: 1.5; margin: 0; color: var(--tdb-ink); font-weight: 700; }
+.tdb h3 { font-size: 14px; margin: 0; font-weight: 700; color: var(--tdb-ink); }
+.tdb p { margin: 0 0 10px; }
+.tdb small { font-size: 12px; }
+.tdb code, .tdb .tdb-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; direction: ltr; unicode-bidi: isolate; }
+.tdb .tdb-muted { color: var(--tdb-muted); font-size: 12.5px; }
+.tdb details > summary { cursor: pointer; }
+
+/* ---------- رأس الصفحة ---------- */
+.tdb-head { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; margin: 0 0 16px; }
+.tdb-lead { margin: 0; color: var(--tdb-ink-2); font-size: 14.5px; max-width: 78ch; }
+.tdb-actions { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tdb-sticky { position: sticky; bottom: 0; padding: 10px 0; background: linear-gradient(to top, var(--tdb-surface) 70%, transparent); z-index: 2; }
+
+/* ---------- البطاقات ---------- */
+.tdb-card { background: var(--tdb-surface); border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius); box-shadow: var(--tdb-shadow); margin: 0 0 16px; padding: 16px 18px; }
+.tdb-card:has(> .tdb-card__body) { padding: 0; }
+.tdb-card__head { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; padding: 12px 18px; border-bottom: 1px solid var(--tdb-line); background: linear-gradient(to bottom, #fff, var(--tdb-canvas)); border-radius: var(--tdb-radius) var(--tdb-radius) 0 0; }
+.tdb-card__head h2 { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tdb-card__body { padding: 16px 18px; }
+.tdb-card > h2:first-child { margin-bottom: 10px; }
+
+/* ---------- الإحصاءات ---------- */
+.tdb-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 16px; }
+.tdb-stat { background: var(--tdb-surface); border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius); padding: 14px 16px; box-shadow: var(--tdb-shadow); border-top: 3px solid var(--tdb-gold); }
+.tdb-stat b { display: block; font-size: 26px; line-height: 1.2; color: var(--tdb-brand-strong); font-variant-numeric: tabular-nums; }
+.tdb-stat span { color: var(--tdb-muted); font-size: 12.5px; }
+.tdb-stat--ok { border-top-color: var(--tdb-ok); } .tdb-stat--ok b { color: var(--tdb-ok); }
+.tdb-stat--bad { border-top-color: var(--tdb-bad); } .tdb-stat--bad b { color: var(--tdb-bad); }
+
+/* ---------- التبويبات ---------- */
+.tdb-tabs { display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--tdb-line-2); margin: 0 0 16px; }
+.tdb-tab { padding: 8px 14px; border-radius: var(--tdb-radius-sm) var(--tdb-radius-sm) 0 0; color: var(--tdb-ink-2) !important; text-decoration: none; font-weight: 600; border: 1px solid transparent; border-bottom: 0; margin-bottom: -1px; }
+.tdb-tab:hover { background: var(--tdb-canvas); }
+.tdb-tab.is-active { background: var(--tdb-surface); border-color: var(--tdb-line-2); color: var(--tdb-brand-strong) !important; box-shadow: inset 0 3px 0 var(--tdb-gold); }
+
+/* ---------- الأزرار ---------- */
+.tdb .tdb-btn { display: inline-flex; align-items: center; gap: 6px; min-height: 34px; padding: 6px 14px; margin: 2px; border: 1px solid var(--tdb-line-2); border-radius: 999px; background: var(--tdb-surface);
+  color: var(--tdb-brand-strong); font: 600 13px/1.4 var(--tdb-font); text-decoration: none; cursor: pointer; transition: background .15s, border-color .15s, box-shadow .15s; white-space: nowrap; }
+.tdb .tdb-btn:hover { background: var(--tdb-brand-soft); border-color: var(--tdb-gold); }
+.tdb .tdb-btn:focus-visible, .tdb .tdb-input:focus-visible, .tdb .tdb-tab:focus-visible { outline: 0; box-shadow: var(--tdb-focus); }
+.tdb .tdb-btn--primary { background: var(--tdb-brand); border-color: var(--tdb-brand); color: #fff; }
+.tdb .tdb-btn--primary:hover { background: var(--tdb-brand-strong); border-color: var(--tdb-brand-strong); color: #fff; }
+.tdb .tdb-btn--danger { color: var(--tdb-bad); border-color: #e7b9b9; }
+.tdb .tdb-btn--danger:hover { background: var(--tdb-bad-bg); border-color: var(--tdb-bad); }
+.tdb .tdb-btn--ghost { background: transparent; border-color: transparent; }
+.tdb .tdb-btn--sm { min-height: 28px; padding: 3px 11px; font-size: 12px; }
+.tdb .tdb-btn small { opacity: .75; font-weight: 600; }
+.tdb .tdb-inline { display: inline; margin: 0; }
+.tdb button[disabled], .tdb .tdb-btn[aria-disabled="true"] { opacity: .5; cursor: not-allowed; }
+
+/* ---------- الحقول ---------- */
+.tdb .tdb-input { border: 1px solid var(--tdb-line-2); border-radius: var(--tdb-radius-sm); padding: 7px 10px; min-height: 36px; font: 14px/1.5 var(--tdb-font); color: var(--tdb-ink); background: #fff; max-width: 100%; }
+.tdb textarea.tdb-input { width: 100%; min-height: 64px; resize: vertical; }
+.tdb select.tdb-input { padding-inline-end: 28px; }
+.tdb .tdb-input:hover { border-color: var(--tdb-gold); }
+.tdb-field { display: flex; flex-direction: column; gap: 4px; margin: 0 0 12px; }
+.tdb-field > .tdb-input { width: 100%; }
+.tdb-field__label { font-weight: 600; font-size: 13px; color: var(--tdb-ink-2); }
+.tdb-field__help { color: var(--tdb-muted); }
+.tdb-grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 0 14px; }
+.tdb-toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 0 0 12px; }
+.tdb-toolbar .tdb-input[type="search"], .tdb-toolbar .tdb-input[name="code"] { flex: 1 1 260px; }
+.tdb-checks { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0 0 10px; }
+.tdb-check { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; }
+.tdb input[type="checkbox"] { accent-color: var(--tdb-brand); width: 16px; height: 16px; }
+
+/* مفتاح تشغيل */
+.tdb-switch { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; font-size: 13px; }
+.tdb-switch input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.tdb-switch__ui { width: 36px; height: 20px; border-radius: 999px; background: #cfc8bb; position: relative; transition: background .15s; flex: none; }
+.tdb-switch__ui::after { content: ""; position: absolute; top: 2px; inset-inline-start: 2px; width: 16px; height: 16px; border-radius: 50%; background: #fff; box-shadow: 0 1px 2px rgba(0,0,0,.25); transition: inset-inline-start .15s; }
+.tdb-switch input:checked + .tdb-switch__ui { background: var(--tdb-ok); }
+.tdb-switch input:checked + .tdb-switch__ui::after { inset-inline-start: 18px; }
+.tdb-switch input:focus-visible + .tdb-switch__ui { box-shadow: var(--tdb-focus); }
+
+/* ---------- الجداول ---------- */
+.tdb-table-wrap { overflow-x: auto; border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius-sm); background: #fff; }
+.tdb .tdb-table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 13.5px; background: #fff; }
+.tdb .tdb-table th, .tdb .tdb-th { background: var(--tdb-canvas); color: var(--tdb-ink-2); font-weight: 700; font-size: 12.5px; text-align: start; padding: 10px 12px; border-bottom: 1px solid var(--tdb-line-2); vertical-align: bottom; white-space: nowrap; }
+.tdb .tdb-td:nth-child(2) { min-width: 9em; }
+.tdb .tdb-table td, .tdb .tdb-td { padding: 10px 12px; border-bottom: 1px solid var(--tdb-line); vertical-align: top; }
+.tdb .tdb-table tbody tr:last-child td { border-bottom: 0; }
+.tdb .tdb-table tbody tr:hover td { background: #fdfbf7; }
+.tdb .tdb-table__group th { background: var(--tdb-gold-soft); color: var(--tdb-brand-strong); font-size: 13px; }
+.tdb table.tdb-table:not(.tdb-table-wrap table) { border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius-sm); overflow: hidden; }
+
+/* ---------- الشارات والتنبيهات ---------- */
+.tdb-badge { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 999px; font-size: 11.5px; font-weight: 700; line-height: 1.6; white-space: nowrap; vertical-align: middle; }
+.tdb-badge--ok { background: var(--tdb-ok-bg); color: var(--tdb-ok); }
+.tdb-badge--warn { background: var(--tdb-warn-bg); color: var(--tdb-warn); }
+.tdb-badge--bad { background: var(--tdb-bad-bg); color: var(--tdb-bad); }
+.tdb-badge--info { background: var(--tdb-info-bg); color: var(--tdb-info); }
+.tdb-badge--muted { background: #efede8; color: var(--tdb-muted); }
+.tdb-alert { border-radius: var(--tdb-radius-sm); padding: 10px 14px; margin: 0 0 14px; border: 1px solid; font-weight: 600; }
+.tdb-alert--ok { background: var(--tdb-ok-bg); border-color: #b9dfc9; color: var(--tdb-ok); }
+.tdb-alert--ok::before { content: "✔ "; }
+.tdb-alert--bad { background: var(--tdb-bad-bg); border-color: #efc2c2; color: var(--tdb-bad); }
+.tdb-alert--bad::before { content: "✖ "; }
+.tdb-alert--info { background: var(--tdb-info-bg); border-color: #c4d6ef; color: var(--tdb-info); }
+.tdb-empty { text-align: center; color: var(--tdb-muted); padding: 22px 12px; border: 1px dashed var(--tdb-line-2); border-radius: var(--tdb-radius-sm); background: var(--tdb-canvas); }
+
+/* ---------- بطاقات المستندات ---------- */
+.tdb-docs { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.tdb-doc { border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius); padding: 12px 14px; background: #fff; display: flex; flex-direction: column; gap: 8px; transition: border-color .15s, box-shadow .15s; }
+.tdb-doc:hover { border-color: var(--tdb-gold); box-shadow: var(--tdb-shadow); }
+.tdb-doc.is-off { background: var(--tdb-canvas); }
+.tdb-doc.is-off h3, .tdb-doc.is-off p { color: var(--tdb-muted); }
+.tdb-doc__top { display: flex; gap: 10px; align-items: flex-start; }
+.tdb-doc__top > div { min-width: 0; overflow-wrap: anywhere; }
+.tdb-doc__icon { flex: none; width: 38px; height: 38px; border-radius: 10px; display: grid; place-items: center; background: var(--tdb-gold-soft); font-size: 19px; }
+.tdb-doc__top p { margin: 2px 0 0; color: var(--tdb-muted); font-size: 12.5px; line-height: 1.6; }
+.tdb-doc__meta { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
+.tdb-doc__acts { display: flex; flex-wrap: wrap; gap: 2px; margin-top: auto; }
+.tdb-doc__acts:empty { display: none; }
+.tdb-disclose { border-top: 1px dashed var(--tdb-line-2); padding-top: 8px; }
+.tdb-disclose > summary { font-weight: 700; color: var(--tdb-brand); font-size: 13px; list-style: none; }
+.tdb-disclose > summary::-webkit-details-marker { display: none; }
+.tdb-disclose > summary::before { content: "＋ "; }
+.tdb-disclose[open] > summary::before { content: "－ "; }
+.tdb-disclose[open] > summary { margin-bottom: 10px; }
+.tdb-form { display: block; }
+
+/* ---------- أسطر المستندات المضغوطة ---------- */
+.tdb-section { font-size: 15px !important; margin: 18px 0 10px !important; display: flex; gap: 8px; align-items: center; color: var(--tdb-brand-strong) !important; }
+.tdb-docline { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 4px 10px; padding: 3px 0; border-bottom: 1px dashed var(--tdb-line); }
+.tdb-docline:last-child { border-bottom: 0; }
+.tdb-filterbox { width: 100%; margin: 0 0 10px; }
+
+/* ---------- أشرطة النتائج والاقتباسات ---------- */
+.tdb-bar { display: grid; grid-template-columns: minmax(90px, 30%) 1fr 80px; gap: 10px; align-items: center; margin: 4px 0; font-size: 13px; }
+.tdb-bar i { display: block; height: 12px; border-radius: 6px; background: #eee6d8; overflow: hidden; }
+.tdb-bar i b { display: block; height: 100%; background: var(--tdb-gold); border-radius: 6px; }
+.tdb-quotes { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+.tdb-quotes li { background: var(--tdb-canvas); border-inline-start: 3px solid var(--tdb-gold); padding: 8px 12px; border-radius: 6px; }
+
+/* ---------- لوحة الحزمة: شبكة الوحدات ---------- */
+.tdb-modules { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.tdb-module { border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius); background: #fff; padding: 14px; display: flex; flex-direction: column; gap: 8px; }
+.tdb-module.is-off { opacity: .62; background: var(--tdb-canvas); }
+.tdb-module__head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.tdb-module__head h3 { font-size: 14.5px; }
+.tdb-module p { color: var(--tdb-muted); font-size: 12.5px; margin: 0; flex: 1; }
+.tdb-module__foot { display: flex; justify-content: space-between; align-items: center; gap: 6px; }
+.tdb-filter { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 0 0 12px; }
+.tdb-chip { border: 1px solid var(--tdb-line-2); background: #fff; border-radius: 999px; padding: 3px 12px; font: 600 12.5px var(--tdb-font); cursor: pointer; color: var(--tdb-ink-2); }
+.tdb-chip[aria-pressed="true"] { background: var(--tdb-brand); color: #fff; border-color: var(--tdb-brand); }
+.tdb-assets { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.tdb-asset { border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius); padding: 12px; background: #fff; }
+.tdb-asset__img { height: 110px; display: flex; align-items: center; justify-content: center; border-radius: var(--tdb-radius-sm); margin: 8px 0; background: repeating-conic-gradient(#f3f1ec 0 25%, #fff 0 50%) 0 0/16px 16px; border: 1px solid var(--tdb-line); }
+.tdb-asset__img img { max-width: 100%; max-height: 100%; }
+
+/* ---------- صفحة التحقق العامة ---------- */
+.tdb-verify { max-width: 680px; }
+.tdb-verify .tdb-table th { width: 34%; }
+
+/* ---------- الجوال ---------- */
+@media (max-width: 720px) {
+  .tdb { font-size: 14.5px; }
+  .tdb-card__head, .tdb-card__body { padding: 12px; }
+  .tdb-stats { grid-template-columns: repeat(2, 1fr); }
+  .tdb-table-wrap:has(td[data-label]) { border: 0; background: transparent; }
+  .tdb-table-wrap:has(td[data-label]) thead { display: none; }
+  .tdb-table-wrap:has(td[data-label]) table, .tdb-table-wrap:has(td[data-label]) tbody, .tdb-table-wrap:has(td[data-label]) tr, .tdb-table-wrap:has(td[data-label]) td { display: block; width: 100%; }
+  .tdb-table-wrap:has(td[data-label]) tr { border: 1px solid var(--tdb-line); border-radius: var(--tdb-radius-sm); margin: 0 0 10px; background: #fff; padding: 4px 0; }
+  .tdb-table-wrap:has(td[data-label]) td { border: 0; padding: 6px 12px; }
+  .tdb-table-wrap:has(td[data-label]) td[data-label]:not([data-label=""])::before { content: attr(data-label); display: block; font-size: 11.5px; color: var(--tdb-muted); font-weight: 700; }
+  .tdb-docs, .tdb-modules { grid-template-columns: 1fr; }
+  .tdb .tdb-btn { min-height: 40px; }
+}
+@media (prefers-reduced-motion: reduce) { .tdb * { transition: none !important; } }
+@media print { .tdb-tabs, .tdb-actions, .tdb-disclose, .tdb-toolbar { display: none !important; } .tdb-card { box-shadow: none; } }

@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.declarations.name"
+msgstr "Research Declarations"
+
+msgid "plugins.generic.declarations.description"
+msgstr "Structured author declarations at submission: competing interests, funding, ethics approval, generative-AI use and acknowledgements. Shown on the article page and added to JATS, with an editorial register. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.declarations.open"
+msgstr "Open register"
+
+msgid "plugins.generic.declarations.menu"
+msgstr "Declarations"
+
+msgid "plugins.generic.declarations.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.declarations.formTitle"
+msgstr "Declarations"
+
+msgid "plugins.generic.declarations.formIntro"
+msgstr "The journal requires these declarations for every submission; they are published with the article, following international transparency practice (COPE, ICMJE)."
+
+msgid "plugins.generic.declarations.coi.label"
+msgstr "Competing interests"
+
+msgid "plugins.generic.declarations.coi.title"
+msgstr "Competing interests"
+
+msgid "plugins.generic.declarations.coi.short"
+msgstr "COI"
+
+msgid "plugins.generic.declarations.coi.help"
+msgstr "Do any authors have financial, personal or institutional relationships that could influence, or appear to influence, the work?"
+
+msgid "plugins.generic.declarations.coi.none"
+msgstr "No competing interests"
+
+msgid "plugins.generic.declarations.coi.declared"
+msgstr "There are interests to declare"
+
+msgid "plugins.generic.declarations.coi.none.short"
+msgstr "none"
+
+msgid "plugins.generic.declarations.coi.declared.short"
+msgstr "declared"
+
+msgid "plugins.generic.declarations.coi.none.statement"
+msgstr "The authors declare no competing interests."
+
+msgid "plugins.generic.declarations.coi.textLabel"
+msgstr "Competing-interests statement"
+
+msgid "plugins.generic.declarations.coi.textHelp"
+msgstr "Describe the relationship and who holds it."
+
+msgid "plugins.generic.declarations.funding.label"
+msgstr "Funding"
+
+msgid "plugins.generic.declarations.funding.title"
+msgstr "Funding"
+
+msgid "plugins.generic.declarations.funding.short"
+msgstr "Funding"
+
+msgid "plugins.generic.declarations.funding.help"
+msgstr "Did the research receive financial support?"
+
+msgid "plugins.generic.declarations.funding.none"
+msgstr "No funding received"
+
+msgid "plugins.generic.declarations.funding.funded"
+msgstr "The research was funded"
+
+msgid "plugins.generic.declarations.funding.none.short"
+msgstr "none"
+
+msgid "plugins.generic.declarations.funding.funded.short"
+msgstr "funded"
+
+msgid "plugins.generic.declarations.funding.none.statement"
+msgstr "This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors."
+
+msgid "plugins.generic.declarations.funding.textLabel"
+msgstr "Funding statement"
+
+msgid "plugins.generic.declarations.funding.textHelp"
+msgstr "Funder name and grant number, if any."
+
+msgid "plugins.generic.declarations.ethics.label"
+msgstr "Ethics approval"
+
+msgid "plugins.generic.declarations.ethics.title"
+msgstr "Ethics approval"
+
+msgid "plugins.generic.declarations.ethics.short"
+msgstr "Ethics"
+
+msgid "plugins.generic.declarations.ethics.help"
+msgstr "Did the research involve human participants (surveys, interviews, experiments) requiring ethics committee approval?"
+
+msgid "plugins.generic.declarations.ethics.na"
+msgstr "Not applicable (no human participants)"
+
+msgid "plugins.generic.declarations.ethics.approved"
+msgstr "Ethics approval obtained"
+
+msgid "plugins.generic.declarations.ethics.na.short"
+msgstr "n/a"
+
+msgid "plugins.generic.declarations.ethics.approved.short"
+msgstr "approved"
+
+msgid "plugins.generic.declarations.ethics.na.statement"
+msgstr "Not applicable; the study did not involve human participants or personal data."
+
+msgid "plugins.generic.declarations.ethics.textLabel"
+msgstr "Ethics statement"
+
+msgid "plugins.generic.declarations.ethics.textHelp"
+msgstr "Committee name, approval number and date, and how participant consent was obtained."
+
+msgid "plugins.generic.declarations.ai.label"
+msgstr "Use of generative AI"
+
+msgid "plugins.generic.declarations.ai.title"
+msgstr "Use of generative AI"
+
+msgid "plugins.generic.declarations.ai.short"
+msgstr "AI"
+
+msgid "plugins.generic.declarations.ai.help"
+msgstr "Were generative-AI tools used in writing, analysing or translating the work? (AI cannot be an author.)"
+
+msgid "plugins.generic.declarations.ai.none"
+msgstr "Not used"
+
+msgid "plugins.generic.declarations.ai.used"
+msgstr "Used and disclosed"
+
+msgid "plugins.generic.declarations.ai.none.short"
+msgstr "not used"
+
+msgid "plugins.generic.declarations.ai.used.short"
+msgstr "disclosed"
+
+msgid "plugins.generic.declarations.ai.none.statement"
+msgstr "No generative-AI tools were used in preparing this work."
+
+msgid "plugins.generic.declarations.ai.textLabel"
+msgstr "AI-use statement"
+
+msgid "plugins.generic.declarations.ai.textHelp"
+msgstr "Tool name and version, what it was used for, and confirmation that the authors reviewed the output and take responsibility for it."
+
+msgid "plugins.generic.declarations.ack.label"
+msgstr "Acknowledgements (optional)"
+
+msgid "plugins.generic.declarations.ack.title"
+msgstr "Acknowledgements"
+
+msgid "plugins.generic.declarations.ack.help"
+msgstr "For contributors who do not meet authorship criteria."
+
+msgid "plugins.generic.declarations.error.missing"
+msgstr "Please complete the declaration: {$item}."
+
+msgid "plugins.generic.declarations.error.text"
+msgstr "Please write the “{$item}” statement."
+
+msgid "plugins.generic.declarations.publicTitle"
+msgstr "Declarations"
+
+msgid "plugins.generic.declarations.intro"
+msgstr "Register of article declarations (competing interests, funding, ethics, AI). Journals indexed in Scopus and Web of Science are expected to show these on every article."
+
+msgid "plugins.generic.declarations.stat.complete"
+msgstr "Articles with complete declarations"
+
+msgid "plugins.generic.declarations.stat.published"
+msgstr "published articles"
+
+msgid "plugins.generic.declarations.stat.all"
+msgstr "submitted manuscripts"
+
+msgid "plugins.generic.declarations.stat.declared.coi"
+msgstr "declared competing interests"
+
+msgid "plugins.generic.declarations.stat.declared.funding"
+msgstr "funded"
+
+msgid "plugins.generic.declarations.stat.declared.ethics"
+msgstr "with ethics approval"
+
+msgid "plugins.generic.declarations.stat.declared.ai"
+msgstr "disclosed AI use"
+
+msgid "plugins.generic.declarations.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.declarations.set.items"
+msgstr "Declarations requested"
+
+msgid "plugins.generic.declarations.set.required"
+msgstr "Required before submitting"
+
+msgid "plugins.generic.declarations.set.show"
+msgstr "Show on the published article page"
+
+msgid "plugins.generic.declarations.save"
+msgstr "Save"
+
+msgid "plugins.generic.declarations.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.declarations.register"
+msgstr "Declarations register"
+
+msgid "plugins.generic.declarations.scope.published"
+msgstr "Published"
+
+msgid "plugins.generic.declarations.scope.all"
+msgstr "All manuscripts"
+
+msgid "plugins.generic.declarations.none"
+msgstr "No articles."
+
+msgid "plugins.generic.declarations.col.title"
+msgstr "Article"
+
+msgid "plugins.generic.declarations.col.done"
+msgstr "Complete"
+
+msgid "plugins.generic.declarations.missing"
+msgstr "missing"
+
+msgid "plugins.generic.declarations.noText"
+msgstr "no statement"
+
+msgid "plugins.generic.declarations.note"
+msgstr "Articles published before the plugin was enabled show as incomplete; editors can complete them from the Metadata tab of the publication page."
+

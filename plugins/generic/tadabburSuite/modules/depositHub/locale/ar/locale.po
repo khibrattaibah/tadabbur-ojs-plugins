@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.depositHub.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.depositHub.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.depositHub.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.depositHub.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.depositHub.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.depositHub.name"
+msgstr "مركز الإيداع والربط"
+
+msgid "plugins.generic.depositHub.description"
+msgstr "لوحة واحدة لحالة كل بحث منشور خارج الموقع: DOI وحالة إيداعه في OJS، ووجوده فعلًا في Crossref مع الملخص والمراجع وORCID، وتوجيه DOI إلى صفحة البحث الصحيحة، ووجوده في OpenAlex وعدد الاستشهادات، ورابط بحث Google Scholar. وعلى مستوى المجلة: تغطية Crossref (ملخصات، مراجع، ORCID، انتماءات، ROR، تراخيص) وحضورها في OpenAlex وDOAJ. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.depositHub.open"
+msgstr "فتح مركز الإيداع"
+
+msgid "plugins.generic.depositHub.menu"
+msgstr "الإيداع والربط"
+
+msgid "plugins.generic.depositHub.intro"
+msgstr "التحقق يتم مباشرة من Crossref وdoi.org وOpenAlex وDOAJ (بيانات عامة). الحالة في OJS تعني ما أرسلته المجلة؛ والتحقق الحي يثبت أنه وصل ويعمل."
+
+msgid "plugins.generic.depositHub.journal"
+msgstr "المجلة في قواعد البيانات"
+
+msgid "plugins.generic.depositHub.notChecked"
+msgstr "لم يُفحص بعد."
+
+msgid "plugins.generic.depositHub.refresh"
+msgstr "تحديث"
+
+msgid "plugins.generic.depositHub.checkedAt"
+msgstr "آخر فحص: {$d}"
+
+msgid "plugins.generic.depositHub.crDois"
+msgstr "{$n} DOI مودعة"
+
+msgid "plugins.generic.depositHub.oaLine"
+msgstr "{$w} عملًا · {$c} استشهادًا · h={$h}"
+
+msgid "plugins.generic.depositHub.cov.abstracts"
+msgstr "الملخصات"
+
+msgid "plugins.generic.depositHub.cov.references"
+msgstr "المراجع"
+
+msgid "plugins.generic.depositHub.cov.orcids"
+msgstr "ORCID"
+
+msgid "plugins.generic.depositHub.cov.affiliations"
+msgstr "الانتماءات"
+
+msgid "plugins.generic.depositHub.cov.ror"
+msgstr "ROR"
+
+msgid "plugins.generic.depositHub.cov.licenses"
+msgstr "التراخيص"
+
+msgid "plugins.generic.depositHub.cov.similarity"
+msgstr "فحص التشابه"
+
+msgid "plugins.generic.depositHub.notFound"
+msgstr "غير موجودة"
+
+msgid "plugins.generic.depositHub.listed"
+msgstr "مُدرجة"
+
+msgid "plugins.generic.depositHub.notListed"
+msgstr "غير مُدرجة"
+
+msgid "plugins.generic.depositHub.since"
+msgstr "منذ"
+
+msgid "plugins.generic.depositHub.articles"
+msgstr "البحوث المنشورة"
+
+msgid "plugins.generic.depositHub.s.published"
+msgstr "منشور"
+
+msgid "plugins.generic.depositHub.s.doi"
+msgstr "له DOI"
+
+msgid "plugins.generic.depositHub.s.reg"
+msgstr "مسجّل في OJS"
+
+msgid "plugins.generic.depositHub.s.cr"
+msgstr "موجود في Crossref"
+
+msgid "plugins.generic.depositHub.s.land"
+msgstr "DOI يوجّه صحيحًا"
+
+msgid "plugins.generic.depositHub.s.oa"
+msgstr "في OpenAlex"
+
+msgid "plugins.generic.depositHub.s.cited"
+msgstr "استشهادًا"
+
+msgid "plugins.generic.depositHub.checkBatch"
+msgstr "فحص 20 بحثًا (الأقدم فحصًا أولًا)"
+
+msgid "plugins.generic.depositHub.showProblems"
+msgstr "المشكلات فقط"
+
+msgid "plugins.generic.depositHub.showAll"
+msgstr "عرض الكل"
+
+msgid "plugins.generic.depositHub.oaKeyOn"
+msgstr "مفتاح OpenAlex مفعّل"
+
+msgid "plugins.generic.depositHub.oaKeyOff"
+msgstr "بلا مفتاح OpenAlex (أضفه من «إدارة الحزمة» لرفع الحدود)"
+
+msgid "plugins.generic.depositHub.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.depositHub.col.ojs"
+msgstr "حالة OJS"
+
+msgid "plugins.generic.depositHub.col.landing"
+msgstr "توجيه DOI"
+
+msgid "plugins.generic.depositHub.col.cited"
+msgstr "استشهادات"
+
+msgid "plugins.generic.depositHub.noDoi"
+msgstr "بلا DOI"
+
+msgid "plugins.generic.depositHub.doi.unregistered"
+msgstr "غير مُودع"
+
+msgid "plugins.generic.depositHub.doi.submitted"
+msgstr "أُرسل"
+
+msgid "plugins.generic.depositHub.doi.registered"
+msgstr "مسجّل"
+
+msgid "plugins.generic.depositHub.doi.error"
+msgstr "خطأ"
+
+msgid "plugins.generic.depositHub.doi.stale"
+msgstr "يحتاج تحديث"
+
+msgid "plugins.generic.depositHub.doi.none"
+msgstr "—"
+
+msgid "plugins.generic.depositHub.crMeta"
+msgstr "بيانات:"
+
+msgid "plugins.generic.depositHub.abs"
+msgstr "ملخص"
+
+msgid "plugins.generic.depositHub.refs"
+msgstr "مراجع"
+
+msgid "plugins.generic.depositHub.checkNow"
+msgstr "فحص"
+
+msgid "plugins.generic.depositHub.msg.checked"
+msgstr "تم الفحص."
+
+msgid "plugins.generic.depositHub.msg.checkedBatch"
+msgstr "تم فحص دفعة؛ كرّر لبقية البحوث."
+

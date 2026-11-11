@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.metadataQuality.name"
+msgstr "Metadata Quality & Indexing Readiness"
+
+msgid "plugins.generic.metadataQuality.description"
+msgstr "Checks article metadata completeness and journal readiness against Scopus, Web of Science, DOAJ and Crossref criteria, with an optional publishing gate and CSV reports. — Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies"
+
+msgid "plugins.generic.metadataQuality.menu"
+msgstr "Metadata Quality"
+
+msgid "plugins.generic.metadataQuality.open"
+msgstr "Open quality dashboard"
+
+msgid "plugins.generic.metadataQuality.forbidden"
+msgstr "Access denied."
+
+msgid "plugins.generic.metadataQuality.ok"
+msgstr "Complete"
+
+msgid "plugins.generic.metadataQuality.missingRequired"
+msgstr "Required gaps"
+
+msgid "plugins.generic.metadataQuality.missingRecommended"
+msgstr "Recommended gaps"
+
+msgid "plugins.generic.metadataQuality.journalReadiness"
+msgstr "Journal indexing readiness"
+
+msgid "plugins.generic.metadataQuality.avgArticleScore"
+msgstr "Average article metadata score"
+
+msgid "plugins.generic.metadataQuality.articlesWithGaps"
+msgstr "Articles with required gaps"
+
+msgid "plugins.generic.metadataQuality.gateOn"
+msgstr "On"
+
+msgid "plugins.generic.metadataQuality.gateOff"
+msgstr "Off"
+
+msgid "plugins.generic.metadataQuality.publishGate"
+msgstr "Publishing gate"
+
+msgid "plugins.generic.metadataQuality.fix"
+msgstr "Fix →"
+
+msgid "plugins.generic.metadataQuality.journalChecklist"
+msgstr "Journal readiness checklist (Scopus · WoS · DOAJ · Crossref)"
+
+msgid "plugins.generic.metadataQuality.journalChecklistIntro"
+msgstr "This list measures what indexers check on the journal website and policies. It is an internal indicator, not a guarantee of acceptance: indexers also evaluate content quality and citations."
+
+msgid "plugins.generic.metadataQuality.status"
+msgstr "Status"
+
+msgid "plugins.generic.metadataQuality.criterion"
+msgstr "Criterion"
+
+msgid "plugins.generic.metadataQuality.value"
+msgstr "Current value"
+
+msgid "plugins.generic.metadataQuality.standards"
+msgstr "Standards"
+
+msgid "plugins.generic.metadataQuality.articles"
+msgstr "Article metadata quality"
+
+msgid "plugins.generic.metadataQuality.scope.all"
+msgstr "All accepted and published"
+
+msgid "plugins.generic.metadataQuality.scope.production"
+msgstr "In copyediting/production"
+
+msgid "plugins.generic.metadataQuality.scope.published"
+msgstr "Published"
+
+msgid "plugins.generic.metadataQuality.scheduled"
+msgstr "Scheduled"
+
+msgid "plugins.generic.metadataQuality.inProgress"
+msgstr "In progress"
+
+msgid "plugins.generic.metadataQuality.apply"
+msgstr "Apply"
+
+msgid "plugins.generic.metadataQuality.details"
+msgstr "Details"
+
+msgid "plugins.generic.metadataQuality.title"
+msgstr "Title"
+
+msgid "plugins.generic.metadataQuality.score"
+msgstr "Score"
+
+msgid "plugins.generic.metadataQuality.noArticles"
+msgstr "No articles in this scope."
+
+msgid "plugins.generic.metadataQuality.scoreNote"
+msgstr "Score = 75% required fields + 25% recommended. Sorted from weakest; shows the latest 300 articles."
+
+msgid "plugins.generic.metadataQuality.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.metadataQuality.set.locales"
+msgstr "Required languages for title, abstract and keywords"
+
+msgid "plugins.generic.metadataQuality.set.minAbstractWords"
+msgstr "Minimum abstract words"
+
+msgid "plugins.generic.metadataQuality.set.minKeywords"
+msgstr "Minimum keywords"
+
+msgid "plugins.generic.metadataQuality.set.requireOrcid"
+msgstr "ORCID requirement"
+
+msgid "plugins.generic.metadataQuality.set.exemptSections"
+msgstr "Sections exempt from abstract/references (e.g. editorials)"
+
+msgid "plugins.generic.metadataQuality.set.gate"
+msgstr "Publishing gate"
+
+msgid "plugins.generic.metadataQuality.set.gateHelp"
+msgstr "When on, OJS refuses to publish an article with missing required fields and lists the gaps in the publish dialog. DOI (created at publication) and issue (checked by OJS) are skipped."
+
+msgid "plugins.generic.metadataQuality.requireOrcid.none"
+msgstr "Not required"
+
+msgid "plugins.generic.metadataQuality.requireOrcid.corresponding"
+msgstr "Corresponding author"
+
+msgid "plugins.generic.metadataQuality.requireOrcid.all"
+msgstr "All authors"
+
+msgid "plugins.generic.metadataQuality.gate.off"
+msgstr "Off (reports only)"
+
+msgid "plugins.generic.metadataQuality.gate.block"
+msgstr "On (block publishing on required gaps)"
+
+msgid "plugins.generic.metadataQuality.save"
+msgstr "Save settings"
+
+msgid "plugins.generic.metadataQuality.saved"
+msgstr "Settings saved."
+
+msgid "plugins.generic.metadataQuality.gateError"
+msgstr "Cannot publish until required metadata is complete (Metadata Quality plugin):"
+
+msgid "plugins.generic.metadataQuality.check.title"
+msgstr "Title"
+
+msgid "plugins.generic.metadataQuality.check.titleScript"
+msgstr "English title contains Arabic script"
+
+msgid "plugins.generic.metadataQuality.check.abstract"
+msgstr "Abstract (minimum words)"
+
+msgid "plugins.generic.metadataQuality.check.keywords"
+msgstr "Keywords"
+
+msgid "plugins.generic.metadataQuality.check.authors"
+msgstr "Authors"
+
+msgid "plugins.generic.metadataQuality.check.authorNames"
+msgstr "Author names in each required language"
+
+msgid "plugins.generic.metadataQuality.check.affiliation"
+msgstr "Affiliation for every author"
+
+msgid "plugins.generic.metadataQuality.check.affiliationEn"
+msgstr "Affiliation in English or ROR"
+
+msgid "plugins.generic.metadataQuality.check.country"
+msgstr "Country for every author"
+
+msgid "plugins.generic.metadataQuality.check.orcidValid"
+msgstr "Valid ORCID iDs"
+
+msgid "plugins.generic.metadataQuality.check.orcid"
+msgstr "ORCID iD"
+
+msgid "plugins.generic.metadataQuality.check.competingInterests"
+msgstr "Competing interests statement"
+
+msgid "plugins.generic.metadataQuality.check.correspondingEmail"
+msgstr "Corresponding author email"
+
+msgid "plugins.generic.metadataQuality.check.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.metadataQuality.check.license"
+msgstr "License URL"
+
+msgid "plugins.generic.metadataQuality.check.copyright"
+msgstr "Copyright holder and year"
+
+msgid "plugins.generic.metadataQuality.check.pages"
+msgstr "Page numbers"
+
+msgid "plugins.generic.metadataQuality.check.references"
+msgstr "Reference list"
+
+msgid "plugins.generic.metadataQuality.check.referencesRoman"
+msgstr "References in Roman script"
+
+msgid "plugins.generic.metadataQuality.check.referencesDoi"
+msgstr "References with DOIs"
+
+msgid "plugins.generic.metadataQuality.check.issue"
+msgstr "Assigned to an issue"
+
+msgid "plugins.generic.metadataQuality.check.galley"
+msgstr "Full-text galley (PDF/HTML)"
+
+msgid "plugins.generic.metadataQuality.check.acceptDecision"
+msgstr "Recorded acceptance decision (accepted date)"
+
+msgid "plugins.generic.metadataQuality.check.funding"
+msgstr "Funding or data availability statement"
+
+msgid "plugins.generic.metadataQuality.check.jIssn"
+msgstr "Valid ISSN"
+
+msgid "plugins.generic.metadataQuality.hint.jIssn"
+msgstr "International Standard Serial Number, with check digit validation."
+
+msgid "plugins.generic.metadataQuality.check.jIssnChecksum"
+msgstr "ISSN check digit is invalid"
+
+msgid "plugins.generic.metadataQuality.hint.jIssnChecksum"
+msgstr "Verify the number with the ISSN national centre."
+
+msgid "plugins.generic.metadataQuality.check.jPublisher"
+msgstr "Publisher name"
+
+msgid "plugins.generic.metadataQuality.hint.jPublisher"
+msgstr "Shown in Crossref and databases."
+
+msgid "plugins.generic.metadataQuality.check.jContact"
+msgstr "Contact details and mailing address"
+
+msgid "plugins.generic.metadataQuality.hint.jContact"
+msgstr "WoS criterion: full contact details."
+
+msgid "plugins.generic.metadataQuality.check.jAbout"
+msgstr "About page: aims and scope"
+
+msgid "plugins.generic.metadataQuality.hint.jAbout"
+msgstr "Clear description in each language (50+ words)."
+
+msgid "plugins.generic.metadataQuality.check.jEnglish"
+msgstr "English-language interface"
+
+msgid "plugins.generic.metadataQuality.hint.jEnglish"
+msgstr "Scopus: English-language homepage."
+
+msgid "plugins.generic.metadataQuality.check.jPeerReview"
+msgstr "Peer review policy published"
+
+msgid "plugins.generic.metadataQuality.hint.jPeerReview"
+msgstr "Type, process and timeline of peer review."
+
+msgid "plugins.generic.metadataQuality.check.jEthics"
+msgstr "Publication ethics & malpractice statement"
+
+msgid "plugins.generic.metadataQuality.hint.jEthics"
+msgstr "COPE-based: plagiarism, conflicts of interest, retractions."
+
+msgid "plugins.generic.metadataQuality.check.jOpenAccess"
+msgstr "Open access policy"
+
+msgid "plugins.generic.metadataQuality.hint.jOpenAccess"
+msgstr "DOAJ requirement."
+
+msgid "plugins.generic.metadataQuality.check.jLicense"
+msgstr "Content license (e.g. CC BY-NC)"
+
+msgid "plugins.generic.metadataQuality.hint.jLicense"
+msgstr "Deposited with Crossref metadata."
+
+msgid "plugins.generic.metadataQuality.check.jCopyright"
+msgstr "Copyright notice"
+
+msgid "plugins.generic.metadataQuality.hint.jCopyright"
+msgstr "Who holds copyright and reuse terms."
+
+msgid "plugins.generic.metadataQuality.check.jPrivacy"
+msgstr "Privacy statement"
+
+msgid "plugins.generic.metadataQuality.hint.jPrivacy"
+msgstr "Required by DOAJ and regulations."
+
+msgid "plugins.generic.metadataQuality.check.jAuthorGuidelines"
+msgstr "Author guidelines"
+
+msgid "plugins.generic.metadataQuality.hint.jAuthorGuidelines"
+msgstr "Formatting, referencing and submission instructions."
+
+msgid "plugins.generic.metadataQuality.check.jFees"
+msgstr "Fees (APC) statement"
+
+msgid "plugins.generic.metadataQuality.hint.jFees"
+msgstr "Must be stated even when there are no fees."
+
+msgid "plugins.generic.metadataQuality.check.jArchiving"
+msgstr "Archiving & digital preservation"
+
+msgid "plugins.generic.metadataQuality.hint.jArchiving"
+msgstr "E.g. PKP PN, LOCKSS or Portico."
+
+msgid "plugins.generic.metadataQuality.check.jDoi"
+msgstr "DOI prefix enabled"
+
+msgid "plugins.generic.metadataQuality.hint.jDoi"
+msgstr "Crossref membership with DOIs enabled."
+
+msgid "plugins.generic.metadataQuality.check.jOai"
+msgstr "OAI-PMH enabled"
+
+msgid "plugins.generic.metadataQuality.hint.jOai"
+msgstr "For harvesting by DOAJ and repositories."
+
+msgid "plugins.generic.metadataQuality.check.jBoard"
+msgstr "Published editorial board (5+ members)"
+
+msgid "plugins.generic.metadataQuality.hint.jBoard"
+msgstr "Members of masthead user groups."
+
+msgid "plugins.generic.metadataQuality.check.jBoardAffiliation"
+msgstr "Editorial board affiliations"
+
+msgid "plugins.generic.metadataQuality.hint.jBoardAffiliation"
+msgstr "WoS criterion: editorial affiliation details."
+
+msgid "plugins.generic.metadataQuality.check.jBoardDiversity"
+msgstr "Geographic diversity of board (3+ countries)"
+
+msgid "plugins.generic.metadataQuality.hint.jBoardDiversity"
+msgstr "Scopus and WoS assess editor diversity."
+
+msgid "plugins.generic.metadataQuality.check.jAuthorDiversity"
+msgstr "Author geographic diversity (last 3 years)"
+
+msgid "plugins.generic.metadataQuality.hint.jAuthorDiversity"
+msgstr "3+ countries, no single country above 80%."
+
+msgid "plugins.generic.metadataQuality.check.jRegularity"
+msgstr "Publishing regularity (issues in 2 of last 3 years)"
+
+msgid "plugins.generic.metadataQuality.hint.jRegularity"
+msgstr "Scopus requires a regular publishing history."
+
+msgid "plugins.generic.metadataQuality.check.jFullText"
+msgstr "Full text online for every published article"
+
+msgid "plugins.generic.metadataQuality.hint.jFullText"
+msgstr "Published articles without a galley."
+
+msgid "plugins.generic.metadataQuality.check.jScholarPlugin"
+msgstr "Google Scholar plugin enabled"
+
+msgid "plugins.generic.metadataQuality.hint.jScholarPlugin"
+msgstr "citation_ meta tags for Google Scholar."
+

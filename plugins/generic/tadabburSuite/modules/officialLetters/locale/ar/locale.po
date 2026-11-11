@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.officialLetters.name"
+msgstr "الخطابات الرسمية الموثّقة"
+
+msgid "plugins.generic.officialLetters.description"
+msgstr "إفادة استلام بحث، وإفادة قبول نهائي للنشر، وشهادة نشر، على ورق المجلة الرسمي برقم صادر وتاريخ هجري وميلادي وتوقيع رئيس التحرير والختم ورمز QR يفتح صفحة تحقق عامة. يصدرها المحرر أو يستخرجها المؤلف بنفسه متى استحقها. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.officialLetters.open"
+msgstr "فتح الخطابات"
+
+msgid "plugins.generic.officialLetters.menu"
+msgstr "الخطابات الرسمية"
+
+msgid "plugins.generic.officialLetters.myMenu"
+msgstr "خطاباتي"
+
+msgid "plugins.generic.officialLetters.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.officialLetters.intro"
+msgstr "اختر البحث ثم نوع الخطاب ولغته. الزر الأزرق يصدر خطابًا جديدًا، والأبيض يعيد تنزيل الخطاب الساري نفسه برقمه. كل خطاب يُحفظ بلقطة ثابتة من بيانات البحث وقت إصداره، ويُتحقق منه عبر رمز QR."
+
+msgid "plugins.generic.officialLetters.noMpdf"
+msgstr "مكتبة mPDF غير متوفرة على الخادم؛ لا يمكن توليد ملفات PDF."
+
+msgid "plugins.generic.officialLetters.search"
+msgstr "رقم البحث أو كلمة من العنوان"
+
+msgid "plugins.generic.officialLetters.searchBtn"
+msgstr "بحث"
+
+msgid "plugins.generic.officialLetters.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.officialLetters.col.letters"
+msgstr "الخطابات"
+
+msgid "plugins.generic.officialLetters.col.number"
+msgstr "رقم الصادر"
+
+msgid "plugins.generic.officialLetters.col.type"
+msgstr "نوع الخطاب"
+
+msgid "plugins.generic.officialLetters.col.date"
+msgstr "تاريخ الإصدار"
+
+msgid "plugins.generic.officialLetters.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.officialLetters.type.receipt"
+msgstr "إفادة استلام بحث"
+
+msgid "plugins.generic.officialLetters.type.acceptance"
+msgstr "إفادة قبول نهائي للنشر"
+
+msgid "plugins.generic.officialLetters.type.publication"
+msgstr "شهادة نشر"
+
+msgid "plugins.generic.officialLetters.notYet.receipt"
+msgstr "بعد إتمام التقديم"
+
+msgid "plugins.generic.officialLetters.notYet.acceptance"
+msgstr "بعد قرار القبول"
+
+msgid "plugins.generic.officialLetters.notYet.publication"
+msgstr "بعد النشر"
+
+msgid "plugins.generic.officialLetters.history"
+msgstr "سجل خطابات البحث"
+
+msgid "plugins.generic.officialLetters.recent"
+msgstr "آخر الخطابات الصادرة"
+
+msgid "plugins.generic.officialLetters.noLetters"
+msgstr "لم يصدر له خطاب بعد."
+
+msgid "plugins.generic.officialLetters.back"
+msgstr "كل البحوث"
+
+msgid "plugins.generic.officialLetters.valid"
+msgstr "ساري"
+
+msgid "plugins.generic.officialLetters.revoked"
+msgstr "ملغى"
+
+msgid "plugins.generic.officialLetters.verifyPage"
+msgstr "صفحة التحقق"
+
+msgid "plugins.generic.officialLetters.reason"
+msgstr "سبب الإلغاء"
+
+msgid "plugins.generic.officialLetters.revoke"
+msgstr "إلغاء"
+
+msgid "plugins.generic.officialLetters.reissueLabel"
+msgstr "إصدار جديد برقم جديد (بعد تعديل البيانات):"
+
+msgid "plugins.generic.officialLetters.reissue"
+msgstr "إصدار جديد"
+
+msgid "plugins.generic.officialLetters.pdfError"
+msgstr "تعذّر توليد الخطاب:"
+
+msgid "plugins.generic.officialLetters.mineIntro"
+msgstr "خطابات بحوثك في المجلة. يتاح كل خطاب تلقائيًا متى استحققته: الاستلام بعد التقديم، والقبول بعد قرار القبول، وشهادة النشر بعد صدور البحث."
+
+msgid "plugins.generic.officialLetters.mineNote"
+msgstr "يمكن لأي جهة التحقق من صحة الخطاب بمسح رمز QR المطبوع عليه."
+
+msgid "plugins.generic.officialLetters.authorsDisabled"
+msgstr "استخراج الخطابات ذاتيًا غير مفعّل في هذه المجلة؛ تواصل مع هيئة التحرير."
+
+msgid "plugins.generic.officialLetters.noSubmissions"
+msgstr "لا توجد لك بحوث مقدَّمة في هذه المجلة."
+
+msgid "plugins.generic.officialLetters.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.officialLetters.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.officialLetters.set.allowAuthors"
+msgstr "السماح للمؤلفين باستخراج خطاباتهم بأنفسهم"
+
+msgid "plugins.generic.officialLetters.set.signature"
+msgstr "إظهار توقيع رئيس التحرير والختم"
+
+msgid "plugins.generic.officialLetters.set.noteAr"
+msgstr "فقرة إضافية في الخطابات العربية (اختياري)"
+
+msgid "plugins.generic.officialLetters.set.noteEn"
+msgstr "فقرة إضافية في الخطابات الإنجليزية (اختياري)"
+
+msgid "plugins.generic.officialLetters.set.assets"
+msgstr "ورق المجلة والتوقيع والختم في مجلد assets داخل الإضافة (letterhead.jpg، signature.png، stamp.png، name_editor.png)؛ استبدلها بالملفات نفسها عند تغيير رئيس التحرير."
+
+msgid "plugins.generic.officialLetters.title.receipt"
+msgstr "إفادة استلام بحث"
+
+msgid "plugins.generic.officialLetters.title.acceptance"
+msgstr "إفادة قبول نهائي للنشر"
+
+msgid "plugins.generic.officialLetters.title.publication"
+msgstr "شهادة نشر بحث"
+
+msgid "plugins.generic.officialLetters.salute.author"
+msgstr "المكرّم الأستاذ/ {$name}   وفقه الله"
+
+msgid "plugins.generic.officialLetters.salute.general"
+msgstr "إلى من يهمه الأمر"
+
+msgid "plugins.generic.officialLetters.body.receipt"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فتفيد {$journal} باستلام بحثكم الموسوم بـ«{$title}» بتاريخ {$submitted}، وقد قُيّد برقم ({$id})، وسيخضع للإجراءات العلمية المتبعة في المجلة من الفحص الأولي ثم التحكيم العلمي، وسنوافيكم بما يستجد."
+
+msgid "plugins.generic.officialLetters.body.acceptance"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فتفيد {$journal} بأن البحث الموسوم بـ«{$title}» للباحث/الباحثين: {$authors}، قد اجتاز التحكيم العلمي وأُجيز للنشر بصفة نهائية بتاريخ {$accepted}، وأُعطيت هذه الإفادة بناءً على طلبه."
+
+msgid "plugins.generic.officialLetters.body.publication"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فتشهد {$journal} بأن البحث الموسوم بـ«{$title}» للباحث/الباحثين: {$authors}، قد نُشر بعد تحكيمه علميًا في {$issue} بتاريخ {$published}، وأُعطيت هذه الشهادة بناءً على طلبه."
+
+msgid "plugins.generic.officialLetters.f.title"
+msgstr "عنوان البحث"
+
+msgid "plugins.generic.officialLetters.f.authors"
+msgstr "الباحث/الباحثون"
+
+msgid "plugins.generic.officialLetters.f.id"
+msgstr "رقم البحث"
+
+msgid "plugins.generic.officialLetters.f.submitted"
+msgstr "تاريخ الاستلام"
+
+msgid "plugins.generic.officialLetters.f.accepted"
+msgstr "تاريخ القبول"
+
+msgid "plugins.generic.officialLetters.f.published"
+msgstr "تاريخ النشر"
+
+msgid "plugins.generic.officialLetters.f.issue"
+msgstr "العدد"
+
+msgid "plugins.generic.officialLetters.f.pages"
+msgstr "الصفحات"
+
+msgid "plugins.generic.officialLetters.f.doi"
+msgstr "المعرّف الرقمي DOI"
+
+msgid "plugins.generic.officialLetters.f.expectedIssue"
+msgstr "العدد المتوقع للنشر"
+
+msgid "plugins.generic.officialLetters.closing"
+msgstr "وتقبلوا خالص التحية والتقدير،،،"
+
+msgid "plugins.generic.officialLetters.signer"
+msgstr "رئيس التحرير"
+
+msgid "plugins.generic.officialLetters.verifyHint"
+msgstr "للتحقق امسح الرمز"
+
+msgid "plugins.generic.officialLetters.vol"
+msgstr "المجلد {$n}"
+
+msgid "plugins.generic.officialLetters.no"
+msgstr "العدد {$n}"
+
+msgid "plugins.generic.officialLetters.v.title"
+msgstr "التحقق من خطاب رسمي"
+
+msgid "plugins.generic.officialLetters.v.valid"
+msgstr "خطاب صحيح صادر عن المجلة"
+
+msgid "plugins.generic.officialLetters.v.revoked"
+msgstr "هذا الخطاب ملغى"
+
+msgid "plugins.generic.officialLetters.v.revokedOn"
+msgstr "أُلغي بتاريخ {$d}."
+
+msgid "plugins.generic.officialLetters.v.notFound"
+msgstr "لا يوجد خطاب بهذا الرمز"
+
+msgid "plugins.generic.officialLetters.v.notFoundHelp"
+msgstr "تأكد من الرمز المطبوع أسفل رمز QR، أو تواصل مع المجلة."
+
+msgid "plugins.generic.officialLetters.v.note"
+msgstr "البيانات المعروضة هي المسجلة وقت إصدار الخطاب. أي اختلاف بينها وبين الورقة المقدّمة إليك يعني أن الورقة معدّلة."
+

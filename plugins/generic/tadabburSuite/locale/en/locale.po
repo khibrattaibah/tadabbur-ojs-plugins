@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.tadabburSuite.name"
+msgstr "Tadabbur Suite (all tools in one plugin)"
+
+msgid "plugins.generic.tadabburSuite.description"
+msgstr "One plugin containing all the journal tools as modules. Installed and upgraded once, groups their sidebar entries under a single item, and keeps the editor-in-chief signature, stamp and letterhead outside the plugin folder. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.tadabburSuite.st.active"
+msgstr "active modules"
+
+msgid "plugins.generic.tadabburSuite.st.dups"
+msgstr "duplicate standalone copies"
+
+msgid "plugins.generic.tadabburSuite.st.db"
+msgstr "database tables"
+
+msgid "plugins.generic.tadabburSuite.st.pdf"
+msgstr "PDF generation"
+
+msgid "plugins.generic.tadabburSuite.dupsNote"
+msgstr "Old standalone copies ({$list}) were disabled automatically because the suite contains them; delete their folders from plugins/generic whenever convenient — your data is kept."
+
+msgid "plugins.generic.tadabburSuite.standaloneShort"
+msgstr "Old standalone copy found (auto-disabled)"
+
+msgid "plugins.generic.tadabburSuite.searchModules"
+msgstr "Search modules…"
+
+msgid "plugins.generic.tadabburSuite.cat.all"
+msgstr "All"
+
+msgid "plugins.generic.tadabburSuite.cat.docs"
+msgstr "Documents & certificates"
+
+msgid "plugins.generic.tadabburSuite.cat.editorial"
+msgstr "Editorial & review"
+
+msgid "plugins.generic.tadabburSuite.cat.quality"
+msgstr "Quality & metadata"
+
+msgid "plugins.generic.tadabburSuite.cat.reach"
+msgstr "Indexing & reach"
+
+msgid "plugins.generic.tadabburSuite.cat.other"
+msgstr "Other"
+
+msgid "plugins.generic.tadabburSuite.menu"
+msgstr "Tadabbur Tools"
+
+msgid "plugins.generic.tadabburSuite.menuManage"
+msgstr "Suite Settings"
+
+msgid "plugins.generic.tadabburSuite.openPanel"
+msgstr "Open Suite panel"
+
+msgid "plugins.generic.tadabburSuite.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.tadabburSuite.intro"
+msgstr "Version {$v}. All journal tools are modules inside one plugin; turn off what you do not need, and update everything by uploading the suite once. Module data and settings are kept on upgrade."
+
+msgid "plugins.generic.tadabburSuite.modules"
+msgstr "Modules"
+
+msgid "plugins.generic.tadabburSuite.on"
+msgstr "On"
+
+msgid "plugins.generic.tadabburSuite.module"
+msgstr "Module"
+
+msgid "plugins.generic.tadabburSuite.version"
+msgstr "Version"
+
+msgid "plugins.generic.tadabburSuite.open"
+msgstr "Open"
+
+msgid "plugins.generic.tadabburSuite.standaloneWarn"
+msgstr "A stale standalone copy of this plugin was found in plugins/generic; it was disabled automatically and the suite module is the one running. You can safely delete its folder (your data is kept)."
+
+msgid "plugins.generic.tadabburSuite.groupMenu"
+msgstr "Group module menu entries under one \"Tadabbur Tools\" sidebar item"
+
+msgid "plugins.generic.tadabburSuite.save"
+msgstr "Save"
+
+msgid "plugins.generic.tadabburSuite.branding"
+msgstr "Shared journal branding"
+
+msgid "plugins.generic.tadabburSuite.brandingHelp"
+msgstr "Upload the editor-in-chief signature, stamp and letterhead here; they are used at once in official letters, reviewer certificates and review forms. They are stored in the files folder outside the plugin, so no update erases them, and the default image can be restored at any time. When the editor-in-chief changes, upload the name and signature (and blue signature) together."
+
+msgid "plugins.generic.tadabburSuite.usingDefault"
+msgstr "Bundled default image"
+
+msgid "plugins.generic.tadabburSuite.upload"
+msgstr "Upload & replace"
+
+msgid "plugins.generic.tadabburSuite.reset"
+msgstr "Restore default"
+
+msgid "plugins.generic.tadabburSuite.env"
+msgstr "Environment check"
+
+msgid "plugins.generic.tadabburSuite.hijri"
+msgstr "Hijri dates"
+
+msgid "plugins.generic.tadabburSuite.images"
+msgstr "images"
+
+msgid "plugins.generic.tadabburSuite.filesDir"
+msgstr "Files folder writable"
+
+msgid "plugins.generic.tadabburSuite.dbUpdates"
+msgstr "Module database updates"
+
+msgid "plugins.generic.tadabburSuite.runDb"
+msgstr "Run database updates now"
+
+msgid "plugins.generic.tadabburSuite.services"
+msgstr "Shared service keys"
+
+msgid "plugins.generic.tadabburSuite.servicesHelp"
+msgstr "The free OpenAlex key is used by every module that reads citations and indexing (Article Impact, Indexing Readiness, Deposit & Linking) unless a module has its own key. Get it from your OpenAlex account: Settings → API key."
+
+msgid "plugins.generic.tadabburSuite.openalexKey"
+msgstr "OpenAlex API key"
+
+msgid "plugins.generic.tadabburSuite.msg.saved"
+msgstr "Settings saved."
+
+msgid "plugins.generic.tadabburSuite.msg.uploaded"
+msgstr "Image uploaded; it is used in all new documents."
+
+msgid "plugins.generic.tadabburSuite.msg.reset"
+msgstr "Default image restored."
+
+msgid "plugins.generic.tadabburSuite.msg.migrated"
+msgstr "Database updates completed."
+
+msgid "plugins.generic.tadabburSuite.msg.migrateErr"
+msgstr "Some modules could not be updated; see the environment check."
+
+msgid "plugins.generic.tadabburSuite.msg.uploadFailed"
+msgstr "Upload failed."
+
+msgid "plugins.generic.tadabburSuite.msg.tooBig"
+msgstr "Image is larger than 6 MB."
+
+msgid "plugins.generic.tadabburSuite.msg.notImage"
+msgstr "The file is not a valid PNG or JPG image."
+
+msgid "plugins.generic.tadabburSuite.msg.noGd"
+msgstr "The GD extension is not available on the server."
+
+msgid "plugins.generic.tadabburSuite.msg.notWritable"
+msgstr "Could not write to the files folder."
+
+msgid "plugins.generic.tadabburSuite.msg.unknownKey"
+msgstr "Unknown image."
+
+
+msgid "plugins.generic.tadabburSuite.st.held"
+msgstr "Deferred modules"
+
+msgid "plugins.generic.tadabburSuite.st.fail"
+msgstr "Failed checks"
+
+msgid "plugins.generic.tadabburSuite.st.unknown"
+msgstr "Not verifiable"
+
+msgid "plugins.generic.tadabburSuite.readinessOpen"
+msgstr "Readiness check"
+
+msgid "plugins.generic.tadabburSuite.back"
+msgstr "Back"
+
+msgid "plugins.generic.tadabburSuite.legacyBrand"
+msgstr "Legacy branding files exist that used to be shared between journals (before 1.5.0). They are not used automatically."
+
+msgid "plugins.generic.tadabburSuite.legacyBrandImport"
+msgstr "Copy them to this journal"
+
+msgid "plugins.generic.tadabburSuite.state.held"
+msgstr "Deferred — stage {$n}"
+
+msgid "plugins.generic.tadabburSuite.state.off"
+msgstr "Disabled"
+
+msgid "plugins.generic.tadabburSuite.state.on"
+msgstr "Enabled"
+
+msgid "plugins.generic.tadabburSuite.state.ro"
+msgstr "Read-only"
+
+msgid "plugins.generic.tadabburSuite.state.needs"
+msgstr "Missing dependency: {$m}"
+
+msgid "plugins.generic.tadabburSuite.state.noMig"
+msgstr "Migration has not succeeded — see readiness check"
+
+msgid "plugins.generic.tadabburSuite.envHelp"
+msgstr "Migration runs automatically when the suite is installed or upgraded from the Plugins page. Press the button only if files were uploaded manually. Per-module status and errors are on the readiness page."
+
+msgid "plugins.generic.tadabburSuite.msg.savedPartial"
+msgstr "Only valid modules were saved; modules not released, not migrated, or missing a dependency were left out."
+
+msgid "plugins.generic.tadabburSuite.rd.ok"
+msgstr "Verified"
+
+msgid "plugins.generic.tadabburSuite.rd.fail"
+msgstr "Failed"
+
+msgid "plugins.generic.tadabburSuite.rd.unknown"
+msgstr "Not verifiable"
+
+msgid "plugins.generic.tadabburSuite.rd.info"
+msgstr "Info"
+
+msgid "plugins.generic.tadabburSuite.rd.lead"
+msgstr "\"Verified\" means we read the real state and it matched the requirement. \"Not verifiable\" means the application has no evidence (e.g. actual mail delivery, backup integrity); it is not treated as healthy just because a setting exists."
+
+msgid "plugins.generic.tadabburSuite.rd.g.platform"
+msgstr "Platform"
+
+msgid "plugins.generic.tadabburSuite.rd.g.identity"
+msgstr "Product identity & install leftovers"
+
+msgid "plugins.generic.tadabburSuite.rd.g.migration"
+msgstr "Database migration"
+
+msgid "plugins.generic.tadabburSuite.rd.g.storage"
+msgstr "Files"
+
+msgid "plugins.generic.tadabburSuite.rd.g.ops"
+msgstr "Operations: mail, jobs, backups"
+
+msgid "plugins.generic.tadabburSuite.rd.g.context"
+msgstr "Context"

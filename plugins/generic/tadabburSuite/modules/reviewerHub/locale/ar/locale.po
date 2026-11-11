@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.reviewerHub.name"
+msgstr "مركز المحكّمين"
+
+msgid "plugins.generic.reviewerHub.description"
+msgstr "دليل المحكّمين بمؤشرات أدائهم الفعلية، واقتراح المحكّم الأنسب لكل بحث بحسب الاهتمامات وخبرة التحكيم مع موازنة الجودة والسرعة والعبء، وكشف تضارب المصالح. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.reviewerHub.open"
+msgstr "فتح مركز المحكّمين"
+
+msgid "plugins.generic.reviewerHub.menu"
+msgstr "مركز المحكّمين"
+
+msgid "plugins.generic.reviewerHub.suggestTitle"
+msgstr "اقتراح محكّمين"
+
+msgid "plugins.generic.reviewerHub.profileTitle"
+msgstr "ملف المحكّم"
+
+msgid "plugins.generic.reviewerHub.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.reviewerHub.notFound"
+msgstr "المحكّم غير موجود."
+
+msgid "plugins.generic.reviewerHub.nav.directory"
+msgstr "دليل المحكّمين"
+
+msgid "plugins.generic.reviewerHub.nav.suggest"
+msgstr "اقتراح محكّمين لبحث"
+
+msgid "plugins.generic.reviewerHub.k.reviewers"
+msgstr "محكّمًا مسجلًا"
+
+msgid "plugins.generic.reviewerHub.k.countries"
+msgstr "دولة"
+
+msgid "plugins.generic.reviewerHub.k.active"
+msgstr "تحكيم جارٍ"
+
+msgid "plugins.generic.reviewerHub.k.turnaround"
+msgstr "متوسط مدة التحكيم"
+
+msgid "plugins.generic.reviewerHub.k.noInterests"
+msgstr "بلا اهتمامات مسجلة"
+
+msgid "plugins.generic.reviewerHub.daysN"
+msgstr "{$n} يومًا"
+
+msgid "plugins.generic.reviewerHub.lateN"
+msgstr "{$n} متأخر"
+
+msgid "plugins.generic.reviewerHub.incompleteNote"
+msgstr "{$n} من المحكّمين لم يسجلوا اهتماماتهم البحثية، فلا يمكن اقتراحهم آليًا. أرسل لهم طلبًا لتحديث ملفاتهم."
+
+msgid "plugins.generic.reviewerHub.requestBtn"
+msgstr "اطلب تحديث الملفات"
+
+msgid "plugins.generic.reviewerHub.confirmRequest"
+msgstr "سيُرسل بريد إلى {$n} محكّم."
+
+msgid "plugins.generic.reviewerHub.requestSent"
+msgstr "أُرسل الطلب إلى {$n} محكّم."
+
+msgid "plugins.generic.reviewerHub.allCountries"
+msgstr "كل الدول"
+
+msgid "plugins.generic.reviewerHub.search"
+msgstr "بحث بالاسم أو الجهة أو التخصص"
+
+msgid "plugins.generic.reviewerHub.availableOnly"
+msgstr "المتاحون فقط (بلا عبء حالي)"
+
+msgid "plugins.generic.reviewerHub.filter"
+msgstr "تصفية"
+
+msgid "plugins.generic.reviewerHub.sort.completed"
+msgstr "الأكثر تحكيمًا"
+
+msgid "plugins.generic.reviewerHub.sort.quality"
+msgstr "الأعلى جودة"
+
+msgid "plugins.generic.reviewerHub.sort.speed"
+msgstr "الأسرع"
+
+msgid "plugins.generic.reviewerHub.sort.load"
+msgstr "الأقل عبئًا"
+
+msgid "plugins.generic.reviewerHub.sort.name"
+msgstr "الاسم"
+
+msgid "plugins.generic.reviewerHub.col.reviewer"
+msgstr "المحكّم"
+
+msgid "plugins.generic.reviewerHub.col.interests"
+msgstr "الاهتمامات"
+
+msgid "plugins.generic.reviewerHub.col.completed"
+msgstr "مكتمل / مدعو"
+
+msgid "plugins.generic.reviewerHub.col.acceptRate"
+msgstr "قبول الدعوات"
+
+msgid "plugins.generic.reviewerHub.col.avgDays"
+msgstr "متوسط المدة"
+
+msgid "plugins.generic.reviewerHub.col.onTime"
+msgstr "في الموعد"
+
+msgid "plugins.generic.reviewerHub.col.quality"
+msgstr "الجودة"
+
+msgid "plugins.generic.reviewerHub.col.load"
+msgstr "العبء الحالي"
+
+msgid "plugins.generic.reviewerHub.col.last"
+msgstr "آخر دعوة"
+
+msgid "plugins.generic.reviewerHub.noInterests"
+msgstr "لم تُسجل"
+
+msgid "plugins.generic.reviewerHub.dirNote"
+msgstr "المؤشرات من سجل التحكيم الفعلي في المجلة. «الجودة» هي تقييم المحرر للتقرير (1–5) في OJS. العبء = مهام مقبولة لم تكتمل + دعوات بلا رد."
+
+msgid "plugins.generic.reviewerHub.suggestIntro"
+msgstr "اختر بحثًا لاقتراح المحكّمين الأنسب له: تُطابق الكلمات المفتاحية والعنوان والملخص باهتمامات المحكّمين وبالبحوث التي حكّموها سابقًا، ثم يُوازن الترتيب بالجودة والسرعة والعبء الحالي، ويُستبعد من له تضارب مصالح."
+
+msgid "plugins.generic.reviewerHub.pickSubmission"
+msgstr "— اختر البحث —"
+
+msgid "plugins.generic.reviewerHub.suggestBtn"
+msgstr "اقترح"
+
+msgid "plugins.generic.reviewerHub.noKeywords"
+msgstr "لا كلمات مفتاحية؛ تُستعمل كلمات العنوان والملخص."
+
+msgid "plugins.generic.reviewerHub.openWorkflow"
+msgstr "فتح البحث لإسناد المحكّم"
+
+msgid "plugins.generic.reviewerHub.suggested"
+msgstr "المحكّمون المقترحون ({$n} من {$p})"
+
+msgid "plugins.generic.reviewerHub.noMatch"
+msgstr "لم يُعثر على محكّم مطابق؛ أضف محكّمين بهذه التخصصات أو أكمل اهتماماتهم."
+
+msgid "plugins.generic.reviewerHub.col.why"
+msgstr "سبب الاقتراح"
+
+msgid "plugins.generic.reviewerHub.col.score"
+msgstr "الدرجة"
+
+msgid "plugins.generic.reviewerHub.col.record"
+msgstr "السجل"
+
+msgid "plugins.generic.reviewerHub.why.kw"
+msgstr "يطابق الكلمات المفتاحية"
+
+msgid "plugins.generic.reviewerHub.why.title"
+msgstr "يطابق العنوان"
+
+msgid "plugins.generic.reviewerHub.why.abs"
+msgstr "يرد في الملخص"
+
+msgid "plugins.generic.reviewerHub.why.history"
+msgstr "حكّم {$n} بحثًا قريبًا"
+
+msgid "plugins.generic.reviewerHub.relevance"
+msgstr "المطابقة {$n}"
+
+msgid "plugins.generic.reviewerHub.record"
+msgstr "{$c} تحكيم · {$d} يومًا · قبول {$a}%"
+
+msgid "plugins.generic.reviewerHub.assignNote"
+msgstr "تُسند الدعوة من صفحة البحث في OJS (التحكيم ← إضافة محكّم) ليستعمل قوالب البريد ومواعيد المجلة."
+
+msgid "plugins.generic.reviewerHub.excluded"
+msgstr "مستبعدون لتضارب المصالح ({$n})"
+
+msgid "plugins.generic.reviewerHub.coi.author"
+msgstr "مؤلف في البحث"
+
+msgid "plugins.generic.reviewerHub.coi.affiliation"
+msgstr "من جهة أحد المؤلفين"
+
+msgid "plugins.generic.reviewerHub.coi.coauthor"
+msgstr "شارك أحد المؤلفين التأليف"
+
+msgid "plugins.generic.reviewerHub.coi.assigned"
+msgstr "مسند لهذا البحث سلفًا"
+
+msgid "plugins.generic.reviewerHub.history"
+msgstr "سجل التحكيم في المجلة"
+
+msgid "plugins.generic.reviewerHub.col.submission"
+msgstr "البحث"
+
+msgid "plugins.generic.reviewerHub.col.invited"
+msgstr "الدعوة"
+
+msgid "plugins.generic.reviewerHub.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.reviewerHub.col.days"
+msgstr "المدة (أيام)"
+
+msgid "plugins.generic.reviewerHub.col.recommendation"
+msgstr "التوصية"
+
+msgid "plugins.generic.reviewerHub.roundN"
+msgstr "الجولة {$n}"
+
+msgid "plugins.generic.reviewerHub.st.declined"
+msgstr "اعتذر"
+
+msgid "plugins.generic.reviewerHub.st.completed"
+msgstr "مكتمل"
+
+msgid "plugins.generic.reviewerHub.st.accepted"
+msgstr "قيد التحكيم"
+
+msgid "plugins.generic.reviewerHub.st.pending"
+msgstr "بلا رد"
+
+msgid "plugins.generic.reviewerHub.rec.1"
+msgstr "قبول"
+
+msgid "plugins.generic.reviewerHub.rec.2"
+msgstr "تعديلات مطلوبة"
+
+msgid "plugins.generic.reviewerHub.rec.3"
+msgstr "إعادة التقديم للتحكيم"
+
+msgid "plugins.generic.reviewerHub.rec.4"
+msgstr "يُقدّم لمجلة أخرى"
+
+msgid "plugins.generic.reviewerHub.rec.5"
+msgstr "رفض"
+
+msgid "plugins.generic.reviewerHub.rec.6"
+msgstr "انظر التعليقات"
+
+msgid "plugins.generic.reviewerHub.mail.subject"
+msgstr "تحديث ملفكم في {$journal}"
+
+msgid "plugins.generic.reviewerHub.mail.body"
+msgstr "الزميل الكريم {$name}،\n\nنشكر لكم تعاونكم مع المجلة محكّمًا. لنستطيع دعوتكم إلى البحوث الأقرب إلى تخصصكم، نرجو تحديث «الاهتمامات البحثية» ومعرّف ORCID في ملفكم:\n{$url}\n\nمع خالص التقدير،\nهيئة تحرير {$journal}"
+

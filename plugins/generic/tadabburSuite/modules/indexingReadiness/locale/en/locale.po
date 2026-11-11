@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.indexingReadiness.name"
+msgstr "Name"
+
+msgid "plugins.generic.indexingReadiness.description"
+msgstr "Measures the journal against Scopus, Web of Science and DOAJ criteria using OJS data and OpenAlex, supports evidence-based manual assessment, and produces an action plan and a printable dossier for indexing applications. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.indexingReadiness.open"
+msgstr "Open dossier"
+
+msgid "plugins.generic.indexingReadiness.menu"
+msgstr "Indexing Readiness"
+
+msgid "plugins.generic.indexingReadiness.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.indexingReadiness.tab.overview"
+msgstr "Overview"
+
+msgid "plugins.generic.indexingReadiness.dossier"
+msgstr "Printable dossier"
+
+msgid "plugins.generic.indexingReadiness.intro"
+msgstr "This page measures the journal against each database’s published criteria. Automatic indicators come from OJS data; qualitative criteria are assessed by the editors with evidence links. The result is a prioritised action plan."
+
+msgid "plugins.generic.indexingReadiness.counts"
+msgstr "Met {$met} · partial {$partial} · unmet {$unmet} · awaiting assessment {$manual}"
+
+msgid "plugins.generic.indexingReadiness.keyMetrics"
+msgstr "Key indicators"
+
+msgid "plugins.generic.indexingReadiness.window"
+msgstr "Computed for articles published in the last {$n} years plus the current year."
+
+msgid "plugins.generic.indexingReadiness.m.yearsActive"
+msgstr "Years publishing"
+
+msgid "plugins.generic.indexingReadiness.m.since"
+msgstr "since {$y}"
+
+msgid "plugins.generic.indexingReadiness.m.issues"
+msgstr "Issues published"
+
+msgid "plugins.generic.indexingReadiness.m.last"
+msgstr "Latest: {$d}"
+
+msgid "plugins.generic.indexingReadiness.m.articles"
+msgstr "Articles published"
+
+msgid "plugins.generic.indexingReadiness.m.enAbstract"
+msgstr "English abstracts"
+
+msgid "plugins.generic.indexingReadiness.m.enTitle"
+msgstr "English titles: {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.romanRefs"
+msgstr "References in Roman script"
+
+msgid "plugins.generic.indexingReadiness.m.refsTotal"
+msgstr "{$n} references"
+
+msgid "plugins.generic.indexingReadiness.m.selfCite"
+msgstr "Self-citation in references"
+
+msgid "plugins.generic.indexingReadiness.m.doi"
+msgstr "Articles with DOI"
+
+msgid "plugins.generic.indexingReadiness.m.orcid"
+msgstr "Authors with ORCID"
+
+msgid "plugins.generic.indexingReadiness.m.aff"
+msgstr "with affiliation: {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.authorCountries"
+msgstr "Author countries"
+
+msgid "plugins.generic.indexingReadiness.m.top"
+msgstr "top: {$c} {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.board"
+msgstr "Editorial board members"
+
+msgid "plugins.generic.indexingReadiness.m.boardSub"
+msgstr "{$c} countries · international {$v}"
+
+msgid "plugins.generic.indexingReadiness.oaTitle"
+msgstr "Citation indicators (OpenAlex)"
+
+msgid "plugins.generic.indexingReadiness.oaRefresh"
+msgstr "Refresh from OpenAlex"
+
+msgid "plugins.generic.indexingReadiness.oa.works"
+msgstr "Indexed works"
+
+msgid "plugins.generic.indexingReadiness.oa.cited"
+msgstr "Citations"
+
+msgid "plugins.generic.indexingReadiness.oa.h"
+msgstr "h-index"
+
+msgid "plugins.generic.indexingReadiness.oa.mean2y"
+msgstr "2-year mean citedness"
+
+msgid "plugins.generic.indexingReadiness.oa.doaj"
+msgstr "Listed in DOAJ"
+
+msgid "plugins.generic.indexingReadiness.oa.citedYear"
+msgstr "Citations that year"
+
+msgid "plugins.generic.indexingReadiness.oa.board"
+msgstr "Board members in OpenAlex ({$n})"
+
+msgid "plugins.generic.indexingReadiness.oaNote"
+msgstr "Last refreshed: {$d}. OpenAlex is an open index broader than Scopus; its figures are indicative, not a substitute for Scopus/WoS data."
+
+msgid "plugins.generic.indexingReadiness.oaEmpty"
+msgstr "No data fetched yet. Press “Refresh from OpenAlex” (the server needs internet access)."
+
+msgid "plugins.generic.indexingReadiness.oaError"
+msgstr "Could not fetch OpenAlex data: check the ISSN and the server’s internet access, then retry in a minute."
+
+msgid "plugins.generic.indexingReadiness.yes"
+msgstr "Yes"
+
+msgid "plugins.generic.indexingReadiness.no"
+msgstr "No"
+
+msgid "plugins.generic.indexingReadiness.year"
+msgstr "Year"
+
+msgid "plugins.generic.indexingReadiness.plan"
+msgstr "Action plan"
+
+msgid "plugins.generic.indexingReadiness.planIntro"
+msgstr "Prioritised: unmet requirements first, then partial, then items awaiting your assessment."
+
+msgid "plugins.generic.indexingReadiness.planEmpty"
+msgstr "Nothing pending."
+
+msgid "plugins.generic.indexingReadiness.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.indexingReadiness.set.expected"
+msgstr "Declared issues per year"
+
+msgid "plugins.generic.indexingReadiness.set.years"
+msgstr "Measurement window (years)"
+
+msgid "plugins.generic.indexingReadiness.save"
+msgstr "Save"
+
+msgid "plugins.generic.indexingReadiness.set.openalexKey"
+msgstr "OpenAlex API key (free, recommended)"
+
+msgid "plugins.generic.indexingReadiness.set.openalexKeyHelp"
+msgstr "Without a key, sites on the same server share a small daily quota and refreshes may fail. Keys are free at openalex.org."
+
+msgid "plugins.generic.indexingReadiness.saveEval"
+msgstr "Save assessment & evidence"
+
+msgid "plugins.generic.indexingReadiness.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.indexingReadiness.disclaimer"
+msgstr "Note: criteria follow each database’s published documentation; numeric thresholds are indicative guidance, not official figures. Final decisions rest with the databases’ committees."
+
+msgid "plugins.generic.indexingReadiness.about.scopus"
+msgstr "Scopus: prerequisites, then 14 criteria in 5 categories assessed by the CSAB; typically 3 years of regular publishing are required."
+
+msgid "plugins.generic.indexingReadiness.about.wos"
+msgstr "Web of Science: 24 quality criteria (sufficient for ESCI) plus 4 impact criteria for SCIE, SSCI and AHCI."
+
+msgid "plugins.generic.indexingReadiness.about.doaj"
+msgstr "DOAJ: basic inclusion criteria, plus best practices that improve acceptance."
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.pre"
+msgstr "Pre-requisites"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.policy"
+msgstr "Journal policy"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.content"
+msgstr "Content"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.standing"
+msgstr "Journal standing"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.regularity"
+msgstr "Publishing regularity"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.online"
+msgstr "Online availability"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.initial"
+msgstr "Initial triage"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.editorial"
+msgstr "Editorial triage"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.evaluation"
+msgstr "Editorial evaluation"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.impact"
+msgstr "Impact criteria"
+
+msgid "plugins.generic.indexingReadiness.grp.doaj.basic"
+msgstr "Basic criteria"
+
+msgid "plugins.generic.indexingReadiness.grp.doaj.best"
+msgstr "Best practice"
+
+msgid "plugins.generic.indexingReadiness.col.criterion"
+msgstr "Criterion"
+
+msgid "plugins.generic.indexingReadiness.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.indexingReadiness.col.value"
+msgstr "Measured"
+
+msgid "plugins.generic.indexingReadiness.col.evidence"
+msgstr "Assessment & evidence"
+
+msgid "plugins.generic.indexingReadiness.lvl.rec"
+msgstr "recommended"
+
+msgid "plugins.generic.indexingReadiness.lvl.impact"
+msgstr "impact"
+
+msgid "plugins.generic.indexingReadiness.src.auto"
+msgstr "automatic"
+
+msgid "plugins.generic.indexingReadiness.src.override"
+msgstr "editor override"
+
+msgid "plugins.generic.indexingReadiness.src.manual"
+msgstr "editor assessment"
+
+msgid "plugins.generic.indexingReadiness.opt.auto"
+msgstr "— automatic —"
+
+msgid "plugins.generic.indexingReadiness.opt.none"
+msgstr "— not assessed —"
+
+msgid "plugins.generic.indexingReadiness.ph.url"
+msgstr "Evidence link (https://…)"
+
+msgid "plugins.generic.indexingReadiness.ph.note"
+msgstr "Note"
+
+msgid "plugins.generic.indexingReadiness.st.met"
+msgstr "Met"
+
+msgid "plugins.generic.indexingReadiness.st.partial"
+msgstr "Partial"
+
+msgid "plugins.generic.indexingReadiness.st.unmet"
+msgstr "Unmet"
+
+msgid "plugins.generic.indexingReadiness.st.info"
+msgstr "Info"
+
+msgid "plugins.generic.indexingReadiness.st.manual"
+msgstr "Needs assessment"
+
+msgid "plugins.generic.indexingReadiness.dossierTitle"
+msgstr "Indexing readiness dossier"
+
+msgid "plugins.generic.indexingReadiness.generated"
+msgstr "Generated on {$d}"
+
+msgid "plugins.generic.indexingReadiness.print"
+msgstr "Print / save PDF"
+
+msgid "plugins.generic.indexingReadiness.d.profile"
+msgstr "Journal profile"
+
+msgid "plugins.generic.indexingReadiness.d.titleAr"
+msgstr "Title (Arabic)"
+
+msgid "plugins.generic.indexingReadiness.d.titleEn"
+msgstr "Title (English)"
+
+msgid "plugins.generic.indexingReadiness.d.publisher"
+msgstr "Publisher"
+
+msgid "plugins.generic.indexingReadiness.d.country"
+msgstr "Country"
+
+msgid "plugins.generic.indexingReadiness.d.url"
+msgstr "Website"
+
+msgid "plugins.generic.indexingReadiness.d.contact"
+msgstr "Email"
+
+msgid "plugins.generic.indexingReadiness.d.languages"
+msgstr "Site languages"
+
+msgid "plugins.generic.indexingReadiness.d.license"
+msgstr "Licence"
+
+msgid "plugins.generic.indexingReadiness.d.since"
+msgstr "Publishing since"
+
+msgid "plugins.generic.indexingReadiness.d.issuesTotal"
+msgstr "{$n} issues"
+
+msgid "plugins.generic.indexingReadiness.d.frequency"
+msgstr "Frequency"
+
+msgid "plugins.generic.indexingReadiness.d.perYear"
+msgstr "{$n} issues per year"
+
+msgid "plugins.generic.indexingReadiness.d.output"
+msgstr "Annual output"
+
+msgid "plugins.generic.indexingReadiness.d.quality"
+msgstr "Metadata quality"
+
+msgid "plugins.generic.indexingReadiness.d.enTitle"
+msgstr "English titles"
+
+msgid "plugins.generic.indexingReadiness.d.affAuthors"
+msgstr "Authors with affiliation"
+
+msgid "plugins.generic.indexingReadiness.d.diversity"
+msgstr "Geographic diversity"
+
+msgid "plugins.generic.indexingReadiness.d.localShare"
+msgstr "Share of home-country authors"
+
+msgid "plugins.generic.indexingReadiness.d.boardIntl"
+msgstr "Board members outside home country"
+
+msgid "plugins.generic.indexingReadiness.d.boardAff"
+msgstr "Members with affiliation"
+
+msgid "plugins.generic.indexingReadiness.d.boardOrcid"
+msgstr "Members with ORCID"
+
+msgid "plugins.generic.indexingReadiness.d.source"
+msgstr "Source"
+
+msgid "plugins.generic.indexingReadiness.d.compliance"
+msgstr "Compliance with {$db} criteria"
+
+msgid "plugins.generic.indexingReadiness.crit.issn"
+msgstr "Registered, valid ISSN"
+
+msgid "plugins.generic.indexingReadiness.crit.issn.h"
+msgstr "Enter the e-ISSN (or print ISSN) under Settings → Distribution and confirm it is registered in the ISSN Portal."
+
+msgid "plugins.generic.indexingReadiness.crit.peerReview"
+msgstr "Peer review is declared"
+
+msgid "plugins.generic.indexingReadiness.crit.peerReview.h"
+msgstr "Describe the peer-review policy on the About page or in the reviewer guidelines."
+
+msgid "plugins.generic.indexingReadiness.crit.regular"
+msgstr "Regular publication"
+
+msgid "plugins.generic.indexingReadiness.crit.regular.h"
+msgstr "Publish the declared number of issues every year without gaps, for at least the last two years."
+
+msgid "plugins.generic.indexingReadiness.crit.englishAbstracts"
+msgstr "English titles and abstracts"
+
+msgid "plugins.generic.indexingReadiness.crit.englishAbstracts.h"
+msgstr "Every published article needs an English title and abstract (40+ words) in its metadata."
+
+msgid "plugins.generic.indexingReadiness.crit.romanRefs"
+msgstr "References in Roman script"
+
+msgid "plugins.generic.indexingReadiness.crit.romanRefs.h"
+msgstr "Enter references in Roman script in the article metadata (the Reference Romanizer plugin can help)."
+
+msgid "plugins.generic.indexingReadiness.crit.ethics"
+msgstr "Publication ethics statement"
+
+msgid "plugins.generic.indexingReadiness.crit.ethics.h"
+msgstr "Publish a publication ethics and malpractice statement aligned with COPE."
+
+msgid "plugins.generic.indexingReadiness.crit.editorialPolicy"
+msgstr "Convincing editorial policy"
+
+msgid "plugins.generic.indexingReadiness.crit.editorialPolicy.h"
+msgstr "State the journal’s mission, scope, audience and added value to the field (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.reviewType"
+msgstr "Type of peer review specified"
+
+msgid "plugins.generic.indexingReadiness.crit.reviewType.h"
+msgstr "State the review type explicitly (e.g. double-blind), number of reviewers and timeline."
+
+msgid "plugins.generic.indexingReadiness.crit.boardDiversity"
+msgstr "Geographic diversity of editors"
+
+msgid "plugins.generic.indexingReadiness.crit.boardDiversity.h"
+msgstr "A board of 7+ members from 3+ countries, with country and affiliation recorded in OJS."
+
+msgid "plugins.generic.indexingReadiness.crit.authorDiversity"
+msgstr "Geographic diversity of authors"
+
+msgid "plugins.generic.indexingReadiness.crit.authorDiversity.h"
+msgstr "Attract authors beyond the home country; ideally no single country exceeds 60% of authors."
+
+msgid "plugins.generic.indexingReadiness.crit.contribution"
+msgstr "Academic contribution to the field"
+
+msgid "plugins.generic.indexingReadiness.crit.contribution.h"
+msgstr "Assess originality and contribution (editor assessment with evidence: sample articles, review reports)."
+
+msgid "plugins.generic.indexingReadiness.crit.abstractClarity"
+msgstr "Clarity of abstracts"
+
+msgid "plugins.generic.indexingReadiness.crit.abstractClarity.h"
+msgstr "Clear, structured abstracts in Arabic and English, language-edited."
+
+msgid "plugins.generic.indexingReadiness.crit.scopeConformity"
+msgstr "Quality and conformity with scope"
+
+msgid "plugins.generic.indexingReadiness.crit.scopeConformity.h"
+msgstr "Published articles fall within the stated scope."
+
+msgid "plugins.generic.indexingReadiness.crit.readability"
+msgstr "Readability of articles"
+
+msgid "plugins.generic.indexingReadiness.crit.readability.h"
+msgstr "Quality of language, layout and copyediting."
+
+msgid "plugins.generic.indexingReadiness.crit.citedness"
+msgstr "Citedness of journal articles"
+
+msgid "plugins.generic.indexingReadiness.crit.citedness.h"
+msgstr "Read from OpenAlex; no official threshold — compared with journals in the same field."
+
+msgid "plugins.generic.indexingReadiness.crit.editorStanding"
+msgstr "Editor standing"
+
+msgid "plugins.generic.indexingReadiness.crit.editorStanding.h"
+msgstr "Publication/citation record of the editor and board; add members’ ORCID iDs to read it from OpenAlex."
+
+msgid "plugins.generic.indexingReadiness.crit.selfCitation"
+msgstr "Journal self-citation in references"
+
+msgid "plugins.generic.indexingReadiness.crit.selfCitation.h"
+msgstr "Share of references citing the journal itself; very high values raise concerns at Scopus."
+
+msgid "plugins.generic.indexingReadiness.crit.noDelays"
+msgstr "No delays or interruptions"
+
+msgid "plugins.generic.indexingReadiness.crit.noDelays.h"
+msgstr "The latest issue is on schedule and there are no long gaps between issues."
+
+msgid "plugins.generic.indexingReadiness.crit.fullTextOnline"
+msgstr "Full content available online"
+
+msgid "plugins.generic.indexingReadiness.crit.fullTextOnline.h"
+msgstr "All articles available in full text on the journal site."
+
+msgid "plugins.generic.indexingReadiness.crit.englishHome"
+msgstr "English-language home page"
+
+msgid "plugins.generic.indexingReadiness.crit.englishHome.h"
+msgstr "Enable English and complete the About page in English."
+
+msgid "plugins.generic.indexingReadiness.crit.homeQuality"
+msgstr "Quality of journal home page"
+
+msgid "plugins.generic.indexingReadiness.crit.homeQuality.h"
+msgstr "A clear, professional site: archive, board, policies, contact (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.title"
+msgstr "Journal title"
+
+msgid "plugins.generic.indexingReadiness.crit.title.h"
+msgstr "A clear, stable title matching the ISSN record."
+
+msgid "plugins.generic.indexingReadiness.crit.publisher"
+msgstr "Publisher"
+
+msgid "plugins.generic.indexingReadiness.crit.publisher.h"
+msgstr "Enter the publisher institution in settings."
+
+msgid "plugins.generic.indexingReadiness.crit.url"
+msgstr "Journal URL"
+
+msgid "plugins.generic.indexingReadiness.crit.url.h"
+msgstr "A working, stable URL."
+
+msgid "plugins.generic.indexingReadiness.crit.access"
+msgstr "Content access"
+
+msgid "plugins.generic.indexingReadiness.crit.access.h"
+msgstr "Content accessible to evaluators (open access satisfies this)."
+
+msgid "plugins.generic.indexingReadiness.crit.contact"
+msgstr "Contact details"
+
+msgid "plugins.generic.indexingReadiness.crit.contact.h"
+msgstr "Email and postal address in settings."
+
+msgid "plugins.generic.indexingReadiness.crit.scholarly"
+msgstr "Scholarly content"
+
+msgid "plugins.generic.indexingReadiness.crit.scholarly.h"
+msgstr "Content is original scholarly research, not general articles (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.romanBiblio"
+msgstr "Bibliographic information in Roman script"
+
+msgid "plugins.generic.indexingReadiness.crit.romanBiblio.h"
+msgstr "Titles, authors and references available in Roman script."
+
+msgid "plugins.generic.indexingReadiness.crit.languageClarity"
+msgstr "Language clarity"
+
+msgid "plugins.generic.indexingReadiness.crit.languageClarity.h"
+msgstr "Clear, correct language in articles and abstracts (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.timeliness"
+msgstr "Timeliness and publication volume"
+
+msgid "plugins.generic.indexingReadiness.crit.timeliness.h"
+msgstr "Timely publication with consistent, reasonable volume."
+
+msgid "plugins.generic.indexingReadiness.crit.website"
+msgstr "Website functionality"
+
+msgid "plugins.generic.indexingReadiness.crit.website.h"
+msgstr "A functional site: working links, archive, search (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.boardAffiliation"
+msgstr "Editorial board affiliation details"
+
+msgid "plugins.generic.indexingReadiness.crit.boardAffiliation.h"
+msgstr "Institutional affiliation shown for every board member."
+
+msgid "plugins.generic.indexingReadiness.crit.authorAffiliation"
+msgstr "Author affiliation details"
+
+msgid "plugins.generic.indexingReadiness.crit.authorAffiliation.h"
+msgstr "Affiliation recorded for every author."
+
+msgid "plugins.generic.indexingReadiness.crit.boardComposition"
+msgstr "Editorial board composition"
+
+msgid "plugins.generic.indexingReadiness.crit.boardComposition.h"
+msgstr "A board matching the scope, diverse, with published expertise."
+
+msgid "plugins.generic.indexingReadiness.crit.validStatements"
+msgstr "Validity of statements"
+
+msgid "plugins.generic.indexingReadiness.crit.validStatements.h"
+msgstr "Everything the journal claims (indexing, review, metrics) is accurate and verifiable (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.peerReviewEvidence"
+msgstr "Peer review evidence"
+
+msgid "plugins.generic.indexingReadiness.crit.peerReviewEvidence.h"
+msgstr "Keep review reports and show received/accepted dates on articles."
+
+msgid "plugins.generic.indexingReadiness.crit.contentRelevance"
+msgstr "Content relevance"
+
+msgid "plugins.generic.indexingReadiness.crit.contentRelevance.h"
+msgstr "Content consistent with title and scope (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.grantDetails"
+msgstr "Grant support details"
+
+msgid "plugins.generic.indexingReadiness.crit.grantDetails.h"
+msgstr "Report funding sources where they exist."
+
+msgid "plugins.generic.indexingReadiness.crit.communityStandards"
+msgstr "Adherence to community standards"
+
+msgid "plugins.generic.indexingReadiness.crit.communityStandards.h"
+msgstr "COPE membership or adherence, correction and retraction policies (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.authorDistribution"
+msgstr "Author distribution"
+
+msgid "plugins.generic.indexingReadiness.crit.authorDistribution.h"
+msgstr "Geographic and institutional diversity of authors appropriate to the scope."
+
+msgid "plugins.generic.indexingReadiness.crit.appropriateCitations"
+msgstr "Appropriate citations to the literature"
+
+msgid "plugins.generic.indexingReadiness.crit.appropriateCitations.h"
+msgstr "Relevant, current references without excessive self-citation (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.comparativeCitation"
+msgstr "Comparative citation analysis"
+
+msgid "plugins.generic.indexingReadiness.crit.comparativeCitation.h"
+msgstr "For SCIE/SSCI/AHCI: journal citations compared with field peers."
+
+msgid "plugins.generic.indexingReadiness.crit.authorCitation"
+msgstr "Author citation analysis"
+
+msgid "plugins.generic.indexingReadiness.crit.authorCitation.h"
+msgstr "Citation record of the journal’s authors."
+
+msgid "plugins.generic.indexingReadiness.crit.boardCitation"
+msgstr "Editorial board citation analysis"
+
+msgid "plugins.generic.indexingReadiness.crit.boardCitation.h"
+msgstr "Citation record of board members."
+
+msgid "plugins.generic.indexingReadiness.crit.significance"
+msgstr "Content significance"
+
+msgid "plugins.generic.indexingReadiness.crit.significance.h"
+msgstr "Value of the content to Web of Science users (editor assessment)."
+
+msgid "plugins.generic.indexingReadiness.crit.oaNoEmbargo"
+msgstr "Immediate open access"
+
+msgid "plugins.generic.indexingReadiness.crit.oaNoEmbargo.h"
+msgstr "All content free to read immediately on publication, no embargo."
+
+msgid "plugins.generic.indexingReadiness.crit.license"
+msgstr "Content licence"
+
+msgid "plugins.generic.indexingReadiness.crit.license.h"
+msgstr "Choose a Creative Commons licence (e.g. CC BY) under Settings → Distribution."
+
+msgid "plugins.generic.indexingReadiness.crit.aims"
+msgstr "Aims and scope"
+
+msgid "plugins.generic.indexingReadiness.crit.aims.h"
+msgstr "A clear aims-and-scope page."
+
+msgid "plugins.generic.indexingReadiness.crit.board"
+msgstr "Editorial board listed"
+
+msgid "plugins.generic.indexingReadiness.crit.board.h"
+msgstr "Members’ names and affiliations published (5 or more)."
+
+msgid "plugins.generic.indexingReadiness.crit.authorGuidelines"
+msgstr "Author guidelines"
+
+msgid "plugins.generic.indexingReadiness.crit.authorGuidelines.h"
+msgstr "Detailed author guidelines in the workflow settings."
+
+msgid "plugins.generic.indexingReadiness.crit.fees"
+msgstr "Fees statement"
+
+msgid "plugins.generic.indexingReadiness.crit.fees.h"
+msgstr "State clearly whether there are any fees."
+
+msgid "plugins.generic.indexingReadiness.crit.copyright"
+msgstr "Copyright statement"
+
+msgid "plugins.generic.indexingReadiness.crit.copyright.h"
+msgstr "Explain who holds copyright and reuse conditions."
+
+msgid "plugins.generic.indexingReadiness.crit.volume"
+msgstr "At least 5 articles per year"
+
+msgid "plugins.generic.indexingReadiness.crit.volume.h"
+msgstr "Publish 5 or more articles in the last year."
+
+msgid "plugins.generic.indexingReadiness.crit.plagiarism"
+msgstr "Plagiarism screening policy"
+
+msgid "plugins.generic.indexingReadiness.crit.plagiarism.h"
+msgstr "State the similarity-check tool and how results are handled."
+
+msgid "plugins.generic.indexingReadiness.crit.archiving"
+msgstr "Long-term digital preservation"
+
+msgid "plugins.generic.indexingReadiness.crit.archiving.h"
+msgstr "Enable PKP PN or LOCKSS/CLOCKSS and state it."
+
+msgid "plugins.generic.indexingReadiness.crit.pid"
+msgstr "Persistent identifiers (DOI)"
+
+msgid "plugins.generic.indexingReadiness.crit.pid.h"
+msgstr "Enable DOIs and deposit all articles with Crossref."
+
+msgid "plugins.generic.indexingReadiness.crit.oaiPmh"
+msgstr "OAI-PMH interface"
+
+msgid "plugins.generic.indexingReadiness.crit.oaiPmh.h"
+msgstr "Keep it enabled so DOAJ and others can harvest metadata."
+
+msgid "plugins.generic.indexingReadiness.crit.orcid"
+msgstr "Author ORCID iDs"
+
+msgid "plugins.generic.indexingReadiness.crit.orcid.h"
+msgstr "Request ORCID iDs from authors (80%+)."
+
+msgid "plugins.generic.indexingReadiness.crit.ethicsPolicies"
+msgstr "Supplementary integrity policies"
+
+msgid "plugins.generic.indexingReadiness.crit.ethicsPolicies.h"
+msgstr "Conflicts of interest, corrections/retractions, complaints, AI use, ethics."
+

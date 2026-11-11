@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.earlyView.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.earlyView.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.earlyView.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.earlyView.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.earlyView.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.earlyView.name"
+msgstr "النشر المبكر"
+
+msgid "plugins.generic.earlyView.description"
+msgstr "صفحة عامة للبحوث المقبولة قبل صدور عددها: العنوان والمؤلفون وانتماءاتهم والملخصان والكلمات المفتاحية وتاريخ القبول، ونسخة المخطوط المقبول بصيغة PDF، وصيغة استشهاد «قيد النشر». يختار المحرر ما يُعرض والملف، ويختفي البحث من القائمة تلقائيًا عند نشره ويُحوَّل رابطه إلى صفحته النهائية. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.earlyView.open"
+msgstr "فتح النشر المبكر"
+
+msgid "plugins.generic.earlyView.menu"
+msgstr "النشر المبكر"
+
+msgid "plugins.generic.earlyView.intro"
+msgstr "البحوث المقبولة (التحرير اللغوي أو الإخراج) التي لم تُنشر. اختر ملف PDF (المحرَّر أو البروفة) وفعّل «عرض». أضف رابط الصفحة العامة إلى قائمة الموقع من «الإعدادات ← الموقع ← القوائم»."
+
+msgid "plugins.generic.earlyView.publicLink"
+msgstr "رابط الصفحة العامة:"
+
+msgid "plugins.generic.earlyView.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.earlyView.col.early"
+msgstr "العرض المبكر"
+
+msgid "plugins.generic.earlyView.noFile"
+msgstr "بلا ملف (بيانات فقط)"
+
+msgid "plugins.generic.earlyView.show"
+msgstr "عرض"
+
+msgid "plugins.generic.earlyView.view"
+msgstr "معاينة"
+
+msgid "plugins.generic.earlyView.stage.6"
+msgstr "الملف النهائي"
+
+msgid "plugins.generic.earlyView.stage.9"
+msgstr "محرَّر لغويًا"
+
+msgid "plugins.generic.earlyView.stage.10"
+msgstr "بروفة"
+
+msgid "plugins.generic.earlyView.stage.11"
+msgstr "جاهز للإنتاج"
+
+msgid "plugins.generic.earlyView.noAccepted"
+msgstr "لا توجد بحوث مقبولة غير منشورة."
+
+msgid "plugins.generic.earlyView.acceptedOn"
+msgstr "قُبل في {$d}"
+
+msgid "plugins.generic.earlyView.submittedOn"
+msgstr "قُدّم في {$d}"
+
+msgid "plugins.generic.earlyView.publicTitle"
+msgstr "البحوث المقبولة للنشر (النشر المبكر)"
+
+msgid "plugins.generic.earlyView.publicIntro"
+msgstr "بحوث محكّمة قُبلت للنشر في المجلة، ولم يصدر عددها بعد. النسخة المعروضة هي المخطوط المقبول قبل الإخراج النهائي."
+
+msgid "plugins.generic.earlyView.badge"
+msgstr "قيد النشر"
+
+msgid "plugins.generic.earlyView.notice"
+msgstr "هذا البحث مقبول للنشر بعد التحكيم، والنسخة المتاحة هي المخطوط المقبول قبل الإخراج والترقيم النهائيين؛ قد تختلف عن النسخة المنشورة في العدد."
+
+msgid "plugins.generic.earlyView.download"
+msgstr "تنزيل المخطوط المقبول (PDF)"
+
+msgid "plugins.generic.earlyView.howToCite"
+msgstr "طريقة الاستشهاد"
+

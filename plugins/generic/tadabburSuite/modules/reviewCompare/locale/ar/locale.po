@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.reviewCompare.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.reviewCompare.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.reviewCompare.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.reviewCompare.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.reviewCompare.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.reviewCompare.name"
+msgstr "مقارنة تقارير المحكّمين"
+
+msgid "plugins.generic.reviewCompare.description"
+msgstr "تقارير الجولة الواحدة متجاورة في جدول: توصية كل محكّم، وإجاباته على نموذج التحكيم سؤالًا بسؤال، وملاحظاته للمؤلف وللمحرر، ومدة إنجاز التقرير؛ مع مؤشر توافق المحكّمين (متفقون/متقاربون/متباينون) واقتراح قرار مبدئي، ومذكرة قرار قابلة للطباعة لهيئة التحرير. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.reviewCompare.open"
+msgstr "فتح مقارنة التقارير"
+
+msgid "plugins.generic.reviewCompare.menu"
+msgstr "مقارنة التقارير"
+
+msgid "plugins.generic.reviewCompare.intro"
+msgstr "جولات التحكيم التي اكتمل فيها تقرير واحد على الأقل. التباين الكبير بين التوصيات إشارة لاستدعاء محكّم مرجّح أو لقراءة متأنية."
+
+msgid "plugins.generic.reviewCompare.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.reviewCompare.col.round"
+msgstr "الجولة"
+
+msgid "plugins.generic.reviewCompare.col.reports"
+msgstr "التقارير"
+
+msgid "plugins.generic.reviewCompare.col.recs"
+msgstr "التوصيات"
+
+msgid "plugins.generic.reviewCompare.col.agreement"
+msgstr "التوافق"
+
+msgid "plugins.generic.reviewCompare.col.suggest"
+msgstr "القرار المقترح"
+
+msgid "plugins.generic.reviewCompare.compare"
+msgstr "قارن"
+
+msgid "plugins.generic.reviewCompare.reviewer"
+msgstr "المحكّم ({$l})"
+
+msgid "plugins.generic.reviewCompare.roundN"
+msgstr "الجولة {$n}"
+
+msgid "plugins.generic.reviewCompare.days"
+msgstr "{$n} يومًا"
+
+msgid "plugins.generic.reviewCompare.late"
+msgstr "متأخر"
+
+msgid "plugins.generic.reviewCompare.words"
+msgstr "{$n} كلمة"
+
+msgid "plugins.generic.reviewCompare.rec.1"
+msgstr "قبول"
+
+msgid "plugins.generic.reviewCompare.rec.2"
+msgstr "تعديلات مطلوبة"
+
+msgid "plugins.generic.reviewCompare.rec.3"
+msgstr "إعادة التقديم"
+
+msgid "plugins.generic.reviewCompare.rec.4"
+msgstr "يُقدَّم لمجلة أخرى"
+
+msgid "plugins.generic.reviewCompare.rec.5"
+msgstr "رفض"
+
+msgid "plugins.generic.reviewCompare.rec.6"
+msgstr "انظر الملاحظات"
+
+msgid "plugins.generic.reviewCompare.ag.consensus"
+msgstr "متفقون"
+
+msgid "plugins.generic.reviewCompare.ag.close"
+msgstr "متقاربون"
+
+msgid "plugins.generic.reviewCompare.ag.divergent"
+msgstr "متباينون"
+
+msgid "plugins.generic.reviewCompare.ag.insufficient"
+msgstr "تقرير واحد"
+
+msgid "plugins.generic.reviewCompare.agreement"
+msgstr "توافق المحكّمين"
+
+msgid "plugins.generic.reviewCompare.suggested"
+msgstr "القرار المقترح"
+
+msgid "plugins.generic.reviewCompare.pending"
+msgstr "{$n} تقرير لم يكتمل بعد"
+
+msgid "plugins.generic.reviewCompare.divergentHelp"
+msgstr "التوصيات متباعدة بدرجتين فأكثر: يُستحسن قراءة الملاحظات بتأنٍّ أو إضافة محكّم مرجّح قبل القرار."
+
+msgid "plugins.generic.reviewCompare.suggestNote"
+msgstr "الاقتراح وسيطٌ حسابي للتوصيات فقط، والقرار للمحرر بعد قراءة التقارير."
+
+msgid "plugins.generic.reviewCompare.side"
+msgstr "التقارير متجاورة"
+
+msgid "plugins.generic.reviewCompare.noReports"
+msgstr "لا توجد تقارير مكتملة."
+
+msgid "plugins.generic.reviewCompare.r.rec"
+msgstr "التوصية"
+
+msgid "plugins.generic.reviewCompare.r.days"
+msgstr "مدة الإنجاز"
+
+msgid "plugins.generic.reviewCompare.r.quality"
+msgstr "تقييم المحرر للتقرير"
+
+msgid "plugins.generic.reviewCompare.r.toAuthor"
+msgstr "الملاحظات للمؤلف"
+
+msgid "plugins.generic.reviewCompare.r.toEditor"
+msgstr "الملاحظات للمحرر (سرية)"
+
+msgid "plugins.generic.reviewCompare.brief"
+msgstr "مذكرة القرار"
+
+msgid "plugins.generic.reviewCompare.decisionLine"
+msgstr "القرار:"
+
+msgid "plugins.generic.reviewCompare.signLine"
+msgstr "التوقيع:"
+

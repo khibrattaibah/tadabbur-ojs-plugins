@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.boardPortal.name"
+msgstr "Boards Portal"
+
+msgid "plugins.generic.boardPortal.description"
+msgstr "Editorial and advisory boards: members and terms, meetings, attendance and minutes, resolution follow-up, each member's annual activity computed from OJS data, a private portal per member and a public boards page. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.boardPortal.open"
+msgstr "Open Boards Portal"
+
+msgid "plugins.generic.boardPortal.menu"
+msgstr "Boards"
+
+msgid "plugins.generic.boardPortal.myMenu"
+msgstr "My board portal"
+
+msgid "plugins.generic.boardPortal.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.boardPortal.tab.members"
+msgstr "Members"
+
+msgid "plugins.generic.boardPortal.tab.meetings"
+msgstr "Meetings"
+
+msgid "plugins.generic.boardPortal.tab.resolutions"
+msgstr "Resolutions"
+
+msgid "plugins.generic.boardPortal.tab.report"
+msgstr "Annual report"
+
+msgid "plugins.generic.boardPortal.tab.public"
+msgstr "Public page"
+
+msgid "plugins.generic.boardPortal.board.editorial"
+msgstr "Editorial Board"
+
+msgid "plugins.generic.boardPortal.board.advisory"
+msgstr "Advisory Board"
+
+msgid "plugins.generic.boardPortal.col.name"
+msgstr "Name"
+
+msgid "plugins.generic.boardPortal.col.role"
+msgstr "Role"
+
+msgid "plugins.generic.boardPortal.col.affiliation"
+msgstr "Affiliation"
+
+msgid "plugins.generic.boardPortal.col.country"
+msgstr "Country"
+
+msgid "plugins.generic.boardPortal.col.term"
+msgstr "Term"
+
+msgid "plugins.generic.boardPortal.col.account"
+msgstr "OJS account"
+
+msgid "plugins.generic.boardPortal.col.number"
+msgstr "No."
+
+msgid "plugins.generic.boardPortal.col.board"
+msgstr "Board"
+
+msgid "plugins.generic.boardPortal.col.title"
+msgstr "Title"
+
+msgid "plugins.generic.boardPortal.col.date"
+msgstr "Date"
+
+msgid "plugins.generic.boardPortal.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.boardPortal.col.text"
+msgstr "Resolution"
+
+msgid "plugins.generic.boardPortal.col.owner"
+msgstr "Owner"
+
+msgid "plugins.generic.boardPortal.col.due"
+msgstr "Due"
+
+msgid "plugins.generic.boardPortal.edit"
+msgstr "Edit"
+
+msgid "plugins.generic.boardPortal.activity"
+msgstr "Activity"
+
+msgid "plugins.generic.boardPortal.none"
+msgstr "None yet."
+
+msgid "plugins.generic.boardPortal.addMember"
+msgstr "Add member"
+
+msgid "plugins.generic.boardPortal.editMember"
+msgstr "Edit member"
+
+msgid "plugins.generic.boardPortal.f.board"
+msgstr "Board"
+
+msgid "plugins.generic.boardPortal.f.name_ar"
+msgstr "Name (Arabic)"
+
+msgid "plugins.generic.boardPortal.f.name_en"
+msgstr "Name (English)"
+
+msgid "plugins.generic.boardPortal.f.role_ar"
+msgstr "Role (Arabic)"
+
+msgid "plugins.generic.boardPortal.f.role_en"
+msgstr "Role (English)"
+
+msgid "plugins.generic.boardPortal.f.affiliation_ar"
+msgstr "Affiliation (Arabic)"
+
+msgid "plugins.generic.boardPortal.f.affiliation_en"
+msgstr "Affiliation (English)"
+
+msgid "plugins.generic.boardPortal.f.country"
+msgstr "Country"
+
+msgid "plugins.generic.boardPortal.f.email"
+msgstr "Email"
+
+msgid "plugins.generic.boardPortal.f.orcid"
+msgstr "ORCID"
+
+msgid "plugins.generic.boardPortal.f.term_start"
+msgstr "Term start"
+
+msgid "plugins.generic.boardPortal.f.term_end"
+msgstr "Term end"
+
+msgid "plugins.generic.boardPortal.f.seq"
+msgstr "Order"
+
+msgid "plugins.generic.boardPortal.f.active"
+msgstr "Active (shown on public page)"
+
+msgid "plugins.generic.boardPortal.f.title"
+msgstr "Meeting title"
+
+msgid "plugins.generic.boardPortal.f.location"
+msgstr "Location / link"
+
+msgid "plugins.generic.boardPortal.f.agenda"
+msgstr "Agenda"
+
+msgid "plugins.generic.boardPortal.f.minutes"
+msgstr "Minutes"
+
+msgid "plugins.generic.boardPortal.f.resText"
+msgstr "Resolution text"
+
+msgid "plugins.generic.boardPortal.f.owner"
+msgstr "Assigned to"
+
+msgid "plugins.generic.boardPortal.f.note"
+msgstr "Completion note"
+
+msgid "plugins.generic.boardPortal.linkHelp"
+msgstr "The member is linked to an OJS account automatically when the email matches, which gives them \"My board portal\" and computes their activity from journal data."
+
+msgid "plugins.generic.boardPortal.save"
+msgstr "Save"
+
+msgid "plugins.generic.boardPortal.create"
+msgstr "Create"
+
+msgid "plugins.generic.boardPortal.add"
+msgstr "Add"
+
+msgid "plugins.generic.boardPortal.open_"
+msgstr "Open"
+
+msgid "plugins.generic.boardPortal.newMeeting"
+msgstr "New meeting"
+
+msgid "plugins.generic.boardPortal.attendance"
+msgstr "Attendance"
+
+msgid "plugins.generic.boardPortal.att.present"
+msgstr "Present"
+
+msgid "plugins.generic.boardPortal.att.absent"
+msgstr "Absent"
+
+msgid "plugins.generic.boardPortal.att.excused"
+msgstr "Excused"
+
+msgid "plugins.generic.boardPortal.st.planned"
+msgstr "Planned"
+
+msgid "plugins.generic.boardPortal.st.held"
+msgstr "Held"
+
+msgid "plugins.generic.boardPortal.st.cancelled"
+msgstr "Cancelled"
+
+msgid "plugins.generic.boardPortal.rs.open"
+msgstr "Open"
+
+msgid "plugins.generic.boardPortal.rs.done"
+msgstr "Done"
+
+msgid "plugins.generic.boardPortal.all"
+msgstr "All"
+
+msgid "plugins.generic.boardPortal.addRes"
+msgstr "Add resolution"
+
+msgid "plugins.generic.boardPortal.markDone"
+msgstr "Mark done"
+
+msgid "plugins.generic.boardPortal.reopen"
+msgstr "Reopen"
+
+msgid "plugins.generic.boardPortal.year"
+msgstr "Year"
+
+msgid "plugins.generic.boardPortal.show"
+msgstr "Show"
+
+msgid "plugins.generic.boardPortal.journalYear"
+msgstr "Journal at a glance, {$y}"
+
+msgid "plugins.generic.boardPortal.membersYear"
+msgstr "Member activity"
+
+msgid "plugins.generic.boardPortal.jr.received"
+msgstr "Received"
+
+msgid "plugins.generic.boardPortal.jr.published"
+msgstr "Published"
+
+msgid "plugins.generic.boardPortal.jr.accepted"
+msgstr "Accepted"
+
+msgid "plugins.generic.boardPortal.jr.declined"
+msgstr "Declined"
+
+msgid "plugins.generic.boardPortal.jr.acceptRate"
+msgstr "Acceptance rate"
+
+msgid "plugins.generic.boardPortal.jr.firstDecisionDays"
+msgstr "Avg. days to first decision"
+
+msgid "plugins.generic.boardPortal.jr.reviews"
+msgstr "Completed reviews"
+
+msgid "plugins.generic.boardPortal.act.reviews"
+msgstr "Reviews done"
+
+msgid "plugins.generic.boardPortal.act.declined"
+msgstr "Reviews declined"
+
+msgid "plugins.generic.boardPortal.act.decisions"
+msgstr "Editorial decisions"
+
+msgid "plugins.generic.boardPortal.act.handled"
+msgstr "Submissions handled"
+
+msgid "plugins.generic.boardPortal.act.authored"
+msgstr "Own papers published"
+
+msgid "plugins.generic.boardPortal.act.meetings"
+msgstr "Meetings attended"
+
+msgid "plugins.generic.boardPortal.act.resDone"
+msgstr "Resolutions done"
+
+msgid "plugins.generic.boardPortal.act.resOpen"
+msgstr "Open resolutions"
+
+msgid "plugins.generic.boardPortal.notLinked"
+msgstr "This member is not linked to an OJS account; only attendance, resolutions and papers (by email) are counted."
+
+msgid "plugins.generic.boardPortal.mineIntro"
+msgstr "Your activity, assigned resolutions and upcoming meetings."
+
+msgid "plugins.generic.boardPortal.upcoming"
+msgstr "Upcoming meetings"
+
+msgid "plugins.generic.boardPortal.publicTitle"
+msgstr "Journal Boards"
+
+msgid "plugins.generic.boardPortal.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.boardPortal.msg.needName"
+msgstr "Enter the member name."
+
+msgid "plugins.generic.boardPortal.msg.badDate"
+msgstr "Invalid date."
+
+msgid "plugins.generic.boardPortal.msg.needText"
+msgstr "Enter the resolution text."
+

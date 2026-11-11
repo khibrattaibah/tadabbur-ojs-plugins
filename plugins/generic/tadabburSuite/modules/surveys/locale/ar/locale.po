@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.surveys.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.surveys.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.surveys.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.surveys.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.surveys.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.surveys.name"
+msgstr "الاستبانات والتغذية الراجعة"
+
+msgid "plugins.generic.surveys.description"
+msgstr "استبانات رضا الباحثين والمحكّمين والقرّاء تُرسل تلقائيًا عند القرار النهائي واكتمال التحكيم والنشر، وتُعبّأ برابط شخصي دون تسجيل دخول، مع تقارير فورية ومؤشر رضا وتصدير CSV."
+
+msgid "plugins.generic.surveys.open"
+msgstr "فتح الاستبانات"
+
+msgid "plugins.generic.surveys.menu"
+msgstr "الاستبانات"
+
+msgid "plugins.generic.surveys.intro"
+msgstr "استبانات جاهزة تعمل تلقائيًا؛ عدّل أسئلتها أو أنشئ غيرها، وتابع النتائج هنا."
+
+msgid "plugins.generic.surveys.list"
+msgstr "الاستبانات"
+
+msgid "plugins.generic.surveys.new"
+msgstr "استبانة جديدة"
+
+msgid "plugins.generic.surveys.edit"
+msgstr "تعديل"
+
+msgid "plugins.generic.surveys.report"
+msgstr "التقرير"
+
+msgid "plugins.generic.surveys.publicLink"
+msgstr "الرابط العام"
+
+msgid "plugins.generic.surveys.col.survey"
+msgstr "الاستبانة"
+
+msgid "plugins.generic.surveys.col.state"
+msgstr "الحالة"
+
+msgid "plugins.generic.surveys.col.invited"
+msgstr "دعوة مرسلة"
+
+msgid "plugins.generic.surveys.col.answers"
+msgstr "إجابة"
+
+msgid "plugins.generic.surveys.col.score"
+msgstr "مؤشر الرضا"
+
+msgid "plugins.generic.surveys.active"
+msgstr "مفعّلة"
+
+msgid "plugins.generic.surveys.inactive"
+msgstr "متوقفة"
+
+msgid "plugins.generic.surveys.rate"
+msgstr "نسبة الاستجابة"
+
+msgid "plugins.generic.surveys.aud.author"
+msgstr "الباحثون"
+
+msgid "plugins.generic.surveys.aud.reviewer"
+msgstr "المحكّمون"
+
+msgid "plugins.generic.surveys.aud.public"
+msgstr "القرّاء والزوار"
+
+msgid "plugins.generic.surveys.aud.editor"
+msgstr "فريق التحرير"
+
+msgid "plugins.generic.surveys.tr.manual"
+msgstr "يدوي"
+
+msgid "plugins.generic.surveys.tr.decision"
+msgstr "تلقائي بعد القرار النهائي"
+
+msgid "plugins.generic.surveys.tr.review"
+msgstr "تلقائي بعد اكتمال التحكيم"
+
+msgid "plugins.generic.surveys.tr.publish"
+msgstr "تلقائي بعد نشر البحث"
+
+msgid "plugins.generic.surveys.tr.open"
+msgstr "رابط عام مفتوح"
+
+msgid "plugins.generic.surveys.autoHelp"
+msgstr "التلقائية تُرسل دعوة واحدة لكل بحث أو مهمة تحكيم عبر بريد OJS، والرابط شخصي لا يحتاج تسجيل دخول، ولا تُرسل الدعوة مرتين لنفس الهدف."
+
+msgid "plugins.generic.surveys.f.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.surveys.f.intro"
+msgstr "مقدمة تظهر أعلى الاستبانة وفي البريد"
+
+msgid "plugins.generic.surveys.f.audience"
+msgstr "الفئة"
+
+msgid "plugins.generic.surveys.f.trigger"
+msgstr "طريقة الإرسال"
+
+msgid "plugins.generic.surveys.f.triggerHelp"
+msgstr "«بعد القرار النهائي» = بعد القبول أو الرفض."
+
+msgid "plugins.generic.surveys.f.questions"
+msgstr "الأسئلة (سطر لكل سؤال)"
+
+msgid "plugins.generic.surveys.f.syntax"
+msgstr "الصيغة: النوع | نص السؤال | خيار1; خيار2 — الأنواع: rating (من 1 إلى 5)، choice، multi، yesno، text. ضع * في أول السطر للسؤال الإجباري."
+
+msgid "plugins.generic.surveys.inviteTitle"
+msgstr "إرسال دعوات الآن"
+
+msgid "plugins.generic.surveys.f.group"
+msgstr "مجموعة جاهزة"
+
+msgid "plugins.generic.surveys.f.groupHelp"
+msgstr "خلال آخر 12 شهرًا."
+
+msgid "plugins.generic.surveys.g.authors"
+msgstr "باحثو البحوث التي صدر فيها قرار نهائي"
+
+msgid "plugins.generic.surveys.g.reviewers"
+msgstr "المحكّمون الذين أنهوا تحكيمًا"
+
+msgid "plugins.generic.surveys.f.emails"
+msgstr "أو عناوين بريد (سطر لكل عنوان: البريد، الاسم)"
+
+msgid "plugins.generic.surveys.sendInvites"
+msgstr "إرسال الدعوات"
+
+msgid "plugins.generic.surveys.type.rating"
+msgstr "تقييم"
+
+msgid "plugins.generic.surveys.type.choice"
+msgstr "خيار"
+
+msgid "plugins.generic.surveys.type.multi"
+msgstr "متعدد"
+
+msgid "plugins.generic.surveys.type.yesno"
+msgstr "نعم/لا"
+
+msgid "plugins.generic.surveys.type.text"
+msgstr "نص"
+
+msgid "plugins.generic.surveys.yes"
+msgstr "نعم"
+
+msgid "plugins.generic.surveys.no"
+msgstr "لا"
+
+msgid "plugins.generic.surveys.low"
+msgstr "ضعيف"
+
+msgid "plugins.generic.surveys.high"
+msgstr "ممتاز"
+
+msgid "plugins.generic.surveys.noAnswers"
+msgstr "لا إجابات بعد."
+
+msgid "plugins.generic.surveys.submit"
+msgstr "إرسال الإجابات"
+
+msgid "plugins.generic.surveys.thanks"
+msgstr "شكرًا لكم، وصلت إجاباتكم."
+
+msgid "plugins.generic.surveys.already"
+msgstr "سبق تسجيل إجاباتكم، شكرًا لكم."
+
+msgid "plugins.generic.surveys.badLink"
+msgstr "الرابط غير صالح أو منتهٍ."
+
+msgid "plugins.generic.surveys.required"
+msgstr "يُرجى الإجابة عن الأسئلة المعلَّمة."
+
+msgid "plugins.generic.surveys.privacy"
+msgstr "تُحفظ الإجابات بسرية وتُعرض للإدارة مجمّعة لتحسين الخدمة."
+
+msgid "plugins.generic.surveys.mail.hello"
+msgstr "{$name}، السلام عليكم ورحمة الله وبركاته،"
+
+msgid "plugins.generic.surveys.mail.colleague"
+msgstr "الزميل الكريم"
+
+msgid "plugins.generic.surveys.mail.button"
+msgstr "المشاركة في الاستبانة (دقيقتان)"
+
+msgid "plugins.generic.surveys.mail.note"
+msgstr "الرابط خاص بكم ولا يحتاج تسجيل دخول."
+
+msgid "plugins.generic.surveys.msg.invited"
+msgstr "أُرسلت الدعوات."
+
+msgid "plugins.generic.surveys.msg.errEmpty"
+msgstr "العنوان والأسئلة مطلوبة (تحقق من صيغة الأسئلة)."
+

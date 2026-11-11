@@ -1,0 +1,704 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.indexingReadiness.name"
+msgstr "الاسم"
+
+msgid "plugins.generic.indexingReadiness.description"
+msgstr "يقيس المجلة على معايير Scopus وWeb of Science وDOAJ بمؤشرات من OJS ومن OpenAlex، ويتيح تقييمًا يدويًا موثقًا بالأدلة، ويُخرج خطة عمل وملفًا قابلًا للطباعة يُرفق بطلب الفهرسة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.indexingReadiness.open"
+msgstr "فتح ملف الجاهزية"
+
+msgid "plugins.generic.indexingReadiness.menu"
+msgstr "الجاهزية للفهرسة"
+
+msgid "plugins.generic.indexingReadiness.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.indexingReadiness.tab.overview"
+msgstr "النظرة العامة"
+
+msgid "plugins.generic.indexingReadiness.dossier"
+msgstr "ملف الطلب للطباعة"
+
+msgid "plugins.generic.indexingReadiness.intro"
+msgstr "تقيس هذه الصفحة المجلة على المعايير المعلنة لكل قاعدة. المؤشرات الآلية تُحسب من بيانات OJS، والمعايير النوعية تقيّمها هيئة التحرير مع رابط الدليل. النتيجة خطة عمل مرتبة حسب الأولوية."
+
+msgid "plugins.generic.indexingReadiness.counts"
+msgstr "متحقق {$met} · جزئي {$partial} · غير متحقق {$unmet} · ينتظر تقييمك {$manual}"
+
+msgid "plugins.generic.indexingReadiness.keyMetrics"
+msgstr "المؤشرات الرئيسة"
+
+msgid "plugins.generic.indexingReadiness.window"
+msgstr "محسوبة للبحوث المنشورة في آخر {$n} سنوات والسنة الحالية."
+
+msgid "plugins.generic.indexingReadiness.m.yearsActive"
+msgstr "سنوات الصدور"
+
+msgid "plugins.generic.indexingReadiness.m.since"
+msgstr "منذ {$y}"
+
+msgid "plugins.generic.indexingReadiness.m.issues"
+msgstr "الأعداد المنشورة"
+
+msgid "plugins.generic.indexingReadiness.m.last"
+msgstr "آخر عدد: {$d}"
+
+msgid "plugins.generic.indexingReadiness.m.articles"
+msgstr "البحوث المنشورة"
+
+msgid "plugins.generic.indexingReadiness.m.enAbstract"
+msgstr "ملخصات إنجليزية"
+
+msgid "plugins.generic.indexingReadiness.m.enTitle"
+msgstr "عناوين إنجليزية: {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.romanRefs"
+msgstr "مراجع بحروف لاتينية"
+
+msgid "plugins.generic.indexingReadiness.m.refsTotal"
+msgstr "{$n} مرجعًا"
+
+msgid "plugins.generic.indexingReadiness.m.selfCite"
+msgstr "الاستشهاد الذاتي في المراجع"
+
+msgid "plugins.generic.indexingReadiness.m.doi"
+msgstr "بحوث لها DOI"
+
+msgid "plugins.generic.indexingReadiness.m.orcid"
+msgstr "مؤلفون لهم ORCID"
+
+msgid "plugins.generic.indexingReadiness.m.aff"
+msgstr "مع الانتماء: {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.authorCountries"
+msgstr "دول المؤلفين"
+
+msgid "plugins.generic.indexingReadiness.m.top"
+msgstr "الأعلى: {$c} {$v}"
+
+msgid "plugins.generic.indexingReadiness.m.board"
+msgstr "أعضاء هيئة التحرير"
+
+msgid "plugins.generic.indexingReadiness.m.boardSub"
+msgstr "{$c} دول · دوليون {$v}"
+
+msgid "plugins.generic.indexingReadiness.oaTitle"
+msgstr "مؤشرات الاستشهاد (OpenAlex)"
+
+msgid "plugins.generic.indexingReadiness.oaRefresh"
+msgstr "تحديث من OpenAlex"
+
+msgid "plugins.generic.indexingReadiness.oa.works"
+msgstr "الأعمال المفهرسة"
+
+msgid "plugins.generic.indexingReadiness.oa.cited"
+msgstr "الاستشهادات"
+
+msgid "plugins.generic.indexingReadiness.oa.h"
+msgstr "مؤشر h"
+
+msgid "plugins.generic.indexingReadiness.oa.mean2y"
+msgstr "متوسط الاستشهاد لسنتين"
+
+msgid "plugins.generic.indexingReadiness.oa.doaj"
+msgstr "مُدرجة في DOAJ"
+
+msgid "plugins.generic.indexingReadiness.oa.citedYear"
+msgstr "استشهادات السنة"
+
+msgid "plugins.generic.indexingReadiness.oa.board"
+msgstr "أعضاء الهيئة في OpenAlex ({$n})"
+
+msgid "plugins.generic.indexingReadiness.oaNote"
+msgstr "آخر تحديث: {$d}. OpenAlex قاعدة مفتوحة تغطي أوسع من Scopus؛ أرقامها مؤشر تقريبي لا بديل عن بيانات Scopus/WoS."
+
+msgid "plugins.generic.indexingReadiness.oaEmpty"
+msgstr "لم تُجلب بيانات بعد. اضغط «تحديث من OpenAlex» (يحتاج الخادم اتصالًا بالإنترنت)."
+
+msgid "plugins.generic.indexingReadiness.oaError"
+msgstr "تعذّر جلب بيانات OpenAlex: تأكد من ISSN ومن اتصال الخادم بالإنترنت، ثم أعد المحاولة بعد دقيقة."
+
+msgid "plugins.generic.indexingReadiness.yes"
+msgstr "نعم"
+
+msgid "plugins.generic.indexingReadiness.no"
+msgstr "لا"
+
+msgid "plugins.generic.indexingReadiness.year"
+msgstr "السنة"
+
+msgid "plugins.generic.indexingReadiness.plan"
+msgstr "خطة العمل"
+
+msgid "plugins.generic.indexingReadiness.planIntro"
+msgstr "مرتبة حسب الأولوية: المتطلبات غير المتحققة أولًا، ثم الجزئية، ثم ما ينتظر تقييمك."
+
+msgid "plugins.generic.indexingReadiness.planEmpty"
+msgstr "لا بنود معلقة."
+
+msgid "plugins.generic.indexingReadiness.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.indexingReadiness.set.expected"
+msgstr "عدد الأعداد المعلن سنويًا"
+
+msgid "plugins.generic.indexingReadiness.set.years"
+msgstr "نافذة القياس (سنوات)"
+
+msgid "plugins.generic.indexingReadiness.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.indexingReadiness.set.openalexKey"
+msgstr "مفتاح OpenAlex API (مجاني، موصى به)"
+
+msgid "plugins.generic.indexingReadiness.set.openalexKeyHelp"
+msgstr "من دون مفتاح تتشارك المواقع على الخادم نفسه حصة يومية محدودة، فقد يفشل التحديث. المفتاح مجاني من openalex.org."
+
+msgid "plugins.generic.indexingReadiness.saveEval"
+msgstr "حفظ التقييم والأدلة"
+
+msgid "plugins.generic.indexingReadiness.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.indexingReadiness.disclaimer"
+msgstr "تنبيه: المعايير مأخوذة من الوثائق المعلنة لكل قاعدة، أما العتبات الرقمية فإرشادية من واقع التقييم وليست أرقامًا رسمية. القرار النهائي للجان القواعد."
+
+msgid "plugins.generic.indexingReadiness.about.scopus"
+msgstr "Scopus: شروط أولية ثم 14 معيارًا في 5 فئات تقيّمها اللجنة الاستشارية (CSAB)، ويُشترط عادة 3 سنوات من النشر المنتظم."
+
+msgid "plugins.generic.indexingReadiness.about.wos"
+msgstr "Web of Science: 24 معيار جودة (تكفي لـ ESCI) و4 معايير أثر للمجموعات SCIE وSSCI وAHCI."
+
+msgid "plugins.generic.indexingReadiness.about.doaj"
+msgstr "DOAJ: معايير أساسية للإدراج، وممارسات مثلى تُحسّن فرص القبول والختم."
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.pre"
+msgstr "الشروط الأولية"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.policy"
+msgstr "سياسة المجلة"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.content"
+msgstr "المحتوى"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.standing"
+msgstr "مكانة المجلة"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.regularity"
+msgstr "انتظام النشر"
+
+msgid "plugins.generic.indexingReadiness.grp.scopus.online"
+msgstr "الإتاحة الإلكترونية"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.initial"
+msgstr "الفرز الأولي"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.editorial"
+msgstr "الفرز التحريري"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.evaluation"
+msgstr "التقييم التحريري"
+
+msgid "plugins.generic.indexingReadiness.grp.wos.impact"
+msgstr "معايير الأثر"
+
+msgid "plugins.generic.indexingReadiness.grp.doaj.basic"
+msgstr "المعايير الأساسية"
+
+msgid "plugins.generic.indexingReadiness.grp.doaj.best"
+msgstr "الممارسات المثلى"
+
+msgid "plugins.generic.indexingReadiness.col.criterion"
+msgstr "المعيار"
+
+msgid "plugins.generic.indexingReadiness.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.indexingReadiness.col.value"
+msgstr "القياس"
+
+msgid "plugins.generic.indexingReadiness.col.evidence"
+msgstr "التقييم والدليل"
+
+msgid "plugins.generic.indexingReadiness.lvl.rec"
+msgstr "مستحسن"
+
+msgid "plugins.generic.indexingReadiness.lvl.impact"
+msgstr "معيار أثر"
+
+msgid "plugins.generic.indexingReadiness.src.auto"
+msgstr "قياس آلي"
+
+msgid "plugins.generic.indexingReadiness.src.override"
+msgstr "تقييم المحرر (بدل الآلي)"
+
+msgid "plugins.generic.indexingReadiness.src.manual"
+msgstr "تقييم المحرر"
+
+msgid "plugins.generic.indexingReadiness.opt.auto"
+msgstr "— القياس الآلي —"
+
+msgid "plugins.generic.indexingReadiness.opt.none"
+msgstr "— لم يُقيَّم —"
+
+msgid "plugins.generic.indexingReadiness.ph.url"
+msgstr "رابط الدليل (https://…)"
+
+msgid "plugins.generic.indexingReadiness.ph.note"
+msgstr "ملاحظة"
+
+msgid "plugins.generic.indexingReadiness.st.met"
+msgstr "متحقق"
+
+msgid "plugins.generic.indexingReadiness.st.partial"
+msgstr "جزئي"
+
+msgid "plugins.generic.indexingReadiness.st.unmet"
+msgstr "غير متحقق"
+
+msgid "plugins.generic.indexingReadiness.st.info"
+msgstr "للاطلاع"
+
+msgid "plugins.generic.indexingReadiness.st.manual"
+msgstr "يحتاج تقييمك"
+
+msgid "plugins.generic.indexingReadiness.dossierTitle"
+msgstr "ملف الجاهزية للفهرسة"
+
+msgid "plugins.generic.indexingReadiness.generated"
+msgstr "أُعدّ في {$d}"
+
+msgid "plugins.generic.indexingReadiness.print"
+msgstr "طباعة / حفظ PDF"
+
+msgid "plugins.generic.indexingReadiness.d.profile"
+msgstr "بطاقة المجلة"
+
+msgid "plugins.generic.indexingReadiness.d.titleAr"
+msgstr "العنوان بالعربية"
+
+msgid "plugins.generic.indexingReadiness.d.titleEn"
+msgstr "العنوان بالإنجليزية"
+
+msgid "plugins.generic.indexingReadiness.d.publisher"
+msgstr "الناشر"
+
+msgid "plugins.generic.indexingReadiness.d.country"
+msgstr "بلد النشر"
+
+msgid "plugins.generic.indexingReadiness.d.url"
+msgstr "الموقع"
+
+msgid "plugins.generic.indexingReadiness.d.contact"
+msgstr "البريد"
+
+msgid "plugins.generic.indexingReadiness.d.languages"
+msgstr "لغات الموقع"
+
+msgid "plugins.generic.indexingReadiness.d.license"
+msgstr "الترخيص"
+
+msgid "plugins.generic.indexingReadiness.d.since"
+msgstr "بداية الصدور"
+
+msgid "plugins.generic.indexingReadiness.d.issuesTotal"
+msgstr "{$n} عددًا"
+
+msgid "plugins.generic.indexingReadiness.d.frequency"
+msgstr "الدورية"
+
+msgid "plugins.generic.indexingReadiness.d.perYear"
+msgstr "{$n} أعداد سنويًا"
+
+msgid "plugins.generic.indexingReadiness.d.output"
+msgstr "الإنتاج السنوي"
+
+msgid "plugins.generic.indexingReadiness.d.quality"
+msgstr "جودة البيانات الوصفية"
+
+msgid "plugins.generic.indexingReadiness.d.enTitle"
+msgstr "عناوين إنجليزية"
+
+msgid "plugins.generic.indexingReadiness.d.affAuthors"
+msgstr "مؤلفون بانتماء مسجل"
+
+msgid "plugins.generic.indexingReadiness.d.diversity"
+msgstr "التنوع الجغرافي"
+
+msgid "plugins.generic.indexingReadiness.d.localShare"
+msgstr "حصة مؤلفي بلد المجلة"
+
+msgid "plugins.generic.indexingReadiness.d.boardIntl"
+msgstr "الأعضاء من خارج بلد المجلة"
+
+msgid "plugins.generic.indexingReadiness.d.boardAff"
+msgstr "أعضاء بانتماء مسجل"
+
+msgid "plugins.generic.indexingReadiness.d.boardOrcid"
+msgstr "أعضاء لهم ORCID"
+
+msgid "plugins.generic.indexingReadiness.d.source"
+msgstr "المصدر"
+
+msgid "plugins.generic.indexingReadiness.d.compliance"
+msgstr "الامتثال لمعايير {$db}"
+
+msgid "plugins.generic.indexingReadiness.crit.issn"
+msgstr "ISSN مسجّل وصحيح"
+
+msgid "plugins.generic.indexingReadiness.crit.issn.h"
+msgstr "أدخل ISSN الإلكتروني (أو الورقي) في الإعدادات ← التوزيع، وتأكد من تسجيله في بوابة ISSN."
+
+msgid "plugins.generic.indexingReadiness.crit.peerReview"
+msgstr "التحكيم العلمي معلن"
+
+msgid "plugins.generic.indexingReadiness.crit.peerReview.h"
+msgstr "صف سياسة التحكيم في صفحة «عن المجلة» أو إرشادات المحكّمين."
+
+msgid "plugins.generic.indexingReadiness.crit.regular"
+msgstr "النشر المنتظم"
+
+msgid "plugins.generic.indexingReadiness.crit.regular.h"
+msgstr "انشر الأعداد بالعدد المعلن سنويًا دون انقطاع في السنتين الأخيرتين على الأقل."
+
+msgid "plugins.generic.indexingReadiness.crit.englishAbstracts"
+msgstr "عناوين وملخصات إنجليزية"
+
+msgid "plugins.generic.indexingReadiness.crit.englishAbstracts.h"
+msgstr "لكل بحث منشور عنوان وملخص إنجليزي (40 كلمة فأكثر) في بياناته الوصفية."
+
+msgid "plugins.generic.indexingReadiness.crit.romanRefs"
+msgstr "المراجع بالحروف اللاتينية"
+
+msgid "plugins.generic.indexingReadiness.crit.romanRefs.h"
+msgstr "أدخل المراجع في بيانات البحث مرومنةً (يمكن استخدام إضافة رومنة المراجع)."
+
+msgid "plugins.generic.indexingReadiness.crit.ethics"
+msgstr "بيان أخلاقيات النشر"
+
+msgid "plugins.generic.indexingReadiness.crit.ethics.h"
+msgstr "انشر صفحة أخلاقيات النشر وسوء الممارسة متوافقة مع COPE."
+
+msgid "plugins.generic.indexingReadiness.crit.editorialPolicy"
+msgstr "سياسة تحريرية مقنعة"
+
+msgid "plugins.generic.indexingReadiness.crit.editorialPolicy.h"
+msgstr "وضّح رسالة المجلة ونطاقها وجمهورها وما تضيفه للحقل (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.reviewType"
+msgstr "نوع التحكيم محدد"
+
+msgid "plugins.generic.indexingReadiness.crit.reviewType.h"
+msgstr "اذكر نوع التحكيم صراحة (مزدوج التعمية مثلًا) وعدد المحكّمين ومدته."
+
+msgid "plugins.generic.indexingReadiness.crit.boardDiversity"
+msgstr "التنوع الجغرافي لهيئة التحرير"
+
+msgid "plugins.generic.indexingReadiness.crit.boardDiversity.h"
+msgstr "هيئة من 7 أعضاء فأكثر من 3 دول فأكثر، مع إدخال الدولة والانتماء لكل عضو في OJS."
+
+msgid "plugins.generic.indexingReadiness.crit.authorDiversity"
+msgstr "التنوع الجغرافي للمؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.authorDiversity.h"
+msgstr "وسّع استقطاب الباحثين من خارج بلد المجلة؛ يُفضّل ألا تتجاوز دولة واحدة 60٪ من المؤلفين."
+
+msgid "plugins.generic.indexingReadiness.crit.contribution"
+msgstr "الإسهام العلمي في الحقل"
+
+msgid "plugins.generic.indexingReadiness.crit.contribution.h"
+msgstr "قيّم أصالة البحوث وإضافتها (يقيّمه المحرر بأدلة: نماذج بحوث، تقارير تحكيم)."
+
+msgid "plugins.generic.indexingReadiness.crit.abstractClarity"
+msgstr "وضوح الملخصات"
+
+msgid "plugins.generic.indexingReadiness.crit.abstractClarity.h"
+msgstr "ملخصات منظمة واضحة بالعربية والإنجليزية، مراجعة لغويًا."
+
+msgid "plugins.generic.indexingReadiness.crit.scopeConformity"
+msgstr "الجودة والالتزام بالنطاق"
+
+msgid "plugins.generic.indexingReadiness.crit.scopeConformity.h"
+msgstr "البحوث المنشورة ضمن النطاق المعلن للمجلة."
+
+msgid "plugins.generic.indexingReadiness.crit.readability"
+msgstr "مقروئية البحوث"
+
+msgid "plugins.generic.indexingReadiness.crit.readability.h"
+msgstr "جودة اللغة والإخراج والتدقيق."
+
+msgid "plugins.generic.indexingReadiness.crit.citedness"
+msgstr "استشهاد بحوث المجلة"
+
+msgid "plugins.generic.indexingReadiness.crit.citedness.h"
+msgstr "يُقرأ من OpenAlex؛ لا عتبة رسمية، ويُقارن بمجلات الحقل نفسه."
+
+msgid "plugins.generic.indexingReadiness.crit.editorStanding"
+msgstr "مكانة المحررين"
+
+msgid "plugins.generic.indexingReadiness.crit.editorStanding.h"
+msgstr "سجل النشر والاستشهاد لرئيس التحرير والهيئة؛ أدخل ORCID للأعضاء ليُقرأ من OpenAlex."
+
+msgid "plugins.generic.indexingReadiness.crit.selfCitation"
+msgstr "الاستشهاد الذاتي في المراجع"
+
+msgid "plugins.generic.indexingReadiness.crit.selfCitation.h"
+msgstr "نسبة المراجع التي تحيل إلى المجلة نفسها؛ الارتفاع الكبير يثير التساؤل لدى Scopus."
+
+msgid "plugins.generic.indexingReadiness.crit.noDelays"
+msgstr "لا تأخير ولا انقطاع"
+
+msgid "plugins.generic.indexingReadiness.crit.noDelays.h"
+msgstr "آخر عدد ضمن الموعد المتوقع، ولا فجوة كبيرة بين الأعداد."
+
+msgid "plugins.generic.indexingReadiness.crit.fullTextOnline"
+msgstr "المحتوى كاملًا متاح إلكترونيًا"
+
+msgid "plugins.generic.indexingReadiness.crit.fullTextOnline.h"
+msgstr "كل البحوث متاحة بنصها الكامل على موقع المجلة."
+
+msgid "plugins.generic.indexingReadiness.crit.englishHome"
+msgstr "صفحة رئيسة بالإنجليزية"
+
+msgid "plugins.generic.indexingReadiness.crit.englishHome.h"
+msgstr "فعّل الإنجليزية واملأ «عن المجلة» بها."
+
+msgid "plugins.generic.indexingReadiness.crit.homeQuality"
+msgstr "جودة موقع المجلة"
+
+msgid "plugins.generic.indexingReadiness.crit.homeQuality.h"
+msgstr "موقع واضح مهني: الأرشيف، هيئة التحرير، السياسات، الاتصال (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.title"
+msgstr "عنوان المجلة"
+
+msgid "plugins.generic.indexingReadiness.crit.title.h"
+msgstr "عنوان واضح ثابت يتطابق مع تسجيل ISSN."
+
+msgid "plugins.generic.indexingReadiness.crit.publisher"
+msgstr "الناشر"
+
+msgid "plugins.generic.indexingReadiness.crit.publisher.h"
+msgstr "أدخل اسم الجهة الناشرة في الإعدادات."
+
+msgid "plugins.generic.indexingReadiness.crit.url"
+msgstr "رابط المجلة"
+
+msgid "plugins.generic.indexingReadiness.crit.url.h"
+msgstr "رابط دائم يعمل."
+
+msgid "plugins.generic.indexingReadiness.crit.access"
+msgstr "إتاحة المحتوى"
+
+msgid "plugins.generic.indexingReadiness.crit.access.h"
+msgstr "إتاحة النصوص للمقيّمين (الوصول المفتوح يحقق ذلك)."
+
+msgid "plugins.generic.indexingReadiness.crit.contact"
+msgstr "بيانات الاتصال"
+
+msgid "plugins.generic.indexingReadiness.crit.contact.h"
+msgstr "بريد إلكتروني وعنوان للمراسلة في الإعدادات."
+
+msgid "plugins.generic.indexingReadiness.crit.scholarly"
+msgstr "المحتوى علمي"
+
+msgid "plugins.generic.indexingReadiness.crit.scholarly.h"
+msgstr "المحتوى بحوث علمية أصيلة لا مقالات عامة (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.romanBiblio"
+msgstr "البيانات الببليوغرافية بالحروف اللاتينية"
+
+msgid "plugins.generic.indexingReadiness.crit.romanBiblio.h"
+msgstr "العناوين والمؤلفون والمراجع متاحة بالحروف اللاتينية."
+
+msgid "plugins.generic.indexingReadiness.crit.languageClarity"
+msgstr "وضوح اللغة"
+
+msgid "plugins.generic.indexingReadiness.crit.languageClarity.h"
+msgstr "لغة سليمة واضحة في البحوث والملخصات (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.timeliness"
+msgstr "الانتظام وحجم النشر"
+
+msgid "plugins.generic.indexingReadiness.crit.timeliness.h"
+msgstr "صدور منتظم بحجم ثابت معقول."
+
+msgid "plugins.generic.indexingReadiness.crit.website"
+msgstr "كفاءة الموقع"
+
+msgid "plugins.generic.indexingReadiness.crit.website.h"
+msgstr "موقع يعمل بكفاءة: روابط سليمة، أرشيف، بحث (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.boardAffiliation"
+msgstr "انتماءات هيئة التحرير"
+
+msgid "plugins.generic.indexingReadiness.crit.boardAffiliation.h"
+msgstr "الانتماء المؤسسي لكل عضو ظاهر في صفحة الهيئة."
+
+msgid "plugins.generic.indexingReadiness.crit.authorAffiliation"
+msgstr "انتماءات المؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.authorAffiliation.h"
+msgstr "انتماء كل مؤلف مسجل في بيانات البحث."
+
+msgid "plugins.generic.indexingReadiness.crit.boardComposition"
+msgstr "تكوين هيئة التحرير"
+
+msgid "plugins.generic.indexingReadiness.crit.boardComposition.h"
+msgstr "هيئة متناسبة مع النطاق، متنوعة، ذات خبرة منشورة."
+
+msgid "plugins.generic.indexingReadiness.crit.validStatements"
+msgstr "صدق البيانات المعلنة"
+
+msgid "plugins.generic.indexingReadiness.crit.validStatements.h"
+msgstr "كل ما تعلنه المجلة (فهرسة، تحكيم، مؤشرات) صحيح قابل للتحقق (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.peerReviewEvidence"
+msgstr "الدليل على التحكيم"
+
+msgid "plugins.generic.indexingReadiness.crit.peerReviewEvidence.h"
+msgstr "احتفظ بتقارير التحكيم وأظهر تواريخ الاستلام والقبول في البحوث."
+
+msgid "plugins.generic.indexingReadiness.crit.contentRelevance"
+msgstr "ملاءمة المحتوى"
+
+msgid "plugins.generic.indexingReadiness.crit.contentRelevance.h"
+msgstr "المحتوى متوافق مع العنوان والنطاق (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.grantDetails"
+msgstr "بيانات التمويل"
+
+msgid "plugins.generic.indexingReadiness.crit.grantDetails.h"
+msgstr "اذكر جهات تمويل البحوث حين وجودها."
+
+msgid "plugins.generic.indexingReadiness.crit.communityStandards"
+msgstr "الالتزام بمعايير المجتمع العلمي"
+
+msgid "plugins.generic.indexingReadiness.crit.communityStandards.h"
+msgstr "عضوية COPE أو الالتزام بإرشاداتها، وسياسات التصحيح والسحب (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.authorDistribution"
+msgstr "توزع المؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.authorDistribution.h"
+msgstr "تنوع المؤلفين جغرافيًا ومؤسسيًا بما يتناسب مع نطاق المجلة."
+
+msgid "plugins.generic.indexingReadiness.crit.appropriateCitations"
+msgstr "استشهادات مناسبة بالأدبيات"
+
+msgid "plugins.generic.indexingReadiness.crit.appropriateCitations.h"
+msgstr "مراجع حديثة ذات صلة، دون إفراط في الاستشهاد الذاتي (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.comparativeCitation"
+msgstr "تحليل الاستشهاد المقارن"
+
+msgid "plugins.generic.indexingReadiness.crit.comparativeCitation.h"
+msgstr "لمجموعات SCIE وSSCI وAHCI: استشهادات المجلة مقارنة بمجلات الحقل."
+
+msgid "plugins.generic.indexingReadiness.crit.authorCitation"
+msgstr "استشهاد المؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.authorCitation.h"
+msgstr "سجل استشهاد المؤلفين الذين تنشر لهم المجلة."
+
+msgid "plugins.generic.indexingReadiness.crit.boardCitation"
+msgstr "استشهاد هيئة التحرير"
+
+msgid "plugins.generic.indexingReadiness.crit.boardCitation.h"
+msgstr "سجل استشهاد أعضاء الهيئة."
+
+msgid "plugins.generic.indexingReadiness.crit.significance"
+msgstr "أهمية المحتوى"
+
+msgid "plugins.generic.indexingReadiness.crit.significance.h"
+msgstr "قيمة المحتوى لقرّاء Web of Science (يقيّمه المحرر)."
+
+msgid "plugins.generic.indexingReadiness.crit.oaNoEmbargo"
+msgstr "وصول مفتوح فوري"
+
+msgid "plugins.generic.indexingReadiness.crit.oaNoEmbargo.h"
+msgstr "كل المحتوى متاح مجانًا فور نشره دون حظر."
+
+msgid "plugins.generic.indexingReadiness.crit.license"
+msgstr "ترخيص المحتوى"
+
+msgid "plugins.generic.indexingReadiness.crit.license.h"
+msgstr "اختر رخصة المشاع الإبداعي (CC BY مثلًا) في الإعدادات ← التوزيع."
+
+msgid "plugins.generic.indexingReadiness.crit.aims"
+msgstr "الأهداف والنطاق"
+
+msgid "plugins.generic.indexingReadiness.crit.aims.h"
+msgstr "صفحة واضحة لأهداف المجلة ونطاقها."
+
+msgid "plugins.generic.indexingReadiness.crit.board"
+msgstr "هيئة التحرير معلنة"
+
+msgid "plugins.generic.indexingReadiness.crit.board.h"
+msgstr "أسماء الأعضاء وانتماءاتهم منشورة (5 أعضاء فأكثر)."
+
+msgid "plugins.generic.indexingReadiness.crit.authorGuidelines"
+msgstr "إرشادات المؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.authorGuidelines.h"
+msgstr "إرشادات مفصلة للمؤلفين في إعدادات سير العمل."
+
+msgid "plugins.generic.indexingReadiness.crit.fees"
+msgstr "بيان الرسوم"
+
+msgid "plugins.generic.indexingReadiness.crit.fees.h"
+msgstr "صرّح بوجود رسوم أو عدمها بوضوح."
+
+msgid "plugins.generic.indexingReadiness.crit.copyright"
+msgstr "بيان حقوق النشر"
+
+msgid "plugins.generic.indexingReadiness.crit.copyright.h"
+msgstr "وضّح من يملك حقوق النشر وشروط إعادة الاستخدام."
+
+msgid "plugins.generic.indexingReadiness.crit.volume"
+msgstr "خمسة بحوث سنويًا على الأقل"
+
+msgid "plugins.generic.indexingReadiness.crit.volume.h"
+msgstr "نشر 5 بحوث فأكثر في السنة الماضية."
+
+msgid "plugins.generic.indexingReadiness.crit.plagiarism"
+msgstr "سياسة فحص الاستلال"
+
+msgid "plugins.generic.indexingReadiness.crit.plagiarism.h"
+msgstr "صرّح بأداة فحص التشابه وآلية التعامل مع النتائج."
+
+msgid "plugins.generic.indexingReadiness.crit.archiving"
+msgstr "الحفظ الرقمي طويل الأمد"
+
+msgid "plugins.generic.indexingReadiness.crit.archiving.h"
+msgstr "فعّل PKP PN أو LOCKSS/CLOCKSS وصرّح بذلك."
+
+msgid "plugins.generic.indexingReadiness.crit.pid"
+msgstr "معرّفات دائمة (DOI)"
+
+msgid "plugins.generic.indexingReadiness.crit.pid.h"
+msgstr "فعّل DOI وأودِع كل البحوث في Crossref."
+
+msgid "plugins.generic.indexingReadiness.crit.oaiPmh"
+msgstr "واجهة OAI-PMH"
+
+msgid "plugins.generic.indexingReadiness.crit.oaiPmh.h"
+msgstr "تبقى مفعّلة ليقرأ DOAJ وغيرها البيانات."
+
+msgid "plugins.generic.indexingReadiness.crit.orcid"
+msgstr "ORCID للمؤلفين"
+
+msgid "plugins.generic.indexingReadiness.crit.orcid.h"
+msgstr "اطلب ORCID من المؤلفين (80٪ فأكثر)."
+
+msgid "plugins.generic.indexingReadiness.crit.ethicsPolicies"
+msgstr "سياسات النزاهة المكملة"
+
+msgid "plugins.generic.indexingReadiness.crit.ethicsPolicies.h"
+msgstr "تضارب المصالح، التصحيح والسحب، الشكاوى، استخدام الذكاء الاصطناعي، الأخلاقيات."
+

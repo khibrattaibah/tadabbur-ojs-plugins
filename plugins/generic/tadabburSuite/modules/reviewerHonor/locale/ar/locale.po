@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.reviewerHonor.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.reviewerHonor.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.reviewerHonor.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.reviewerHonor.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.reviewerHonor.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.reviewerHonor.name"
+msgstr "تكريم المحكّمين"
+
+msgid "plugins.generic.reviewerHonor.description"
+msgstr "ترتيب سنوي للمحكّمين بمؤشرات الإنجاز والالتزام بالموعد وجودة التقارير، واختيار «محكّم العام» و«المحكّم المتميز» و«الأسرع إنجازًا»، وصفحة شكر عامة لا يظهر فيها إلا من وافق، وخطاب شكر رسمي على ورق المجلة بتوقيع رئيس التحرير والختم يستخرجه المحكّم بنفسه. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.reviewerHonor.open"
+msgstr "فتح تكريم المحكّمين"
+
+msgid "plugins.generic.reviewerHonor.menu"
+msgstr "تكريم المحكّمين"
+
+msgid "plugins.generic.reviewerHonor.myMenu"
+msgstr "شكر وتقدير"
+
+msgid "plugins.generic.reviewerHonor.intro"
+msgstr "مؤشرات كل محكّم في السنة من بيانات OJS. حدّد الجوائز، واطبع خطاب الشكر، وانشر صفحة الشكر (الأسماء التي وافق أصحابها أو أذنت لها)."
+
+msgid "plugins.generic.reviewerHonor.year"
+msgstr "السنة"
+
+msgid "plugins.generic.reviewerHonor.show"
+msgstr "عرض"
+
+msgid "plugins.generic.reviewerHonor.publicPage"
+msgstr "صفحة الشكر العامة"
+
+msgid "plugins.generic.reviewerHonor.ranking"
+msgstr "ترتيب المحكّمين لعام {$y}"
+
+msgid "plugins.generic.reviewerHonor.col.name"
+msgstr "المحكّم"
+
+msgid "plugins.generic.reviewerHonor.col.done"
+msgstr "تحكيمات منجزة"
+
+msgid "plugins.generic.reviewerHonor.col.declined"
+msgstr "اعتذارات"
+
+msgid "plugins.generic.reviewerHonor.col.days"
+msgstr "متوسط الأيام"
+
+msgid "plugins.generic.reviewerHonor.col.onTime"
+msgstr "في الموعد"
+
+msgid "plugins.generic.reviewerHonor.col.quality"
+msgstr "الجودة /5"
+
+msgid "plugins.generic.reviewerHonor.col.score"
+msgstr "النقاط"
+
+msgid "plugins.generic.reviewerHonor.col.award"
+msgstr "الجائزة"
+
+msgid "plugins.generic.reviewerHonor.col.public"
+msgstr "الظهور في صفحة الشكر"
+
+msgid "plugins.generic.reviewerHonor.scoreNote"
+msgstr "النقاط = 10 لكل تحكيم + 0.2 × نسبة الالتزام بالموعد + 4 × متوسط تقييم الجودة − 0.1 × متوسط الأيام − 2 لكل اعتذار. الجودة من تقييم المحرر للتقرير في OJS."
+
+msgid "plugins.generic.reviewerHonor.public"
+msgstr "يظهر"
+
+msgid "plugins.generic.reviewerHonor.award.year"
+msgstr "محكّم العام"
+
+msgid "plugins.generic.reviewerHonor.award.distinguished"
+msgstr "محكّم متميز"
+
+msgid "plugins.generic.reviewerHonor.award.fastest"
+msgstr "الأسرع إنجازًا"
+
+msgid "plugins.generic.reviewerHonor.letter"
+msgstr "خطاب الشكر"
+
+msgid "plugins.generic.reviewerHonor.letterTitle"
+msgstr "نص خطاب الشكر"
+
+msgid "plugins.generic.reviewerHonor.placeholders"
+msgstr "المتغيرات: {name} اسم المحكّم، {count} عدد التحكيمات، {year} السنة، {journal} اسم المجلة."
+
+msgid "plugins.generic.reviewerHonor.selfService"
+msgstr "يستخرج المحكّم خطابه بنفسه من «شكر وتقدير»"
+
+msgid "plugins.generic.reviewerHonor.defaultLetter"
+msgstr "سعادة الأستاذ الدكتور/ {name}          حفظه الله\nالسلام عليكم ورحمة الله وبركاته، وبعد:\nفيسرّ هيئة تحرير {journal} أن تتقدم لسعادتكم بخالص الشكر والتقدير على إسهامكم العلمي في تحكيم ({count}) من البحوث خلال عام {year}، وما بذلتموه من وقت وجهد في تقويمها وتجويدها، مما كان له أبلغ الأثر في الارتقاء بجودة ما تنشره المجلة.\nسائلين الله أن يجزيكم خير الجزاء، وأن ينفع بعلمكم.\nوتقبلوا خالص التحية والتقدير،،،"
+
+msgid "plugins.generic.reviewerHonor.letterHeading"
+msgstr "شكر وتقدير"
+
+msgid "plugins.generic.reviewerHonor.mineIntro"
+msgstr "خطابات الشكر عن السنوات التي حكّمت فيها للمجلة، وموافقتك على ظهور اسمك في صفحة شكر المحكّمين العامة."
+
+msgid "plugins.generic.reviewerHonor.listedYes"
+msgstr "اسمي ظاهر (إلغاء)"
+
+msgid "plugins.generic.reviewerHonor.listedAsk"
+msgstr "أوافق على ظهور اسمي"
+
+msgid "plugins.generic.reviewerHonor.thanksTitle"
+msgstr "شكر المحكّمين لعام {$y}"
+
+msgid "plugins.generic.reviewerHonor.thanksIntro"
+msgstr "تشكر هيئة التحرير السادة المحكّمين الذين أسهموا بعلمهم ووقتهم في تحكيم بحوث المجلة خلال عام {$y}."
+
+msgid "plugins.generic.reviewerHonor.awards"
+msgstr "جوائز التحكيم"
+
+msgid "plugins.generic.reviewerHonor.reviewersOf"
+msgstr "محكّمو عام {$y}"
+

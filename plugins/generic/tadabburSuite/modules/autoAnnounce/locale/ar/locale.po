@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.autoAnnounce.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.autoAnnounce.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.autoAnnounce.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.autoAnnounce.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.autoAnnounce.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.autoAnnounce.name"
+msgstr "الإعلان الآلي"
+
+msgid "plugins.generic.autoAnnounce.description"
+msgstr "ينشئ إعلانًا في موقع المجلة تلقائيًا لحظة صدور كل عدد (بعنوانه وفهرس محتوياته وروابط بحوثه) بالعربية والإنجليزية، واختياريًا عند نشر كل بحث، ويولّد نصوصًا جاهزة للنشر في X ولينكدإن وواتساب وتيليجرام بالوسوم المحددة، مع سجل يمنع تكرار الإعلان. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.autoAnnounce.open"
+msgstr "فتح الإعلان الآلي"
+
+msgid "plugins.generic.autoAnnounce.menu"
+msgstr "الإعلان الآلي"
+
+msgid "plugins.generic.autoAnnounce.intro"
+msgstr "عند نشر عدد من «الأعداد» يُنشأ إعلانه تلقائيًا. ويمكنك الإعلان يدويًا عن عدد سابق أو بحث، وأخذ نص جاهز لوسائل التواصل."
+
+msgid "plugins.generic.autoAnnounce.annOff"
+msgstr "الإعلانات غير مفعّلة في المجلة؛ فعّلها من «الإعدادات ← الموقع ← الإعلانات» لتظهر للقراء."
+
+msgid "plugins.generic.autoAnnounce.issues"
+msgstr "الأعداد المنشورة"
+
+msgid "plugins.generic.autoAnnounce.articles"
+msgstr "أحدث البحوث المنشورة"
+
+msgid "plugins.generic.autoAnnounce.col.issue"
+msgstr "العدد"
+
+msgid "plugins.generic.autoAnnounce.col.papers"
+msgstr "البحوث"
+
+msgid "plugins.generic.autoAnnounce.col.ann"
+msgstr "الإعلان"
+
+msgid "plugins.generic.autoAnnounce.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.autoAnnounce.issueLabel"
+msgstr "المجلد {$v} العدد {$n} ({$y})"
+
+msgid "plugins.generic.autoAnnounce.announced"
+msgstr "أُعلن"
+
+msgid "plugins.generic.autoAnnounce.announce"
+msgstr "أعلن الآن"
+
+msgid "plugins.generic.autoAnnounce.again"
+msgstr "إعلان جديد"
+
+msgid "plugins.generic.autoAnnounce.confirmAgain"
+msgstr "سبق الإعلان؛ إنشاء إعلان آخر؟"
+
+msgid "plugins.generic.autoAnnounce.social"
+msgstr "نصوص التواصل"
+
+msgid "plugins.generic.autoAnnounce.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.autoAnnounce.set.autoIssue"
+msgstr "إعلان تلقائي عند صدور كل عدد"
+
+msgid "plugins.generic.autoAnnounce.set.autoArticle"
+msgstr "إعلان تلقائي عند نشر كل بحث منفردًا (للنشر المستمر)"
+
+msgid "plugins.generic.autoAnnounce.set.tags"
+msgstr "الوسوم (هاشتاق)"
+
+msgid "plugins.generic.autoAnnounce.tpl.issueTitle"
+msgstr "صدر العدد {$n} من المجلد {$v} ({$y}) من {$j}"
+
+msgid "plugins.generic.autoAnnounce.tpl.issueShort"
+msgstr "يسرّ هيئة تحرير {$j} أن تعلن صدور العدد {$n} من المجلد {$v} ({$y})، ويضم {$c} بحثًا محكّمًا."
+
+msgid "plugins.generic.autoAnnounce.tpl.readIssue"
+msgstr "تصفح العدد"
+
+msgid "plugins.generic.autoAnnounce.tpl.toc"
+msgstr "محتويات العدد"
+
+msgid "plugins.generic.autoAnnounce.tpl.articleTitle"
+msgstr "بحث جديد: {$t}"
+
+msgid "plugins.generic.autoAnnounce.tpl.articleShort"
+msgstr "نُشر في {$j} بحث «{$t}» للباحث/الباحثين: {$a}."
+
+msgid "plugins.generic.autoAnnounce.tpl.readArticle"
+msgstr "قراءة البحث"
+
+msgid "plugins.generic.autoAnnounce.net.x"
+msgstr "X (تويتر)"
+
+msgid "plugins.generic.autoAnnounce.net.x_en"
+msgstr "X بالإنجليزية"
+
+msgid "plugins.generic.autoAnnounce.net.linkedin"
+msgstr "لينكدإن / فيسبوك"
+
+msgid "plugins.generic.autoAnnounce.net.whatsapp"
+msgstr "واتساب / تيليجرام"
+
+msgid "plugins.generic.autoAnnounce.copy"
+msgstr "نسخ"
+
+msgid "plugins.generic.autoAnnounce.openX"
+msgstr "فتح في X"
+
+msgid "plugins.generic.autoAnnounce.msg.done"
+msgstr "أُنشئ الإعلان."
+

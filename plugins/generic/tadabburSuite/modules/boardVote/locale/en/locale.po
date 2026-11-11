@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.boardVote.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.boardVote.none"
+msgstr "None."
+
+msgid "plugins.generic.boardVote.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.boardVote.save"
+msgstr "Save"
+
+msgid "plugins.generic.boardVote.back"
+msgstr "Back"
+
+msgid "plugins.generic.boardVote.name"
+msgstr "Collective Decision"
+
+msgid "plugins.generic.boardVote.description"
+msgstr "Editorial board voting on a paper or an administrative matter: ready decision options or custom ones, a deadline, a quorum, secret or open ballots with reasons, email notice to voters, and a documented result with printable minutes. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.boardVote.open"
+msgstr "Open collective decisions"
+
+msgid "plugins.generic.boardVote.menu"
+msgstr "Collective decisions"
+
+msgid "plugins.generic.boardVote.myMenu"
+msgstr "My votes"
+
+msgid "plugins.generic.boardVote.intro"
+msgstr "Put a paper or matter to a vote among editors and linked board members. Voters do not see results before voting."
+
+msgid "plugins.generic.boardVote.new"
+msgstr "New vote"
+
+msgid "plugins.generic.boardVote.col.title"
+msgstr "Subject"
+
+msgid "plugins.generic.boardVote.col.deadline"
+msgstr "Deadline"
+
+msgid "plugins.generic.boardVote.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.boardVote.col.turnout"
+msgstr "Turnout"
+
+msgid "plugins.generic.boardVote.col.mine"
+msgstr "My vote"
+
+msgid "plugins.generic.boardVote.closed"
+msgstr "Closed"
+
+msgid "plugins.generic.boardVote.expired"
+msgstr "Expired"
+
+msgid "plugins.generic.boardVote.open_"
+msgstr "Open"
+
+msgid "plugins.generic.boardVote.voted"
+msgstr "Voted"
+
+msgid "plugins.generic.boardVote.notVoted"
+msgstr "Not voted"
+
+msgid "plugins.generic.boardVote.openBtn"
+msgstr "Open"
+
+msgid "plugins.generic.boardVote.f.title"
+msgstr "Subject"
+
+msgid "plugins.generic.boardVote.f.sid"
+msgstr "Paper ID (optional)"
+
+msgid "plugins.generic.boardVote.f.body"
+msgstr "Background and links"
+
+msgid "plugins.generic.boardVote.f.options"
+msgstr "Options"
+
+msgid "plugins.generic.boardVote.preset.decision"
+msgstr "Editorial decision"
+
+msgid "plugins.generic.boardVote.preset.yesno"
+msgstr "Yes/No/Abstain"
+
+msgid "plugins.generic.boardVote.preset.custom"
+msgstr "Custom options"
+
+msgid "plugins.generic.boardVote.customHint"
+msgstr "One option per line (for custom options)"
+
+msgid "plugins.generic.boardVote.f.voters"
+msgstr "Voters"
+
+msgid "plugins.generic.boardVote.noCands"
+msgstr "No editors or linked members."
+
+msgid "plugins.generic.boardVote.f.deadline"
+msgstr "Deadline"
+
+msgid "plugins.generic.boardVote.f.quorum"
+msgstr "Quorum"
+
+msgid "plugins.generic.boardVote.f.secret"
+msgstr "Secret ballot"
+
+msgid "plugins.generic.boardVote.f.notify"
+msgstr "Email the voters"
+
+msgid "plugins.generic.boardVote.create"
+msgstr "Open the vote"
+
+msgid "plugins.generic.boardVote.opt.accept"
+msgstr "Accept"
+
+msgid "plugins.generic.boardVote.opt.minor"
+msgstr "Accept with minor revisions"
+
+msgid "plugins.generic.boardVote.opt.major"
+msgstr "Major revisions and re-review"
+
+msgid "plugins.generic.boardVote.opt.reject"
+msgstr "Reject"
+
+msgid "plugins.generic.boardVote.opt.yes"
+msgstr "Agree"
+
+msgid "plugins.generic.boardVote.opt.no"
+msgstr "Disagree"
+
+msgid "plugins.generic.boardVote.opt.abstain"
+msgstr "Abstain"
+
+msgid "plugins.generic.boardVote.by"
+msgstr "Opened by {$n} on {$d}"
+
+msgid "plugins.generic.boardVote.until"
+msgstr "until {$d}"
+
+msgid "plugins.generic.boardVote.workflow"
+msgstr "Workflow"
+
+msgid "plugins.generic.boardVote.yourVote"
+msgstr "Your vote"
+
+msgid "plugins.generic.boardVote.reasonHint"
+msgstr "Reason (optional, shown in minutes)"
+
+msgid "plugins.generic.boardVote.cast"
+msgstr "Vote"
+
+msgid "plugins.generic.boardVote.change"
+msgstr "Change my vote"
+
+msgid "plugins.generic.boardVote.results"
+msgstr "Results"
+
+msgid "plugins.generic.boardVote.hidden"
+msgstr "Results appear after you vote or after the vote closes."
+
+msgid "plugins.generic.boardVote.turnout"
+msgstr "{$c} of {$n} voted"
+
+msgid "plugins.generic.boardVote.quorumOk"
+msgstr "Quorum met ({$q}%)"
+
+msgid "plugins.generic.boardVote.quorumNo"
+msgstr "Quorum not met ({$q}%)"
+
+msgid "plugins.generic.boardVote.ballots"
+msgstr "Ballots"
+
+msgid "plugins.generic.boardVote.reasons"
+msgstr "Reasons"
+
+msgid "plugins.generic.boardVote.missing"
+msgstr "Not yet voted"
+
+msgid "plugins.generic.boardVote.closeTitle"
+msgstr "Close and record the result"
+
+msgid "plugins.generic.boardVote.resultHint"
+msgstr "Recorded result"
+
+msgid "plugins.generic.boardVote.close"
+msgstr "Close"
+
+msgid "plugins.generic.boardVote.confirmClose"
+msgstr "After closing no votes or changes are possible. Continue?"
+
+msgid "plugins.generic.boardVote.minutes"
+msgstr "Voting minutes"
+
+msgid "plugins.generic.boardVote.closedOn"
+msgstr "Closed on {$d}"
+
+msgid "plugins.generic.boardVote.finalResult"
+msgstr "Recorded result"
+
+msgid "plugins.generic.boardVote.signLine"
+msgstr "Editor-in-Chief signature:"
+
+msgid "plugins.generic.boardVote.mail.subject"
+msgstr "Your vote is requested: {$t}"
+
+msgid "plugins.generic.boardVote.mail.body"
+msgstr "A matter has been put to the editorial board for a vote; the deadline is {$d}."
+
+msgid "plugins.generic.boardVote.mail.link"
+msgstr "Open the vote"
+
+msgid "plugins.generic.boardVote.msg.created"
+msgstr "Vote opened."
+
+msgid "plugins.generic.boardVote.msg.cast"
+msgstr "Your vote was recorded."
+
+msgid "plugins.generic.boardVote.msg.closedOk"
+msgstr "Vote closed."
+
+msgid "plugins.generic.boardVote.msg.errForm"
+msgstr "Provide a subject, at least two options and one voter."
+

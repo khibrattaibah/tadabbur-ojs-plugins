@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.scholarBoost.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.scholarBoost.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.scholarBoost.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.scholarBoost.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.scholarBoost.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.scholarBoost.name"
+msgstr "محسّن Google Scholar"
+
+msgid "plugins.generic.scholarBoost.description"
+msgstr "يكمّل وسوم الفهرسة التي تضعها إضافة Google Scholar الأساسية في صفحة كل بحث: اسم الناشر الصحيح، والكلمات المفتاحية باللغة الثانية، وORCID المؤلفين، وعلامة النص الكامل المجاني، وبيانات schema.org (JSON-LD) لمحرك Google. ويفحص كل بحث منشور وفق إرشادات Scholar للإدراج (ملف PDF وحجمه، وأسماء المؤلفين والعنوان والملخص بلغة البحث، والصفحات، والمراجع، والعناوين المكررة)، ويفحص robots.txt وإتاحة الموقع. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.scholarBoost.open"
+msgstr "فتح محسّن Scholar"
+
+msgid "plugins.generic.scholarBoost.menu"
+msgstr "Google Scholar"
+
+msgid "plugins.generic.scholarBoost.intro"
+msgstr "Google Scholar يفهرس من صفحة البحث وملف PDF، ويتجاهل البحوث التي تخالف إرشاداته دون إشعار. هذا الفحص يكشف ما يمنع الإدراج أو يضعفه."
+
+msgid "plugins.generic.scholarBoost.siteTitle"
+msgstr "الموقع"
+
+msgid "plugins.generic.scholarBoost.site.core"
+msgstr "إضافة Google Scholar الأساسية في OJS مفعّلة"
+
+msgid "plugins.generic.scholarBoost.site.open"
+msgstr "المجلة مفتوحة الوصول"
+
+msgid "plugins.generic.scholarBoost.site.restricted"
+msgstr "الموقع غير مقيّد بتسجيل الدخول"
+
+msgid "plugins.generic.scholarBoost.site.robots"
+msgstr "robots.txt لا يحجب البحوث وملفاتها"
+
+msgid "plugins.generic.scholarBoost.site.sitemap"
+msgstr "خريطة الموقع (أرسلها إلى Google Search Console)"
+
+msgid "plugins.generic.scholarBoost.robotsBlocks"
+msgstr "يحجب مسارات البحوث أو التنزيل"
+
+msgid "plugins.generic.scholarBoost.robotsNone"
+msgstr "لا يوجد robots.txt (مقبول)"
+
+msgid "plugins.generic.scholarBoost.articlesTitle"
+msgstr "البحوث المنشورة"
+
+msgid "plugins.generic.scholarBoost.cleanCount"
+msgstr "بلا ملاحظات"
+
+msgid "plugins.generic.scholarBoost.allClean"
+msgstr "كل البحوث سليمة."
+
+msgid "plugins.generic.scholarBoost.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.scholarBoost.col.problems"
+msgstr "الملاحظات"
+
+msgid "plugins.generic.scholarBoost.viewTags"
+msgstr "الوسوم"
+
+msgid "plugins.generic.scholarBoost.p.noPdf"
+msgstr "لا يوجد ملف PDF"
+
+msgid "plugins.generic.scholarBoost.p.bigPdf"
+msgstr "PDF أكبر من 5 ميغابايت"
+
+msgid "plugins.generic.scholarBoost.p.remotePdf"
+msgstr "PDF على موقع آخر"
+
+msgid "plugins.generic.scholarBoost.p.authorLocale"
+msgstr "أسماء مؤلفين ناقصة بلغة البحث"
+
+msgid "plugins.generic.scholarBoost.p.noAuthors"
+msgstr "بلا مؤلفين"
+
+msgid "plugins.generic.scholarBoost.p.abstractLocale"
+msgstr "لا ملخص بلغة البحث"
+
+msgid "plugins.generic.scholarBoost.p.titleLocale"
+msgstr "لا عنوان بلغة البحث"
+
+msgid "plugins.generic.scholarBoost.p.noPages"
+msgstr "بلا صفحات"
+
+msgid "plugins.generic.scholarBoost.p.noRefs"
+msgstr "المراجع غير مدخلة"
+
+msgid "plugins.generic.scholarBoost.p.noDoi"
+msgstr "بلا DOI"
+
+msgid "plugins.generic.scholarBoost.p.dupTitle"
+msgstr "عنوان مكرر"
+
+msgid "plugins.generic.scholarBoost.guideTitle"
+msgstr "ما لا يمكن فحصه آليًا (راجعه في ملف PDF)"
+
+msgid "plugins.generic.scholarBoost.guide"
+msgstr "<li>عنوان البحث في أعلى الصفحة الأولى من PDF بخط كبير، وأسماء المؤلفين تحته مباشرة.</li><li>PDF نصّي قابل للبحث لا صور ممسوحة، والخطوط مضمّنة.</li><li>قائمة المراجع في آخر الملف تحت عنوان «المصادر والمراجع» أو «References».</li><li>بيانات PDF الداخلية (Title/Author) مطابقة للبحث لا لقالب المجلة.</li><li>رابط واحد ثابت لكل بحث، وعدم نقل البحوث بين أعداد بعد نشرها.</li>"
+
+msgid "plugins.generic.scholarBoost.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.scholarBoost.set.tags"
+msgstr "إضافة الوسوم المكمّلة في صفحة البحث"
+
+msgid "plugins.generic.scholarBoost.set.jsonld"
+msgstr "إضافة بيانات schema.org (JSON-LD) — اتركه معطّلًا إن كان قالب الموقع يضيفها (قالب تدبر يضيفها)"
+
+msgid "plugins.generic.scholarBoost.extraTags"
+msgstr "الوسوم المضافة إلى وسوم الإضافة الأساسية"
+
+msgid "plugins.generic.scholarBoost.richTest"
+msgstr "اختبار صفحة البحث في أداة Google للنتائج المنسقة"
+

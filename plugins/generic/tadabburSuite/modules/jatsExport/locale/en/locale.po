@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.jatsExport.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.jatsExport.none"
+msgstr "None."
+
+msgid "plugins.generic.jatsExport.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.jatsExport.save"
+msgstr "Save"
+
+msgid "plugins.generic.jatsExport.back"
+msgstr "Back"
+
+msgid "plugins.generic.jatsExport.name"
+msgstr "Automatic Typesetting & JATS"
+
+msgid "plugins.generic.jatsExport.description"
+msgstr "Turns the paper's final Word file plus its OJS metadata into a complete JATS 1.3 file: Arabic/English metadata, the body with nested sections, bold/italic, footnotes and tables, and references with DOIs. It also produces an HTML reading version, checks structure and completeness, and attaches the JATS file to the official JATS tab of OJS 3.5. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.jatsExport.open"
+msgstr "Open JATS export"
+
+msgid "plugins.generic.jatsExport.menu"
+msgstr "Typesetting & JATS"
+
+msgid "plugins.generic.jatsExport.intro"
+msgstr "Published papers or papers in production. Without a Word file JATS is built from metadata and references only; converting the Word file adds the full body."
+
+msgid "plugins.generic.jatsExport.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.jatsExport.col.state"
+msgstr "Stage"
+
+msgid "plugins.generic.jatsExport.col.body"
+msgstr "Body"
+
+msgid "plugins.generic.jatsExport.published"
+msgstr "Published"
+
+msgid "plugins.generic.jatsExport.production"
+msgstr "In production"
+
+msgid "plugins.generic.jatsExport.bodyStats"
+msgstr "{$s} sections · {$p} paragraphs · {$f} footnotes"
+
+msgid "plugins.generic.jatsExport.metaOnly"
+msgstr "Metadata only"
+
+msgid "plugins.generic.jatsExport.attached"
+msgstr "Attached"
+
+msgid "plugins.generic.jatsExport.openBtn"
+msgstr "Open"
+
+msgid "plugins.generic.jatsExport.requiredOk"
+msgstr "required elements complete"
+
+msgid "plugins.generic.jatsExport.optional"
+msgstr "optional"
+
+msgid "plugins.generic.jatsExport.v.wellFormed"
+msgstr "Well-formed XML"
+
+msgid "plugins.generic.jatsExport.v.journalTitle"
+msgstr "Journal title"
+
+msgid "plugins.generic.jatsExport.v.issn"
+msgstr "ISSN"
+
+msgid "plugins.generic.jatsExport.v.articleTitle"
+msgstr "Article title"
+
+msgid "plugins.generic.jatsExport.v.transTitle"
+msgstr "Translated title"
+
+msgid "plugins.generic.jatsExport.v.contrib"
+msgstr "Authors"
+
+msgid "plugins.generic.jatsExport.v.aff"
+msgstr "Affiliations"
+
+msgid "plugins.generic.jatsExport.v.orcid"
+msgstr "ORCID"
+
+msgid "plugins.generic.jatsExport.v.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.jatsExport.v.pubDate"
+msgstr "Publication date"
+
+msgid "plugins.generic.jatsExport.v.volIssue"
+msgstr "Volume & issue"
+
+msgid "plugins.generic.jatsExport.v.pages"
+msgstr "Pages"
+
+msgid "plugins.generic.jatsExport.v.abstract"
+msgstr "Abstract"
+
+msgid "plugins.generic.jatsExport.v.transAbstract"
+msgstr "Translated abstract"
+
+msgid "plugins.generic.jatsExport.v.kwd"
+msgstr "Keywords"
+
+msgid "plugins.generic.jatsExport.v.license"
+msgstr "Licence"
+
+msgid "plugins.generic.jatsExport.v.body"
+msgstr "Body"
+
+msgid "plugins.generic.jatsExport.v.sections"
+msgstr "Body sections"
+
+msgid "plugins.generic.jatsExport.v.refs"
+msgstr "Reference list"
+
+msgid "plugins.generic.jatsExport.v.xrefs"
+msgstr "Internal cross-references"
+
+msgid "plugins.generic.jatsExport.preview"
+msgstr "HTML preview"
+
+msgid "plugins.generic.jatsExport.bodyTitle"
+msgstr "Body from Word"
+
+msgid "plugins.generic.jatsExport.statsFull"
+msgstr "{$s} sections · {$p} paragraphs · {$t} tables · {$f} footnotes · {$r} references extracted · {$k} blocks skipped before the introduction"
+
+msgid "plugins.generic.jatsExport.noBody"
+msgstr "No body converted yet."
+
+msgid "plugins.generic.jatsExport.convert"
+msgstr "Convert this file"
+
+msgid "plugins.generic.jatsExport.orUpload"
+msgstr "Or upload a Word file:"
+
+msgid "plugins.generic.jatsExport.uploadConvert"
+msgstr "Upload & convert"
+
+msgid "plugins.generic.jatsExport.docxHelp"
+msgstr "For best results use Word heading styles (Heading 1, Heading 2…) for sections, real footnotes, and put references under a \"References\" heading. Everything before the \"Introduction\" (title, authors, abstracts) comes from OJS metadata, not the file. If references are entered in OJS, those are used."
+
+msgid "plugins.generic.jatsExport.stage.11"
+msgstr "Production ready"
+
+msgid "plugins.generic.jatsExport.stage.9"
+msgstr "Copyedited"
+
+msgid "plugins.generic.jatsExport.stage.6"
+msgstr "Final"
+
+msgid "plugins.generic.jatsExport.stage.15"
+msgstr "Revision"
+
+msgid "plugins.generic.jatsExport.stage.4"
+msgstr "Review file"
+
+msgid "plugins.generic.jatsExport.stage.2"
+msgstr "Submission file"
+
+msgid "plugins.generic.jatsExport.attachTitle"
+msgstr "Attach to the OJS JATS tab"
+
+msgid "plugins.generic.jatsExport.attachHelp"
+msgstr "Saves the file as the publication's official JATS file (the JATS tab of the publication), used by OAI/PMC exports and reading tools. Replaces any earlier JATS file."
+
+msgid "plugins.generic.jatsExport.attach"
+msgstr "Attach JATS file now"
+
+msgid "plugins.generic.jatsExport.confirmAttach"
+msgstr "The publication's current JATS file will be replaced. Continue?"
+
+msgid "plugins.generic.jatsExport.attachedOn"
+msgstr "Attached on {$d}"
+
+msgid "plugins.generic.jatsExport.msg.converted"
+msgstr "Word file converted."
+
+msgid "plugins.generic.jatsExport.msg.attachedOk"
+msgstr "JATS file attached to the publication."
+
+msgid "plugins.generic.jatsExport.msg.errDocx"
+msgstr "Could not read the file; make sure it is a valid DOCX."
+
+msgid "plugins.generic.jatsExport.msg.errXml"
+msgstr "The JATS file is not well-formed; check the body."
+
+msgid "plugins.generic.jatsExport.msg.errAttach"
+msgstr "Could not attach; see the server error log."
+

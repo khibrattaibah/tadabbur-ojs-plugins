@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.officialLetters.name"
+msgstr "Verified Official Letters"
+
+msgid "plugins.generic.officialLetters.description"
+msgstr "Receipt, final acceptance and publication letters on the journal letterhead, with an outgoing number, Hijri and Gregorian dates, the editor-in-chief signature and stamp, and a QR code to a public verification page. Issued by editors or self-issued by authors once eligible. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.officialLetters.open"
+msgstr "Open letters"
+
+msgid "plugins.generic.officialLetters.menu"
+msgstr "Official Letters"
+
+msgid "plugins.generic.officialLetters.myMenu"
+msgstr "My Letters"
+
+msgid "plugins.generic.officialLetters.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.officialLetters.intro"
+msgstr "Pick a submission, then the letter type and language. A blue button issues a new letter; a white one re-downloads the current letter with the same number. Each letter keeps a fixed snapshot of the submission data at issue time and is verifiable by QR code."
+
+msgid "plugins.generic.officialLetters.noMpdf"
+msgstr "mPDF is not available on this server; PDFs cannot be generated."
+
+msgid "plugins.generic.officialLetters.search"
+msgstr "Submission ID or title word"
+
+msgid "plugins.generic.officialLetters.searchBtn"
+msgstr "Search"
+
+msgid "plugins.generic.officialLetters.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.officialLetters.col.letters"
+msgstr "Letters"
+
+msgid "plugins.generic.officialLetters.col.number"
+msgstr "Number"
+
+msgid "plugins.generic.officialLetters.col.type"
+msgstr "Letter type"
+
+msgid "plugins.generic.officialLetters.col.date"
+msgstr "Issue date"
+
+msgid "plugins.generic.officialLetters.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.officialLetters.type.receipt"
+msgstr "Receipt of Submission"
+
+msgid "plugins.generic.officialLetters.type.acceptance"
+msgstr "Final Acceptance for Publication"
+
+msgid "plugins.generic.officialLetters.type.publication"
+msgstr "Certificate of Publication"
+
+msgid "plugins.generic.officialLetters.notYet.receipt"
+msgstr "after submission is completed"
+
+msgid "plugins.generic.officialLetters.notYet.acceptance"
+msgstr "after the acceptance decision"
+
+msgid "plugins.generic.officialLetters.notYet.publication"
+msgstr "after publication"
+
+msgid "plugins.generic.officialLetters.history"
+msgstr "Letters of this submission"
+
+msgid "plugins.generic.officialLetters.recent"
+msgstr "Recently issued"
+
+msgid "plugins.generic.officialLetters.noLetters"
+msgstr "No letters issued yet."
+
+msgid "plugins.generic.officialLetters.back"
+msgstr "All submissions"
+
+msgid "plugins.generic.officialLetters.valid"
+msgstr "Valid"
+
+msgid "plugins.generic.officialLetters.revoked"
+msgstr "Revoked"
+
+msgid "plugins.generic.officialLetters.verifyPage"
+msgstr "Verify page"
+
+msgid "plugins.generic.officialLetters.reason"
+msgstr "Reason"
+
+msgid "plugins.generic.officialLetters.revoke"
+msgstr "Revoke"
+
+msgid "plugins.generic.officialLetters.reissueLabel"
+msgstr "Issue anew with a new number (after data changes):"
+
+msgid "plugins.generic.officialLetters.reissue"
+msgstr "Reissue"
+
+msgid "plugins.generic.officialLetters.pdfError"
+msgstr "Could not generate the letter:"
+
+msgid "plugins.generic.officialLetters.mineIntro"
+msgstr "Letters for your submissions. Each becomes available automatically once due: receipt after submission, acceptance after the acceptance decision, and the certificate after publication."
+
+msgid "plugins.generic.officialLetters.mineNote"
+msgstr "Anyone can verify a letter by scanning its QR code."
+
+msgid "plugins.generic.officialLetters.authorsDisabled"
+msgstr "Self-service letters are disabled in this journal; please contact the editorial office."
+
+msgid "plugins.generic.officialLetters.noSubmissions"
+msgstr "You have no submissions in this journal."
+
+msgid "plugins.generic.officialLetters.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.officialLetters.save"
+msgstr "Save"
+
+msgid "plugins.generic.officialLetters.set.allowAuthors"
+msgstr "Allow authors to self-issue their letters"
+
+msgid "plugins.generic.officialLetters.set.signature"
+msgstr "Show editor-in-chief signature and stamp"
+
+msgid "plugins.generic.officialLetters.set.noteAr"
+msgstr "Extra paragraph in Arabic letters (optional)"
+
+msgid "plugins.generic.officialLetters.set.noteEn"
+msgstr "Extra paragraph in English letters (optional)"
+
+msgid "plugins.generic.officialLetters.set.assets"
+msgstr "Letterhead, signature and stamp live in the plugin assets folder (letterhead.jpg, signature.png, stamp.png, name_editor.png); replace them with same-named files when the editor-in-chief changes."
+
+msgid "plugins.generic.officialLetters.title.receipt"
+msgstr "Acknowledgement of Receipt"
+
+msgid "plugins.generic.officialLetters.title.acceptance"
+msgstr "Letter of Final Acceptance"
+
+msgid "plugins.generic.officialLetters.title.publication"
+msgstr "Certificate of Publication"
+
+msgid "plugins.generic.officialLetters.salute.author"
+msgstr "Dear {$name},"
+
+msgid "plugins.generic.officialLetters.salute.general"
+msgstr "To whom it may concern,"
+
+msgid "plugins.generic.officialLetters.body.receipt"
+msgstr "{$journal} acknowledges receipt of your manuscript entitled “{$title}” on {$submitted}, registered under number {$id}. It will undergo the journal’s editorial procedures of initial screening followed by peer review, and we will keep you informed."
+
+msgid "plugins.generic.officialLetters.body.acceptance"
+msgstr "{$journal} certifies that the manuscript entitled “{$title}” by {$authors} has passed peer review and was finally accepted for publication on {$accepted}. This letter is issued upon request."
+
+msgid "plugins.generic.officialLetters.body.publication"
+msgstr "{$journal} certifies that the peer-reviewed article entitled “{$title}” by {$authors} was published in {$issue} on {$published}. This certificate is issued upon request."
+
+msgid "plugins.generic.officialLetters.f.title"
+msgstr "Title"
+
+msgid "plugins.generic.officialLetters.f.authors"
+msgstr "Author(s)"
+
+msgid "plugins.generic.officialLetters.f.id"
+msgstr "Manuscript ID"
+
+msgid "plugins.generic.officialLetters.f.submitted"
+msgstr "Received"
+
+msgid "plugins.generic.officialLetters.f.accepted"
+msgstr "Accepted"
+
+msgid "plugins.generic.officialLetters.f.published"
+msgstr "Published"
+
+msgid "plugins.generic.officialLetters.f.issue"
+msgstr "Issue"
+
+msgid "plugins.generic.officialLetters.f.pages"
+msgstr "Pages"
+
+msgid "plugins.generic.officialLetters.f.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.officialLetters.f.expectedIssue"
+msgstr "Scheduled issue"
+
+msgid "plugins.generic.officialLetters.closing"
+msgstr "With best regards,"
+
+msgid "plugins.generic.officialLetters.signer"
+msgstr "Editor-in-Chief"
+
+msgid "plugins.generic.officialLetters.verifyHint"
+msgstr "Scan to verify"
+
+msgid "plugins.generic.officialLetters.vol"
+msgstr "Vol. {$n}"
+
+msgid "plugins.generic.officialLetters.no"
+msgstr "No. {$n}"
+
+msgid "plugins.generic.officialLetters.v.title"
+msgstr "Verify an Official Letter"
+
+msgid "plugins.generic.officialLetters.v.valid"
+msgstr "Valid letter issued by the journal"
+
+msgid "plugins.generic.officialLetters.v.revoked"
+msgstr "This letter has been revoked"
+
+msgid "plugins.generic.officialLetters.v.revokedOn"
+msgstr "Revoked on {$d}."
+
+msgid "plugins.generic.officialLetters.v.notFound"
+msgstr "No letter matches this code"
+
+msgid "plugins.generic.officialLetters.v.notFoundHelp"
+msgstr "Check the code printed under the QR, or contact the journal."
+
+msgid "plugins.generic.officialLetters.v.note"
+msgstr "The data shown is as recorded at issue time. Any difference from the paper you hold means the paper was altered."
+

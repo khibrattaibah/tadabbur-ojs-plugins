@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.declarations.name"
+msgstr "إقرارات الشفافية والأخلاقيات"
+
+msgid "plugins.generic.declarations.description"
+msgstr "إقرارات منظّمة يقدّمها المؤلف عند التقديم: تضارب المصالح، والتمويل، والموافقة الأخلاقية، واستخدام الذكاء الاصطناعي، والشكر. تُعرض في صفحة البحث وتُضاف إلى JATS، مع سجل للمحررين. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.declarations.open"
+msgstr "فتح سجل الإقرارات"
+
+msgid "plugins.generic.declarations.menu"
+msgstr "الإقرارات"
+
+msgid "plugins.generic.declarations.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.declarations.formTitle"
+msgstr "الإقرارات"
+
+msgid "plugins.generic.declarations.formIntro"
+msgstr "تطلب المجلة هذه الإقرارات من كل بحث، وتُنشر مع البحث وفق ممارسات الشفافية المعتمدة لدى المجلات الدولية (COPE وICMJE)."
+
+msgid "plugins.generic.declarations.coi.label"
+msgstr "تضارب المصالح"
+
+msgid "plugins.generic.declarations.coi.title"
+msgstr "تضارب المصالح"
+
+msgid "plugins.generic.declarations.coi.short"
+msgstr "تضارب المصالح"
+
+msgid "plugins.generic.declarations.coi.help"
+msgstr "هل لأي من المؤلفين علاقة مالية أو شخصية أو مؤسسية قد تؤثر في البحث أو تبدو مؤثرة؟"
+
+msgid "plugins.generic.declarations.coi.none"
+msgstr "لا يوجد تضارب في المصالح"
+
+msgid "plugins.generic.declarations.coi.declared"
+msgstr "يوجد ما يجب الإفصاح عنه"
+
+msgid "plugins.generic.declarations.coi.none.short"
+msgstr "لا يوجد"
+
+msgid "plugins.generic.declarations.coi.declared.short"
+msgstr "مُفصح عنه"
+
+msgid "plugins.generic.declarations.coi.none.statement"
+msgstr "يقرّ المؤلفون بعدم وجود أي تضارب في المصالح."
+
+msgid "plugins.generic.declarations.coi.textLabel"
+msgstr "بيان تضارب المصالح"
+
+msgid "plugins.generic.declarations.coi.textHelp"
+msgstr "اذكر طبيعة العلاقة وصاحبها."
+
+msgid "plugins.generic.declarations.funding.label"
+msgstr "التمويل"
+
+msgid "plugins.generic.declarations.funding.title"
+msgstr "التمويل"
+
+msgid "plugins.generic.declarations.funding.short"
+msgstr "التمويل"
+
+msgid "plugins.generic.declarations.funding.help"
+msgstr "هل حصل البحث على دعم مالي من جهة ما؟"
+
+msgid "plugins.generic.declarations.funding.none"
+msgstr "لم يتلقَّ البحث تمويلًا"
+
+msgid "plugins.generic.declarations.funding.funded"
+msgstr "البحث ممول"
+
+msgid "plugins.generic.declarations.funding.none.short"
+msgstr "غير ممول"
+
+msgid "plugins.generic.declarations.funding.funded.short"
+msgstr "ممول"
+
+msgid "plugins.generic.declarations.funding.none.statement"
+msgstr "لم يتلقَّ هذا البحث أي تمويل من جهة عامة أو تجارية أو غير ربحية."
+
+msgid "plugins.generic.declarations.funding.textLabel"
+msgstr "بيان التمويل"
+
+msgid "plugins.generic.declarations.funding.textHelp"
+msgstr "اسم الجهة الممولة ورقم المنحة إن وجد."
+
+msgid "plugins.generic.declarations.ethics.label"
+msgstr "الموافقة الأخلاقية"
+
+msgid "plugins.generic.declarations.ethics.title"
+msgstr "الموافقة الأخلاقية"
+
+msgid "plugins.generic.declarations.ethics.short"
+msgstr "الأخلاقيات"
+
+msgid "plugins.generic.declarations.ethics.help"
+msgstr "هل شمل البحث مشاركين من البشر (استبانات، مقابلات، تجارب) يتطلب موافقة لجنة أخلاقيات؟"
+
+msgid "plugins.generic.declarations.ethics.na"
+msgstr "لا ينطبق (لا مشاركين من البشر)"
+
+msgid "plugins.generic.declarations.ethics.approved"
+msgstr "حصل على موافقة أخلاقية"
+
+msgid "plugins.generic.declarations.ethics.na.short"
+msgstr "لا ينطبق"
+
+msgid "plugins.generic.declarations.ethics.approved.short"
+msgstr "موافَق"
+
+msgid "plugins.generic.declarations.ethics.na.statement"
+msgstr "لا ينطبق؛ لم يشمل البحث مشاركين من البشر أو بيانات شخصية."
+
+msgid "plugins.generic.declarations.ethics.textLabel"
+msgstr "بيان الموافقة الأخلاقية"
+
+msgid "plugins.generic.declarations.ethics.textHelp"
+msgstr "اسم اللجنة ورقم الموافقة وتاريخها، وطريقة أخذ موافقة المشاركين."
+
+msgid "plugins.generic.declarations.ai.label"
+msgstr "استخدام الذكاء الاصطناعي التوليدي"
+
+msgid "plugins.generic.declarations.ai.title"
+msgstr "استخدام الذكاء الاصطناعي"
+
+msgid "plugins.generic.declarations.ai.short"
+msgstr "الذكاء الاصطناعي"
+
+msgid "plugins.generic.declarations.ai.help"
+msgstr "هل استُخدمت أدوات ذكاء اصطناعي توليدي في كتابة البحث أو تحليله أو ترجمته؟ (لا يُعد الذكاء الاصطناعي مؤلفًا)."
+
+msgid "plugins.generic.declarations.ai.none"
+msgstr "لم تُستخدم"
+
+msgid "plugins.generic.declarations.ai.used"
+msgstr "استُخدمت وأُفصح عنها"
+
+msgid "plugins.generic.declarations.ai.none.short"
+msgstr "لم يُستخدم"
+
+msgid "plugins.generic.declarations.ai.used.short"
+msgstr "مُفصح عنه"
+
+msgid "plugins.generic.declarations.ai.none.statement"
+msgstr "لم تُستخدم أدوات الذكاء الاصطناعي التوليدي في إعداد هذا البحث."
+
+msgid "plugins.generic.declarations.ai.textLabel"
+msgstr "بيان استخدام الذكاء الاصطناعي"
+
+msgid "plugins.generic.declarations.ai.textHelp"
+msgstr "اسم الأداة وإصدارها، وفيمَ استُخدمت، مع إقرار المؤلفين بمراجعة الناتج وتحمّل مسؤوليته."
+
+msgid "plugins.generic.declarations.ack.label"
+msgstr "الشكر والتقدير (اختياري)"
+
+msgid "plugins.generic.declarations.ack.title"
+msgstr "الشكر والتقدير"
+
+msgid "plugins.generic.declarations.ack.help"
+msgstr "لمن أسهم في البحث ولم يبلغ حدّ التأليف."
+
+msgid "plugins.generic.declarations.error.missing"
+msgstr "يرجى إكمال إقرار: {$item}."
+
+msgid "plugins.generic.declarations.error.text"
+msgstr "يرجى كتابة بيان «{$item}»."
+
+msgid "plugins.generic.declarations.publicTitle"
+msgstr "الإقرارات"
+
+msgid "plugins.generic.declarations.intro"
+msgstr "سجل إقرارات البحوث (تضارب المصالح، التمويل، الأخلاقيات، الذكاء الاصطناعي). المجلات المفهرسة في Scopus وWeb of Science مطالبة بإظهار هذه الإقرارات في كل بحث."
+
+msgid "plugins.generic.declarations.stat.complete"
+msgstr "بحوث مكتملة الإقرارات"
+
+msgid "plugins.generic.declarations.stat.published"
+msgstr "بحثًا منشورًا"
+
+msgid "plugins.generic.declarations.stat.all"
+msgstr "بحثًا مقدّمًا"
+
+msgid "plugins.generic.declarations.stat.declared.coi"
+msgstr "أفصحت عن تضارب مصالح"
+
+msgid "plugins.generic.declarations.stat.declared.funding"
+msgstr "بحوث ممولة"
+
+msgid "plugins.generic.declarations.stat.declared.ethics"
+msgstr "بموافقة أخلاقية"
+
+msgid "plugins.generic.declarations.stat.declared.ai"
+msgstr "أفصحت عن استخدام ذكاء اصطناعي"
+
+msgid "plugins.generic.declarations.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.declarations.set.items"
+msgstr "الإقرارات المطلوبة"
+
+msgid "plugins.generic.declarations.set.required"
+msgstr "إلزامية قبل إرسال البحث"
+
+msgid "plugins.generic.declarations.set.show"
+msgstr "عرضها في صفحة البحث المنشور"
+
+msgid "plugins.generic.declarations.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.declarations.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.declarations.register"
+msgstr "سجل الإقرارات"
+
+msgid "plugins.generic.declarations.scope.published"
+msgstr "المنشورة"
+
+msgid "plugins.generic.declarations.scope.all"
+msgstr "كل البحوث"
+
+msgid "plugins.generic.declarations.none"
+msgstr "لا توجد بحوث."
+
+msgid "plugins.generic.declarations.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.declarations.col.done"
+msgstr "الاكتمال"
+
+msgid "plugins.generic.declarations.missing"
+msgstr "ناقص"
+
+msgid "plugins.generic.declarations.noText"
+msgstr "بلا بيان"
+
+msgid "plugins.generic.declarations.note"
+msgstr "البحوث المنشورة قبل تفعيل الإضافة تظهر ناقصة؛ يمكن للمحرر إكمال إقراراتها من تبويب «البيانات الوصفية» في صفحة النشر."
+

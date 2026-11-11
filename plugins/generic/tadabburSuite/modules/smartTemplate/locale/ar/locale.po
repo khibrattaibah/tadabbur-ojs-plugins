@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.smartTemplate.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.smartTemplate.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.smartTemplate.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.smartTemplate.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.smartTemplate.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.smartTemplate.name"
+msgstr "قالب المجلة الذكي"
+
+msgid "plugins.generic.smartTemplate.description"
+msgstr "قالب Word بمواصفات المجلة: الخطوط وأحجامها والهوامش، وأنماط العناوين والآيات والحواشي والمراجع، والعناوين الإلزامية للبحث، وإرشادات مختصرة داخل الملف. يُعبّأ تلقائيًا ببيانات بحث المؤلف (العنوانان والملخصان والكلمات المفتاحية والمؤلفون)، بنسخة كاملة ونسخة مُغفلة للتحكيم، ورابط عام للقالب الفارغ. متوافق مع الفحص الفني وتحويل JATS في الحزمة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.smartTemplate.open"
+msgstr "فتح قالب المجلة"
+
+msgid "plugins.generic.smartTemplate.menu"
+msgstr "قالب المجلة"
+
+msgid "plugins.generic.smartTemplate.myMenu"
+msgstr "قالب بحثي"
+
+msgid "plugins.generic.smartTemplate.intro"
+msgstr "القالب يُبنى لحظة التنزيل من الإعدادات أدناه، فأي تعديل يسري فورًا. ضع الرابط العام في «إرشادات المؤلفين»."
+
+msgid "plugins.generic.smartTemplate.downloads"
+msgstr "التنزيل"
+
+msgid "plugins.generic.smartTemplate.blank"
+msgstr "القالب الفارغ"
+
+msgid "plugins.generic.smartTemplate.blankAnon"
+msgstr "القالب الفارغ (مُغفل)"
+
+msgid "plugins.generic.smartTemplate.publicLink"
+msgstr "الرابط العام (لا يحتاج تسجيل دخول):"
+
+msgid "plugins.generic.smartTemplate.mineIntro"
+msgstr "نزّل قالبًا معبّأً ببيانات بحثك: النسخة الكاملة للنشر، والنسخة المُغفلة (بلا أسماء ولا بيانات مؤلف في خصائص الملف) للتحكيم."
+
+msgid "plugins.generic.smartTemplate.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.smartTemplate.full"
+msgstr "النسخة الكاملة"
+
+msgid "plugins.generic.smartTemplate.anonymous"
+msgstr "النسخة المُغفلة"
+
+msgid "plugins.generic.smartTemplate.blankTitle"
+msgstr "بحث جديد"
+
+msgid "plugins.generic.smartTemplate.settings"
+msgstr "مواصفات القالب"
+
+msgid "plugins.generic.smartTemplate.f.fontAr"
+msgstr "الخط العربي"
+
+msgid "plugins.generic.smartTemplate.f.fontEn"
+msgstr "الخط الإنجليزي"
+
+msgid "plugins.generic.smartTemplate.f.fontQuran"
+msgstr "خط الآيات"
+
+msgid "plugins.generic.smartTemplate.f.size"
+msgstr "حجم المتن"
+
+msgid "plugins.generic.smartTemplate.f.fnSize"
+msgstr "حجم الحواشي"
+
+msgid "plugins.generic.smartTemplate.f.line"
+msgstr "تباعد الأسطر"
+
+msgid "plugins.generic.smartTemplate.f.margin"
+msgstr "الهوامش (مم)"
+
+msgid "plugins.generic.smartTemplate.f.wordsMin"
+msgstr "أقل عدد كلمات"
+
+msgid "plugins.generic.smartTemplate.f.wordsMax"
+msgstr "أكثر عدد كلمات"
+
+msgid "plugins.generic.smartTemplate.f.absMax"
+msgstr "كلمات الملخص"
+
+msgid "plugins.generic.smartTemplate.f.kwMax"
+msgstr "الكلمات المفتاحية"
+
+msgid "plugins.generic.smartTemplate.f.headings"
+msgstr "العناوين الإلزامية بالترتيب (سطر لكل عنوان؛ ## للعنوان الفرعي، ### للثالث)"
+
+msgid "plugins.generic.smartTemplate.d.banner"
+msgstr "قالب {$j}: المتن بخط {$f} حجم {$s}، والحواشي حجم {$fs}؛ طول البحث من {$min} إلى {$max} كلمة. استعمل الأنماط الجاهزة (عنوان 1، عنوان 2، Quran Verse، Reference) ولا تنسّق يدويًا. احذف هذه الملاحظات الملوّنة قبل الإرسال."
+
+msgid "plugins.generic.smartTemplate.d.titleAr"
+msgstr "عنوان البحث باللغة العربية"
+
+msgid "plugins.generic.smartTemplate.d.anon"
+msgstr "نسخة مُغفلة للتحكيم: لا تكتب أسماء المؤلفين ولا ما يدل عليهم في المتن أو الحواشي أو الشكر."
+
+msgid "plugins.generic.smartTemplate.d.author"
+msgstr "اسم الباحث"
+
+msgid "plugins.generic.smartTemplate.d.aff"
+msgstr "الجهة، المدينة، الدولة"
+
+msgid "plugins.generic.smartTemplate.d.abstract"
+msgstr "الملخص"
+
+msgid "plugins.generic.smartTemplate.d.absHint"
+msgstr "اكتب الملخص هنا في حدود {$n} كلمة: موضوع البحث، وهدفه، ومنهجه، وأهم نتائجه."
+
+msgid "plugins.generic.smartTemplate.d.kw"
+msgstr "الكلمات المفتاحية:"
+
+msgid "plugins.generic.smartTemplate.d.kwHint"
+msgstr "من 3 إلى {$n} كلمات مفصولة بفواصل"
+
+msgid "plugins.generic.smartTemplate.d.sampleText"
+msgstr "اكتب هنا. هذا مثال لفقرة في متن البحث مع حاشية سفلية"
+
+msgid "plugins.generic.smartTemplate.d.sampleFn"
+msgstr "مثال حاشية: المؤلف، اسم الكتاب (الناشر، السنة)، ج/ص."
+
+msgid "plugins.generic.smartTemplate.d.quranHint"
+msgstr "الآيات بنمط Quran Verse بين قوسين مزخرفين ثم اسم السورة ورقم الآية بين معقوفين."
+
+msgid "plugins.generic.smartTemplate.d.write"
+msgstr "اكتب هنا."
+
+msgid "plugins.generic.smartTemplate.d.refs"
+msgstr "المصادر والمراجع"
+
+msgid "plugins.generic.smartTemplate.d.refsHint"
+msgstr "رتّب المراجع هجائيًا بنمط Reference، وأضف DOI لكل مرجع له DOI، واجعل المراجع العربية بأحرف لاتينية (رومنة) بعدها إن طلبت المجلة."
+
+msgid "plugins.generic.smartTemplate.d.ref1"
+msgstr "ابن كثير، إسماعيل بن عمر. تفسير القرآن العظيم. تحقيق: سامي بن محمد سلامة. ط2. الرياض: دار طيبة، 1420هـ/1999م."
+

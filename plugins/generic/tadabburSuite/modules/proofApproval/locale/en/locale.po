@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.proofApproval.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.proofApproval.none"
+msgstr "None."
+
+msgid "plugins.generic.proofApproval.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.proofApproval.save"
+msgstr "Save"
+
+msgid "plugins.generic.proofApproval.back"
+msgstr "Back"
+
+msgid "plugins.generic.proofApproval.name"
+msgstr "Proof Approval"
+
+msgid "plugins.generic.proofApproval.description"
+msgstr "The editor sends the final proof to the authors with a deadline and email notice; the author approves it with a recorded, time-stamped declaration, or sends a structured list of corrections: page, line, wrong, right. Successive rounds, a full log, and a printable corrections list for the typesetter. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.proofApproval.open"
+msgstr "Open proof approval"
+
+msgid "plugins.generic.proofApproval.menu"
+msgstr "Proof approval"
+
+msgid "plugins.generic.proofApproval.myMenu"
+msgstr "Proof approval"
+
+msgid "plugins.generic.proofApproval.intro"
+msgstr "Papers in production or scheduled. Upload the proof in OJS Production (proof or production-ready files), then send it from here."
+
+msgid "plugins.generic.proofApproval.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.proofApproval.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.proofApproval.col.deadline"
+msgstr "Deadline"
+
+msgid "plugins.generic.proofApproval.openBtn"
+msgstr "Open"
+
+msgid "plugins.generic.proofApproval.overdue"
+msgstr "overdue"
+
+msgid "plugins.generic.proofApproval.roundN"
+msgstr "Round {$n}"
+
+msgid "plugins.generic.proofApproval.st.pending"
+msgstr "Awaiting author"
+
+msgid "plugins.generic.proofApproval.st.approved"
+msgstr "Approved by author"
+
+msgid "plugins.generic.proofApproval.st.changes"
+msgstr "Corrections requested"
+
+msgid "plugins.generic.proofApproval.st.superseded"
+msgstr "Superseded"
+
+msgid "plugins.generic.proofApproval.f.file"
+msgstr "Proof file"
+
+msgid "plugins.generic.proofApproval.f.deadline"
+msgstr "Reply by"
+
+msgid "plugins.generic.proofApproval.f.message"
+msgstr "Message to the author"
+
+msgid "plugins.generic.proofApproval.f.notify"
+msgstr "Email the authors"
+
+msgid "plugins.generic.proofApproval.send"
+msgstr "Send proof"
+
+msgid "plugins.generic.proofApproval.defaultMsg"
+msgstr "Please find the final proof of your paper before publication. Kindly review it carefully, then approve it or send only the necessary corrections (typesetting errors); substantive changes cannot be accepted at this stage."
+
+msgid "plugins.generic.proofApproval.noFiles"
+msgstr "No proof files for this paper yet. Upload them in the OJS Production stage."
+
+msgid "plugins.generic.proofApproval.stage.10"
+msgstr "Proof"
+
+msgid "plugins.generic.proofApproval.stage.11"
+msgstr "Production ready"
+
+msgid "plugins.generic.proofApproval.history"
+msgstr "History"
+
+msgid "plugins.generic.proofApproval.sentOn"
+msgstr "Sent on {$d} by {$n}"
+
+msgid "plugins.generic.proofApproval.until"
+msgstr "due by {$d}"
+
+msgid "plugins.generic.proofApproval.respondedOn"
+msgstr "{$n} replied on {$d}"
+
+msgid "plugins.generic.proofApproval.download"
+msgstr "Download proof"
+
+msgid "plugins.generic.proofApproval.report"
+msgstr "Corrections list"
+
+msgid "plugins.generic.proofApproval.mineIntro"
+msgstr "Proofs of your papers sent for approval. Download, review, then approve or send corrections before the deadline."
+
+msgid "plugins.generic.proofApproval.reviewNow"
+msgstr "Review now"
+
+msgid "plugins.generic.proofApproval.approveTitle"
+msgstr "Approve the proof"
+
+msgid "plugins.generic.proofApproval.declaration"
+msgstr "I confirm that I have reviewed the final proof and approve publication of the paper in its current form."
+
+msgid "plugins.generic.proofApproval.approve"
+msgstr "Approve"
+
+msgid "plugins.generic.proofApproval.changesTitle"
+msgstr "Or: request corrections"
+
+msgid "plugins.generic.proofApproval.changesHelp"
+msgstr "One correction per row: page and line in the proof, the wrong text as it appears, and the correct text."
+
+msgid "plugins.generic.proofApproval.c.page"
+msgstr "Page"
+
+msgid "plugins.generic.proofApproval.c.line"
+msgstr "Line"
+
+msgid "plugins.generic.proofApproval.c.wrong"
+msgstr "Wrong"
+
+msgid "plugins.generic.proofApproval.c.right"
+msgstr "Correct"
+
+msgid "plugins.generic.proofApproval.c.note"
+msgstr "Note"
+
+msgid "plugins.generic.proofApproval.c.done"
+msgstr "Done"
+
+msgid "plugins.generic.proofApproval.moreRows"
+msgstr "More rows"
+
+msgid "plugins.generic.proofApproval.f.note"
+msgstr "General notes"
+
+msgid "plugins.generic.proofApproval.sendChanges"
+msgstr "Send corrections"
+
+msgid "plugins.generic.proofApproval.mail.subject"
+msgstr "Final proof of your paper: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.deadline"
+msgstr "Please reply by {$d}."
+
+msgid "plugins.generic.proofApproval.mail.link"
+msgstr "Review and approve the proof"
+
+msgid "plugins.generic.proofApproval.mail.approved"
+msgstr "Author approved the proof: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.changes"
+msgstr "Proof corrections: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.open"
+msgstr "Open the log"
+
+msgid "plugins.generic.proofApproval.msg.sent"
+msgstr "Proof sent."
+
+msgid "plugins.generic.proofApproval.msg.approved"
+msgstr "Thank you, the proof is approved."
+
+msgid "plugins.generic.proofApproval.msg.changesSent"
+msgstr "Corrections sent to the editor."
+
+msgid "plugins.generic.proofApproval.msg.errEmpty"
+msgstr "Enter at least one correction."
+

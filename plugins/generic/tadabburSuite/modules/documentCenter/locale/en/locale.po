@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.documentCenter.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.documentCenter.none"
+msgstr "None."
+
+msgid "plugins.generic.documentCenter.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.documentCenter.save"
+msgstr "Save"
+
+msgid "plugins.generic.documentCenter.back"
+msgstr "Back"
+
+msgid "plugins.generic.documentCenter.name"
+msgstr "Document Center (certificates, letters & review forms)"
+
+msgid "plugins.generic.documentCenter.description"
+msgstr "One place for everything the journal issues: reviewer certificates, thank-you letters and review forms; receipt, acceptance, publication and regret letters; author appreciation certificates; anonymised reviewer reports. Issue and email them with the right honorific; reviewers see them under “Review Forms” and authors under “My Files” as the editors decide; bulk and automatic sending, full log and public QR verification."
+
+msgid "plugins.generic.documentCenter.open"
+msgstr "Open"
+
+msgid "plugins.generic.documentCenter.menu"
+msgstr "Document Center"
+
+msgid "plugins.generic.documentCenter.menuReviewer"
+msgstr "Review Forms & Certificates"
+
+msgid "plugins.generic.documentCenter.menuAuthor"
+msgstr "My Journal Files"
+
+msgid "plugins.generic.documentCenter.intro"
+msgstr "Issue and email paper and reviewer documents, and decide what each party sees in their own page."
+
+msgid "plugins.generic.documentCenter.tab.papers"
+msgstr "Papers"
+
+msgid "plugins.generic.documentCenter.tab.bulk"
+msgstr "Bulk send"
+
+msgid "plugins.generic.documentCenter.tab.log"
+msgstr "Log"
+
+msgid "plugins.generic.documentCenter.tab.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.documentCenter.s.issued"
+msgstr "valid documents"
+
+msgid "plugins.generic.documentCenter.s.sent"
+msgstr "emailed"
+
+msgid "plugins.generic.documentCenter.s.failed"
+msgstr "failed"
+
+msgid "plugins.generic.documentCenter.s.month"
+msgstr "this month"
+
+msgid "plugins.generic.documentCenter.papers"
+msgstr "Papers"
+
+msgid "plugins.generic.documentCenter.search"
+msgstr "Paper ID or title word"
+
+msgid "plugins.generic.documentCenter.searchBtn"
+msgstr "Search"
+
+msgid "plugins.generic.documentCenter.col.paper"
+msgstr "Paper"
+
+msgid "plugins.generic.documentCenter.col.state"
+msgstr "Status"
+
+msgid "plugins.generic.documentCenter.col.docs"
+msgstr "Docs"
+
+msgid "plugins.generic.documentCenter.col.number"
+msgstr "Number"
+
+msgid "plugins.generic.documentCenter.col.doc"
+msgstr "Document"
+
+msgid "plugins.generic.documentCenter.col.date"
+msgstr "Date"
+
+msgid "plugins.generic.documentCenter.col.recipient"
+msgstr "Recipient"
+
+msgid "plugins.generic.documentCenter.manage"
+msgstr "Manage documents"
+
+msgid "plugins.generic.documentCenter.st.published"
+msgstr "Published"
+
+msgid "plugins.generic.documentCenter.st.declined"
+msgstr "Declined"
+
+msgid "plugins.generic.documentCenter.st.stage1"
+msgstr "Submission"
+
+msgid "plugins.generic.documentCenter.st.stage2"
+msgstr "Review"
+
+msgid "plugins.generic.documentCenter.st.stage3"
+msgstr "Review"
+
+msgid "plugins.generic.documentCenter.st.stage4"
+msgstr "Copyediting"
+
+msgid "plugins.generic.documentCenter.st.stage5"
+msgstr "Production"
+
+msgid "plugins.generic.documentCenter.forAuthor"
+msgstr "Author documents"
+
+msgid "plugins.generic.documentCenter.forReviewers"
+msgstr "Reviewer documents"
+
+msgid "plugins.generic.documentCenter.noReviewers"
+msgstr "No reviewers on this paper yet."
+
+msgid "plugins.generic.documentCenter.round"
+msgstr "Round {$n}"
+
+msgid "plugins.generic.documentCenter.rv.done"
+msgstr "Review complete"
+
+msgid "plugins.generic.documentCenter.rv.open"
+msgstr "In review"
+
+msgid "plugins.generic.documentCenter.due"
+msgstr "due {$d}"
+
+msgid "plugins.generic.documentCenter.history"
+msgstr "Document history"
+
+msgid "plugins.generic.documentCenter.disabled"
+msgstr "Disabled in settings"
+
+msgid "plugins.generic.documentCenter.ready"
+msgstr "Ready"
+
+msgid "plugins.generic.documentCenter.released"
+msgstr "Available to recipient"
+
+msgid "plugins.generic.documentCenter.issuedOnly"
+msgstr "Issued, not released"
+
+msgid "plugins.generic.documentCenter.sentOn"
+msgstr "Sent {$d}"
+
+msgid "plugins.generic.documentCenter.sentTo"
+msgstr "Sent to {$e}"
+
+msgid "plugins.generic.documentCenter.sendFailed"
+msgstr "Sending failed"
+
+msgid "plugins.generic.documentCenter.revoked"
+msgstr "Revoked"
+
+msgid "plugins.generic.documentCenter.selfOn"
+msgstr "Self-service"
+
+msgid "plugins.generic.documentCenter.openForm"
+msgstr "Open form"
+
+msgid "plugins.generic.documentCenter.get"
+msgstr "Get"
+
+msgid "plugins.generic.documentCenter.issueSend"
+msgstr "Issue / send…"
+
+msgid "plugins.generic.documentCenter.noTitle"
+msgstr "(no title)"
+
+msgid "plugins.generic.documentCenter.noRecipients"
+msgstr "No registered recipient; add an email below."
+
+msgid "plugins.generic.documentCenter.f.honorific"
+msgstr "Honorific"
+
+msgid "plugins.generic.documentCenter.f.honAuto"
+msgstr "Automatic (saved or guessed)"
+
+msgid "plugins.generic.documentCenter.f.lang"
+msgstr "Language"
+
+msgid "plugins.generic.documentCenter.f.recipients"
+msgstr "Recipients"
+
+msgid "plugins.generic.documentCenter.f.extra"
+msgstr "Extra email (optional)"
+
+msgid "plugins.generic.documentCenter.f.note"
+msgstr "Note added to the document (optional)"
+
+msgid "plugins.generic.documentCenter.f.noteHelp"
+msgstr "Shown in the letter body, e.g. the reason for regret or a personal word of thanks."
+
+msgid "plugins.generic.documentCenter.f.remember"
+msgstr "Remember this honorific for the person"
+
+msgid "plugins.generic.documentCenter.f.fresh"
+msgstr "Issue a new version (revokes the previous one)"
+
+msgid "plugins.generic.documentCenter.act.send"
+msgstr "Issue & email"
+
+msgid "plugins.generic.documentCenter.act.release"
+msgstr "Release without email"
+
+msgid "plugins.generic.documentCenter.act.preview"
+msgstr "Preview"
+
+msgid "plugins.generic.documentCenter.mineIntro"
+msgstr "Here are the review forms for each of your assignments, and the letters and certificates the journal has issued to you."
+
+msgid "plugins.generic.documentCenter.mineNote"
+msgstr "The result and evaluation forms are interactive: scores add up automatically; print or save as PDF and upload with your review."
+
+msgid "plugins.generic.documentCenter.authorIntro"
+msgstr "Letters, certificates and files the journal has made available for each of your papers."
+
+msgid "plugins.generic.documentCenter.nothingYet"
+msgstr "No documents available yet."
+
+msgid "plugins.generic.documentCenter.noAssignments"
+msgstr "You have no review assignments in this journal."
+
+msgid "plugins.generic.documentCenter.noSubmissions"
+msgstr "No papers found under your account."
+
+msgid "plugins.generic.documentCenter.bulkIntro"
+msgstr "Pick a document type to list everyone eligible; selected items are issued and emailed with the saved or guessed honorific."
+
+msgid "plugins.generic.documentCenter.bulkNone"
+msgstr "Nobody is eligible for this type right now."
+
+msgid "plugins.generic.documentCenter.show"
+msgstr "Show"
+
+msgid "plugins.generic.documentCenter.act.bulk"
+msgstr "Issue & email selected"
+
+msgid "plugins.generic.documentCenter.bulkConfirm"
+msgstr "Emails will go to everyone selected. Continue?"
+
+msgid "plugins.generic.documentCenter.logIntro"
+msgstr "Every document issued, its number, status and who it was sent to."
+
+msgid "plugins.generic.documentCenter.allTypes"
+msgstr "All types"
+
+msgid "plugins.generic.documentCenter.revoke"
+msgstr "Revoke"
+
+msgid "plugins.generic.documentCenter.revokeConfirm"
+msgstr "Revoking invalidates it on the verification page and hides it from the recipient. Continue?"
+
+msgid "plugins.generic.documentCenter.settingsIntro"
+msgstr "For each document: enabled, self-service for the recipient, and automatic sending on the matching event."
+
+msgid "plugins.generic.documentCenter.matrix"
+msgstr "Document matrix"
+
+msgid "plugins.generic.documentCenter.aud.reviewer"
+msgstr "Reviewer documents"
+
+msgid "plugins.generic.documentCenter.aud.author"
+msgstr "Author documents"
+
+msgid "plugins.generic.documentCenter.c.enabled"
+msgstr "Enabled"
+
+msgid "plugins.generic.documentCenter.c.self"
+msgstr "Self-service"
+
+msgid "plugins.generic.documentCenter.c.auto"
+msgstr "Auto-send"
+
+msgid "plugins.generic.documentCenter.matrixHelp"
+msgstr "Auto-send: reviewer thanks & certificate on review completion; acceptance & author thanks on acceptance; regret letter on decline. Non self-service documents are visible only after the editors send or release them."
+
+msgid "plugins.generic.documentCenter.emailTpl"
+msgstr "Email text"
+
+msgid "plugins.generic.documentCenter.f.subject"
+msgstr "Subject"
+
+msgid "plugins.generic.documentCenter.f.body"
+msgstr "Body"
+
+msgid "plugins.generic.documentCenter.f.placeholders"
+msgstr "Placeholders: {name} {doc} {journal} {title} {link} {number}"
+
+msgid "plugins.generic.documentCenter.general"
+msgstr "General"
+
+msgid "plugins.generic.documentCenter.g.signature"
+msgstr "Show the editor’s signature and stamp"
+
+msgid "plugins.generic.documentCenter.g.attach"
+msgstr "Attach the PDF to emails"
+
+msgid "plugins.generic.documentCenter.g.prefix"
+msgstr "Document number prefix"
+
+msgid "plugins.generic.documentCenter.g.cc"
+msgstr "CC every email to"
+
+msgid "plugins.generic.documentCenter.g.ccHelp"
+msgstr "e.g. the editorial office mailbox for records."
+
+msgid "plugins.generic.documentCenter.g.assets"
+msgstr "Signature, stamp and letterhead are uploaded once in Suite Settings → Branding."
+
+msgid "plugins.generic.documentCenter.noMpdf"
+msgstr "mPDF is not available; PDFs cannot be generated."
+
+msgid "plugins.generic.documentCenter.pdfError"
+msgstr "Could not generate the file:"
+
+msgid "plugins.generic.documentCenter.msg.sent"
+msgstr "Email sent."
+
+msgid "plugins.generic.documentCenter.msg.partial"
+msgstr "Sent to some recipients; check the log."
+
+msgid "plugins.generic.documentCenter.msg.errSend"
+msgstr "Sending failed; check the mail (SMTP) settings."
+
+msgid "plugins.generic.documentCenter.msg.released"
+msgstr "Issued and available in the recipient’s page."
+
+msgid "plugins.generic.documentCenter.msg.errIssue"
+msgstr "Could not issue the document."
+
+msgid "plugins.generic.documentCenter.msg.errDisabled"
+msgstr "This document is disabled in settings."
+
+msgid "plugins.generic.documentCenter.msg.errNoRecipients"
+msgstr "No recipient selected."
+
+msgid "plugins.generic.documentCenter.msg.revokedMsg"
+msgstr "Document revoked."
+
+msgid "plugins.generic.documentCenter.err.email"
+msgstr "invalid email"
+
+msgid "plugins.generic.documentCenter.why.unknown"
+msgstr "Not available"
+
+msgid "plugins.generic.documentCenter.why.noReview"
+msgstr "No review"
+
+msgid "plugins.generic.documentCenter.why.notCompleted"
+msgstr "After the review is complete"
+
+msgid "plugins.generic.documentCenter.why.notSubmitted"
+msgstr "After submission"
+
+msgid "plugins.generic.documentCenter.why.notAccepted"
+msgstr "After acceptance"
+
+msgid "plugins.generic.documentCenter.why.notPublished"
+msgstr "After publication"
+
+msgid "plugins.generic.documentCenter.why.notDeclined"
+msgstr "Only for declined papers"
+
+msgid "plugins.generic.documentCenter.why.noReviews"
+msgstr "After reviewer reports arrive"
+
+msgid "plugins.generic.documentCenter.why.noRevision"
+msgstr "After a revision decision"
+
+msgid "plugins.generic.documentCenter.doc.rev_forms"
+msgstr "Review forms (result & evaluation)"
+
+msgid "plugins.generic.documentCenter.docd.rev_forms"
+msgstr "Two interactive forms with the paper title and reviewer name."
+
+msgid "plugins.generic.documentCenter.doc.rev_invite"
+msgstr "Invitation to review"
+
+msgid "plugins.generic.documentCenter.docd.rev_invite"
+msgstr "Formal invitation letter with the review period."
+
+msgid "plugins.generic.documentCenter.doc.rev_certificate"
+msgstr "Verified reviewer certificate"
+
+msgid "plugins.generic.documentCenter.docd.rev_certificate"
+msgstr "Thank-you certificate with unique number and QR."
+
+msgid "plugins.generic.documentCenter.doc.rev_thanks"
+msgstr "Reviewer thank-you letter"
+
+msgid "plugins.generic.documentCenter.docd.rev_thanks"
+msgstr "Letter on journal letterhead thanking the reviewer."
+
+msgid "plugins.generic.documentCenter.doc.au_receipt"
+msgstr "Receipt letter"
+
+msgid "plugins.generic.documentCenter.docd.au_receipt"
+msgstr "Confirms receipt, ID and date."
+
+msgid "plugins.generic.documentCenter.doc.au_acceptance"
+msgstr "Acceptance letter"
+
+msgid "plugins.generic.documentCenter.docd.au_acceptance"
+msgstr "Official acceptance for publication."
+
+msgid "plugins.generic.documentCenter.doc.au_publication"
+msgstr "Publication letter"
+
+msgid "plugins.generic.documentCenter.docd.au_publication"
+msgstr "Confirms publication with issue, pages and DOI."
+
+msgid "plugins.generic.documentCenter.doc.au_apology"
+msgstr "Regret letter"
+
+msgid "plugins.generic.documentCenter.docd.au_apology"
+msgstr "Courteous letter for declined papers, with optional note."
+
+msgid "plugins.generic.documentCenter.doc.au_thanks"
+msgstr "Author appreciation certificate"
+
+msgid "plugins.generic.documentCenter.docd.au_thanks"
+msgstr "Decorated certificate for accepted/published papers."
+
+msgid "plugins.generic.documentCenter.doc.au_reviews"
+msgstr "Reviewer comments (anonymised)"
+
+msgid "plugins.generic.documentCenter.docd.au_reviews"
+msgstr "Comments to the author, without reviewer names."
+
+msgid "plugins.generic.documentCenter.doc.au_revision"
+msgstr "Revision request letter"
+
+msgid "plugins.generic.documentCenter.docd.au_revision"
+msgstr "Asks for revisions and lists attachments."
+
+msgid "plugins.generic.documentCenter.doc.au_matrix"
+msgstr "Response-to-reviewers matrix"
+
+msgid "plugins.generic.documentCenter.docd.au_matrix"
+msgstr "Form the author fills to show each change."
+
+msgid "plugins.generic.documentCenter.mail.subject"
+msgstr "{$doc} — {$journal}"
+
+msgid "plugins.generic.documentCenter.mail.hello"
+msgstr "Dear {$name},"
+
+msgid "plugins.generic.documentCenter.mail.body.reviewer"
+msgstr "{$journal} is pleased to share your “{$doc}”. It is attached if it is a file, and always available in your account under “Review Forms & Certificates”."
+
+msgid "plugins.generic.documentCenter.mail.body.author"
+msgstr "Regarding your paper “{$title}”, {$journal} shares your “{$doc}”. It is attached if it is a file, and available in your account under “My Journal Files”."
+
+msgid "plugins.generic.documentCenter.mail.open"
+msgstr "Open it on the platform (after login)"
+
+msgid "plugins.generic.documentCenter.mail.number"
+msgstr "Document number"
+
+msgid "plugins.generic.documentCenter.mail.sign"
+msgstr "Kind regards,\n{$journal}"
+
+msgid "plugins.generic.documentCenter.tx.signer"
+msgstr "Editor-in-Chief"
+
+msgid "plugins.generic.documentCenter.tx.verifyHint"
+msgstr "Scan to verify this document"
+
+msgid "plugins.generic.documentCenter.tx.salute"
+msgstr "Dear {$name},"
+
+msgid "plugins.generic.documentCenter.tx.closing"
+msgstr "With our sincere regards."
+
+msgid "plugins.generic.documentCenter.tx.rev_thanks.title"
+msgstr "Letter of Appreciation"
+
+msgid "plugins.generic.documentCenter.tx.rev_thanks.body"
+msgstr "On behalf of {$journal}, we sincerely thank you for the time and expertise you devoted to reviewing the paper entitled “{$title}”. Your careful scholarly comments help us maintain the quality of what the journal publishes."
+
+msgid "plugins.generic.documentCenter.tx.au_apology.title"
+msgstr "Letter of Regret"
+
+msgid "plugins.generic.documentCenter.tx.au_apology.body"
+msgstr "Thank you for choosing {$journal} for your paper entitled “{$title}” (ID {$id}). After completing the editorial screening and peer review in line with the journal’s policy, we regret to inform you that the paper cannot be accepted for publication."
+
+msgid "plugins.generic.documentCenter.tx.au_apology.hope"
+msgstr "We value your scholarly effort, hope the reviewers’ comments help you develop the work, and look forward to your future submissions."
+
+msgid "plugins.generic.documentCenter.tx.au_reviews.title"
+msgstr "Reviewer Comments"
+
+msgid "plugins.generic.documentCenter.tx.au_reviews.body"
+msgstr "Please find below the reviewers’ comments on your paper “{$title}” (ID {$id}), anonymised to preserve the confidentiality of peer review."
+
+msgid "plugins.generic.documentCenter.tx.reviewer"
+msgstr "Reviewer {$n} — round {$r}"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.heading"
+msgstr "Certificate of Appreciation"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.sub"
+msgstr "The journal is honoured to present this certificate to"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.body"
+msgstr "In recognition of the distinguished scholarly contribution of the paper “{$title}” to the journal, with our best wishes for continued success."
+
+msgid "plugins.generic.documentCenter.currentReviews"
+msgstr "Current reviews"
+
+msgid "plugins.generic.documentCenter.pastReviews"
+msgstr "Completed reviews"
+
+msgid "plugins.generic.documentCenter.noCurrent"
+msgstr "No open review assignments."
+
+msgid "plugins.generic.documentCenter.completedOn"
+msgstr "Completed {$d}"
+
+msgid "plugins.generic.documentCenter.filter"
+msgstr "Filter by title…"
+
+msgid "plugins.generic.documentCenter.v.title"
+msgstr "Verify a document"
+
+msgid "plugins.generic.documentCenter.v.valid"
+msgstr "Authentic and valid"
+
+msgid "plugins.generic.documentCenter.v.revoked"
+msgstr "This document has been revoked"
+
+msgid "plugins.generic.documentCenter.v.notFound"
+msgstr "No document with this code"
+
+msgid "plugins.generic.documentCenter.v.issuer"
+msgstr "Issuer"
+
+msgid "plugins.generic.documentCenter.v.check"
+msgstr "Verify"
+
+msgid "plugins.generic.documentCenter.v.note"
+msgstr "For confidentiality this page shows neither the paper title nor review details."
+

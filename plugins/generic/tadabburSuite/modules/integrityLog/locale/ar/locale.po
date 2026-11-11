@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.integrityLog.name"
+msgstr "سجل النزاهة البحثية"
+
+msgid "plugins.generic.integrityLog.description"
+msgstr "سجل سري لحالات النزاهة البحثية وفق مسارات COPE، مع خط زمني موثق للإجراءات، وإشعارات عامة (تصحيح، تعبير عن قلق، سحب) تظهر أعلى صفحة البحث وفي صفحة عامة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.integrityLog.open"
+msgstr "فتح السجل"
+
+msgid "plugins.generic.integrityLog.menu"
+msgstr "النزاهة البحثية"
+
+msgid "plugins.generic.integrityLog.caseTitle"
+msgstr "حالة نزاهة"
+
+msgid "plugins.generic.integrityLog.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.integrityLog.notFound"
+msgstr "الحالة غير موجودة."
+
+msgid "plugins.generic.integrityLog.intro"
+msgstr "سجل سري لحالات النزاهة البحثية: يوثّق البلاغ والإجراءات والقرار وفق مسارات COPE، ويصدر الإشعارات العامة المرتبطة بالبحوث. لا يطّلع عليه إلا مدير المجلة ومحرروها."
+
+msgid "plugins.generic.integrityLog.stat.active"
+msgstr "حالات مفتوحة"
+
+msgid "plugins.generic.integrityLog.stat.closed"
+msgstr "حالات مغلقة"
+
+msgid "plugins.generic.integrityLog.stat.notices"
+msgstr "إشعارات منشورة"
+
+msgid "plugins.generic.integrityLog.stat.retractions"
+msgstr "بحوث مسحوبة"
+
+msgid "plugins.generic.integrityLog.newCase"
+msgstr "فتح حالة جديدة"
+
+msgid "plugins.generic.integrityLog.f.title"
+msgstr "عنوان مختصر للحالة"
+
+msgid "plugins.generic.integrityLog.f.type"
+msgstr "النوع"
+
+msgid "plugins.generic.integrityLog.f.source"
+msgstr "مصدر البلاغ"
+
+msgid "plugins.generic.integrityLog.f.submission"
+msgstr "رقم البحث (اختياري)"
+
+msgid "plugins.generic.integrityLog.f.summary"
+msgstr "الملخص والوقائع"
+
+msgid "plugins.generic.integrityLog.create"
+msgstr "فتح الحالة"
+
+msgid "plugins.generic.integrityLog.confidential"
+msgstr "الحالات سرية، وتُحفظ بلا حذف، ولا يُنشر منها شيء إلا الإشعار الذي تصدره صراحة."
+
+msgid "plugins.generic.integrityLog.cases"
+msgstr "الحالات"
+
+msgid "plugins.generic.integrityLog.filter.active"
+msgstr "المفتوحة"
+
+msgid "plugins.generic.integrityLog.filter.closed"
+msgstr "المغلقة"
+
+msgid "plugins.generic.integrityLog.filter.all"
+msgstr "الكل"
+
+msgid "plugins.generic.integrityLog.publicPage"
+msgstr "صفحة الإشعارات العامة"
+
+msgid "plugins.generic.integrityLog.noCases"
+msgstr "لا توجد حالات."
+
+msgid "plugins.generic.integrityLog.col.id"
+msgstr "الرقم"
+
+msgid "plugins.generic.integrityLog.col.case"
+msgstr "الحالة"
+
+msgid "plugins.generic.integrityLog.col.submission"
+msgstr "البحث"
+
+msgid "plugins.generic.integrityLog.col.status"
+msgstr "الوضع"
+
+msgid "plugins.generic.integrityLog.col.outcome"
+msgstr "النتيجة"
+
+msgid "plugins.generic.integrityLog.col.assigned"
+msgstr "المسؤول"
+
+msgid "plugins.generic.integrityLog.col.updated"
+msgstr "آخر تحديث"
+
+msgid "plugins.generic.integrityLog.copeNote"
+msgstr "الإجراءات المقترحة مستلهمة من مسارات COPE (لجنة أخلاقيات النشر) ومُلخّصة، وتبقى مسارات COPE الرسمية هي المرجع."
+
+msgid "plugins.generic.integrityLog.back"
+msgstr "كل الحالات"
+
+msgid "plugins.generic.integrityLog.dates"
+msgstr "فُتحت: {$o} · آخر تحديث: {$u} · أُغلقت: {$c}"
+
+msgid "plugins.generic.integrityLog.manage"
+msgstr "إدارة الحالة"
+
+msgid "plugins.generic.integrityLog.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.integrityLog.copeSteps"
+msgstr "خطوات COPE الموصى بها"
+
+msgid "plugins.generic.integrityLog.copeStepsNote"
+msgstr "علّم ما أُنجز؛ تحفظ الخطوات مع الحالة."
+
+msgid "plugins.generic.integrityLog.saveSteps"
+msgstr "حفظ الخطوات"
+
+msgid "plugins.generic.integrityLog.timeline"
+msgstr "الخط الزمني للإجراءات"
+
+msgid "plugins.generic.integrityLog.addEvent"
+msgstr "إضافة"
+
+msgid "plugins.generic.integrityLog.kind.note"
+msgstr "ملاحظة"
+
+msgid "plugins.generic.integrityLog.kind.contactAuthor"
+msgstr "مراسلة المؤلف"
+
+msgid "plugins.generic.integrityLog.kind.response"
+msgstr "رد مستلم"
+
+msgid "plugins.generic.integrityLog.kind.contactInstitution"
+msgstr "مراسلة الجهة"
+
+msgid "plugins.generic.integrityLog.kind.evidence"
+msgstr "دليل"
+
+msgid "plugins.generic.integrityLog.kind.decision"
+msgstr "قرار"
+
+msgid "plugins.generic.integrityLog.kind.opened"
+msgstr "فتح الحالة"
+
+msgid "plugins.generic.integrityLog.kind.status"
+msgstr "تغيير الوضع"
+
+msgid "plugins.generic.integrityLog.ev.opened"
+msgstr "فُتحت الحالة: {$type}"
+
+msgid "plugins.generic.integrityLog.ev.status"
+msgstr "تغير الوضع من «{$from}» إلى «{$to}»"
+
+msgid "plugins.generic.integrityLog.ev.outcome"
+msgstr "النتيجة: {$o}"
+
+msgid "plugins.generic.integrityLog.ev.notice"
+msgstr "صدر إشعار عام: {$t}"
+
+msgid "plugins.generic.integrityLog.notices"
+msgstr "الإشعارات العامة لهذه الحالة"
+
+msgid "plugins.generic.integrityLog.newNotice"
+msgstr "إصدار إشعار عام"
+
+msgid "plugins.generic.integrityLog.f.noticeType"
+msgstr "نوع الإشعار"
+
+msgid "plugins.generic.integrityLog.f.date"
+msgstr "التاريخ"
+
+msgid "plugins.generic.integrityLog.f.doi"
+msgstr "DOI للإشعار (اختياري)"
+
+msgid "plugins.generic.integrityLog.f.textAr"
+msgstr "نص الإشعار بالعربية"
+
+msgid "plugins.generic.integrityLog.f.textEn"
+msgstr "نص الإشعار بالإنجليزية"
+
+msgid "plugins.generic.integrityLog.noticeHelp"
+msgstr "يظهر الإشعار شريطًا بارزًا أعلى صفحة البحث وفي صفحة الإشعارات العامة. وفق COPE: لا يُحذف البحث المسحوب، بل يبقى متاحًا مع وسمه بوضوح وبيان سبب السحب ومن طلبه."
+
+msgid "plugins.generic.integrityLog.issueNotice"
+msgstr "إصدار الإشعار"
+
+msgid "plugins.generic.integrityLog.noticeNeedsSubmission"
+msgstr "لإصدار إشعار عام اربط الحالة ببحث منشور."
+
+msgid "plugins.generic.integrityLog.public"
+msgstr "منشور"
+
+msgid "plugins.generic.integrityLog.hidden"
+msgstr "مخفي"
+
+msgid "plugins.generic.integrityLog.hide"
+msgstr "إخفاء"
+
+msgid "plugins.generic.integrityLog.publish"
+msgstr "نشر"
+
+msgid "plugins.generic.integrityLog.publicSection"
+msgstr "إشعارات تحريرية"
+
+msgid "plugins.generic.integrityLog.publicTitle"
+msgstr "إشعارات التصحيح والسحب"
+
+msgid "plugins.generic.integrityLog.publicIntro"
+msgstr "تلتزم المجلة بإرشادات لجنة أخلاقيات النشر (COPE) في تصحيح السجل العلمي. تُنشر هنا إشعارات التصحيح والتعبير عن القلق والسحب المتعلقة ببحوث المجلة."
+
+msgid "plugins.generic.integrityLog.publicNone"
+msgstr "لا توجد إشعارات."
+
+msgid "plugins.generic.integrityLog.publicCope"
+msgstr "للإبلاغ عن مخاوف تتعلق بالنزاهة في أي بحث منشور، يرجى مراسلة هيئة التحرير."
+
+msgid "plugins.generic.integrityLog.banner.correction"
+msgstr "تصحيح منشور لهذا البحث"
+
+msgid "plugins.generic.integrityLog.banner.concern"
+msgstr "تعبير عن قلق تحريري"
+
+msgid "plugins.generic.integrityLog.banner.retraction"
+msgstr "سُحب هذا البحث"
+
+msgid "plugins.generic.integrityLog.banner.removal"
+msgstr "أُزيل هذا البحث"
+
+msgid "plugins.generic.integrityLog.banner.more"
+msgstr "تفاصيل الإشعار"
+
+msgid "plugins.generic.integrityLog.notice.correction"
+msgstr "تصحيح"
+
+msgid "plugins.generic.integrityLog.notice.concern"
+msgstr "تعبير عن قلق"
+
+msgid "plugins.generic.integrityLog.notice.retraction"
+msgstr "سحب"
+
+msgid "plugins.generic.integrityLog.notice.removal"
+msgstr "إزالة"
+
+msgid "plugins.generic.integrityLog.notice.correction.default"
+msgstr "نُشر تصحيح لهذا البحث."
+
+msgid "plugins.generic.integrityLog.notice.concern.default"
+msgstr "تُبدي هيئة التحرير قلقها بشأن هذا البحث، والتحقق جارٍ."
+
+msgid "plugins.generic.integrityLog.notice.retraction.default"
+msgstr "سُحب هذا البحث بقرار من هيئة التحرير."
+
+msgid "plugins.generic.integrityLog.notice.removal.default"
+msgstr "أُزيل محتوى هذا البحث لأسباب قانونية."
+
+msgid "plugins.generic.integrityLog.type.plagiarism"
+msgstr "استلال (انتحال)"
+
+msgid "plugins.generic.integrityLog.type.duplicate"
+msgstr "نشر مكرر"
+
+msgid "plugins.generic.integrityLog.type.authorship"
+msgstr "نزاع في التأليف"
+
+msgid "plugins.generic.integrityLog.type.fabrication"
+msgstr "تلفيق أو تزوير بيانات"
+
+msgid "plugins.generic.integrityLog.type.reviewerMisconduct"
+msgstr "سوء سلوك محكّم"
+
+msgid "plugins.generic.integrityLog.type.coi"
+msgstr "تضارب مصالح غير مُفصح عنه"
+
+msgid "plugins.generic.integrityLog.type.citationManipulation"
+msgstr "تلاعب بالاستشهادات"
+
+msgid "plugins.generic.integrityLog.type.paperMill"
+msgstr "اشتباه مصنع بحوث"
+
+msgid "plugins.generic.integrityLog.type.ethics"
+msgstr "مخالفة أخلاقية في البحث"
+
+msgid "plugins.generic.integrityLog.type.other"
+msgstr "أخرى"
+
+msgid "plugins.generic.integrityLog.source.reader"
+msgstr "قارئ"
+
+msgid "plugins.generic.integrityLog.source.reviewer"
+msgstr "محكّم"
+
+msgid "plugins.generic.integrityLog.source.editor"
+msgstr "محرر"
+
+msgid "plugins.generic.integrityLog.source.author"
+msgstr "مؤلف"
+
+msgid "plugins.generic.integrityLog.source.institution"
+msgstr "جهة الانتماء"
+
+msgid "plugins.generic.integrityLog.source.screening"
+msgstr "فحص آلي"
+
+msgid "plugins.generic.integrityLog.source.anonymous"
+msgstr "مجهول"
+
+msgid "plugins.generic.integrityLog.status.open"
+msgstr "مفتوحة"
+
+msgid "plugins.generic.integrityLog.status.investigating"
+msgstr "قيد التحقيق"
+
+msgid "plugins.generic.integrityLog.status.awaitingResponse"
+msgstr "بانتظار الرد"
+
+msgid "plugins.generic.integrityLog.status.referred"
+msgstr "أُحيلت للجهة"
+
+msgid "plugins.generic.integrityLog.status.closed"
+msgstr "مغلقة"
+
+msgid "plugins.generic.integrityLog.outcome.noAction"
+msgstr "لا إجراء (لم تثبت)"
+
+msgid "plugins.generic.integrityLog.outcome.educated"
+msgstr "توجيه المؤلف"
+
+msgid "plugins.generic.integrityLog.outcome.correction"
+msgstr "تصحيح"
+
+msgid "plugins.generic.integrityLog.outcome.concern"
+msgstr "تعبير عن قلق"
+
+msgid "plugins.generic.integrityLog.outcome.retraction"
+msgstr "سحب"
+
+msgid "plugins.generic.integrityLog.outcome.rejected"
+msgstr "رفض البحث"
+
+msgid "plugins.generic.integrityLog.outcome.referred"
+msgstr "إحالة إلى الجهة"
+
+msgid "plugins.generic.integrityLog.outcome.other"
+msgstr "أخرى"
+
+msgid "plugins.generic.integrityLog.steps.plagiarism"
+msgstr "اطلب تقرير التشابه الكامل وحدد حجم النص المنقول ومصدره|قيّم الحالة: نقل محدود مع إسناد ناقص أم انتحال واضح لأفكار أو نصوص|راسل المؤلف المراسل مع الأدلة واطلب توضيحًا مكتوبًا|قيّم الرد: إن كان مقنعًا أو النقل محدودًا فاطلب إعادة الصياغة والإسناد|إن ثبت انتحال جوهري: ارفض البحث، أو اسحبه إن كان منشورًا|عند الحاجة أبلغ جهة انتماء المؤلف، وأبلغ صاحب العمل المنقول|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.duplicate"
+msgstr "اجمع نسختي النشر وقارن بين النصوص والبيانات وتواريخ التقديم|راسل المؤلف بالأدلة واطلب تفسيرًا|راسل محرر المجلة الأخرى لتنسيق الإجراء|إن ثبت التكرار: ارفض البحث، أو انشر إشعار نشر مكرر أو اسحبه|أبلغ جهة الانتماء إن تكرر السلوك|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.authorship"
+msgstr "اطلب من جميع المؤلفين بيانًا موقّعًا بالموافقة على قائمة المؤلفين وأدوارهم|استمع إلى كل الأطراف واطلب الأدلة على الإسهام|لا تفصل المجلة في النزاع بنفسها: أحِل الخلاف إلى جهة الانتماء عند عدم الاتفاق|أوقف معالجة البحث إلى أن يُحسم النزاع|عند الاتفاق: عدّل قائمة المؤلفين (وانشر تصحيحًا إن كان منشورًا)|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.fabrication"
+msgstr "اجمع الأدلة واستشر محكّمًا أو مختصًا مستقلًا|راسل المؤلف بالمخاوف واطلب البيانات الأصلية|إن لم يكن الرد مقنعًا: راسل جهة الانتماء واطلب تحقيقًا|إن كان البحث منشورًا: انشر تعبيرًا عن قلق حتى انتهاء التحقيق|إن ثبت التلفيق: اسحب البحث وأبلغ الجهات المعنية|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.reviewerMisconduct"
+msgstr "اجمع الأدلة (تقرير التحكيم، مراسلات، تشابه مع عمل منشور للمحكّم)|راسل المحكّم واطلب تفسيرًا|استبعد المحكّم من البحث، وأعد التحكيم إن لزم|أبلغ المؤلف بما يلزم مع الحفاظ على سرية التحكيم|عند الثبوت: أزل المحكّم من قاعدة المحكّمين وأبلغ جهته إن كان جسيمًا|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.coi"
+msgstr "حدد طبيعة المصلحة غير المُفصح عنها وأثرها المحتمل|راسل المؤلف واطلب إفصاحًا كاملًا|قيّم أثرها على نتائج البحث وتحكيمه|انشر الإفصاح (تصحيحًا إن كان البحث منشورًا)|إن أثّرت في سلامة النتائج: تعبير عن قلق أو سحب|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.citationManipulation"
+msgstr "حلّل المراجع: استشهاد ذاتي مفرط أو مطلوب من محكّم أو محرر أو تكتل استشهادي|راسل الطرف المعني واطلب تفسيرًا|احذف الاستشهادات غير المسوغة قبل النشر|إن كان من محكّم أو محرر: استبعده من التحكيم|انشر تصحيحًا إن كان البحث منشورًا|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.paperMill"
+msgstr "سجّل المؤشرات: نصوص قالبية، بيانات مصطنعة، بريد غير مؤسسي، تقديمات متشابهة|افحص البحوث الأخرى من المؤلفين أنفسهم أو بالنمط نفسه|راسل المؤلف واطلب البيانات الأصلية وإثبات الانتماء|أوقف المعالجة أو ارفض، واسحب إن كان منشورًا مع تعبير عن قلق أثناء التحقق|شارك المعلومات مع الناشرين الآخرين وفق إرشادات COPE وSTM|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.ethics"
+msgstr "حدد المخالفة (غياب موافقة أخلاقية، موافقة المشاركين، خصوصية البيانات)|اطلب من المؤلف وثائق الموافقة الأخلاقية|إن غابت الموافقة: راسل جهة الانتماء|قرّر: رفض، أو تصحيح بيان الأخلاقيات، أو سحب|وثّق القرار وأغلق الحالة"
+
+msgid "plugins.generic.integrityLog.steps.other"
+msgstr "اجمع المعلومات والأدلة من مصدر البلاغ|راسل الأطراف المعنية واطلب الرد|راجع مسار COPE الأقرب للحالة|اتخذ القرار وأبلغ الأطراف|وثّق القرار وأغلق الحالة"
+

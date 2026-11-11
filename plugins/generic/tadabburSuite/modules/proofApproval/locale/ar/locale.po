@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.proofApproval.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.proofApproval.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.proofApproval.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.proofApproval.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.proofApproval.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.proofApproval.name"
+msgstr "اعتماد البروفة"
+
+msgid "plugins.generic.proofApproval.description"
+msgstr "يرسل المحرر البروفة النهائية للمؤلفين بمهلة محددة وإشعار بالبريد، فيعتمدها المؤلف بإقرار موثّق (بالتاريخ والوقت)، أو يرسل قائمة تصويبات منظمة: الصفحة والسطر والخطأ والصواب. جولات متتابعة، وسجل كامل، وقائمة تصويبات قابلة للطباعة للمخرج الفني. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.proofApproval.open"
+msgstr "فتح اعتماد البروفة"
+
+msgid "plugins.generic.proofApproval.menu"
+msgstr "اعتماد البروفة"
+
+msgid "plugins.generic.proofApproval.myMenu"
+msgstr "اعتماد البروفة"
+
+msgid "plugins.generic.proofApproval.intro"
+msgstr "البحوث في مرحلة الإخراج أو المجدولة للنشر. ارفع البروفة في «الإخراج» داخل OJS (ملفات البروفة أو الجاهز للإنتاج) ثم أرسلها من هنا."
+
+msgid "plugins.generic.proofApproval.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.proofApproval.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.proofApproval.col.deadline"
+msgstr "المهلة"
+
+msgid "plugins.generic.proofApproval.openBtn"
+msgstr "فتح"
+
+msgid "plugins.generic.proofApproval.overdue"
+msgstr "متأخر"
+
+msgid "plugins.generic.proofApproval.roundN"
+msgstr "الجولة {$n}"
+
+msgid "plugins.generic.proofApproval.st.pending"
+msgstr "بانتظار المؤلف"
+
+msgid "plugins.generic.proofApproval.st.approved"
+msgstr "اعتمدها المؤلف"
+
+msgid "plugins.generic.proofApproval.st.changes"
+msgstr "تصويبات مطلوبة"
+
+msgid "plugins.generic.proofApproval.st.superseded"
+msgstr "استُبدلت بجولة أحدث"
+
+msgid "plugins.generic.proofApproval.f.file"
+msgstr "ملف البروفة"
+
+msgid "plugins.generic.proofApproval.f.deadline"
+msgstr "آخر موعد للرد"
+
+msgid "plugins.generic.proofApproval.f.message"
+msgstr "رسالة للمؤلف"
+
+msgid "plugins.generic.proofApproval.f.notify"
+msgstr "إشعار المؤلفين بالبريد"
+
+msgid "plugins.generic.proofApproval.send"
+msgstr "إرسال البروفة"
+
+msgid "plugins.generic.proofApproval.defaultMsg"
+msgstr "نرفق لكم البروفة النهائية لبحثكم قبل النشر. نأمل مراجعتها بعناية، ثم اعتمادها أو إرسال التصويبات اللازمة فقط (أخطاء الطباعة والإخراج)، مع العلم أنه لا تُقبل إضافات أو تعديلات جوهرية في هذه المرحلة."
+
+msgid "plugins.generic.proofApproval.noFiles"
+msgstr "لا توجد ملفات بروفة لهذا البحث بعد. ارفعها في مرحلة «الإخراج» في OJS."
+
+msgid "plugins.generic.proofApproval.stage.10"
+msgstr "بروفة"
+
+msgid "plugins.generic.proofApproval.stage.11"
+msgstr "جاهز للإنتاج"
+
+msgid "plugins.generic.proofApproval.history"
+msgstr "السجل"
+
+msgid "plugins.generic.proofApproval.sentOn"
+msgstr "أُرسلت في {$d} بواسطة {$n}"
+
+msgid "plugins.generic.proofApproval.until"
+msgstr "المهلة حتى {$d}"
+
+msgid "plugins.generic.proofApproval.respondedOn"
+msgstr "ردّ {$n} في {$d}"
+
+msgid "plugins.generic.proofApproval.download"
+msgstr "تنزيل البروفة"
+
+msgid "plugins.generic.proofApproval.report"
+msgstr "قائمة التصويبات"
+
+msgid "plugins.generic.proofApproval.mineIntro"
+msgstr "بروفات بحوثك المرسلة للاعتماد. نزّل الملف، وراجعه، ثم اعتمده أو أرسل التصويبات قبل انتهاء المهلة."
+
+msgid "plugins.generic.proofApproval.reviewNow"
+msgstr "راجع الآن"
+
+msgid "plugins.generic.proofApproval.approveTitle"
+msgstr "اعتماد البروفة"
+
+msgid "plugins.generic.proofApproval.declaration"
+msgstr "أقرّ بأنني راجعت البروفة النهائية وأوافق على نشر البحث بصيغتها الحالية."
+
+msgid "plugins.generic.proofApproval.approve"
+msgstr "اعتماد"
+
+msgid "plugins.generic.proofApproval.changesTitle"
+msgstr "أو: طلب تصويبات"
+
+msgid "plugins.generic.proofApproval.changesHelp"
+msgstr "اكتب كل تصويب في سطر: رقم الصفحة والسطر في البروفة، والنص الخطأ كما هو، والصواب."
+
+msgid "plugins.generic.proofApproval.c.page"
+msgstr "الصفحة"
+
+msgid "plugins.generic.proofApproval.c.line"
+msgstr "السطر"
+
+msgid "plugins.generic.proofApproval.c.wrong"
+msgstr "الخطأ"
+
+msgid "plugins.generic.proofApproval.c.right"
+msgstr "الصواب"
+
+msgid "plugins.generic.proofApproval.c.note"
+msgstr "ملاحظة"
+
+msgid "plugins.generic.proofApproval.c.done"
+msgstr "نُفِّذ"
+
+msgid "plugins.generic.proofApproval.moreRows"
+msgstr "مزيد من الأسطر"
+
+msgid "plugins.generic.proofApproval.f.note"
+msgstr "ملاحظات عامة"
+
+msgid "plugins.generic.proofApproval.sendChanges"
+msgstr "إرسال التصويبات"
+
+msgid "plugins.generic.proofApproval.mail.subject"
+msgstr "البروفة النهائية لبحثكم: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.deadline"
+msgstr "نأمل الرد قبل {$d}."
+
+msgid "plugins.generic.proofApproval.mail.link"
+msgstr "مراجعة البروفة واعتمادها"
+
+msgid "plugins.generic.proofApproval.mail.approved"
+msgstr "اعتمد المؤلف البروفة: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.changes"
+msgstr "تصويبات على البروفة: {$t}"
+
+msgid "plugins.generic.proofApproval.mail.open"
+msgstr "فتح السجل"
+
+msgid "plugins.generic.proofApproval.msg.sent"
+msgstr "أُرسلت البروفة."
+
+msgid "plugins.generic.proofApproval.msg.approved"
+msgstr "شكرًا، اعتُمدت البروفة."
+
+msgid "plugins.generic.proofApproval.msg.changesSent"
+msgstr "أُرسلت التصويبات إلى المحرر."
+
+msgid "plugins.generic.proofApproval.msg.errEmpty"
+msgstr "أدخل تصويبًا واحدًا على الأقل."
+

@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.editorialTransparency.name"
+msgstr "الشفافية التحريرية والإحصاءات"
+
+msgid "plugins.generic.editorialTransparency.description"
+msgstr "صفحة عامة ثنائية اللغة تعرض مؤشرات النشر والتحكيم المحسوبة آليًا من OJS: معدلات القبول والرفض، وأزمنة القرار والتحكيم والنشر، والإنتاج السنوي، والتنوع الجغرافي، مع بيان منهجي وبيانات مفتوحة JSON. — تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات"
+
+msgid "plugins.generic.editorialTransparency.open"
+msgstr "عرض الصفحة (تحديث البيانات)"
+
+msgid "plugins.generic.editorialTransparency.title"
+msgstr "الشفافية التحريرية ومؤشرات الأداء"
+
+msgid "plugins.generic.editorialTransparency.lead"
+msgstr "نلتزم بالشفافية في عملياتنا التحريرية. المؤشرات أدناه محسوبة آليًا من نظام إدارة المجلة (OJS) ومحدّثة دوريًا، وتعكس مسار البحوث من التقديم إلى النشر."
+
+msgid "plugins.generic.editorialTransparency.period"
+msgstr "الفترة"
+
+msgid "plugins.generic.editorialTransparency.last12"
+msgstr "آخر 12 شهرًا"
+
+msgid "plugins.generic.editorialTransparency.allTime"
+msgstr "كل السنوات"
+
+msgid "plugins.generic.editorialTransparency.h.decisions"
+msgstr "التقديم والقرارات"
+
+msgid "plugins.generic.editorialTransparency.h.time"
+msgstr "سرعة المعالجة"
+
+msgid "plugins.generic.editorialTransparency.h.review"
+msgstr "التحكيم"
+
+msgid "plugins.generic.editorialTransparency.h.output"
+msgstr "النشر والوصول"
+
+msgid "plugins.generic.editorialTransparency.h.trend"
+msgstr "الاتجاه السنوي"
+
+msgid "plugins.generic.editorialTransparency.h.geo"
+msgstr "التوزيع الجغرافي للمؤلفين (البحوث المنشورة)"
+
+msgid "plugins.generic.editorialTransparency.h.method"
+msgstr "المنهجية والتعريفات"
+
+msgid "plugins.generic.editorialTransparency.received"
+msgstr "البحوث المستلمة"
+
+msgid "plugins.generic.editorialTransparency.accepted"
+msgstr "المقبولة"
+
+msgid "plugins.generic.editorialTransparency.declined"
+msgstr "المرفوضة"
+
+msgid "plugins.generic.editorialTransparency.published"
+msgstr "البحوث المنشورة"
+
+msgid "plugins.generic.editorialTransparency.acceptanceRate"
+msgstr "معدل القبول"
+
+msgid "plugins.generic.editorialTransparency.deskRate"
+msgstr "الرفض المبدئي (قبل التحكيم)"
+
+msgid "plugins.generic.editorialTransparency.reviewRejectRate"
+msgstr "الرفض بعد التحكيم"
+
+msgid "plugins.generic.editorialTransparency.acceptedN"
+msgstr "{$n} بحثًا مقبولًا"
+
+msgid "plugins.generic.editorialTransparency.declinedN"
+msgstr "{$n} بحثًا"
+
+msgid "plugins.generic.editorialTransparency.daysFirst"
+msgstr "حتى القرار الأول (الوسيط)"
+
+msgid "plugins.generic.editorialTransparency.reviewTurn"
+msgstr "مدة التحكيم (الوسيط)"
+
+msgid "plugins.generic.editorialTransparency.daysAccept"
+msgstr "من التقديم إلى القبول (الوسيط)"
+
+msgid "plugins.generic.editorialTransparency.daysAcceptToPub"
+msgstr "من القبول إلى النشر (الوسيط)"
+
+msgid "plugins.generic.editorialTransparency.p80"
+msgstr "80٪ خلال {$v}"
+
+msgid "plugins.generic.editorialTransparency.subToPub"
+msgstr "من التقديم إلى النشر: {$v}"
+
+msgid "plugins.generic.editorialTransparency.days"
+msgstr "{$n} يومًا"
+
+msgid "plugins.generic.editorialTransparency.reviewsCompleted"
+msgstr "تقارير تحكيم مكتملة"
+
+msgid "plugins.generic.editorialTransparency.reviewsPerArticle"
+msgstr "متوسط التقارير لكل بحث"
+
+msgid "plugins.generic.editorialTransparency.reviewers"
+msgstr "المحكّمون المشاركون"
+
+msgid "plugins.generic.editorialTransparency.fromCountries"
+msgstr "من {$n} دول"
+
+msgid "plugins.generic.editorialTransparency.invitationAccept"
+msgstr "قبول دعوات التحكيم"
+
+msgid "plugins.generic.editorialTransparency.issuesN"
+msgstr "في {$n} عدد"
+
+msgid "plugins.generic.editorialTransparency.authorCountries"
+msgstr "دول المؤلفين"
+
+msgid "plugins.generic.editorialTransparency.views"
+msgstr "مشاهدات الملخصات"
+
+msgid "plugins.generic.editorialTransparency.downloads"
+msgstr "تنزيلات النص الكامل"
+
+msgid "plugins.generic.editorialTransparency.asTable"
+msgstr "عرض البيانات جدولًا"
+
+msgid "plugins.generic.editorialTransparency.year"
+msgstr "السنة"
+
+msgid "plugins.generic.editorialTransparency.others"
+msgstr "دول أخرى"
+
+msgid "plugins.generic.editorialTransparency.m.source"
+msgstr "المصدر: قاعدة بيانات المجلة في OJS، وتُحسب المعدلات بالطريقة نفسها التي تعتمدها إحصاءات OJS التحريرية."
+
+msgid "plugins.generic.editorialTransparency.m.rates"
+msgstr "معدلات القبول والرفض: للبحوث المقدمة في الفترة التي صدر فيها قرار نهائي (قبول أو رفض). الرفض المبدئي يكون قبل الإحالة إلى المحكّمين."
+
+msgid "plugins.generic.editorialTransparency.m.times"
+msgstr "الأزمنة بالأيام، وتعرض الوسيط (نصف البحوث أسرع منه) والمئين 80. زمن القبول→النشر محسوب للبحوث المنشورة في الفترة."
+
+msgid "plugins.generic.editorialTransparency.m.review"
+msgstr "مدة التحكيم: من دعوة المحكّم إلى تسليم تقريره، للتقارير المكتملة في الدعوات الصادرة خلال الفترة. هويات المحكّمين لا تُعرض حفاظًا على سرية التحكيم."
+
+msgid "plugins.generic.editorialTransparency.m.geo"
+msgstr "التوزيع الجغرافي: حسب الدولة المسجلة لكل مؤلف في البحوث المنشورة خلال الفترة."
+
+msgid "plugins.generic.editorialTransparency.m.metrics"
+msgstr "المشاهدات والتنزيلات وفق إحصاءات الاستخدام في OJS المتوافقة مع COUNTER."
+
+msgid "plugins.generic.editorialTransparency.meta"
+msgstr "الفترة: {$range} · آخر تحديث: {$date}"
+
+msgid "plugins.generic.editorialTransparency.credit"
+msgstr "أداة الشفافية من تطوير"
+
+msgid "plugins.generic.editorialTransparency.developer"
+msgstr "مصطفى محمود"
+
+msgid "plugins.generic.editorialTransparency.office"
+msgstr "مكتب خبرات طيبة"
+

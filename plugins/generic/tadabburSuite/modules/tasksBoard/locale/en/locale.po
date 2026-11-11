@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.tasksBoard.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.tasksBoard.none"
+msgstr "None."
+
+msgid "plugins.generic.tasksBoard.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.tasksBoard.save"
+msgstr "Save"
+
+msgid "plugins.generic.tasksBoard.back"
+msgstr "Back"
+
+msgid "plugins.generic.tasksBoard.name"
+msgstr "Editorial Tasks"
+
+msgid "plugins.generic.tasksBoard.description"
+msgstr "A task board for the editorial team in three columns (to do, in progress, done): each task has an assignee, due date, priority and optional link to a paper, threaded comments, email notice to the assignee, overdue highlighting and a \"my tasks\" filter. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.tasksBoard.open"
+msgstr "Open tasks"
+
+msgid "plugins.generic.tasksBoard.menu"
+msgstr "Tasks"
+
+msgid "plugins.generic.tasksBoard.s.todo"
+msgstr "To do"
+
+msgid "plugins.generic.tasksBoard.s.doing"
+msgstr "In progress"
+
+msgid "plugins.generic.tasksBoard.s.done"
+msgstr "Done"
+
+msgid "plugins.generic.tasksBoard.p.high"
+msgstr "High"
+
+msgid "plugins.generic.tasksBoard.p.normal"
+msgstr "Normal"
+
+msgid "plugins.generic.tasksBoard.p.low"
+msgstr "Low"
+
+msgid "plugins.generic.tasksBoard.all"
+msgstr "Whole team"
+
+msgid "plugins.generic.tasksBoard.mine"
+msgstr "My tasks"
+
+msgid "plugins.generic.tasksBoard.lateN"
+msgstr "{$n} overdue"
+
+msgid "plugins.generic.tasksBoard.late"
+msgstr "overdue"
+
+msgid "plugins.generic.tasksBoard.empty"
+msgstr "Nothing here"
+
+msgid "plugins.generic.tasksBoard.new"
+msgstr "New task"
+
+msgid "plugins.generic.tasksBoard.f.title"
+msgstr "Task title"
+
+msgid "plugins.generic.tasksBoard.f.body"
+msgstr "Details (optional)"
+
+msgid "plugins.generic.tasksBoard.f.assignee"
+msgstr "Assignee"
+
+msgid "plugins.generic.tasksBoard.f.due"
+msgstr "Due"
+
+msgid "plugins.generic.tasksBoard.f.priority"
+msgstr "Priority"
+
+msgid "plugins.generic.tasksBoard.f.sid"
+msgstr "Paper ID"
+
+msgid "plugins.generic.tasksBoard.f.notify"
+msgstr "Email notice"
+
+msgid "plugins.generic.tasksBoard.add"
+msgstr "Add"
+
+msgid "plugins.generic.tasksBoard.comments"
+msgstr "Comments & log"
+
+msgid "plugins.generic.tasksBoard.addComment"
+msgstr "Add comment"
+
+msgid "plugins.generic.tasksBoard.createdBy"
+msgstr "Created by {$n} on {$d}"
+
+msgid "plugins.generic.tasksBoard.mail.subject"
+msgstr "New task: {$t}"
+
+msgid "plugins.generic.tasksBoard.mail.body"
+msgstr "{$n} assigned you a task due {$d}."
+
+msgid "plugins.generic.tasksBoard.mail.link"
+msgstr "Open the task"
+
+msgid "plugins.generic.tasksBoard.mail.comment"
+msgstr "Comment on task: {$t}"
+
+msgid "plugins.generic.tasksBoard.msg.created"
+msgstr "Task added."
+
+msgid "plugins.generic.tasksBoard.msg.moved"
+msgstr "Status updated."
+

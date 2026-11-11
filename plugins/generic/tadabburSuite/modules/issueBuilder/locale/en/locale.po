@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.issueBuilder.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.issueBuilder.none"
+msgstr "None."
+
+msgid "plugins.generic.issueBuilder.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.issueBuilder.save"
+msgstr "Save"
+
+msgid "plugins.generic.issueBuilder.back"
+msgstr "Back"
+
+msgid "plugins.generic.issueBuilder.name"
+msgstr "Issue Builder"
+
+msgid "plugins.generic.issueBuilder.description"
+msgstr "Prepare the next issue on one screen: assign accepted papers, order them within sections, paginate automatically from each paper's page count, check each paper's readiness (Arabic/English titles and abstracts, keywords, affiliations and ORCID, references, DOI, PDF) and print an Arabic/English table of contents. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.issueBuilder.open"
+msgstr "Open Issue Builder"
+
+msgid "plugins.generic.issueBuilder.menu"
+msgstr "Issue builder"
+
+msgid "plugins.generic.issueBuilder.intro"
+msgstr "Choose the upcoming issue to assign, order and paginate accepted papers. Nothing is published from here; publishing stays in OJS \"Issues\" once everything is ready."
+
+msgid "plugins.generic.issueBuilder.issues"
+msgstr "Issues"
+
+msgid "plugins.generic.issueBuilder.noIssues"
+msgstr "No issues; create the upcoming issue in OJS \"Issues\" first."
+
+msgid "plugins.generic.issueBuilder.issueLabel"
+msgstr "Vol. {$v} No. {$n} ({$y})"
+
+msgid "plugins.generic.issueBuilder.published"
+msgstr "Published"
+
+msgid "plugins.generic.issueBuilder.future"
+msgstr "Upcoming"
+
+msgid "plugins.generic.issueBuilder.openIssue"
+msgstr "Build"
+
+msgid "plugins.generic.issueBuilder.toc"
+msgstr "Table of contents"
+
+msgid "plugins.generic.issueBuilder.col.issue"
+msgstr "Issue"
+
+msgid "plugins.generic.issueBuilder.col.state"
+msgstr "State"
+
+msgid "plugins.generic.issueBuilder.col.count"
+msgstr "Papers"
+
+msgid "plugins.generic.issueBuilder.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.issueBuilder.col.section"
+msgstr "Section"
+
+msgid "plugins.generic.issueBuilder.col.pages"
+msgstr "Pages"
+
+msgid "plugins.generic.issueBuilder.col.pageCount"
+msgstr "Page count"
+
+msgid "plugins.generic.issueBuilder.col.ready"
+msgstr "Readiness"
+
+msgid "plugins.generic.issueBuilder.candidates"
+msgstr "Accepted papers not yet in an issue"
+
+msgid "plugins.generic.issueBuilder.candHelp"
+msgstr "Papers in copyediting or production without an issue."
+
+msgid "plugins.generic.issueBuilder.articles"
+msgstr "papers in issue"
+
+msgid "plugins.generic.issueBuilder.readyCount"
+msgstr "ready to publish"
+
+msgid "plugins.generic.issueBuilder.totalPages"
+msgstr "pages in total"
+
+msgid "plugins.generic.issueBuilder.publishedRO"
+msgstr "This issue is published; view only."
+
+msgid "plugins.generic.issueBuilder.contents"
+msgstr "Issue contents"
+
+msgid "plugins.generic.issueBuilder.emptyIssue"
+msgstr "No papers assigned yet."
+
+msgid "plugins.generic.issueBuilder.ready"
+msgstr "Ready"
+
+msgid "plugins.generic.issueBuilder.notReady"
+msgstr "Incomplete"
+
+msgid "plugins.generic.issueBuilder.remove"
+msgstr "Remove"
+
+msgid "plugins.generic.issueBuilder.confirmRemove"
+msgstr "Remove this paper from the issue? (The paper is not deleted.)"
+
+msgid "plugins.generic.issueBuilder.startPage"
+msgstr "Start at page"
+
+msgid "plugins.generic.issueBuilder.saveCounts"
+msgstr "Save page counts"
+
+msgid "plugins.generic.issueBuilder.paginate"
+msgstr "Paginate automatically"
+
+msgid "plugins.generic.issueBuilder.confirmPaginate"
+msgstr "The pages field of each paper will be written sequentially in the current order. Continue?"
+
+msgid "plugins.generic.issueBuilder.paginateHelp"
+msgstr "Enter each paper's page count, then paginate: \"from-to\" is computed sequentially."
+
+msgid "plugins.generic.issueBuilder.addToIssue"
+msgstr "Add to issue"
+
+msgid "plugins.generic.issueBuilder.chk.titleAr"
+msgstr "Arabic title"
+
+msgid "plugins.generic.issueBuilder.chk.titleEn"
+msgstr "English title"
+
+msgid "plugins.generic.issueBuilder.chk.absAr"
+msgstr "Arabic abstract"
+
+msgid "plugins.generic.issueBuilder.chk.absEn"
+msgstr "English abstract"
+
+msgid "plugins.generic.issueBuilder.chk.kw"
+msgstr "Keywords in both languages"
+
+msgid "plugins.generic.issueBuilder.chk.authors"
+msgstr "All author affiliations"
+
+msgid "plugins.generic.issueBuilder.chk.orcid"
+msgstr "ORCID for all authors"
+
+msgid "plugins.generic.issueBuilder.chk.refs"
+msgstr "References (5+)"
+
+msgid "plugins.generic.issueBuilder.chk.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.issueBuilder.chk.pages"
+msgstr "Pages"
+
+msgid "plugins.generic.issueBuilder.chk.pdf"
+msgstr "PDF galley"
+
+msgid "plugins.generic.issueBuilder.chk.section"
+msgstr "Section"
+
+msgid "plugins.generic.issueBuilder.msg.added"
+msgstr "Paper added to the issue."
+
+msgid "plugins.generic.issueBuilder.msg.removed"
+msgstr "Paper removed from the issue."
+
+msgid "plugins.generic.issueBuilder.msg.moved"
+msgstr "Order changed."
+
+msgid "plugins.generic.issueBuilder.msg.paginated"
+msgstr "Pages numbered."
+

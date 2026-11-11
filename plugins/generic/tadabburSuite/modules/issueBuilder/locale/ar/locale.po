@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.issueBuilder.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.issueBuilder.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.issueBuilder.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.issueBuilder.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.issueBuilder.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.issueBuilder.name"
+msgstr "بنّاء العدد"
+
+msgid "plugins.generic.issueBuilder.description"
+msgstr "تجهيز العدد القادم في شاشة واحدة: إسناد البحوث المقبولة إلى العدد، وترتيبها داخل الأقسام، والترقيم الآلي للصفحات من عدد صفحات كل بحث، وفحص جاهزية كل بحث للنشر (العناوين والملخصات بالعربية والإنجليزية، والكلمات المفتاحية، والانتماءات وORCID، والمراجع، وDOI، وملف PDF)، وفهرس محتويات عربي وإنجليزي قابل للطباعة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.issueBuilder.open"
+msgstr "فتح بنّاء العدد"
+
+msgid "plugins.generic.issueBuilder.menu"
+msgstr "بنّاء العدد"
+
+msgid "plugins.generic.issueBuilder.intro"
+msgstr "اختر العدد القادم لإسناد البحوث المقبولة إليه وترتيبها وترقيمها. لا يُنشر شيء من هنا؛ النشر يبقى من «الأعداد» في OJS بعد اكتمال الجاهزية."
+
+msgid "plugins.generic.issueBuilder.issues"
+msgstr "الأعداد"
+
+msgid "plugins.generic.issueBuilder.noIssues"
+msgstr "لا توجد أعداد؛ أنشئ العدد القادم من «الأعداد» في OJS أولًا."
+
+msgid "plugins.generic.issueBuilder.issueLabel"
+msgstr "المجلد {$v} العدد {$n} ({$y})"
+
+msgid "plugins.generic.issueBuilder.published"
+msgstr "منشور"
+
+msgid "plugins.generic.issueBuilder.future"
+msgstr "قادم"
+
+msgid "plugins.generic.issueBuilder.openIssue"
+msgstr "تجهيز"
+
+msgid "plugins.generic.issueBuilder.toc"
+msgstr "فهرس المحتويات"
+
+msgid "plugins.generic.issueBuilder.col.issue"
+msgstr "العدد"
+
+msgid "plugins.generic.issueBuilder.col.state"
+msgstr "الحالة"
+
+msgid "plugins.generic.issueBuilder.col.count"
+msgstr "البحوث"
+
+msgid "plugins.generic.issueBuilder.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.issueBuilder.col.section"
+msgstr "القسم"
+
+msgid "plugins.generic.issueBuilder.col.pages"
+msgstr "الصفحات"
+
+msgid "plugins.generic.issueBuilder.col.pageCount"
+msgstr "عدد الصفحات"
+
+msgid "plugins.generic.issueBuilder.col.ready"
+msgstr "الجاهزية"
+
+msgid "plugins.generic.issueBuilder.candidates"
+msgstr "بحوث مقبولة لم تُسند إلى عدد"
+
+msgid "plugins.generic.issueBuilder.candHelp"
+msgstr "البحوث في مرحلة التحرير اللغوي أو الإنتاج وليس لها عدد."
+
+msgid "plugins.generic.issueBuilder.articles"
+msgstr "بحثًا في العدد"
+
+msgid "plugins.generic.issueBuilder.readyCount"
+msgstr "جاهزة للنشر"
+
+msgid "plugins.generic.issueBuilder.totalPages"
+msgstr "صفحة إجمالًا"
+
+msgid "plugins.generic.issueBuilder.publishedRO"
+msgstr "العدد منشور؛ العرض للاطلاع فقط."
+
+msgid "plugins.generic.issueBuilder.contents"
+msgstr "محتويات العدد"
+
+msgid "plugins.generic.issueBuilder.emptyIssue"
+msgstr "لم يُسند أي بحث بعد."
+
+msgid "plugins.generic.issueBuilder.ready"
+msgstr "جاهز"
+
+msgid "plugins.generic.issueBuilder.notReady"
+msgstr "ناقص"
+
+msgid "plugins.generic.issueBuilder.remove"
+msgstr "إخراج"
+
+msgid "plugins.generic.issueBuilder.confirmRemove"
+msgstr "إخراج البحث من العدد؟ (لا يُحذف البحث)"
+
+msgid "plugins.generic.issueBuilder.startPage"
+msgstr "يبدأ الترقيم من صفحة"
+
+msgid "plugins.generic.issueBuilder.saveCounts"
+msgstr "حفظ عدد الصفحات"
+
+msgid "plugins.generic.issueBuilder.paginate"
+msgstr "ترقيم الصفحات تلقائيًا"
+
+msgid "plugins.generic.issueBuilder.confirmPaginate"
+msgstr "سيُكتب حقل الصفحات لكل بحث بالتتابع حسب الترتيب الحالي. متابعة؟"
+
+msgid "plugins.generic.issueBuilder.paginateHelp"
+msgstr "أدخل عدد صفحات كل بحث، ثم رقّم: يُحسب «من-إلى» لكل بحث بالتتابع."
+
+msgid "plugins.generic.issueBuilder.addToIssue"
+msgstr "إلى العدد"
+
+msgid "plugins.generic.issueBuilder.chk.titleAr"
+msgstr "عنوان عربي"
+
+msgid "plugins.generic.issueBuilder.chk.titleEn"
+msgstr "عنوان إنجليزي"
+
+msgid "plugins.generic.issueBuilder.chk.absAr"
+msgstr "ملخص عربي"
+
+msgid "plugins.generic.issueBuilder.chk.absEn"
+msgstr "ملخص إنجليزي"
+
+msgid "plugins.generic.issueBuilder.chk.kw"
+msgstr "كلمات مفتاحية باللغتين"
+
+msgid "plugins.generic.issueBuilder.chk.authors"
+msgstr "انتماء كل المؤلفين"
+
+msgid "plugins.generic.issueBuilder.chk.orcid"
+msgstr "ORCID لكل المؤلفين"
+
+msgid "plugins.generic.issueBuilder.chk.refs"
+msgstr "المراجع (5 فأكثر)"
+
+msgid "plugins.generic.issueBuilder.chk.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.issueBuilder.chk.pages"
+msgstr "الصفحات"
+
+msgid "plugins.generic.issueBuilder.chk.pdf"
+msgstr "ملف PDF"
+
+msgid "plugins.generic.issueBuilder.chk.section"
+msgstr "القسم"
+
+msgid "plugins.generic.issueBuilder.msg.added"
+msgstr "أُسند البحث إلى العدد."
+
+msgid "plugins.generic.issueBuilder.msg.removed"
+msgstr "أُخرج البحث من العدد."
+
+msgid "plugins.generic.issueBuilder.msg.moved"
+msgstr "تم تغيير الترتيب."
+
+msgid "plugins.generic.issueBuilder.msg.paginated"
+msgstr "تم ترقيم الصفحات."
+

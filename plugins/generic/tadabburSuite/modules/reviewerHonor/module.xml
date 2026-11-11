@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+<!--
+  * Copyright (c) 2026 Moustafa Mahmoud Mahmoud & Khibrat Taibah for Research and Studies
+  * https://github.com/mostafamr2011 · https://khibrattaibah.com — GPL-3.0-or-later
+  -->
+<version>
+	<application>reviewerHonor</application>
+	<type>plugins.generic</type>
+	<release>1.0.0.0</release>
+	<date>2026-11-09</date>
+	<lazy-load>1</lazy-load>
+	<class>ReviewerHonorPlugin</class>
+</version>

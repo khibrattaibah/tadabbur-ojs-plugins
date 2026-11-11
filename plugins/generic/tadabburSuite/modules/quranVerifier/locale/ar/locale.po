@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.quranVerifier.name"
+msgstr "مدقّق الآيات والتخريج"
+
+msgid "plugins.generic.quranVerifier.description"
+msgstr "يستخرج الآيات المقتبسة من ملف البحث (Word/PDF مع الحواشي) ويطابقها بنص المصحف، فيكشف أخطاء النص والعزو ويقترح الصواب بالرسم العثماني، ويرصد نواقص التخريج الحديثي. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.quranVerifier.open"
+msgstr "فتح المدقّق"
+
+msgid "plugins.generic.quranVerifier.menu"
+msgstr "مدقّق الآيات"
+
+msgid "plugins.generic.quranVerifier.toolMenu"
+msgstr "تدقيق الآيات قبل التقديم"
+
+msgid "plugins.generic.quranVerifier.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.quranVerifier.nav.submissions"
+msgstr "البحوث والتقارير"
+
+msgid "plugins.generic.quranVerifier.nav.tool"
+msgstr "أداة التدقيق السريع"
+
+msgid "plugins.generic.quranVerifier.intro"
+msgstr "يفحص المدقّق كل آية مقتبسة في ملف البحث: هل نصها مطابق للمصحف؟ وهل العزو (السورة ورقم الآية) صحيح؟ ويرصد عبارات التخريج الحديثي الناقصة. يعمل تلقائيًا عند تقديم البحث، ويمكن تشغيله يدويًا على أي ملف."
+
+msgid "plugins.generic.quranVerifier.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.quranVerifier.set.autoRun"
+msgstr "تشغيل التدقيق تلقائيًا عند إتمام المؤلف للتقديم"
+
+msgid "plugins.generic.quranVerifier.set.authorTool"
+msgstr "إتاحة أداة التدقيق السريع للمؤلفين والمحكّمين المسجلين"
+
+msgid "plugins.generic.quranVerifier.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.quranVerifier.submissions"
+msgstr "البحوث المقدَّمة"
+
+msgid "plugins.generic.quranVerifier.search"
+msgstr "بحث بالعنوان أو المؤلف"
+
+msgid "plugins.generic.quranVerifier.searchBtn"
+msgstr "بحث"
+
+msgid "plugins.generic.quranVerifier.noSubmissions"
+msgstr "لا توجد بحوث."
+
+msgid "plugins.generic.quranVerifier.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.quranVerifier.col.last"
+msgstr "آخر تدقيق"
+
+msgid "plugins.generic.quranVerifier.col.run"
+msgstr "تدقيق ملف"
+
+msgid "plugins.generic.quranVerifier.notChecked"
+msgstr "لم يُدقَّق بعد"
+
+msgid "plugins.generic.quranVerifier.auto"
+msgstr "تلقائي"
+
+msgid "plugins.generic.quranVerifier.openReport"
+msgstr "فتح التقرير"
+
+msgid "plugins.generic.quranVerifier.noFiles"
+msgstr "لا توجد ملفات Word أو PDF"
+
+msgid "plugins.generic.quranVerifier.runBtn"
+msgstr "تدقيق"
+
+msgid "plugins.generic.quranVerifier.stage.2"
+msgstr "ملف التقديم"
+
+msgid "plugins.generic.quranVerifier.stage.4"
+msgstr "ملف التحكيم"
+
+msgid "plugins.generic.quranVerifier.stage.5"
+msgstr "مرفق تحكيم"
+
+msgid "plugins.generic.quranVerifier.stage.6"
+msgstr "نسخة نهائية"
+
+msgid "plugins.generic.quranVerifier.stage.9"
+msgstr "تدقيق لغوي"
+
+msgid "plugins.generic.quranVerifier.stage.10"
+msgstr "نسخة عرض"
+
+msgid "plugins.generic.quranVerifier.stage.11"
+msgstr "جاهز للإنتاج"
+
+msgid "plugins.generic.quranVerifier.stage.13"
+msgstr "ملف معدّل"
+
+msgid "plugins.generic.quranVerifier.stage.15"
+msgstr "مراجعة"
+
+msgid "plugins.generic.quranVerifier.stage.17"
+msgstr "مرفق"
+
+msgid "plugins.generic.quranVerifier.stage.18"
+msgstr "استعلام"
+
+msgid "plugins.generic.quranVerifier.stage.19"
+msgstr "مراجعة داخلية"
+
+msgid "plugins.generic.quranVerifier.stage.3"
+msgstr "ملاحظة"
+
+msgid "plugins.generic.quranVerifier.badge.ok"
+msgstr "سليمة"
+
+msgid "plugins.generic.quranVerifier.badge.problems"
+msgstr "ملاحظات"
+
+msgid "plugins.generic.quranVerifier.badge.hadith"
+msgstr "تخريج"
+
+msgid "plugins.generic.quranVerifier.err.nofile"
+msgstr "لم يُعثر على ملف قابل للفحص."
+
+msgid "plugins.generic.quranVerifier.err.unsupported"
+msgstr "صيغة الملف غير مدعومة. استخدم Word (docx) أو PDF أو نصًّا."
+
+msgid "plugins.generic.quranVerifier.err.corrupt"
+msgstr "تعذّر فتح ملف Word؛ ربما كان تالفًا أو بصيغة doc القديمة."
+
+msgid "plugins.generic.quranVerifier.err.nozip"
+msgstr "امتداد PHP zip غير مفعّل على الخادم."
+
+msgid "plugins.generic.quranVerifier.err.nopdftotext"
+msgstr "قراءة PDF تحتاج أداة pdftotext على الخادم؛ استخدم ملف Word بدلًا منه."
+
+msgid "plugins.generic.quranVerifier.err.pdfempty"
+msgstr "لم يُستخرج نص من ملف PDF (قد يكون صورًا ممسوحة)."
+
+msgid "plugins.generic.quranVerifier.err.read"
+msgstr "تعذّرت قراءة الملف من مخزن OJS."
+
+msgid "plugins.generic.quranVerifier.err.empty"
+msgstr "أدخل نصًّا أو اختر ملفًّا."
+
+msgid "plugins.generic.quranVerifier.err.toobig"
+msgstr "حجم الملف أكبر من 20 م.ب."
+
+msgid "plugins.generic.quranVerifier.notFound"
+msgstr "التقرير غير موجود."
+
+msgid "plugins.generic.quranVerifier.reportTitle"
+msgstr "تقرير تدقيق الآيات والتخريج"
+
+msgid "plugins.generic.quranVerifier.meta"
+msgstr "الملف: {$file} · التاريخ: {$date} · رقم البحث: {$id}"
+
+msgid "plugins.generic.quranVerifier.showProblems"
+msgstr "عرض الملاحظات فقط"
+
+msgid "plugins.generic.quranVerifier.showAll"
+msgstr "عرض الكل"
+
+msgid "plugins.generic.quranVerifier.printBtn"
+msgstr "نسخة للطباعة / للمؤلف"
+
+msgid "plugins.generic.quranVerifier.printNow"
+msgstr "طباعة"
+
+msgid "plugins.generic.quranVerifier.deleteBtn"
+msgstr "حذف التقرير"
+
+msgid "plugins.generic.quranVerifier.history"
+msgstr "تقارير سابقة لهذا البحث"
+
+msgid "plugins.generic.quranVerifier.toolIntro"
+msgstr "ارفع ملف البحث (Word أو PDF) أو الصق جزءًا منه، وسيظهر لك تقرير بكل آية: مطابقة النص للمصحف، وصحة اسم السورة ورقم الآية، مع النص الصحيح بالرسم العثماني. لا يُحفظ النص ولا التقرير."
+
+msgid "plugins.generic.quranVerifier.uploadLabel"
+msgstr "ملف البحث (docx أو pdf)"
+
+msgid "plugins.generic.quranVerifier.pasteLabel"
+msgstr "أو الصق النص هنا"
+
+msgid "plugins.generic.quranVerifier.checkBtn"
+msgstr "ابدأ التدقيق"
+
+msgid "plugins.generic.quranVerifier.privacy"
+msgstr "يُعالج النص على خادم المجلة فقط ولا يُرسل إلى أي جهة خارجية."
+
+msgid "plugins.generic.quranVerifier.stat.total"
+msgstr "آية مقتبسة"
+
+msgid "plugins.generic.quranVerifier.stat.ok"
+msgstr "مطابقة نصًّا وعزوًا"
+
+msgid "plugins.generic.quranVerifier.stat.problems"
+msgstr "تحتاج مراجعة"
+
+msgid "plugins.generic.quranVerifier.stat.hadith"
+msgstr "موضع تخريج/حديث"
+
+msgid "plugins.generic.quranVerifier.stat.hadithIssues"
+msgstr "نواقص في التخريج"
+
+msgid "plugins.generic.quranVerifier.quranTitle"
+msgstr "الآيات القرآنية"
+
+msgid "plugins.generic.quranVerifier.hadithTitle"
+msgstr "التخريج الحديثي"
+
+msgid "plugins.generic.quranVerifier.col.quote"
+msgstr "النص كما ورد في البحث"
+
+msgid "plugins.generic.quranVerifier.col.cited"
+msgstr "العزو المذكور"
+
+msgid "plugins.generic.quranVerifier.col.result"
+msgstr "النتيجة"
+
+msgid "plugins.generic.quranVerifier.col.correct"
+msgstr "الصواب"
+
+msgid "plugins.generic.quranVerifier.col.takhrij"
+msgstr "النص / عبارة التخريج"
+
+msgid "plugins.generic.quranVerifier.col.sources"
+msgstr "المصادر"
+
+msgid "plugins.generic.quranVerifier.col.note"
+msgstr "الملاحظة"
+
+msgid "plugins.generic.quranVerifier.noQuotes"
+msgstr "لم تُرصد آيات مقتبسة."
+
+msgid "plugins.generic.quranVerifier.noProblems"
+msgstr "لا توجد ملاحظات."
+
+msgid "plugins.generic.quranVerifier.noHadith"
+msgstr "لم تُرصد عبارات تخريج."
+
+msgid "plugins.generic.quranVerifier.showText"
+msgstr "النص بالرسم العثماني"
+
+msgid "plugins.generic.quranVerifier.alts"
+msgstr "تتكرر الآية بلفظها في: {$list}"
+
+msgid "plugins.generic.quranVerifier.styleNote"
+msgstr "يُستحسن وضع نص الآية بين القوسين القرآنيين ﴿ ﴾."
+
+msgid "plugins.generic.quranVerifier.extra"
+msgstr "كلمة زائدة ليست في الآية"
+
+msgid "plugins.generic.quranVerifier.missing"
+msgstr "كلمة ناقصة من الآية"
+
+msgid "plugins.generic.quranVerifier.legend"
+msgstr "دليل الألوان: <del style=\"color:#b02a2a\">المشطوب</del> ورد في البحث وليس في المصحف، و<b style=\"color:#1e7b4a\">الأخضر</b> هو الصواب، وما بين [ ] كلمات ناقصة من الاقتباس."
+
+msgid "plugins.generic.quranVerifier.st.ok"
+msgstr "صحيح"
+
+msgid "plugins.generic.quranVerifier.st.diff"
+msgstr "فروق في النص"
+
+msgid "plugins.generic.quranVerifier.st.refWrong"
+msgstr "عزو خاطئ"
+
+msgid "plugins.generic.quranVerifier.st.refPartial"
+msgstr "عزو غير دقيق"
+
+msgid "plugins.generic.quranVerifier.st.refMissing"
+msgstr "بلا عزو"
+
+msgid "plugins.generic.quranVerifier.st.refInvalid"
+msgstr "عزو غير صالح"
+
+msgid "plugins.generic.quranVerifier.st.notFound"
+msgstr "لم يُعثر عليه"
+
+msgid "plugins.generic.quranVerifier.st.short"
+msgstr "قصير"
+
+msgid "plugins.generic.quranVerifier.st.ok.d"
+msgstr "النص والعزو مطابقان للمصحف."
+
+msgid "plugins.generic.quranVerifier.st.diff.d"
+msgstr "في النص {$n} فرق عن المصحف ({$correct})."
+
+msgid "plugins.generic.quranVerifier.st.refWrong.d"
+msgstr "النص صحيح لكنه في {$correct}، لا في {$cited}."
+
+msgid "plugins.generic.quranVerifier.st.refPartial.d"
+msgstr "الآيات المقتبسة هي {$correct}، والعزو المذكور {$cited}."
+
+msgid "plugins.generic.quranVerifier.st.refMissing.d"
+msgstr "النص صحيح ولم يُذكر عزوه. الموضع: {$correct}."
+
+msgid "plugins.generic.quranVerifier.st.refInvalid.d"
+msgstr "العزو «{$cited}» غير صالح (سورة غير معروفة أو رقم آية خارج السورة). {$correct}"
+
+msgid "plugins.generic.quranVerifier.st.notFound.d"
+msgstr "لم يُعثر على نص مطابق في المصحف؛ قد يكون حديثًا أو كلامًا وُضع بين قوسين قرآنيين، أو فيه أخطاء كثيرة. {$correct}"
+
+msgid "plugins.generic.quranVerifier.st.short.d"
+msgstr "اقتباس قصير (أقل من ثلاث كلمات) لا يُحكم عليه آليًا."
+
+msgid "plugins.generic.quranVerifier.h.noNumber"
+msgstr "لم يُذكر رقم الحديث أو الجزء والصفحة."
+
+msgid "plugins.generic.quranVerifier.h.noGrade"
+msgstr "لم يُذكر الحكم على الحديث (وهو خارج الصحيحين)."
+
+msgid "plugins.generic.quranVerifier.h.noTakhrij"
+msgstr "حديث منسوب إلى النبي ﷺ دون تخريج في الفقرة أو حاشيتها."
+
+msgid "plugins.generic.quranVerifier.h.ok"
+msgstr "التخريج مكتمل الشكل"
+
+msgid "plugins.generic.quranVerifier.hadithNote"
+msgstr "فحص التخريج شكلي: يتحقق من وجود المصدر والرقم والحكم، ولا يتحقق من صحة نص الحديث أو درجته؛ فذلك من عمل المحكّم المختص."
+
+msgid "plugins.generic.quranVerifier.method"
+msgstr "المنهجية: تُطابق الحروف دون الحركات (الضبط بالشكل لا يُفحص)، ويُقبل الرسم الإملائي والعثماني. تُكتشف الآيات بين ﴿ ﴾ أو { } أو المتبوعة بعزو مثل [البقرة: 255]، ويُقرأ العزو من النص أو من الحاشية."
+
+msgid "plugins.generic.quranVerifier.tanzil"
+msgstr "نص المصحف: <a href=\"https://tanzil.net\" target=\"_blank\" rel=\"noopener\">مشروع تنزيل Tanzil</a> (CC BY 3.0)."
+

@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.arabicIndexes.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.arabicIndexes.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.arabicIndexes.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.arabicIndexes.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.arabicIndexes.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.arabicIndexes.name"
+msgstr "حزمة الفهارس العربية"
+
+msgid "plugins.generic.arabicIndexes.description"
+msgstr "تصدير بيانات كل عدد بقوالب قواعد البيانات العربية (دار المنظومة، معرفة، المنهل، معامل التأثير العربي ARCIF، وقالب خاص) بصيغة Excel وCSV، مع ملف المراجع لكل بحث، وحزمة ملفات PDF للعدد بأسماء موحّدة، وسجل متابعة لما أُرسل إلى كل قاعدة وما فُهرس. الأعمدة قابلة للتعديل لتطابق نموذج كل قاعدة. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.arabicIndexes.open"
+msgstr "فتح الفهارس العربية"
+
+msgid "plugins.generic.arabicIndexes.menu"
+msgstr "الفهارس العربية"
+
+msgid "plugins.generic.arabicIndexes.intro"
+msgstr "لكل عدد منشور: صدّر ملف القاعدة (Excel) وحزمة PDF، ثم سجّل تاريخ الإرسال وحالة الفهرسة بالضغط على الخلية. القوالب مقترحة؛ طابق أعمدتها مع نموذج كل قاعدة من الإعدادات مرة واحدة."
+
+msgid "plugins.generic.arabicIndexes.matrix"
+msgstr "متابعة الإرسال والفهرسة"
+
+msgid "plugins.generic.arabicIndexes.col.issue"
+msgstr "العدد"
+
+msgid "plugins.generic.arabicIndexes.noIssues"
+msgstr "لا توجد أعداد منشورة."
+
+msgid "plugins.generic.arabicIndexes.issueLabel"
+msgstr "المجلد {$v} العدد {$n} ({$y})"
+
+msgid "plugins.generic.arabicIndexes.refsFile"
+msgstr "المراجع"
+
+msgid "plugins.generic.arabicIndexes.st.pending"
+msgstr "لم يُرسل"
+
+msgid "plugins.generic.arabicIndexes.st.sent"
+msgstr "أُرسل"
+
+msgid "plugins.generic.arabicIndexes.st.indexed"
+msgstr "مُفهرس"
+
+msgid "plugins.generic.arabicIndexes.st.rejected"
+msgstr "مرفوض"
+
+msgid "plugins.generic.arabicIndexes.f.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.arabicIndexes.f.sent"
+msgstr "تاريخ الإرسال"
+
+msgid "plugins.generic.arabicIndexes.f.note"
+msgstr "ملاحظة (رقم المراسلة، الرابط في القاعدة...)"
+
+msgid "plugins.generic.arabicIndexes.settings"
+msgstr "إعدادات القوالب"
+
+msgid "plugins.generic.arabicIndexes.settingsHelp"
+msgstr "فعّل القواعد التي تتعامل معها، وغيّر الاسم إن شئت (مثلًا: اجعل «قالب خاص» لقاعدة أخرى)، ورتّب الأعمدة بمفاتيح الحقول مفصولة بفواصل كما في جدول الحقول أدناه."
+
+msgid "plugins.generic.arabicIndexes.f.name"
+msgstr "الاسم المعروض"
+
+msgid "plugins.generic.arabicIndexes.f.cols"
+msgstr "الأعمدة بالترتيب"
+
+msgid "plugins.generic.arabicIndexes.fieldsTitle"
+msgstr "الحقول المتاحة"
+
+msgid "plugins.generic.arabicIndexes.x.key"
+msgstr "المفتاح"
+
+msgid "plugins.generic.arabicIndexes.x.label"
+msgstr "عنوان العمود"
+
+msgid "plugins.generic.arabicIndexes.x.id"
+msgstr "رقم البحث"
+
+msgid "plugins.generic.arabicIndexes.x.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.arabicIndexes.x.n"
+msgstr "م"
+
+msgid "plugins.generic.arabicIndexes.x.ref"
+msgstr "المرجع"
+
+msgid "plugins.generic.arabicIndexes.msg.errNoPdf"
+msgstr "لا توجد ملفات PDF محلية في هذا العدد."
+

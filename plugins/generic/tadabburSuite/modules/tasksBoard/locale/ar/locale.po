@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.tasksBoard.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.tasksBoard.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.tasksBoard.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.tasksBoard.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.tasksBoard.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.tasksBoard.name"
+msgstr "المهام والتكليفات"
+
+msgid "plugins.generic.tasksBoard.description"
+msgstr "لوحة مهام لفريق التحرير بثلاثة أعمدة (للعمل، قيد التنفيذ، منجز): لكل مهمة مكلَّف وموعد وأولوية وربط اختياري ببحث، وتعليقات متبادلة، وإشعار المكلَّف بالبريد، وإبراز المتأخر، وتصفية «مهامي». تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.tasksBoard.open"
+msgstr "فتح المهام"
+
+msgid "plugins.generic.tasksBoard.menu"
+msgstr "المهام والتكليفات"
+
+msgid "plugins.generic.tasksBoard.s.todo"
+msgstr "للعمل"
+
+msgid "plugins.generic.tasksBoard.s.doing"
+msgstr "قيد التنفيذ"
+
+msgid "plugins.generic.tasksBoard.s.done"
+msgstr "منجز"
+
+msgid "plugins.generic.tasksBoard.p.high"
+msgstr "عاجلة"
+
+msgid "plugins.generic.tasksBoard.p.normal"
+msgstr "عادية"
+
+msgid "plugins.generic.tasksBoard.p.low"
+msgstr "منخفضة"
+
+msgid "plugins.generic.tasksBoard.all"
+msgstr "كل الفريق"
+
+msgid "plugins.generic.tasksBoard.mine"
+msgstr "مهامي"
+
+msgid "plugins.generic.tasksBoard.lateN"
+msgstr "{$n} مهمة متأخرة"
+
+msgid "plugins.generic.tasksBoard.late"
+msgstr "متأخرة"
+
+msgid "plugins.generic.tasksBoard.empty"
+msgstr "لا شيء هنا"
+
+msgid "plugins.generic.tasksBoard.new"
+msgstr "مهمة جديدة"
+
+msgid "plugins.generic.tasksBoard.f.title"
+msgstr "عنوان المهمة"
+
+msgid "plugins.generic.tasksBoard.f.body"
+msgstr "التفاصيل (اختياري)"
+
+msgid "plugins.generic.tasksBoard.f.assignee"
+msgstr "المكلَّف"
+
+msgid "plugins.generic.tasksBoard.f.due"
+msgstr "الموعد"
+
+msgid "plugins.generic.tasksBoard.f.priority"
+msgstr "الأولوية"
+
+msgid "plugins.generic.tasksBoard.f.sid"
+msgstr "رقم البحث"
+
+msgid "plugins.generic.tasksBoard.f.notify"
+msgstr "إشعار بالبريد"
+
+msgid "plugins.generic.tasksBoard.add"
+msgstr "إضافة"
+
+msgid "plugins.generic.tasksBoard.comments"
+msgstr "التعليقات والسجل"
+
+msgid "plugins.generic.tasksBoard.addComment"
+msgstr "إضافة تعليق"
+
+msgid "plugins.generic.tasksBoard.createdBy"
+msgstr "أنشأها {$n} في {$d}"
+
+msgid "plugins.generic.tasksBoard.mail.subject"
+msgstr "مهمة جديدة: {$t}"
+
+msgid "plugins.generic.tasksBoard.mail.body"
+msgstr "كلّفك {$n} بمهمة، موعدها {$d}."
+
+msgid "plugins.generic.tasksBoard.mail.link"
+msgstr "فتح المهمة"
+
+msgid "plugins.generic.tasksBoard.mail.comment"
+msgstr "تعليق على المهمة: {$t}"
+
+msgid "plugins.generic.tasksBoard.msg.created"
+msgstr "أُضيفت المهمة."
+
+msgid "plugins.generic.tasksBoard.msg.moved"
+msgstr "تم تحديث الحالة."
+

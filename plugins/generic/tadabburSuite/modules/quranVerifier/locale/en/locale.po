@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.quranVerifier.name"
+msgstr "Quran & Hadith Citation Verifier"
+
+msgid "plugins.generic.quranVerifier.description"
+msgstr "Extracts Quranic quotations from manuscripts (Word/PDF incl. footnotes), verifies text and surah/verse references against the Mushaf, suggests corrections in Uthmani script, and flags incomplete hadith referencing. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.quranVerifier.open"
+msgstr "Open verifier"
+
+msgid "plugins.generic.quranVerifier.menu"
+msgstr "Quran Verifier"
+
+msgid "plugins.generic.quranVerifier.toolMenu"
+msgstr "Check Quran citations"
+
+msgid "plugins.generic.quranVerifier.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.quranVerifier.nav.submissions"
+msgstr "Submissions & reports"
+
+msgid "plugins.generic.quranVerifier.nav.tool"
+msgstr "Quick check tool"
+
+msgid "plugins.generic.quranVerifier.intro"
+msgstr "The verifier checks every Quranic quotation in a manuscript: does the text match the Mushaf, and is the surah/verse reference correct? It also flags incomplete hadith referencing. It runs automatically on submission and can be run manually on any file."
+
+msgid "plugins.generic.quranVerifier.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.quranVerifier.set.autoRun"
+msgstr "Run automatically when an author completes a submission"
+
+msgid "plugins.generic.quranVerifier.set.authorTool"
+msgstr "Make the quick check tool available to registered authors and reviewers"
+
+msgid "plugins.generic.quranVerifier.save"
+msgstr "Save"
+
+msgid "plugins.generic.quranVerifier.submissions"
+msgstr "Submissions"
+
+msgid "plugins.generic.quranVerifier.search"
+msgstr "Search title or author"
+
+msgid "plugins.generic.quranVerifier.searchBtn"
+msgstr "Search"
+
+msgid "plugins.generic.quranVerifier.noSubmissions"
+msgstr "No submissions."
+
+msgid "plugins.generic.quranVerifier.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.quranVerifier.col.last"
+msgstr "Last check"
+
+msgid "plugins.generic.quranVerifier.col.run"
+msgstr "Check a file"
+
+msgid "plugins.generic.quranVerifier.notChecked"
+msgstr "Not checked yet"
+
+msgid "plugins.generic.quranVerifier.auto"
+msgstr "automatic"
+
+msgid "plugins.generic.quranVerifier.openReport"
+msgstr "Open report"
+
+msgid "plugins.generic.quranVerifier.noFiles"
+msgstr "No Word or PDF files"
+
+msgid "plugins.generic.quranVerifier.runBtn"
+msgstr "Check"
+
+msgid "plugins.generic.quranVerifier.stage.2"
+msgstr "submission"
+
+msgid "plugins.generic.quranVerifier.stage.4"
+msgstr "review"
+
+msgid "plugins.generic.quranVerifier.stage.5"
+msgstr "review attachment"
+
+msgid "plugins.generic.quranVerifier.stage.6"
+msgstr "final"
+
+msgid "plugins.generic.quranVerifier.stage.9"
+msgstr "copyedited"
+
+msgid "plugins.generic.quranVerifier.stage.10"
+msgstr "galley"
+
+msgid "plugins.generic.quranVerifier.stage.11"
+msgstr "production ready"
+
+msgid "plugins.generic.quranVerifier.stage.13"
+msgstr "revision"
+
+msgid "plugins.generic.quranVerifier.stage.15"
+msgstr "review revision"
+
+msgid "plugins.generic.quranVerifier.stage.17"
+msgstr "attachment"
+
+msgid "plugins.generic.quranVerifier.stage.18"
+msgstr "query"
+
+msgid "plugins.generic.quranVerifier.stage.19"
+msgstr "internal review"
+
+msgid "plugins.generic.quranVerifier.stage.3"
+msgstr "note"
+
+msgid "plugins.generic.quranVerifier.badge.ok"
+msgstr "correct"
+
+msgid "plugins.generic.quranVerifier.badge.problems"
+msgstr "issues"
+
+msgid "plugins.generic.quranVerifier.badge.hadith"
+msgstr "hadith"
+
+msgid "plugins.generic.quranVerifier.err.nofile"
+msgstr "No checkable file was found."
+
+msgid "plugins.generic.quranVerifier.err.unsupported"
+msgstr "Unsupported file format. Use Word (docx), PDF or text."
+
+msgid "plugins.generic.quranVerifier.err.corrupt"
+msgstr "The Word file could not be opened; it may be corrupt or in the old .doc format."
+
+msgid "plugins.generic.quranVerifier.err.nozip"
+msgstr "The PHP zip extension is not enabled on the server."
+
+msgid "plugins.generic.quranVerifier.err.nopdftotext"
+msgstr "Reading PDF requires pdftotext on the server; please use the Word file instead."
+
+msgid "plugins.generic.quranVerifier.err.pdfempty"
+msgstr "No text could be extracted from the PDF (it may be scanned images)."
+
+msgid "plugins.generic.quranVerifier.err.read"
+msgstr "The file could not be read from OJS storage."
+
+msgid "plugins.generic.quranVerifier.err.empty"
+msgstr "Enter text or choose a file."
+
+msgid "plugins.generic.quranVerifier.err.toobig"
+msgstr "The file is larger than 20 MB."
+
+msgid "plugins.generic.quranVerifier.notFound"
+msgstr "Report not found."
+
+msgid "plugins.generic.quranVerifier.reportTitle"
+msgstr "Quran & Hadith Citation Report"
+
+msgid "plugins.generic.quranVerifier.meta"
+msgstr "File: {$file} · Date: {$date} · Submission ID: {$id}"
+
+msgid "plugins.generic.quranVerifier.showProblems"
+msgstr "Show issues only"
+
+msgid "plugins.generic.quranVerifier.showAll"
+msgstr "Show all"
+
+msgid "plugins.generic.quranVerifier.printBtn"
+msgstr "Printable copy / for author"
+
+msgid "plugins.generic.quranVerifier.printNow"
+msgstr "Print"
+
+msgid "plugins.generic.quranVerifier.deleteBtn"
+msgstr "Delete report"
+
+msgid "plugins.generic.quranVerifier.history"
+msgstr "Previous reports for this submission"
+
+msgid "plugins.generic.quranVerifier.toolIntro"
+msgstr "Upload your manuscript (Word or PDF) or paste part of it to get a report for every verse: text accuracy, surah and verse number, and the correct Uthmani text. Nothing is stored."
+
+msgid "plugins.generic.quranVerifier.uploadLabel"
+msgstr "Manuscript file (docx or pdf)"
+
+msgid "plugins.generic.quranVerifier.pasteLabel"
+msgstr "Or paste text here"
+
+msgid "plugins.generic.quranVerifier.checkBtn"
+msgstr "Check now"
+
+msgid "plugins.generic.quranVerifier.privacy"
+msgstr "Text is processed on the journal server only and is never sent to third parties."
+
+msgid "plugins.generic.quranVerifier.stat.total"
+msgstr "Quotations"
+
+msgid "plugins.generic.quranVerifier.stat.ok"
+msgstr "Fully correct"
+
+msgid "plugins.generic.quranVerifier.stat.problems"
+msgstr "Need attention"
+
+msgid "plugins.generic.quranVerifier.stat.hadith"
+msgstr "Hadith references"
+
+msgid "plugins.generic.quranVerifier.stat.hadithIssues"
+msgstr "Referencing gaps"
+
+msgid "plugins.generic.quranVerifier.quranTitle"
+msgstr "Quranic quotations"
+
+msgid "plugins.generic.quranVerifier.hadithTitle"
+msgstr "Hadith referencing"
+
+msgid "plugins.generic.quranVerifier.col.quote"
+msgstr "Text as quoted"
+
+msgid "plugins.generic.quranVerifier.col.cited"
+msgstr "Cited"
+
+msgid "plugins.generic.quranVerifier.col.result"
+msgstr "Result"
+
+msgid "plugins.generic.quranVerifier.col.correct"
+msgstr "Correct"
+
+msgid "plugins.generic.quranVerifier.col.takhrij"
+msgstr "Text / referencing"
+
+msgid "plugins.generic.quranVerifier.col.sources"
+msgstr "Sources"
+
+msgid "plugins.generic.quranVerifier.col.note"
+msgstr "Note"
+
+msgid "plugins.generic.quranVerifier.noQuotes"
+msgstr "No Quranic quotations detected."
+
+msgid "plugins.generic.quranVerifier.noProblems"
+msgstr "No issues."
+
+msgid "plugins.generic.quranVerifier.noHadith"
+msgstr "No hadith references detected."
+
+msgid "plugins.generic.quranVerifier.showText"
+msgstr "Uthmani text"
+
+msgid "plugins.generic.quranVerifier.alts"
+msgstr "This wording also occurs at: {$list}"
+
+msgid "plugins.generic.quranVerifier.styleNote"
+msgstr "Quranic text is best enclosed in ornate brackets ﴿ ﴾."
+
+msgid "plugins.generic.quranVerifier.extra"
+msgstr "Word not in the verse"
+
+msgid "plugins.generic.quranVerifier.missing"
+msgstr "Word missing from the quotation"
+
+msgid "plugins.generic.quranVerifier.legend"
+msgstr "Legend: <del style=\"color:#b02a2a\">struck</del> words are in the manuscript but not the Mushaf; <b style=\"color:#1e7b4a\">green</b> is the correct wording; [ ] marks words missing from the quotation."
+
+msgid "plugins.generic.quranVerifier.st.ok"
+msgstr "Correct"
+
+msgid "plugins.generic.quranVerifier.st.diff"
+msgstr "Text differs"
+
+msgid "plugins.generic.quranVerifier.st.refWrong"
+msgstr "Wrong reference"
+
+msgid "plugins.generic.quranVerifier.st.refPartial"
+msgstr "Imprecise reference"
+
+msgid "plugins.generic.quranVerifier.st.refMissing"
+msgstr "No reference"
+
+msgid "plugins.generic.quranVerifier.st.refInvalid"
+msgstr "Invalid reference"
+
+msgid "plugins.generic.quranVerifier.st.notFound"
+msgstr "Not found"
+
+msgid "plugins.generic.quranVerifier.st.short"
+msgstr "Too short"
+
+msgid "plugins.generic.quranVerifier.st.ok.d"
+msgstr "Text and reference match the Mushaf."
+
+msgid "plugins.generic.quranVerifier.st.diff.d"
+msgstr "The text has {$n} difference(s) from the Mushaf ({$correct})."
+
+msgid "plugins.generic.quranVerifier.st.refWrong.d"
+msgstr "The text is correct but is found at {$correct}, not {$cited}."
+
+msgid "plugins.generic.quranVerifier.st.refPartial.d"
+msgstr "The quoted verses are {$correct}; the reference given is {$cited}."
+
+msgid "plugins.generic.quranVerifier.st.refMissing.d"
+msgstr "Text is correct but no reference is given. Location: {$correct}."
+
+msgid "plugins.generic.quranVerifier.st.refInvalid.d"
+msgstr "The reference “{$cited}” is invalid (unknown surah or verse out of range). {$correct}"
+
+msgid "plugins.generic.quranVerifier.st.notFound.d"
+msgstr "No matching Mushaf text; it may be a hadith or other text in Quranic brackets, or contain many errors. {$correct}"
+
+msgid "plugins.generic.quranVerifier.st.short.d"
+msgstr "Quotation too short (under three words) to verify automatically."
+
+msgid "plugins.generic.quranVerifier.h.noNumber"
+msgstr "No hadith number or volume/page given."
+
+msgid "plugins.generic.quranVerifier.h.noGrade"
+msgstr "No grading given (source is outside the two Sahihs)."
+
+msgid "plugins.generic.quranVerifier.h.noTakhrij"
+msgstr "Hadith attributed to the Prophet ﷺ with no referencing in the paragraph or its footnote."
+
+msgid "plugins.generic.quranVerifier.h.ok"
+msgstr "Referencing complete"
+
+msgid "plugins.generic.quranVerifier.hadithNote"
+msgstr "Hadith checks are formal: they verify that source, number and grading are present, not the authenticity of the text — that remains the specialist reviewer’s role."
+
+msgid "plugins.generic.quranVerifier.method"
+msgstr "Method: letters are compared without diacritics (vowelling is not checked); both standard and Uthmani orthography are accepted. Verses are detected in ﴿ ﴾ or { } or when followed by a reference such as [al-Baqarah: 255]; references are read from the text or the footnote."
+
+msgid "plugins.generic.quranVerifier.tanzil"
+msgstr "Mushaf text: <a href=\"https://tanzil.net\" target=\"_blank\" rel=\"noopener\">Tanzil Project</a> (CC BY 3.0)."
+

@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.reviewerHonor.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.reviewerHonor.none"
+msgstr "None."
+
+msgid "plugins.generic.reviewerHonor.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.reviewerHonor.save"
+msgstr "Save"
+
+msgid "plugins.generic.reviewerHonor.back"
+msgstr "Back"
+
+msgid "plugins.generic.reviewerHonor.name"
+msgstr "Reviewer Recognition"
+
+msgid "plugins.generic.reviewerHonor.description"
+msgstr "An annual reviewer ranking by output, timeliness and report quality, with \"Reviewer of the Year\", \"Distinguished Reviewer\" and \"Fastest Reviewer\" awards, a public thank-you page listing only those who consent, and an official thank-you letter on the journal letterhead with the editor-in-chief signature and stamp that reviewers download themselves. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.reviewerHonor.open"
+msgstr "Open reviewer recognition"
+
+msgid "plugins.generic.reviewerHonor.menu"
+msgstr "Reviewer recognition"
+
+msgid "plugins.generic.reviewerHonor.myMenu"
+msgstr "Thanks & recognition"
+
+msgid "plugins.generic.reviewerHonor.intro"
+msgstr "Each reviewer's yearly indicators from OJS data. Set awards, print the thank-you letter and publish the thank-you page (names whose owners consented or you approved)."
+
+msgid "plugins.generic.reviewerHonor.year"
+msgstr "Year"
+
+msgid "plugins.generic.reviewerHonor.show"
+msgstr "Show"
+
+msgid "plugins.generic.reviewerHonor.publicPage"
+msgstr "Public thank-you page"
+
+msgid "plugins.generic.reviewerHonor.ranking"
+msgstr "Reviewer ranking {$y}"
+
+msgid "plugins.generic.reviewerHonor.col.name"
+msgstr "Reviewer"
+
+msgid "plugins.generic.reviewerHonor.col.done"
+msgstr "Reviews done"
+
+msgid "plugins.generic.reviewerHonor.col.declined"
+msgstr "Declined"
+
+msgid "plugins.generic.reviewerHonor.col.days"
+msgstr "Avg. days"
+
+msgid "plugins.generic.reviewerHonor.col.onTime"
+msgstr "On time"
+
+msgid "plugins.generic.reviewerHonor.col.quality"
+msgstr "Quality /5"
+
+msgid "plugins.generic.reviewerHonor.col.score"
+msgstr "Score"
+
+msgid "plugins.generic.reviewerHonor.col.award"
+msgstr "Award"
+
+msgid "plugins.generic.reviewerHonor.col.public"
+msgstr "Listed on thank-you page"
+
+msgid "plugins.generic.reviewerHonor.scoreNote"
+msgstr "Score = 10 per review + 0.2 × on-time % + 4 × average quality rating − 0.1 × average days − 2 per decline. Quality is the editor's rating of the report in OJS."
+
+msgid "plugins.generic.reviewerHonor.public"
+msgstr "Listed"
+
+msgid "plugins.generic.reviewerHonor.award.year"
+msgstr "Reviewer of the Year"
+
+msgid "plugins.generic.reviewerHonor.award.distinguished"
+msgstr "Distinguished Reviewer"
+
+msgid "plugins.generic.reviewerHonor.award.fastest"
+msgstr "Fastest Reviewer"
+
+msgid "plugins.generic.reviewerHonor.letter"
+msgstr "Thank-you letter"
+
+msgid "plugins.generic.reviewerHonor.letterTitle"
+msgstr "Thank-you letter text"
+
+msgid "plugins.generic.reviewerHonor.placeholders"
+msgstr "Placeholders: {name} reviewer name, {count} number of reviews, {year} year, {journal} journal name."
+
+msgid "plugins.generic.reviewerHonor.selfService"
+msgstr "Reviewers download their own letter from \"Thanks & recognition\""
+
+msgid "plugins.generic.reviewerHonor.defaultLetter"
+msgstr "Dear {name},\nThe editorial board of {journal} is pleased to thank you sincerely for reviewing {count} manuscript(s) during {year}, and for the time and care you devoted to evaluating and improving them, which greatly raised the quality of what the journal publishes.\nWith our best regards."
+
+msgid "plugins.generic.reviewerHonor.letterHeading"
+msgstr "Certificate of Appreciation"
+
+msgid "plugins.generic.reviewerHonor.mineIntro"
+msgstr "Thank-you letters for the years you reviewed for the journal, and your consent to appear on the public reviewer thank-you page."
+
+msgid "plugins.generic.reviewerHonor.listedYes"
+msgstr "Listed (withdraw)"
+
+msgid "plugins.generic.reviewerHonor.listedAsk"
+msgstr "I agree to be listed"
+
+msgid "plugins.generic.reviewerHonor.thanksTitle"
+msgstr "Thank you to our reviewers, {$y}"
+
+msgid "plugins.generic.reviewerHonor.thanksIntro"
+msgstr "The editorial board thanks the reviewers who contributed their knowledge and time to reviewing the journal's papers in {$y}."
+
+msgid "plugins.generic.reviewerHonor.awards"
+msgstr "Reviewer awards"
+
+msgid "plugins.generic.reviewerHonor.reviewersOf"
+msgstr "Reviewers of {$y}"
+

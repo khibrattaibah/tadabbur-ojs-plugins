@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.preReviewCheck.name"
+msgstr "Technical Pre-Review Check"
+
+msgid "plugins.generic.preReviewCheck.description"
+msgstr "Automatically checks each submission on arrival: metadata, length, author anonymisation for double-blind review, comments and tracked changes, required headings, references and Quran-verifier results, with a ready-made message to the author. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.preReviewCheck.open"
+msgstr "Open report"
+
+msgid "plugins.generic.preReviewCheck.menu"
+msgstr "Technical Check"
+
+msgid "plugins.generic.preReviewCheck.reportTitle"
+msgstr "Technical check report"
+
+msgid "plugins.generic.preReviewCheck.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.preReviewCheck.notFound"
+msgstr "Report not found."
+
+msgid "plugins.generic.preReviewCheck.intro"
+msgstr "This section checks new submissions before they go to reviewers, catching what must go back to the author before editors’ and reviewers’ time is spent. It runs automatically on submission and can be re-run after the author revises."
+
+msgid "plugins.generic.preReviewCheck.queue"
+msgstr "Submissions in submission and review stages"
+
+msgid "plugins.generic.preReviewCheck.none"
+msgstr "No submissions."
+
+msgid "plugins.generic.preReviewCheck.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.preReviewCheck.col.stage"
+msgstr "Stage"
+
+msgid "plugins.generic.preReviewCheck.col.result"
+msgstr "Result"
+
+msgid "plugins.generic.preReviewCheck.col.check"
+msgstr "Check"
+
+msgid "plugins.generic.preReviewCheck.col.detail"
+msgstr "Details"
+
+msgid "plugins.generic.preReviewCheck.col.level"
+msgstr "Level"
+
+msgid "plugins.generic.preReviewCheck.stage.1"
+msgstr "Submission"
+
+msgid "plugins.generic.preReviewCheck.stage.3"
+msgstr "Review"
+
+msgid "plugins.generic.preReviewCheck.badge.blocking"
+msgstr "{$n} blocking"
+
+msgid "plugins.generic.preReviewCheck.badge.warnings"
+msgstr "{$n} warnings"
+
+msgid "plugins.generic.preReviewCheck.badge.ready"
+msgstr "Ready for review"
+
+msgid "plugins.generic.preReviewCheck.auto"
+msgstr "automatic"
+
+msgid "plugins.generic.preReviewCheck.sent"
+msgstr "sent to author"
+
+msgid "plugins.generic.preReviewCheck.notChecked"
+msgstr "Not checked"
+
+msgid "plugins.generic.preReviewCheck.run"
+msgstr "Check"
+
+msgid "plugins.generic.preReviewCheck.rerun"
+msgstr "Re-check"
+
+msgid "plugins.generic.preReviewCheck.back"
+msgstr "All submissions"
+
+msgid "plugins.generic.preReviewCheck.meta"
+msgstr "File: {$file} · {$date}"
+
+msgid "plugins.generic.preReviewCheck.stat.words"
+msgstr "words in the body"
+
+msgid "plugins.generic.preReviewCheck.stat.footnotes"
+msgstr "footnotes"
+
+msgid "plugins.generic.preReviewCheck.stat.refs"
+msgstr "references listed"
+
+msgid "plugins.generic.preReviewCheck.lvl.req"
+msgstr "blocking"
+
+msgid "plugins.generic.preReviewCheck.lvl.rec"
+msgstr "recommended"
+
+msgid "plugins.generic.preReviewCheck.lvl.info"
+msgstr "info"
+
+msgid "plugins.generic.preReviewCheck.lang.ar"
+msgstr "Arabic"
+
+msgid "plugins.generic.preReviewCheck.lang.en"
+msgstr "English"
+
+msgid "plugins.generic.preReviewCheck.lang.fr"
+msgstr "French"
+
+msgid "plugins.generic.preReviewCheck.orcid.corresponding"
+msgstr "the corresponding author"
+
+msgid "plugins.generic.preReviewCheck.orcid.all"
+msgstr "all authors"
+
+msgid "plugins.generic.preReviewCheck.orcid.none"
+msgstr "not required"
+
+msgid "plugins.generic.preReviewCheck.check.title"
+msgstr "Title"
+
+msgid "plugins.generic.preReviewCheck.check.abstract"
+msgstr "Abstract"
+
+msgid "plugins.generic.preReviewCheck.check.keywords"
+msgstr "Keywords"
+
+msgid "plugins.generic.preReviewCheck.check.affiliation"
+msgstr "Author affiliations"
+
+msgid "plugins.generic.preReviewCheck.check.country"
+msgstr "Author countries"
+
+msgid "plugins.generic.preReviewCheck.check.orcid"
+msgstr "ORCID iD"
+
+msgid "plugins.generic.preReviewCheck.check.declarations"
+msgstr "Declarations"
+
+msgid "plugins.generic.preReviewCheck.check.file"
+msgstr "Manuscript file"
+
+msgid "plugins.generic.preReviewCheck.check.fileType"
+msgstr "File format"
+
+msgid "plugins.generic.preReviewCheck.check.fileRead"
+msgstr "File readable"
+
+msgid "plugins.generic.preReviewCheck.check.length"
+msgstr "Length"
+
+msgid "plugins.generic.preReviewCheck.check.anonText"
+msgstr "Anonymised text"
+
+msgid "plugins.generic.preReviewCheck.check.anonProps"
+msgstr "Anonymised file properties"
+
+msgid "plugins.generic.preReviewCheck.check.comments"
+msgstr "Word comments"
+
+msgid "plugins.generic.preReviewCheck.check.tracked"
+msgstr "Tracked changes"
+
+msgid "plugins.generic.preReviewCheck.check.headings"
+msgstr "Required headings"
+
+msgid "plugins.generic.preReviewCheck.check.references"
+msgstr "Reference list"
+
+msgid "plugins.generic.preReviewCheck.check.romanRefs"
+msgstr "Romanised references"
+
+msgid "plugins.generic.preReviewCheck.check.quran"
+msgstr "Quran verification"
+
+msgid "plugins.generic.preReviewCheck.msg.title"
+msgstr "The {$lang} title is missing or exceeds {$max} words (currently: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.abstract"
+msgstr "The {$lang} abstract should be {$min}–{$max} words (currently: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.keywords"
+msgstr "{$lang} keywords should number {$min}–{$max} (currently: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.affiliation"
+msgstr "Add the institutional affiliation for: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.country"
+msgstr "Add the country for: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.orcid"
+msgstr "An ORCID iD is requested from {$scope}: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.declarations"
+msgstr "Complete the declarations (competing interests, funding, ethics, AI): {$v} missing."
+
+msgid "plugins.generic.preReviewCheck.msg.file"
+msgstr "No manuscript file was uploaded."
+
+msgid "plugins.generic.preReviewCheck.msg.fileType"
+msgstr "Please upload the manuscript as {$types} (current: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.fileRead"
+msgstr "The manuscript file ({$v}) could not be read; please re-save it as .docx."
+
+msgid "plugins.generic.preReviewCheck.msg.length"
+msgstr "The manuscript has {$v} words; the required range is {$min}–{$max}."
+
+msgid "plugins.generic.preReviewCheck.msg.anonText"
+msgstr "The author’s name or email appears in the text or footnotes ({$v}); remove it to ensure double-blind review."
+
+msgid "plugins.generic.preReviewCheck.msg.anonProps"
+msgstr "The file properties reveal identity ({$v}); clear them via File → Info → Inspect Document → Remove All."
+
+msgid "plugins.generic.preReviewCheck.msg.comments"
+msgstr "The file contains {$v} comment(s); delete them before submitting."
+
+msgid "plugins.generic.preReviewCheck.msg.tracked"
+msgstr "The file contains {$v} tracked change(s); accept or reject them."
+
+msgid "plugins.generic.preReviewCheck.msg.headings"
+msgstr "The following headings were not found: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.references"
+msgstr "The reference list is missing or short ({$v} entries; minimum {$min})."
+
+msgid "plugins.generic.preReviewCheck.msg.romanRefs"
+msgstr "Add a romanised (Latin-script) reference list as per the author guidelines."
+
+msgid "plugins.generic.preReviewCheck.msg.quran"
+msgstr "The Quran verification found {$v} issue(s) in quoted text or references; please review the quoted verses."
+
+msgid "plugins.generic.preReviewCheck.openQuran"
+msgstr "Open Quran report"
+
+msgid "plugins.generic.preReviewCheck.mail.title"
+msgstr "Message to the author"
+
+msgid "plugins.generic.preReviewCheck.mail.to"
+msgstr "To"
+
+msgid "plugins.generic.preReviewCheck.mail.send"
+msgstr "Send"
+
+msgid "plugins.generic.preReviewCheck.mail.note"
+msgstr "Sent from the journal address and recorded in the submission’s email log."
+
+msgid "plugins.generic.preReviewCheck.mail.subject"
+msgstr "Technical notes on submission {$id} before review"
+
+msgid "plugins.generic.preReviewCheck.mail.greeting"
+msgstr "Dear {$name},"
+
+msgid "plugins.generic.preReviewCheck.mail.intro"
+msgstr "Thank you for submitting “{$title}”. Before it is sent for review, please address the following:"
+
+msgid "plugins.generic.preReviewCheck.mail.recommended"
+msgstr "(recommended)"
+
+msgid "plugins.generic.preReviewCheck.mail.outro"
+msgstr "Please upload the revised version through the journal platform. With kind regards, the Editorial Office."
+
+msgid "plugins.generic.preReviewCheck.sentMsg"
+msgstr "The message was sent to the author and logged."
+
+msgid "plugins.generic.preReviewCheck.mailError"
+msgstr "Sending failed:"
+
+msgid "plugins.generic.preReviewCheck.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.preReviewCheck.save"
+msgstr "Save"
+
+msgid "plugins.generic.preReviewCheck.set.autoRun"
+msgstr "Check automatically on submission"
+
+msgid "plugins.generic.preReviewCheck.set.blind"
+msgstr "Check anonymisation (double-blind review)"
+
+msgid "plugins.generic.preReviewCheck.set.declarations"
+msgstr "Check declarations (if the Declarations plugin is enabled)"
+
+msgid "plugins.generic.preReviewCheck.set.romanRefs"
+msgstr "Require a romanised reference list"
+
+msgid "plugins.generic.preReviewCheck.set.wordsMin"
+msgstr "Minimum words"
+
+msgid "plugins.generic.preReviewCheck.set.wordsMax"
+msgstr "Maximum words"
+
+msgid "plugins.generic.preReviewCheck.set.refsMin"
+msgstr "Minimum references"
+
+msgid "plugins.generic.preReviewCheck.set.absMin"
+msgstr "Abstract min words"
+
+msgid "plugins.generic.preReviewCheck.set.absMax"
+msgstr "Abstract max words"
+
+msgid "plugins.generic.preReviewCheck.set.kwMin"
+msgstr "Min keywords"
+
+msgid "plugins.generic.preReviewCheck.set.kwMax"
+msgstr "Max keywords"
+
+msgid "plugins.generic.preReviewCheck.set.titleMax"
+msgstr "Max title words"
+
+msgid "plugins.generic.preReviewCheck.set.locales"
+msgstr "Required metadata languages"
+
+msgid "plugins.generic.preReviewCheck.set.fileTypes"
+msgstr "Accepted formats"
+
+msgid "plugins.generic.preReviewCheck.set.orcid"
+msgstr "ORCID required from"
+
+msgid "plugins.generic.preReviewCheck.set.headings"
+msgstr "Required headings (one per line)"
+

@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.jatsExport.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.jatsExport.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.jatsExport.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.jatsExport.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.jatsExport.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.jatsExport.name"
+msgstr "الإخراج الآلي وJATS"
+
+msgid "plugins.generic.jatsExport.description"
+msgstr "يحوّل ملف Word النهائي للبحث مع بياناته في OJS إلى ملف JATS 1.3 كامل: البيانات الوصفية بالعربية والإنجليزية، والمتن بأقسامه المتداخلة وخطه العريض والمائل وحواشيه السفلية وجداوله، والمراجع مع DOI. ويولّد نسخة HTML للقراءة، ويفحص البنية والاكتمال، ويُرفق ملف JATS بتبويب JATS الرسمي في OJS 3.5 (الذي تعتمده تصديرات الفهرسة وPMC وغيرها). تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.jatsExport.open"
+msgstr "فتح الإخراج وJATS"
+
+msgid "plugins.generic.jatsExport.menu"
+msgstr "الإخراج وJATS"
+
+msgid "plugins.generic.jatsExport.intro"
+msgstr "البحوث المنشورة أو في مرحلة الإنتاج. بدون ملف Word يُبنى JATS من البيانات الوصفية والمراجع فقط؛ ومع تحويل Word يُضاف المتن كاملًا."
+
+msgid "plugins.generic.jatsExport.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.jatsExport.col.state"
+msgstr "المرحلة"
+
+msgid "plugins.generic.jatsExport.col.body"
+msgstr "المتن"
+
+msgid "plugins.generic.jatsExport.published"
+msgstr "منشور"
+
+msgid "plugins.generic.jatsExport.production"
+msgstr "في الإنتاج"
+
+msgid "plugins.generic.jatsExport.bodyStats"
+msgstr "{$s} قسمًا · {$p} فقرة · {$f} حاشية"
+
+msgid "plugins.generic.jatsExport.metaOnly"
+msgstr "بيانات وصفية فقط"
+
+msgid "plugins.generic.jatsExport.attached"
+msgstr "مُرفق"
+
+msgid "plugins.generic.jatsExport.openBtn"
+msgstr "فتح"
+
+msgid "plugins.generic.jatsExport.requiredOk"
+msgstr "من العناصر الأساسية مكتملة"
+
+msgid "plugins.generic.jatsExport.optional"
+msgstr "اختياري"
+
+msgid "plugins.generic.jatsExport.v.wellFormed"
+msgstr "XML سليم البنية"
+
+msgid "plugins.generic.jatsExport.v.journalTitle"
+msgstr "عنوان المجلة"
+
+msgid "plugins.generic.jatsExport.v.issn"
+msgstr "ISSN"
+
+msgid "plugins.generic.jatsExport.v.articleTitle"
+msgstr "عنوان البحث"
+
+msgid "plugins.generic.jatsExport.v.transTitle"
+msgstr "العنوان المترجم"
+
+msgid "plugins.generic.jatsExport.v.contrib"
+msgstr "المؤلفون"
+
+msgid "plugins.generic.jatsExport.v.aff"
+msgstr "الانتماءات"
+
+msgid "plugins.generic.jatsExport.v.orcid"
+msgstr "ORCID"
+
+msgid "plugins.generic.jatsExport.v.doi"
+msgstr "DOI"
+
+msgid "plugins.generic.jatsExport.v.pubDate"
+msgstr "تاريخ النشر"
+
+msgid "plugins.generic.jatsExport.v.volIssue"
+msgstr "المجلد والعدد"
+
+msgid "plugins.generic.jatsExport.v.pages"
+msgstr "الصفحات"
+
+msgid "plugins.generic.jatsExport.v.abstract"
+msgstr "الملخص"
+
+msgid "plugins.generic.jatsExport.v.transAbstract"
+msgstr "الملخص المترجم"
+
+msgid "plugins.generic.jatsExport.v.kwd"
+msgstr "الكلمات المفتاحية"
+
+msgid "plugins.generic.jatsExport.v.license"
+msgstr "الترخيص"
+
+msgid "plugins.generic.jatsExport.v.body"
+msgstr "المتن"
+
+msgid "plugins.generic.jatsExport.v.sections"
+msgstr "أقسام المتن"
+
+msgid "plugins.generic.jatsExport.v.refs"
+msgstr "قائمة المراجع"
+
+msgid "plugins.generic.jatsExport.v.xrefs"
+msgstr "سلامة الإحالات الداخلية"
+
+msgid "plugins.generic.jatsExport.preview"
+msgstr "معاينة HTML"
+
+msgid "plugins.generic.jatsExport.bodyTitle"
+msgstr "متن البحث من Word"
+
+msgid "plugins.generic.jatsExport.statsFull"
+msgstr "{$s} قسمًا · {$p} فقرة · {$t} جدولًا · {$f} حاشية · {$r} مرجعًا مستخرجًا · تُخطّيت {$k} كتلة قبل المقدمة"
+
+msgid "plugins.generic.jatsExport.noBody"
+msgstr "لم يُحوَّل متن بعد."
+
+msgid "plugins.generic.jatsExport.convert"
+msgstr "تحويل هذا الملف"
+
+msgid "plugins.generic.jatsExport.orUpload"
+msgstr "أو ارفع ملف Word:"
+
+msgid "plugins.generic.jatsExport.uploadConvert"
+msgstr "رفع وتحويل"
+
+msgid "plugins.generic.jatsExport.docxHelp"
+msgstr "للحصول على أفضل نتيجة: استعمل أنماط العناوين في Word (عنوان 1، عنوان 2...) للأقسام، والحواشي السفلية الحقيقية، واجعل المراجع تحت عنوان «المصادر والمراجع». ما قبل «المقدمة» (العنوان والمؤلفون والملخصات) يُؤخذ من بيانات OJS لا من الملف. إن كانت المراجع مدخلة في OJS فهي المعتمدة."
+
+msgid "plugins.generic.jatsExport.stage.11"
+msgstr "جاهز للإنتاج"
+
+msgid "plugins.generic.jatsExport.stage.9"
+msgstr "محرَّر لغويًا"
+
+msgid "plugins.generic.jatsExport.stage.6"
+msgstr "نهائي"
+
+msgid "plugins.generic.jatsExport.stage.15"
+msgstr "نسخة معدّلة"
+
+msgid "plugins.generic.jatsExport.stage.4"
+msgstr "ملف التحكيم"
+
+msgid "plugins.generic.jatsExport.stage.2"
+msgstr "الملف الأصلي"
+
+msgid "plugins.generic.jatsExport.attachTitle"
+msgstr "إرفاق بتبويب JATS في OJS"
+
+msgid "plugins.generic.jatsExport.attachHelp"
+msgstr "يحفظ الملف بوصفه ملف JATS الرسمي للنشرة (تبويب JATS في صفحة النشر)، فتستعمله تصديرات OAI وPMC وأدوات القراءة. يستبدل أي ملف JATS سابق."
+
+msgid "plugins.generic.jatsExport.attach"
+msgstr "إرفاق ملف JATS الآن"
+
+msgid "plugins.generic.jatsExport.confirmAttach"
+msgstr "سيُستبدل ملف JATS الحالي للنشرة. متابعة؟"
+
+msgid "plugins.generic.jatsExport.attachedOn"
+msgstr "أُرفق في {$d}"
+
+msgid "plugins.generic.jatsExport.msg.converted"
+msgstr "تم تحويل ملف Word."
+
+msgid "plugins.generic.jatsExport.msg.attachedOk"
+msgstr "أُرفق ملف JATS بالنشرة."
+
+msgid "plugins.generic.jatsExport.msg.errDocx"
+msgstr "تعذّر قراءة الملف؛ تأكد أنه DOCX صالح."
+
+msgid "plugins.generic.jatsExport.msg.errXml"
+msgstr "ملف JATS غير سليم البنية؛ راجع المتن."
+
+msgid "plugins.generic.jatsExport.msg.errAttach"
+msgstr "تعذّر الإرفاق؛ راجع سجل أخطاء الخادم."
+

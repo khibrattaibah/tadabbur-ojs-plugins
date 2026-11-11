@@ -1,0 +1,557 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.documentCenter.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.documentCenter.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.documentCenter.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.documentCenter.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.documentCenter.back"
+msgstr "رجوع"
+
+msgid "plugins.generic.documentCenter.name"
+msgstr "مركز المستندات (الشهادات والخطابات ونماذج التحكيم)"
+
+msgid "plugins.generic.documentCenter.description"
+msgstr "مكان واحد لكل ما تصدره المجلة: شهادات المحكّمين وخطابات شكرهم ونماذج التحكيم، وخطابات الاستلام والقبول والنشر والاعتذار، وشهادات شكر الباحثين، ونسخ تقارير التحكيم. تُصدر وتُرسل بالبريد مع اختيار اللقب، وتظهر للمحكّم في «نماذج التحكيم» وللباحث في «ملفاتي» بحسب ما تقرره الإدارة، مع إرسال جماعي وتلقائي وسجل كامل وتحقق عام برمز QR."
+
+msgid "plugins.generic.documentCenter.open"
+msgstr "فتح"
+
+msgid "plugins.generic.documentCenter.menu"
+msgstr "مركز المستندات"
+
+msgid "plugins.generic.documentCenter.menuReviewer"
+msgstr "نماذج التحكيم وشهاداتي"
+
+msgid "plugins.generic.documentCenter.menuAuthor"
+msgstr "ملفاتي من المجلة"
+
+msgid "plugins.generic.documentCenter.intro"
+msgstr "أصدر مستندات البحث والمحكّمين وأرسلها بالبريد، وحدّد ما يراه كل طرف في صفحته."
+
+msgid "plugins.generic.documentCenter.tab.papers"
+msgstr "البحوث"
+
+msgid "plugins.generic.documentCenter.tab.bulk"
+msgstr "إرسال جماعي"
+
+msgid "plugins.generic.documentCenter.tab.log"
+msgstr "السجل"
+
+msgid "plugins.generic.documentCenter.tab.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.documentCenter.s.issued"
+msgstr "مستند صالح"
+
+msgid "plugins.generic.documentCenter.s.sent"
+msgstr "أُرسل بالبريد"
+
+msgid "plugins.generic.documentCenter.s.failed"
+msgstr "تعذّر إرساله"
+
+msgid "plugins.generic.documentCenter.s.month"
+msgstr "صدر هذا الشهر"
+
+msgid "plugins.generic.documentCenter.papers"
+msgstr "البحوث"
+
+msgid "plugins.generic.documentCenter.search"
+msgstr "رقم البحث أو كلمة من عنوانه"
+
+msgid "plugins.generic.documentCenter.searchBtn"
+msgstr "بحث"
+
+msgid "plugins.generic.documentCenter.col.paper"
+msgstr "البحث"
+
+msgid "plugins.generic.documentCenter.col.state"
+msgstr "الحالة"
+
+msgid "plugins.generic.documentCenter.col.docs"
+msgstr "المستندات"
+
+msgid "plugins.generic.documentCenter.col.number"
+msgstr "الرقم"
+
+msgid "plugins.generic.documentCenter.col.doc"
+msgstr "المستند"
+
+msgid "plugins.generic.documentCenter.col.date"
+msgstr "التاريخ"
+
+msgid "plugins.generic.documentCenter.col.recipient"
+msgstr "المستلم"
+
+msgid "plugins.generic.documentCenter.manage"
+msgstr "إدارة المستندات"
+
+msgid "plugins.generic.documentCenter.st.published"
+msgstr "منشور"
+
+msgid "plugins.generic.documentCenter.st.declined"
+msgstr "مرفوض"
+
+msgid "plugins.generic.documentCenter.st.stage1"
+msgstr "مرحلة التقديم"
+
+msgid "plugins.generic.documentCenter.st.stage2"
+msgstr "مرحلة التحكيم"
+
+msgid "plugins.generic.documentCenter.st.stage3"
+msgstr "مرحلة التحكيم"
+
+msgid "plugins.generic.documentCenter.st.stage4"
+msgstr "التحرير اللغوي"
+
+msgid "plugins.generic.documentCenter.st.stage5"
+msgstr "الإنتاج"
+
+msgid "plugins.generic.documentCenter.forAuthor"
+msgstr "مستندات الباحث"
+
+msgid "plugins.generic.documentCenter.forReviewers"
+msgstr "مستندات المحكّمين"
+
+msgid "plugins.generic.documentCenter.noReviewers"
+msgstr "لا يوجد محكّمون في هذا البحث بعد."
+
+msgid "plugins.generic.documentCenter.round"
+msgstr "الجولة {$n}"
+
+msgid "plugins.generic.documentCenter.rv.done"
+msgstr "اكتمل التحكيم"
+
+msgid "plugins.generic.documentCenter.rv.open"
+msgstr "قيد التحكيم"
+
+msgid "plugins.generic.documentCenter.due"
+msgstr "الموعد {$d}"
+
+msgid "plugins.generic.documentCenter.history"
+msgstr "سجل مستندات البحث"
+
+msgid "plugins.generic.documentCenter.disabled"
+msgstr "معطّل من الإعدادات"
+
+msgid "plugins.generic.documentCenter.ready"
+msgstr "جاهز للإصدار"
+
+msgid "plugins.generic.documentCenter.released"
+msgstr "متاح للمستلم"
+
+msgid "plugins.generic.documentCenter.issuedOnly"
+msgstr "صدر ولم يُتح بعد"
+
+msgid "plugins.generic.documentCenter.sentOn"
+msgstr "أُرسل {$d}"
+
+msgid "plugins.generic.documentCenter.sentTo"
+msgstr "أُرسل إلى {$e}"
+
+msgid "plugins.generic.documentCenter.sendFailed"
+msgstr "فشل الإرسال"
+
+msgid "plugins.generic.documentCenter.revoked"
+msgstr "ملغى"
+
+msgid "plugins.generic.documentCenter.selfOn"
+msgstr "يستخرجه المستلم بنفسه"
+
+msgid "plugins.generic.documentCenter.openForm"
+msgstr "فتح النموذج"
+
+msgid "plugins.generic.documentCenter.get"
+msgstr "استخراج"
+
+msgid "plugins.generic.documentCenter.issueSend"
+msgstr "إصدار / إرسال…"
+
+msgid "plugins.generic.documentCenter.noTitle"
+msgstr "(بدون لقب)"
+
+msgid "plugins.generic.documentCenter.noRecipients"
+msgstr "لا يوجد مستلم مسجّل؛ أضف بريدًا أدناه."
+
+msgid "plugins.generic.documentCenter.f.honorific"
+msgstr "اللقب"
+
+msgid "plugins.generic.documentCenter.f.honAuto"
+msgstr "تلقائي (المحفوظ أو المستنتج)"
+
+msgid "plugins.generic.documentCenter.f.lang"
+msgstr "اللغة"
+
+msgid "plugins.generic.documentCenter.f.recipients"
+msgstr "المستلمون"
+
+msgid "plugins.generic.documentCenter.f.extra"
+msgstr "بريد إضافي (اختياري)"
+
+msgid "plugins.generic.documentCenter.f.note"
+msgstr "ملحوظة تُضاف إلى المستند (اختياري)"
+
+msgid "plugins.generic.documentCenter.f.noteHelp"
+msgstr "تظهر في متن الخطاب، مثل سبب الاعتذار أو كلمة شكر خاصة."
+
+msgid "plugins.generic.documentCenter.f.remember"
+msgstr "احفظ اللقب لهذا الشخص"
+
+msgid "plugins.generic.documentCenter.f.fresh"
+msgstr "إصدار نسخة جديدة (تلغي السابقة)"
+
+msgid "plugins.generic.documentCenter.act.send"
+msgstr "إصدار وإرسال بالبريد"
+
+msgid "plugins.generic.documentCenter.act.release"
+msgstr "إتاحة دون بريد"
+
+msgid "plugins.generic.documentCenter.act.preview"
+msgstr "معاينة"
+
+msgid "plugins.generic.documentCenter.mineIntro"
+msgstr "هنا نماذج التحكيم لكل مهمة مسندة إليكم، وخطابات الشكر والشهادات التي أصدرتها المجلة لكم."
+
+msgid "plugins.generic.documentCenter.mineNote"
+msgstr "نموذجا «نتيجة التحكيم» و«تقويم البحث» تفاعليان: تُجمع الدرجات تلقائيًا ثم تُطبع أو تُحفظ PDF وتُرفع مع التقرير في مهمة التحكيم."
+
+msgid "plugins.generic.documentCenter.authorIntro"
+msgstr "هنا الخطابات والشهادات والملفات التي أتاحتها المجلة لكل بحث من بحوثكم."
+
+msgid "plugins.generic.documentCenter.nothingYet"
+msgstr "لا توجد مستندات متاحة بعد."
+
+msgid "plugins.generic.documentCenter.noAssignments"
+msgstr "لا توجد مهام تحكيم لكم في هذه المجلة."
+
+msgid "plugins.generic.documentCenter.noSubmissions"
+msgstr "لا توجد بحوث مسجّلة باسمكم."
+
+msgid "plugins.generic.documentCenter.bulkIntro"
+msgstr "اختر نوع المستند، فتظهر كل الأهداف المؤهلة له؛ المحدَّد يُصدر له المستند ويُرسل بالبريد باللقب المحفوظ أو المستنتج."
+
+msgid "plugins.generic.documentCenter.bulkNone"
+msgstr "لا يوجد مؤهلون لهذا النوع حاليًا."
+
+msgid "plugins.generic.documentCenter.show"
+msgstr "عرض"
+
+msgid "plugins.generic.documentCenter.act.bulk"
+msgstr "إصدار وإرسال للمحدَّد"
+
+msgid "plugins.generic.documentCenter.bulkConfirm"
+msgstr "سيُرسل البريد لكل المحدَّدين. متابعة؟"
+
+msgid "plugins.generic.documentCenter.logIntro"
+msgstr "كل مستند صدر: رقمه وحالته وإلى من أُرسل."
+
+msgid "plugins.generic.documentCenter.allTypes"
+msgstr "كل الأنواع"
+
+msgid "plugins.generic.documentCenter.revoke"
+msgstr "إلغاء"
+
+msgid "plugins.generic.documentCenter.revokeConfirm"
+msgstr "إلغاء المستند يُبطله في صفحة التحقق ويخفيه عن المستلم. متابعة؟"
+
+msgid "plugins.generic.documentCenter.settingsIntro"
+msgstr "حدّد لكل مستند: هل هو مفعّل، وهل يستخرجه المستلم بنفسه، وهل يُرسل تلقائيًا عند الحدث المناسب."
+
+msgid "plugins.generic.documentCenter.matrix"
+msgstr "مصفوفة المستندات"
+
+msgid "plugins.generic.documentCenter.aud.reviewer"
+msgstr "مستندات المحكّم"
+
+msgid "plugins.generic.documentCenter.aud.author"
+msgstr "مستندات الباحث"
+
+msgid "plugins.generic.documentCenter.c.enabled"
+msgstr "مفعّل"
+
+msgid "plugins.generic.documentCenter.c.self"
+msgstr "يستخرجه بنفسه"
+
+msgid "plugins.generic.documentCenter.c.auto"
+msgstr "إرسال تلقائي"
+
+msgid "plugins.generic.documentCenter.matrixHelp"
+msgstr "الإرسال التلقائي: شكر المحكّم وشهادته عند اكتمال التحكيم، والقبول وشكر الباحث عند قرار القبول، والاعتذار عند قرار الرفض. المستند غير «الذاتي» لا يراه المستلم إلا بعد إرساله أو إتاحته من الإدارة."
+
+msgid "plugins.generic.documentCenter.emailTpl"
+msgstr "نص البريد"
+
+msgid "plugins.generic.documentCenter.f.subject"
+msgstr "العنوان"
+
+msgid "plugins.generic.documentCenter.f.body"
+msgstr "النص"
+
+msgid "plugins.generic.documentCenter.f.placeholders"
+msgstr "المتغيرات: {name} {doc} {journal} {title} {link} {number}"
+
+msgid "plugins.generic.documentCenter.general"
+msgstr "إعدادات عامة"
+
+msgid "plugins.generic.documentCenter.g.signature"
+msgstr "إظهار توقيع رئيس التحرير والختم"
+
+msgid "plugins.generic.documentCenter.g.attach"
+msgstr "إرفاق PDF بالبريد"
+
+msgid "plugins.generic.documentCenter.g.prefix"
+msgstr "بادئة أرقام المستندات"
+
+msgid "plugins.generic.documentCenter.g.cc"
+msgstr "نسخة من كل بريد إلى"
+
+msgid "plugins.generic.documentCenter.g.ccHelp"
+msgstr "مثل بريد أمانة التحرير للأرشفة."
+
+msgid "plugins.generic.documentCenter.g.assets"
+msgstr "التوقيع والختم والترويسة تُرفع مرة واحدة من «إدارة الحزمة ← الهوية»."
+
+msgid "plugins.generic.documentCenter.noMpdf"
+msgstr "مكتبة mPDF غير متاحة؛ لن تُولَّد ملفات PDF."
+
+msgid "plugins.generic.documentCenter.pdfError"
+msgstr "تعذّر توليد الملف:"
+
+msgid "plugins.generic.documentCenter.msg.sent"
+msgstr "أُرسل البريد بنجاح."
+
+msgid "plugins.generic.documentCenter.msg.partial"
+msgstr "أُرسل لبعض المستلمين وتعذّر لبعضهم؛ راجع السجل."
+
+msgid "plugins.generic.documentCenter.msg.errSend"
+msgstr "تعذّر الإرسال؛ راجع إعدادات البريد (SMTP)."
+
+msgid "plugins.generic.documentCenter.msg.released"
+msgstr "صدر المستند وأصبح متاحًا للمستلم في صفحته."
+
+msgid "plugins.generic.documentCenter.msg.errIssue"
+msgstr "تعذّر إصدار المستند."
+
+msgid "plugins.generic.documentCenter.msg.errDisabled"
+msgstr "هذا المستند معطّل من الإعدادات."
+
+msgid "plugins.generic.documentCenter.msg.errNoRecipients"
+msgstr "لم تحدد أي مستلم."
+
+msgid "plugins.generic.documentCenter.msg.revokedMsg"
+msgstr "أُلغي المستند."
+
+msgid "plugins.generic.documentCenter.err.email"
+msgstr "بريد غير صالح"
+
+msgid "plugins.generic.documentCenter.why.unknown"
+msgstr "غير متاح"
+
+msgid "plugins.generic.documentCenter.why.noReview"
+msgstr "لا مهمة تحكيم"
+
+msgid "plugins.generic.documentCenter.why.notCompleted"
+msgstr "بعد اكتمال التحكيم"
+
+msgid "plugins.generic.documentCenter.why.notSubmitted"
+msgstr "بعد التقديم"
+
+msgid "plugins.generic.documentCenter.why.notAccepted"
+msgstr "بعد القبول"
+
+msgid "plugins.generic.documentCenter.why.notPublished"
+msgstr "بعد النشر"
+
+msgid "plugins.generic.documentCenter.why.notDeclined"
+msgstr "عند الرفض فقط"
+
+msgid "plugins.generic.documentCenter.why.noReviews"
+msgstr "بعد ورود تقارير المحكّمين"
+
+msgid "plugins.generic.documentCenter.why.noRevision"
+msgstr "بعد قرار التعديل"
+
+msgid "plugins.generic.documentCenter.doc.rev_forms"
+msgstr "نماذج التحكيم (النتيجة والتقويم)"
+
+msgid "plugins.generic.documentCenter.docd.rev_forms"
+msgstr "نموذجان تفاعليان بعنوان البحث واسم المحكّم."
+
+msgid "plugins.generic.documentCenter.doc.rev_invite"
+msgstr "خطاب دعوة التحكيم"
+
+msgid "plugins.generic.documentCenter.docd.rev_invite"
+msgstr "الخطاب الرسمي لدعوة المحكّم ومدة التحكيم."
+
+msgid "plugins.generic.documentCenter.doc.rev_certificate"
+msgstr "شهادة محكّم موثّقة"
+
+msgid "plugins.generic.documentCenter.docd.rev_certificate"
+msgstr "شهادة شكر بتصميم المجلة ورقم فريد ورمز تحقق."
+
+msgid "plugins.generic.documentCenter.doc.rev_thanks"
+msgstr "خطاب شكر وتقدير للمحكّم"
+
+msgid "plugins.generic.documentCenter.docd.rev_thanks"
+msgstr "خطاب على ورق المجلة يشكره على تحكيم البحث."
+
+msgid "plugins.generic.documentCenter.doc.au_receipt"
+msgstr "خطاب استلام البحث"
+
+msgid "plugins.generic.documentCenter.docd.au_receipt"
+msgstr "يثبت استلام البحث ورقمه وتاريخه."
+
+msgid "plugins.generic.documentCenter.doc.au_acceptance"
+msgstr "خطاب قبول النشر"
+
+msgid "plugins.generic.documentCenter.docd.au_acceptance"
+msgstr "خطاب رسمي بقبول البحث للنشر."
+
+msgid "plugins.generic.documentCenter.doc.au_publication"
+msgstr "إفادة النشر"
+
+msgid "plugins.generic.documentCenter.docd.au_publication"
+msgstr "يثبت نشر البحث بالعدد والصفحات وDOI."
+
+msgid "plugins.generic.documentCenter.doc.au_apology"
+msgstr "خطاب اعتذار عن عدم القبول"
+
+msgid "plugins.generic.documentCenter.docd.au_apology"
+msgstr "خطاب لبق للبحوث غير المقبولة، مع ملحوظة اختيارية."
+
+msgid "plugins.generic.documentCenter.doc.au_thanks"
+msgstr "شهادة شكر وتقدير للباحث"
+
+msgid "plugins.generic.documentCenter.docd.au_thanks"
+msgstr "شهادة بزخرفة المجلة للبحوث المقبولة والمنشورة."
+
+msgid "plugins.generic.documentCenter.doc.au_reviews"
+msgstr "نسخة ملحوظات المحكّمين"
+
+msgid "plugins.generic.documentCenter.docd.au_reviews"
+msgstr "ملحوظات المحكّمين الموجهة للمؤلف دون أسمائهم."
+
+msgid "plugins.generic.documentCenter.doc.au_revision"
+msgstr "خطاب طلب التعديل"
+
+msgid "plugins.generic.documentCenter.docd.au_revision"
+msgstr "يطلب إجراء التعديلات ويحدد المرفقات."
+
+msgid "plugins.generic.documentCenter.doc.au_matrix"
+msgstr "مصفوفة الاستجابة لملحوظات المحكّمين"
+
+msgid "plugins.generic.documentCenter.docd.au_matrix"
+msgstr "نموذج يملؤه الباحث ببيان ما عدّله."
+
+msgid "plugins.generic.documentCenter.mail.subject"
+msgstr "{$doc} — {$journal}"
+
+msgid "plugins.generic.documentCenter.mail.hello"
+msgstr "{$name}، السلام عليكم ورحمة الله وبركاته،"
+
+msgid "plugins.generic.documentCenter.mail.body.reviewer"
+msgstr "يسرّ {$journal} أن تتيح لكم «{$doc}». تجدونه مرفقًا بهذه الرسالة إن كان ملفًا، وفي حسابكم بالمنصة ضمن «نماذج التحكيم وشهاداتي»."
+
+msgid "plugins.generic.documentCenter.mail.body.author"
+msgstr "بخصوص بحثكم الموسوم «{$title}»، يسرّ {$journal} أن تتيح لكم «{$doc}». تجدونه مرفقًا بهذه الرسالة إن كان ملفًا، وفي حسابكم بالمنصة ضمن «ملفاتي من المجلة»."
+
+msgid "plugins.generic.documentCenter.mail.open"
+msgstr "فتحه في المنصة (بعد تسجيل الدخول)"
+
+msgid "plugins.generic.documentCenter.mail.number"
+msgstr "رقم المستند"
+
+msgid "plugins.generic.documentCenter.mail.sign"
+msgstr "مع خالص التحية،\n{$journal}"
+
+msgid "plugins.generic.documentCenter.tx.signer"
+msgstr "رئيس التحرير"
+
+msgid "plugins.generic.documentCenter.tx.verifyHint"
+msgstr "امسح الرمز للتحقق من صحة المستند"
+
+msgid "plugins.generic.documentCenter.tx.salute"
+msgstr "{$name}، حفظه الله"
+
+msgid "plugins.generic.documentCenter.tx.closing"
+msgstr "وتقبلوا خالص التحية والتقدير."
+
+msgid "plugins.generic.documentCenter.tx.rev_thanks.title"
+msgstr "خطاب شكر وتقدير"
+
+msgid "plugins.generic.documentCenter.tx.rev_thanks.body"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فيسرّ {$journal} أن تتقدّم إليكم بخالص الشكر وعظيم التقدير على ما بذلتموه من وقت وجهد في تحكيم البحث الموسوم بـ«{$title}»، وعلى ملحوظاتكم العلمية الدقيقة التي أسهمت في الارتقاء بجودة ما تنشره المجلة، سائلين الله أن يجعل ذلك في موازين حسناتكم."
+
+msgid "plugins.generic.documentCenter.tx.au_apology.title"
+msgstr "خطاب اعتذار"
+
+msgid "plugins.generic.documentCenter.tx.au_apology.body"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فنشكر لكم اختياركم {$journal} لنشر بحثكم الموسوم بـ«{$title}» (رقم {$id})، وعنايتكم بإعداده. وبعد استكمال إجراءات الفحص والتحكيم العلمي وفق سياسة المجلة، نعتذر إليكم عن عدم قبول البحث للنشر في المجلة."
+
+msgid "plugins.generic.documentCenter.tx.au_apology.hope"
+msgstr "ونحن إذ نقدّر جهدكم العلمي، نأمل أن تفيدكم ملحوظات المحكّمين في تطوير البحث، ونسعد بتلقي إسهاماتكم القادمة، سائلين الله لكم التوفيق والسداد."
+
+msgid "plugins.generic.documentCenter.tx.au_reviews.title"
+msgstr "ملحوظات المحكّمين"
+
+msgid "plugins.generic.documentCenter.tx.au_reviews.body"
+msgstr "السلام عليكم ورحمة الله وبركاته، وبعد: فنرفق لكم ملحوظات المحكّمين على بحثكم الموسوم بـ«{$title}» (رقم {$id})، دون ذكر أسمائهم حفاظًا على سرية التحكيم."
+
+msgid "plugins.generic.documentCenter.tx.reviewer"
+msgstr "المحكّم {$n} — الجولة {$r}"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.heading"
+msgstr "شهادة شكر وتقدير"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.sub"
+msgstr "تتشرّف المجلة بمنح هذه الشهادة إلى"
+
+msgid "plugins.generic.documentCenter.tx.au_thanks.body"
+msgstr "تقديرًا لإسهامه العلمي المتميز ببحثه الموسوم بـ«{$title}»، ونشره في المجلة، سائلين الله له دوام التوفيق والعطاء في خدمة كتابه الكريم."
+
+msgid "plugins.generic.documentCenter.currentReviews"
+msgstr "مهام التحكيم الحالية"
+
+msgid "plugins.generic.documentCenter.pastReviews"
+msgstr "مهام مكتملة"
+
+msgid "plugins.generic.documentCenter.noCurrent"
+msgstr "لا توجد مهام تحكيم مفتوحة الآن."
+
+msgid "plugins.generic.documentCenter.completedOn"
+msgstr "اكتمل في {$d}"
+
+msgid "plugins.generic.documentCenter.filter"
+msgstr "تصفية بعنوان البحث…"
+
+msgid "plugins.generic.documentCenter.v.title"
+msgstr "التحقق من مستند"
+
+msgid "plugins.generic.documentCenter.v.valid"
+msgstr "مستند أصيل وساري"
+
+msgid "plugins.generic.documentCenter.v.revoked"
+msgstr "هذا المستند ملغى"
+
+msgid "plugins.generic.documentCenter.v.notFound"
+msgstr "لا يوجد مستند بهذا الرمز"
+
+msgid "plugins.generic.documentCenter.v.issuer"
+msgstr "الجهة المصدرة"
+
+msgid "plugins.generic.documentCenter.v.check"
+msgstr "تحقق"
+
+msgid "plugins.generic.documentCenter.v.note"
+msgstr "لصون السرية لا تعرض هذه الصفحة عنوان البحث ولا تفاصيل التحكيم."
+

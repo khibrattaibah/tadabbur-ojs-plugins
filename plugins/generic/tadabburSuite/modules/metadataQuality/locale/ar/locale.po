@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.metadataQuality.name"
+msgstr "جودة البيانات الوصفية وجاهزية الفهرسة"
+
+msgid "plugins.generic.metadataQuality.description"
+msgstr "يفحص اكتمال البيانات الوصفية لكل بحث وجاهزية المجلة لمعايير Scopus وWeb of Science وDOAJ وCrossref، مع بوابة نشر اختيارية وتقارير CSV. — تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات"
+
+msgid "plugins.generic.metadataQuality.menu"
+msgstr "جودة البيانات والفهرسة"
+
+msgid "plugins.generic.metadataQuality.open"
+msgstr "فتح لوحة الجودة"
+
+msgid "plugins.generic.metadataQuality.forbidden"
+msgstr "غير مصرح بالوصول."
+
+msgid "plugins.generic.metadataQuality.ok"
+msgstr "مكتمل"
+
+msgid "plugins.generic.metadataQuality.missingRequired"
+msgstr "نقص إلزامي"
+
+msgid "plugins.generic.metadataQuality.missingRecommended"
+msgstr "نقص موصى به"
+
+msgid "plugins.generic.metadataQuality.journalReadiness"
+msgstr "جاهزية المجلة للفهرسة"
+
+msgid "plugins.generic.metadataQuality.avgArticleScore"
+msgstr "متوسط جودة بيانات البحوث"
+
+msgid "plugins.generic.metadataQuality.articlesWithGaps"
+msgstr "بحوث بها نقص إلزامي"
+
+msgid "plugins.generic.metadataQuality.gateOn"
+msgstr "مفعّلة"
+
+msgid "plugins.generic.metadataQuality.gateOff"
+msgstr "معطّلة"
+
+msgid "plugins.generic.metadataQuality.publishGate"
+msgstr "بوابة النشر"
+
+msgid "plugins.generic.metadataQuality.fix"
+msgstr "إصلاح ←"
+
+msgid "plugins.generic.metadataQuality.journalChecklist"
+msgstr "قائمة جاهزية المجلة (Scopus · WoS · DOAJ · Crossref)"
+
+msgid "plugins.generic.metadataQuality.journalChecklistIntro"
+msgstr "تقيس هذه القائمة ما تفحصه جهات الفهرسة في موقع المجلة وسياساتها. النتيجة مؤشر داخلي لا يضمن القبول، فالقرار لجهة الفهرسة بعد تقييم المحتوى والاستشهادات."
+
+msgid "plugins.generic.metadataQuality.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.metadataQuality.criterion"
+msgstr "المعيار"
+
+msgid "plugins.generic.metadataQuality.value"
+msgstr "القيمة الحالية"
+
+msgid "plugins.generic.metadataQuality.standards"
+msgstr "المعايير"
+
+msgid "plugins.generic.metadataQuality.articles"
+msgstr "جودة بيانات البحوث"
+
+msgid "plugins.generic.metadataQuality.scope.all"
+msgstr "كل البحوث المقبولة والمنشورة"
+
+msgid "plugins.generic.metadataQuality.scope.production"
+msgstr "قيد التحرير والإنتاج"
+
+msgid "plugins.generic.metadataQuality.scope.published"
+msgstr "منشور"
+
+msgid "plugins.generic.metadataQuality.scheduled"
+msgstr "مجدول للنشر"
+
+msgid "plugins.generic.metadataQuality.inProgress"
+msgstr "قيد المعالجة"
+
+msgid "plugins.generic.metadataQuality.apply"
+msgstr "تطبيق"
+
+msgid "plugins.generic.metadataQuality.details"
+msgstr "التفاصيل"
+
+msgid "plugins.generic.metadataQuality.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.metadataQuality.score"
+msgstr "الدرجة"
+
+msgid "plugins.generic.metadataQuality.noArticles"
+msgstr "لا توجد بحوث في هذا النطاق."
+
+msgid "plugins.generic.metadataQuality.scoreNote"
+msgstr "الدرجة = 75٪ للحقول الإلزامية + 25٪ للموصى بها. الجدول مرتب من الأضعف إلى الأقوى، ويعرض آخر 300 بحث."
+
+msgid "plugins.generic.metadataQuality.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.metadataQuality.set.locales"
+msgstr "اللغات المطلوبة للعنوان والملخص والكلمات المفتاحية"
+
+msgid "plugins.generic.metadataQuality.set.minAbstractWords"
+msgstr "أقل عدد كلمات للملخص"
+
+msgid "plugins.generic.metadataQuality.set.minKeywords"
+msgstr "أقل عدد للكلمات المفتاحية"
+
+msgid "plugins.generic.metadataQuality.set.requireOrcid"
+msgstr "اشتراط ORCID"
+
+msgid "plugins.generic.metadataQuality.set.exemptSections"
+msgstr "أقسام معفاة من الملخص والمراجع (مثل الافتتاحية)"
+
+msgid "plugins.generic.metadataQuality.set.gate"
+msgstr "بوابة النشر"
+
+msgid "plugins.generic.metadataQuality.set.gateHelp"
+msgstr "عند التفعيل يرفض OJS نشر بحث ينقصه حقل إلزامي ويعرض قائمة النواقص في نافذة النشر. يُستثنى DOI (يُنشأ عند النشر) والإصدار (يفحصه OJS نفسه)."
+
+msgid "plugins.generic.metadataQuality.requireOrcid.none"
+msgstr "غير مطلوب"
+
+msgid "plugins.generic.metadataQuality.requireOrcid.corresponding"
+msgstr "للمؤلف المراسل"
+
+msgid "plugins.generic.metadataQuality.requireOrcid.all"
+msgstr "لجميع المؤلفين"
+
+msgid "plugins.generic.metadataQuality.gate.off"
+msgstr "معطّلة (تقارير فقط)"
+
+msgid "plugins.generic.metadataQuality.gate.block"
+msgstr "مفعّلة (منع النشر عند النقص الإلزامي)"
+
+msgid "plugins.generic.metadataQuality.save"
+msgstr "حفظ الإعدادات"
+
+msgid "plugins.generic.metadataQuality.saved"
+msgstr "حُفظت الإعدادات."
+
+msgid "plugins.generic.metadataQuality.gateError"
+msgstr "لا يمكن النشر قبل استكمال البيانات الوصفية الإلزامية (إضافة جودة البيانات):"
+
+msgid "plugins.generic.metadataQuality.check.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.metadataQuality.check.titleScript"
+msgstr "العنوان الإنجليزي مكتوب بحروف عربية"
+
+msgid "plugins.generic.metadataQuality.check.abstract"
+msgstr "الملخص (الحد الأدنى للكلمات)"
+
+msgid "plugins.generic.metadataQuality.check.keywords"
+msgstr "الكلمات المفتاحية"
+
+msgid "plugins.generic.metadataQuality.check.authors"
+msgstr "المؤلفون"
+
+msgid "plugins.generic.metadataQuality.check.authorNames"
+msgstr "أسماء المؤلفين بكل لغة مطلوبة"
+
+msgid "plugins.generic.metadataQuality.check.affiliation"
+msgstr "انتماء كل مؤلف"
+
+msgid "plugins.generic.metadataQuality.check.affiliationEn"
+msgstr "الانتماء بالإنجليزية أو ROR"
+
+msgid "plugins.generic.metadataQuality.check.country"
+msgstr "دولة كل مؤلف"
+
+msgid "plugins.generic.metadataQuality.check.orcidValid"
+msgstr "صحة أرقام ORCID"
+
+msgid "plugins.generic.metadataQuality.check.orcid"
+msgstr "معرّف ORCID"
+
+msgid "plugins.generic.metadataQuality.check.competingInterests"
+msgstr "بيان تعارض المصالح"
+
+msgid "plugins.generic.metadataQuality.check.correspondingEmail"
+msgstr "بريد المؤلف المراسل"
+
+msgid "plugins.generic.metadataQuality.check.doi"
+msgstr "معرّف DOI"
+
+msgid "plugins.generic.metadataQuality.check.license"
+msgstr "رابط الترخيص"
+
+msgid "plugins.generic.metadataQuality.check.copyright"
+msgstr "صاحب الحقوق وسنة الحقوق"
+
+msgid "plugins.generic.metadataQuality.check.pages"
+msgstr "أرقام الصفحات"
+
+msgid "plugins.generic.metadataQuality.check.references"
+msgstr "قائمة المراجع"
+
+msgid "plugins.generic.metadataQuality.check.referencesRoman"
+msgstr "المراجع بحروف لاتينية (رومنة)"
+
+msgid "plugins.generic.metadataQuality.check.referencesDoi"
+msgstr "مراجع تتضمن DOI"
+
+msgid "plugins.generic.metadataQuality.check.issue"
+msgstr "الإسناد إلى عدد"
+
+msgid "plugins.generic.metadataQuality.check.galley"
+msgstr "ملف النص الكامل (PDF/HTML)"
+
+msgid "plugins.generic.metadataQuality.check.acceptDecision"
+msgstr "قرار قبول مسجل (تاريخ القبول)"
+
+msgid "plugins.generic.metadataQuality.check.funding"
+msgstr "بيان التمويل أو إتاحة البيانات"
+
+msgid "plugins.generic.metadataQuality.check.jIssn"
+msgstr "رقم ISSN صحيح"
+
+msgid "plugins.generic.metadataQuality.hint.jIssn"
+msgstr "الرقم الدولي المعياري للدورية، ويُتحقق من رقم التحقق."
+
+msgid "plugins.generic.metadataQuality.check.jIssnChecksum"
+msgstr "رقم تحقق ISSN غير صحيح"
+
+msgid "plugins.generic.metadataQuality.hint.jIssnChecksum"
+msgstr "راجع الرقم مع المركز الوطني لـISSN."
+
+msgid "plugins.generic.metadataQuality.check.jPublisher"
+msgstr "اسم الناشر"
+
+msgid "plugins.generic.metadataQuality.hint.jPublisher"
+msgstr "يظهر في Crossref وقواعد البيانات."
+
+msgid "plugins.generic.metadataQuality.check.jContact"
+msgstr "بيانات التواصل والعنوان البريدي"
+
+msgid "plugins.generic.metadataQuality.hint.jContact"
+msgstr "معيار WoS: تفاصيل تواصل كاملة."
+
+msgid "plugins.generic.metadataQuality.check.jAbout"
+msgstr "صفحة «عن المجلة»: الأهداف والنطاق"
+
+msgid "plugins.generic.metadataQuality.hint.jAbout"
+msgstr "وصف واضح بكل لغة (50 كلمة فأكثر)."
+
+msgid "plugins.generic.metadataQuality.check.jEnglish"
+msgstr "واجهة باللغة الإنجليزية"
+
+msgid "plugins.generic.metadataQuality.hint.jEnglish"
+msgstr "Scopus: صفحة رئيسة بالإنجليزية."
+
+msgid "plugins.generic.metadataQuality.check.jPeerReview"
+msgstr "سياسة التحكيم منشورة"
+
+msgid "plugins.generic.metadataQuality.hint.jPeerReview"
+msgstr "نوع التحكيم وإجراءاته ومدته."
+
+msgid "plugins.generic.metadataQuality.check.jEthics"
+msgstr "بيان أخلاقيات النشر وسوء الممارسة"
+
+msgid "plugins.generic.metadataQuality.hint.jEthics"
+msgstr "مرجعه COPE: الانتحال، تعارض المصالح، التراجع عن النشر."
+
+msgid "plugins.generic.metadataQuality.check.jOpenAccess"
+msgstr "سياسة الوصول المفتوح"
+
+msgid "plugins.generic.metadataQuality.hint.jOpenAccess"
+msgstr "شرط DOAJ."
+
+msgid "plugins.generic.metadataQuality.check.jLicense"
+msgstr "ترخيص المحتوى (مثل CC BY-NC)"
+
+msgid "plugins.generic.metadataQuality.hint.jLicense"
+msgstr "يُرسل مع بيانات Crossref."
+
+msgid "plugins.generic.metadataQuality.check.jCopyright"
+msgstr "بيان حقوق النشر"
+
+msgid "plugins.generic.metadataQuality.hint.jCopyright"
+msgstr "من يملك الحقوق وكيف تُستخدم."
+
+msgid "plugins.generic.metadataQuality.check.jPrivacy"
+msgstr "بيان الخصوصية"
+
+msgid "plugins.generic.metadataQuality.hint.jPrivacy"
+msgstr "متطلب DOAJ والأنظمة."
+
+msgid "plugins.generic.metadataQuality.check.jAuthorGuidelines"
+msgstr "دليل المؤلفين"
+
+msgid "plugins.generic.metadataQuality.hint.jAuthorGuidelines"
+msgstr "تعليمات الإعداد والتوثيق والتقديم."
+
+msgid "plugins.generic.metadataQuality.check.jFees"
+msgstr "بيان الرسوم (APC)"
+
+msgid "plugins.generic.metadataQuality.hint.jFees"
+msgstr "حتى لو لا توجد رسوم يجب التصريح بذلك."
+
+msgid "plugins.generic.metadataQuality.check.jArchiving"
+msgstr "سياسة الأرشفة والحفظ الرقمي"
+
+msgid "plugins.generic.metadataQuality.hint.jArchiving"
+msgstr "مثل PKP PN أو LOCKSS أو Portico."
+
+msgid "plugins.generic.metadataQuality.check.jDoi"
+msgstr "بادئة DOI مفعّلة"
+
+msgid "plugins.generic.metadataQuality.hint.jDoi"
+msgstr "عضوية Crossref وتفعيل DOI."
+
+msgid "plugins.generic.metadataQuality.check.jOai"
+msgstr "واجهة OAI-PMH مفعّلة"
+
+msgid "plugins.generic.metadataQuality.hint.jOai"
+msgstr "لحصاد البيانات من DOAJ والمستودعات."
+
+msgid "plugins.generic.metadataQuality.check.jBoard"
+msgstr "هيئة تحرير معلنة (5 أعضاء فأكثر)"
+
+msgid "plugins.generic.metadataQuality.hint.jBoard"
+msgstr "أعضاء المجموعات الظاهرة في «هيئة التحرير»."
+
+msgid "plugins.generic.metadataQuality.check.jBoardAffiliation"
+msgstr "انتماءات أعضاء هيئة التحرير"
+
+msgid "plugins.generic.metadataQuality.hint.jBoardAffiliation"
+msgstr "معيار WoS: تفاصيل انتماء المحررين."
+
+msgid "plugins.generic.metadataQuality.check.jBoardDiversity"
+msgstr "تنوع جغرافي لهيئة التحرير (3 دول فأكثر)"
+
+msgid "plugins.generic.metadataQuality.hint.jBoardDiversity"
+msgstr "Scopus وWoS يقيّمان تنوع المحررين."
+
+msgid "plugins.generic.metadataQuality.check.jAuthorDiversity"
+msgstr "تنوع المؤلفين جغرافيًا (آخر 3 سنوات)"
+
+msgid "plugins.generic.metadataQuality.hint.jAuthorDiversity"
+msgstr "3 دول فأكثر، وألا تتجاوز دولة واحدة 80٪."
+
+msgid "plugins.generic.metadataQuality.check.jRegularity"
+msgstr "انتظام الصدور (أعداد في سنتين على الأقل من آخر 3)"
+
+msgid "plugins.generic.metadataQuality.hint.jRegularity"
+msgstr "Scopus يشترط تاريخ نشر منتظم."
+
+msgid "plugins.generic.metadataQuality.check.jFullText"
+msgstr "النص الكامل متاح لكل بحث منشور"
+
+msgid "plugins.generic.metadataQuality.hint.jFullText"
+msgstr "عدد البحوث المنشورة بلا ملف."
+
+msgid "plugins.generic.metadataQuality.check.jScholarPlugin"
+msgstr "إضافة Google Scholar مفعّلة"
+
+msgid "plugins.generic.metadataQuality.hint.jScholarPlugin"
+msgstr "وسوم citation_ للفهرسة في الباحث العلمي."
+

@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.preReviewCheck.name"
+msgstr "الفحص الفني قبل التحكيم"
+
+msgid "plugins.generic.preReviewCheck.description"
+msgstr "يفحص كل بحث آليًا لحظة تقديمه: البيانات الوصفية، وطول البحث، وإخفاء هوية المؤلف للتحكيم المزدوج، والتعليقات وتتبع التغييرات، والعناوين الإلزامية، والمراجع، ونتائج مدقّق الآيات؛ مع رسالة جاهزة للمؤلف. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.preReviewCheck.open"
+msgstr "فتح التقرير"
+
+msgid "plugins.generic.preReviewCheck.menu"
+msgstr "الفحص الفني"
+
+msgid "plugins.generic.preReviewCheck.reportTitle"
+msgstr "تقرير الفحص الفني"
+
+msgid "plugins.generic.preReviewCheck.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.preReviewCheck.notFound"
+msgstr "التقرير غير موجود."
+
+msgid "plugins.generic.preReviewCheck.intro"
+msgstr "يفحص هذا القسم البحوث الجديدة قبل إحالتها إلى المحكّمين، فيكشف ما يستوجب إعادتها إلى المؤلف قبل أن يستهلك وقت المحررين والمحكّمين. يعمل تلقائيًا عند التقديم، ويمكن إعادة تشغيله بعد تعديل المؤلف."
+
+msgid "plugins.generic.preReviewCheck.queue"
+msgstr "بحوث في مرحلتي التقديم والتحكيم"
+
+msgid "plugins.generic.preReviewCheck.none"
+msgstr "لا توجد بحوث."
+
+msgid "plugins.generic.preReviewCheck.col.title"
+msgstr "البحث"
+
+msgid "plugins.generic.preReviewCheck.col.stage"
+msgstr "المرحلة"
+
+msgid "plugins.generic.preReviewCheck.col.result"
+msgstr "النتيجة"
+
+msgid "plugins.generic.preReviewCheck.col.check"
+msgstr "الفحص"
+
+msgid "plugins.generic.preReviewCheck.col.detail"
+msgstr "التفاصيل"
+
+msgid "plugins.generic.preReviewCheck.col.level"
+msgstr "المستوى"
+
+msgid "plugins.generic.preReviewCheck.stage.1"
+msgstr "التقديم"
+
+msgid "plugins.generic.preReviewCheck.stage.3"
+msgstr "التحكيم"
+
+msgid "plugins.generic.preReviewCheck.badge.blocking"
+msgstr "{$n} مانع"
+
+msgid "plugins.generic.preReviewCheck.badge.warnings"
+msgstr "{$n} ملاحظة"
+
+msgid "plugins.generic.preReviewCheck.badge.ready"
+msgstr "جاهز للتحكيم"
+
+msgid "plugins.generic.preReviewCheck.auto"
+msgstr "تلقائي"
+
+msgid "plugins.generic.preReviewCheck.sent"
+msgstr "أُرسل للمؤلف"
+
+msgid "plugins.generic.preReviewCheck.notChecked"
+msgstr "لم يُفحص"
+
+msgid "plugins.generic.preReviewCheck.run"
+msgstr "فحص"
+
+msgid "plugins.generic.preReviewCheck.rerun"
+msgstr "إعادة الفحص"
+
+msgid "plugins.generic.preReviewCheck.back"
+msgstr "كل البحوث"
+
+msgid "plugins.generic.preReviewCheck.meta"
+msgstr "الملف: {$file} · {$date}"
+
+msgid "plugins.generic.preReviewCheck.stat.words"
+msgstr "كلمة في متن البحث"
+
+msgid "plugins.generic.preReviewCheck.stat.footnotes"
+msgstr "حاشية"
+
+msgid "plugins.generic.preReviewCheck.stat.refs"
+msgstr "مرجعًا في القائمة"
+
+msgid "plugins.generic.preReviewCheck.lvl.req"
+msgstr "مانع"
+
+msgid "plugins.generic.preReviewCheck.lvl.rec"
+msgstr "مستحسن"
+
+msgid "plugins.generic.preReviewCheck.lvl.info"
+msgstr "للاطلاع"
+
+msgid "plugins.generic.preReviewCheck.lang.ar"
+msgstr "العربية"
+
+msgid "plugins.generic.preReviewCheck.lang.en"
+msgstr "الإنجليزية"
+
+msgid "plugins.generic.preReviewCheck.lang.fr"
+msgstr "الفرنسية"
+
+msgid "plugins.generic.preReviewCheck.orcid.corresponding"
+msgstr "المؤلف المراسل"
+
+msgid "plugins.generic.preReviewCheck.orcid.all"
+msgstr "جميع المؤلفين"
+
+msgid "plugins.generic.preReviewCheck.orcid.none"
+msgstr "لا يُشترط"
+
+msgid "plugins.generic.preReviewCheck.check.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.preReviewCheck.check.abstract"
+msgstr "الملخص"
+
+msgid "plugins.generic.preReviewCheck.check.keywords"
+msgstr "الكلمات المفتاحية"
+
+msgid "plugins.generic.preReviewCheck.check.affiliation"
+msgstr "انتماء المؤلفين"
+
+msgid "plugins.generic.preReviewCheck.check.country"
+msgstr "دولة المؤلفين"
+
+msgid "plugins.generic.preReviewCheck.check.orcid"
+msgstr "معرّف ORCID"
+
+msgid "plugins.generic.preReviewCheck.check.declarations"
+msgstr "الإقرارات"
+
+msgid "plugins.generic.preReviewCheck.check.file"
+msgstr "ملف البحث"
+
+msgid "plugins.generic.preReviewCheck.check.fileType"
+msgstr "صيغة الملف"
+
+msgid "plugins.generic.preReviewCheck.check.fileRead"
+msgstr "قراءة الملف"
+
+msgid "plugins.generic.preReviewCheck.check.length"
+msgstr "طول البحث"
+
+msgid "plugins.generic.preReviewCheck.check.anonText"
+msgstr "إخفاء الهوية في النص"
+
+msgid "plugins.generic.preReviewCheck.check.anonProps"
+msgstr "إخفاء الهوية في خصائص الملف"
+
+msgid "plugins.generic.preReviewCheck.check.comments"
+msgstr "تعليقات Word"
+
+msgid "plugins.generic.preReviewCheck.check.tracked"
+msgstr "تتبع التغييرات"
+
+msgid "plugins.generic.preReviewCheck.check.headings"
+msgstr "العناوين الإلزامية"
+
+msgid "plugins.generic.preReviewCheck.check.references"
+msgstr "قائمة المصادر"
+
+msgid "plugins.generic.preReviewCheck.check.romanRefs"
+msgstr "المراجع المرومنة"
+
+msgid "plugins.generic.preReviewCheck.check.quran"
+msgstr "تدقيق الآيات"
+
+msgid "plugins.generic.preReviewCheck.msg.title"
+msgstr "العنوان ({$lang}) مفقود أو يتجاوز {$max} كلمة (الحالي: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.abstract"
+msgstr "الملخص ({$lang}) يجب أن يكون بين {$min} و{$max} كلمة (الحالي: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.keywords"
+msgstr "الكلمات المفتاحية ({$lang}) يجب أن تكون بين {$min} و{$max} (الحالي: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.affiliation"
+msgstr "أكمل الانتماء المؤسسي لكل مؤلف: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.country"
+msgstr "أكمل الدولة لكل مؤلف: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.orcid"
+msgstr "يُطلب معرّف ORCID من {$scope}: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.declarations"
+msgstr "أكمل الإقرارات (تضارب المصالح، التمويل، الأخلاقيات، الذكاء الاصطناعي): {$v} ناقص."
+
+msgid "plugins.generic.preReviewCheck.msg.file"
+msgstr "لم يُرفع ملف البحث."
+
+msgid "plugins.generic.preReviewCheck.msg.fileType"
+msgstr "يُرجى رفع البحث بصيغة {$types} (الحالي: {$v})."
+
+msgid "plugins.generic.preReviewCheck.msg.fileRead"
+msgstr "تعذّرت قراءة ملف البحث ({$v})؛ أعد حفظه بصيغة docx."
+
+msgid "plugins.generic.preReviewCheck.msg.length"
+msgstr "طول البحث {$v} كلمة، والمطلوب بين {$min} و{$max}."
+
+msgid "plugins.generic.preReviewCheck.msg.anonText"
+msgstr "يظهر اسم المؤلف أو بريده في نص البحث أو حواشيه ({$v})؛ احذفه لضمان التحكيم المزدوج التعمية."
+
+msgid "plugins.generic.preReviewCheck.msg.anonProps"
+msgstr "خصائص الملف تكشف الهوية ({$v})؛ امسحها من: ملف ← معلومات ← فحص المستند ← إزالة الكل."
+
+msgid "plugins.generic.preReviewCheck.msg.comments"
+msgstr "في الملف {$v} تعليق؛ احذف التعليقات قبل الإرسال."
+
+msgid "plugins.generic.preReviewCheck.msg.tracked"
+msgstr "في الملف {$v} تغيير متتبَّع؛ اقبل التغييرات أو ارفضها."
+
+msgid "plugins.generic.preReviewCheck.msg.headings"
+msgstr "لم تُعثر في البحث على العناوين: {$v}."
+
+msgid "plugins.generic.preReviewCheck.msg.references"
+msgstr "قائمة المصادر غير موجودة أو قصيرة ({$v} مرجعًا، والحد الأدنى {$min})."
+
+msgid "plugins.generic.preReviewCheck.msg.romanRefs"
+msgstr "أضف قائمة المراجع مرومنة بالحروف اللاتينية وفق دليل المؤلفين."
+
+msgid "plugins.generic.preReviewCheck.msg.quran"
+msgstr "أظهر تدقيق الآيات {$v} ملاحظة في النص أو العزو؛ راجع الآيات المقتبسة."
+
+msgid "plugins.generic.preReviewCheck.openQuran"
+msgstr "فتح تقرير الآيات"
+
+msgid "plugins.generic.preReviewCheck.mail.title"
+msgstr "رسالة إلى المؤلف"
+
+msgid "plugins.generic.preReviewCheck.mail.to"
+msgstr "إلى"
+
+msgid "plugins.generic.preReviewCheck.mail.send"
+msgstr "إرسال"
+
+msgid "plugins.generic.preReviewCheck.mail.note"
+msgstr "تُرسل من بريد المجلة وتُسجّل في سجل مراسلات البحث."
+
+msgid "plugins.generic.preReviewCheck.mail.subject"
+msgstr "ملاحظات فنية على البحث رقم {$id} قبل التحكيم"
+
+msgid "plugins.generic.preReviewCheck.mail.greeting"
+msgstr "حضرة الباحث/ة {$name}، السلام عليكم ورحمة الله وبركاته،"
+
+msgid "plugins.generic.preReviewCheck.mail.intro"
+msgstr "شكرًا لتقديم بحثكم «{$title}». قبل إحالته إلى التحكيم نرجو استكمال ما يلي:"
+
+msgid "plugins.generic.preReviewCheck.mail.recommended"
+msgstr "(مستحسن)"
+
+msgid "plugins.generic.preReviewCheck.mail.outro"
+msgstr "يُرجى رفع النسخة المعدلة من خلال منصة المجلة. مع خالص التقدير، هيئة التحرير."
+
+msgid "plugins.generic.preReviewCheck.sentMsg"
+msgstr "أُرسلت الرسالة إلى المؤلف وسُجّلت في سجل المراسلات."
+
+msgid "plugins.generic.preReviewCheck.mailError"
+msgstr "تعذّر الإرسال:"
+
+msgid "plugins.generic.preReviewCheck.settings"
+msgstr "الإعدادات"
+
+msgid "plugins.generic.preReviewCheck.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.preReviewCheck.set.autoRun"
+msgstr "الفحص التلقائي عند التقديم"
+
+msgid "plugins.generic.preReviewCheck.set.blind"
+msgstr "فحص إخفاء الهوية (تحكيم مزدوج التعمية)"
+
+msgid "plugins.generic.preReviewCheck.set.declarations"
+msgstr "فحص الإقرارات (إن كانت إضافة الإقرارات مفعّلة)"
+
+msgid "plugins.generic.preReviewCheck.set.romanRefs"
+msgstr "طلب قائمة مراجع مرومنة"
+
+msgid "plugins.generic.preReviewCheck.set.wordsMin"
+msgstr "أقل عدد كلمات"
+
+msgid "plugins.generic.preReviewCheck.set.wordsMax"
+msgstr "أكثر عدد كلمات"
+
+msgid "plugins.generic.preReviewCheck.set.refsMin"
+msgstr "أقل عدد مراجع"
+
+msgid "plugins.generic.preReviewCheck.set.absMin"
+msgstr "أقل كلمات الملخص"
+
+msgid "plugins.generic.preReviewCheck.set.absMax"
+msgstr "أكثر كلمات الملخص"
+
+msgid "plugins.generic.preReviewCheck.set.kwMin"
+msgstr "أقل كلمات مفتاحية"
+
+msgid "plugins.generic.preReviewCheck.set.kwMax"
+msgstr "أكثر كلمات مفتاحية"
+
+msgid "plugins.generic.preReviewCheck.set.titleMax"
+msgstr "أكثر كلمات العنوان"
+
+msgid "plugins.generic.preReviewCheck.set.locales"
+msgstr "لغات البيانات المطلوبة"
+
+msgid "plugins.generic.preReviewCheck.set.fileTypes"
+msgstr "الصيغ المقبولة"
+
+msgid "plugins.generic.preReviewCheck.set.orcid"
+msgstr "ORCID مطلوب من"
+
+msgid "plugins.generic.preReviewCheck.set.headings"
+msgstr "العناوين الإلزامية (سطر لكل عنوان)"
+

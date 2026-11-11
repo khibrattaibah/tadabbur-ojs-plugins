@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.themes.tadabbur.name"
+msgstr "قالب تدبر"
+
+msgid "plugins.themes.tadabbur.publisher"
+msgstr "الناشر"
+
+msgid "plugins.themes.tadabbur.policies"
+msgstr "سياسات المجلة"
+
+msgid "plugins.themes.tadabbur.contactPage"
+msgstr "صفحة التواصل"
+
+msgid "plugins.themes.tadabbur.licenseNote"
+msgstr "المحتوى منشور بترخيص"
+
+msgid "plugins.themes.tadabbur.indexedIn"
+msgstr "الفهرسة وقواعد البيانات"
+
+msgid "plugins.themes.tadabbur.peerReviewedJournal"
+msgstr "مجلة علمية محكّمة"
+
+msgid "plugins.themes.tadabbur.submit"
+msgstr "قدّم بحثك"
+
+msgid "plugins.themes.tadabbur.journalFacts"
+msgstr "معلومات المجلة"
+
+msgid "plugins.themes.tadabbur.peerReview"
+msgstr "التحكيم"
+
+msgid "plugins.themes.tadabbur.frequency"
+msgstr "دورية الصدور"
+
+msgid "plugins.themes.tadabbur.access"
+msgstr "الوصول"
+
+msgid "plugins.themes.tadabbur.openAccess"
+msgstr "وصول مفتوح"
+
+msgid "plugins.themes.tadabbur.apc"
+msgstr "رسوم النشر"
+
+msgid "plugins.themes.tadabbur.since"
+msgstr "سنة التأسيس"
+
+msgid "plugins.themes.tadabbur.policiesTitle"
+msgstr "سياسات المجلة ومعاييرها"
+
+msgid "plugins.themes.tadabbur.inLanguage"
+msgstr "العنوان والملخص ({$language})"
+
+msgid "plugins.themes.tadabbur.articleHistory"
+msgstr "تاريخ البحث"
+
+msgid "plugins.themes.tadabbur.received"
+msgstr "الاستلام"
+
+msgid "plugins.themes.tadabbur.accepted"
+msgstr "القبول"
+
+msgid "plugins.themes.tadabbur.published"
+msgstr "النشر"
+
+msgid "plugins.themes.tadabbur.copyDoi"
+msgstr "نسخ رابط DOI"
+
+msgid "plugins.themes.tadabbur.copied"
+msgstr "نُسخ ✓"
+
+msgid "plugins.themes.tadabbur.contactUs"
+msgstr "تواصل معنا"
+
+msgid "plugins.themes.tadabbur.developedBy"
+msgstr "تصميم وتطوير:"
+
+msgid "plugins.themes.tadabbur.developer"
+msgstr "مصطفى محمود"
+
+msgid "plugins.themes.tadabbur.office"
+msgstr "مكتب خبرات طيبة"
+
+
+msgid "plugins.themes.tadabbur.menu"
+msgstr "القائمة"
+
+msgid "plugins.themes.tadabbur.searchPh"
+msgstr "ابحث في البحوث والمؤلفين…"
+
+msgid "plugins.themes.tadabbur.guidelines"
+msgstr "دليل المؤلفين"
+
+msgid "plugins.themes.tadabbur.standards"
+msgstr "معايير النشر"
+
+msgid "plugins.themes.tadabbur.visibility"
+msgstr "الانتشار والوصول"
+
+msgid "plugins.themes.tadabbur.forAuthors"
+msgstr "للباحثين"
+
+msgid "plugins.themes.tadabbur.pagesShort"
+msgstr "ص"
+
+msgid "plugins.themes.tadabbur.readAbstract"
+msgstr "الملخص والتفاصيل"
+
+msgid "plugins.themes.tadabbur.stArticles"
+msgstr "بحث منشور"
+
+msgid "plugins.themes.tadabbur.stIssues"
+msgstr "عدد صادر"
+
+msgid "plugins.themes.tadabbur.stAcceptance"
+msgstr "نسبة القبول"
+
+msgid "plugins.themes.tadabbur.stDecision"
+msgstr "يومًا للقرار الأول (الوسيط)"

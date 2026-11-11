@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.editorialCommand.name"
+msgstr "Editorial Command Center"
+
+msgid "plugins.generic.editorialCommand.description"
+msgstr "One board for all active submissions: stage and days in it, who the manuscript is waiting on, what is overdue, editor workload, with reminders and a daily email digest. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.editorialCommand.open"
+msgstr "Open"
+
+msgid "plugins.generic.editorialCommand.menu"
+msgstr "Command Center"
+
+msgid "plugins.generic.editorialCommand.remindTitle"
+msgstr "Reminder"
+
+msgid "plugins.generic.editorialCommand.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.editorialCommand.k.active"
+msgstr "active manuscripts"
+
+msgid "plugins.generic.editorialCommand.k.overdue"
+msgstr "overdue"
+
+msgid "plugins.generic.editorialCommand.k.median"
+msgstr "median age since submission"
+
+msgid "plugins.generic.editorialCommand.k.mine"
+msgstr "awaiting my decision"
+
+msgid "plugins.generic.editorialCommand.whoWaits"
+msgstr "Who is the manuscript waiting on?"
+
+msgid "plugins.generic.editorialCommand.byStage"
+msgstr "By stage"
+
+msgid "plugins.generic.editorialCommand.late"
+msgstr "late"
+
+msgid "plugins.generic.editorialCommand.party.editor"
+msgstr "Editor"
+
+msgid "plugins.generic.editorialCommand.party.reviewer"
+msgstr "Reviewer"
+
+msgid "plugins.generic.editorialCommand.party.author"
+msgstr "Author"
+
+msgid "plugins.generic.editorialCommand.party.production"
+msgstr "Production"
+
+msgid "plugins.generic.editorialCommand.stage.submission"
+msgstr "Submission"
+
+msgid "plugins.generic.editorialCommand.stage.review"
+msgstr "Review"
+
+msgid "plugins.generic.editorialCommand.stage.copyediting"
+msgstr "Copyediting"
+
+msgid "plugins.generic.editorialCommand.stage.production"
+msgstr "Production"
+
+msgid "plugins.generic.editorialCommand.stage.other"
+msgstr "Other"
+
+msgid "plugins.generic.editorialCommand.wait.assignEditor"
+msgstr "Needs an editor"
+
+msgid "plugins.generic.editorialCommand.wait.deskDecision"
+msgstr "Awaiting initial decision"
+
+msgid "plugins.generic.editorialCommand.wait.needReviewers"
+msgstr "Needs reviewers"
+
+msgid "plugins.generic.editorialCommand.wait.reviewerResponse"
+msgstr "Awaiting reviewer response"
+
+msgid "plugins.generic.editorialCommand.wait.reviewerReport"
+msgstr "Awaiting review reports"
+
+msgid "plugins.generic.editorialCommand.wait.reviewDecision"
+msgstr "Reviews in; awaiting decision"
+
+msgid "plugins.generic.editorialCommand.wait.authorRevision"
+msgstr "Awaiting author revisions"
+
+msgid "plugins.generic.editorialCommand.wait.revisionReceived"
+msgstr "Revision received; awaiting editor"
+
+msgid "plugins.generic.editorialCommand.wait.copyediting"
+msgstr "In copyediting"
+
+msgid "plugins.generic.editorialCommand.wait.production"
+msgstr "In production"
+
+msgid "plugins.generic.editorialCommand.daysN"
+msgstr "{$n} days"
+
+msgid "plugins.generic.editorialCommand.since"
+msgstr "since {$d}"
+
+msgid "plugins.generic.editorialCommand.revSummary"
+msgstr "{$completed}/{$active} done · {$pending} no reply · {$late} late"
+
+msgid "plugins.generic.editorialCommand.editorsLoad"
+msgstr "Editor workload"
+
+msgid "plugins.generic.editorialCommand.col.editor"
+msgstr "Editor"
+
+msgid "plugins.generic.editorialCommand.col.assigned"
+msgstr "Assigned"
+
+msgid "plugins.generic.editorialCommand.col.awaitingThem"
+msgstr "Awaiting them"
+
+msgid "plugins.generic.editorialCommand.col.lateThem"
+msgstr "Overdue with them"
+
+msgid "plugins.generic.editorialCommand.all"
+msgstr "All"
+
+msgid "plugins.generic.editorialCommand.lateOnly"
+msgstr "Overdue only"
+
+msgid "plugins.generic.editorialCommand.filter"
+msgstr "Filter"
+
+msgid "plugins.generic.editorialCommand.reset"
+msgstr "Reset"
+
+msgid "plugins.generic.editorialCommand.showing"
+msgstr "Showing {$n} of {$t}"
+
+msgid "plugins.generic.editorialCommand.none"
+msgstr "No manuscripts match."
+
+msgid "plugins.generic.editorialCommand.col.title"
+msgstr "Manuscript"
+
+msgid "plugins.generic.editorialCommand.col.stage"
+msgstr "Stage"
+
+msgid "plugins.generic.editorialCommand.col.waiting"
+msgstr "Waiting on"
+
+msgid "plugins.generic.editorialCommand.col.wait"
+msgstr "Waiting"
+
+msgid "plugins.generic.editorialCommand.col.total"
+msgstr "Since submission"
+
+msgid "plugins.generic.editorialCommand.col.editors"
+msgstr "Editor"
+
+msgid "plugins.generic.editorialCommand.col.reviews"
+msgstr "Reviews"
+
+msgid "plugins.generic.editorialCommand.remindAuthor"
+msgstr "Remind author"
+
+msgid "plugins.generic.editorialCommand.remindEditor"
+msgstr "Remind editor"
+
+msgid "plugins.generic.editorialCommand.note"
+msgstr "Durations are computed from OJS decisions and review dates. Reviewer reminders are handled by OJS itself (Settings → Workflow → Review); this board adds author and editor reminders."
+
+msgid "plugins.generic.editorialCommand.settings"
+msgstr "Settings & deadlines"
+
+msgid "plugins.generic.editorialCommand.set.slaTitle"
+msgstr "Deadlines in days (overdue after)"
+
+msgid "plugins.generic.editorialCommand.set.slaAssign"
+msgstr "Assign editor"
+
+msgid "plugins.generic.editorialCommand.set.slaDesk"
+msgstr "Initial decision"
+
+msgid "plugins.generic.editorialCommand.set.slaInvite"
+msgstr "Invite reviewers"
+
+msgid "plugins.generic.editorialCommand.set.slaDecision"
+msgstr "Decision after review"
+
+msgid "plugins.generic.editorialCommand.set.slaRevision"
+msgstr "Author revisions"
+
+msgid "plugins.generic.editorialCommand.set.slaCopyedit"
+msgstr "Copyediting"
+
+msgid "plugins.generic.editorialCommand.set.slaProduction"
+msgstr "Production"
+
+msgid "plugins.generic.editorialCommand.set.minReviewers"
+msgstr "Minimum reviewers"
+
+msgid "plugins.generic.editorialCommand.set.digest"
+msgstr "Send each editor a daily digest of what awaits them"
+
+msgid "plugins.generic.editorialCommand.set.digestManagers"
+msgstr "Also send overdue list to journal managers"
+
+msgid "plugins.generic.editorialCommand.save"
+msgstr "Save"
+
+msgid "plugins.generic.editorialCommand.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.editorialCommand.runDigest"
+msgstr "Send digest now"
+
+msgid "plugins.generic.editorialCommand.lastDigest"
+msgstr "Last sent: {$d}"
+
+msgid "plugins.generic.editorialCommand.digestDone"
+msgstr "{$n} digests sent."
+
+msgid "plugins.generic.editorialCommand.back"
+msgstr "Command center"
+
+msgid "plugins.generic.editorialCommand.to"
+msgstr "To"
+
+msgid "plugins.generic.editorialCommand.send"
+msgstr "Send"
+
+msgid "plugins.generic.editorialCommand.mailNote"
+msgstr "Sent from the journal address and logged on the submission."
+
+msgid "plugins.generic.editorialCommand.noRecipient"
+msgstr "No recipient email found."
+
+msgid "plugins.generic.editorialCommand.sentMsg"
+msgstr "Reminder sent to {$n} recipient(s)."
+
+msgid "plugins.generic.editorialCommand.mail.author.subject"
+msgstr "Reminder: revisions for submission {$id}"
+
+msgid "plugins.generic.editorialCommand.mail.author.body"
+msgstr "Dear {$name},\n\nThis is a reminder that the revised version of your manuscript “{$title}” (ID {$id}) has been awaited for {$days} days. Please upload it through the journal platform together with your response to the reviewers, or let us know the expected date.\n\nKind regards,\nEditorial Office, {$journal}"
+
+msgid "plugins.generic.editorialCommand.mail.editor.subject"
+msgstr "Submission {$id} awaits your decision"
+
+msgid "plugins.generic.editorialCommand.mail.editor.body"
+msgstr "Dear {$name},\n\nThe manuscript “{$title}” (ID {$id}) has been awaiting your action for {$days} days. Please review it and record a decision.\n\nWith thanks,\n{$journal}"
+
+msgid "plugins.generic.editorialCommand.digest.subject"
+msgstr "Your daily digest: {$n} manuscripts await you ({$late} overdue)"
+
+msgid "plugins.generic.editorialCommand.digest.intro"
+msgstr "Dear {$name}, these manuscripts await your action:"
+
+msgid "plugins.generic.editorialCommand.digest.mgrSubject"
+msgstr "Overdue manuscripts today: {$n}"
+
+msgid "plugins.generic.editorialCommand.digest.mgrIntro"
+msgstr "Manuscripts past their deadlines:"
+
+msgid "plugins.generic.editorialCommand.digest.open"
+msgstr "Open the command center"
+
+
+msgid "plugins.generic.editorialCommand.readOnlyMode"
+msgstr "Read-only in this release: no mail is sent and no editorial record is changed from this dashboard."

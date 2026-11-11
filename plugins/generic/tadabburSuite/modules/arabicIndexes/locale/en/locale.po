@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.arabicIndexes.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.arabicIndexes.none"
+msgstr "None."
+
+msgid "plugins.generic.arabicIndexes.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.arabicIndexes.save"
+msgstr "Save"
+
+msgid "plugins.generic.arabicIndexes.back"
+msgstr "Back"
+
+msgid "plugins.generic.arabicIndexes.name"
+msgstr "Arabic Indexes Pack"
+
+msgid "plugins.generic.arabicIndexes.description"
+msgstr "Exports each issue in the templates of Arabic databases (Dar Al-Mandumah, e-Marefa, Al-Manhal, ARCIF and a custom one) as Excel and CSV, with a references file and a PDF bundle per issue, plus a tracking log of what was sent to each database and what was indexed. Columns are editable to match each database's form. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.arabicIndexes.open"
+msgstr "Open Arabic Indexes"
+
+msgid "plugins.generic.arabicIndexes.menu"
+msgstr "Arabic indexes"
+
+msgid "plugins.generic.arabicIndexes.intro"
+msgstr "For each published issue: export the database file (Excel) and the PDF bundle, then record the sending date and indexing status by clicking the cell. Templates are suggestions; match their columns to each database's form once in Settings."
+
+msgid "plugins.generic.arabicIndexes.matrix"
+msgstr "Sending & indexing tracker"
+
+msgid "plugins.generic.arabicIndexes.col.issue"
+msgstr "Issue"
+
+msgid "plugins.generic.arabicIndexes.noIssues"
+msgstr "No published issues."
+
+msgid "plugins.generic.arabicIndexes.issueLabel"
+msgstr "Vol. {$v} No. {$n} ({$y})"
+
+msgid "plugins.generic.arabicIndexes.refsFile"
+msgstr "References"
+
+msgid "plugins.generic.arabicIndexes.st.pending"
+msgstr "Not sent"
+
+msgid "plugins.generic.arabicIndexes.st.sent"
+msgstr "Sent"
+
+msgid "plugins.generic.arabicIndexes.st.indexed"
+msgstr "Indexed"
+
+msgid "plugins.generic.arabicIndexes.st.rejected"
+msgstr "Rejected"
+
+msgid "plugins.generic.arabicIndexes.f.status"
+msgstr "Status"
+
+msgid "plugins.generic.arabicIndexes.f.sent"
+msgstr "Date sent"
+
+msgid "plugins.generic.arabicIndexes.f.note"
+msgstr "Note (reference no., link in the database…)"
+
+msgid "plugins.generic.arabicIndexes.settings"
+msgstr "Template settings"
+
+msgid "plugins.generic.arabicIndexes.settingsHelp"
+msgstr "Enable the databases you work with, rename them if you like (e.g. use \"Custom\" for another database), and order the columns with field keys separated by commas, as in the fields table below."
+
+msgid "plugins.generic.arabicIndexes.f.name"
+msgstr "Display name"
+
+msgid "plugins.generic.arabicIndexes.f.cols"
+msgstr "Columns in order"
+
+msgid "plugins.generic.arabicIndexes.fieldsTitle"
+msgstr "Available fields"
+
+msgid "plugins.generic.arabicIndexes.x.key"
+msgstr "Key"
+
+msgid "plugins.generic.arabicIndexes.x.label"
+msgstr "Column title"
+
+msgid "plugins.generic.arabicIndexes.x.id"
+msgstr "Article ID"
+
+msgid "plugins.generic.arabicIndexes.x.title"
+msgstr "Title"
+
+msgid "plugins.generic.arabicIndexes.x.n"
+msgstr "No."
+
+msgid "plugins.generic.arabicIndexes.x.ref"
+msgstr "Reference"
+
+msgid "plugins.generic.arabicIndexes.msg.errNoPdf"
+msgstr "No local PDF files in this issue."
+

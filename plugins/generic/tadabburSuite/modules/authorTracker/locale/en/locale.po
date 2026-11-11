@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.authorTracker.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.authorTracker.none"
+msgstr "None."
+
+msgid "plugins.generic.authorTracker.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.authorTracker.save"
+msgstr "Save"
+
+msgid "plugins.generic.authorTracker.back"
+msgstr "Back"
+
+msgid "plugins.generic.authorTracker.name"
+msgstr "Author Submission Tracker"
+
+msgid "plugins.generic.authorTracker.description"
+msgstr "A clear timeline the author sees for each paper: current stage, who is waiting now (journal or author), review progress (reports completed, reviewers anonymous) and dated decisions, compared with the journal's real averages, so fewer status enquiries arrive. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.authorTracker.open"
+msgstr "Open tracker"
+
+msgid "plugins.generic.authorTracker.menu"
+msgstr "Author tracker"
+
+msgid "plugins.generic.authorTracker.myMenu"
+msgstr "Where is my paper?"
+
+msgid "plugins.generic.authorTracker.intro"
+msgstr "What each author sees about their paper. Preview shows the page as the author sees it."
+
+msgid "plugins.generic.authorTracker.mineIntro"
+msgstr "Live status of your papers. Durations shown are the journal's actual medians over the last two years."
+
+msgid "plugins.generic.authorTracker.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.authorTracker.col.status"
+msgstr "Status"
+
+msgid "plugins.generic.authorTracker.col.waiting"
+msgstr "Waiting on"
+
+msgid "plugins.generic.authorTracker.preview"
+msgstr "Preview"
+
+msgid "plugins.generic.authorTracker.details"
+msgstr "Details & timeline"
+
+msgid "plugins.generic.authorTracker.since"
+msgstr "Submitted {$d} ({$n} days ago)"
+
+msgid "plugins.generic.authorTracker.days"
+msgstr "{$n} days"
+
+msgid "plugins.generic.authorTracker.b.firstDecision"
+msgstr "to first decision"
+
+msgid "plugins.generic.authorTracker.b.review"
+msgstr "per review report"
+
+msgid "plugins.generic.authorTracker.b.acceptToPub"
+msgstr "acceptance to publication"
+
+msgid "plugins.generic.authorTracker.b.total"
+msgstr "submission to publication"
+
+msgid "plugins.generic.authorTracker.step.received"
+msgstr "Received"
+
+msgid "plugins.generic.authorTracker.step.review"
+msgstr "Peer review"
+
+msgid "plugins.generic.authorTracker.step.revision"
+msgstr "Revision & decision"
+
+msgid "plugins.generic.authorTracker.step.copyediting"
+msgstr "Copyediting"
+
+msgid "plugins.generic.authorTracker.step.production"
+msgstr "Production"
+
+msgid "plugins.generic.authorTracker.step.published"
+msgstr "Published"
+
+msgid "plugins.generic.authorTracker.st.published"
+msgstr "Published"
+
+msgid "plugins.generic.authorTracker.st.declined"
+msgstr "The journal declined the paper"
+
+msgid "plugins.generic.authorTracker.st.scheduled"
+msgstr "Scheduled for an upcoming issue"
+
+msgid "plugins.generic.authorTracker.st.desk"
+msgstr "Under initial editorial screening"
+
+msgid "plugins.generic.authorTracker.st.findingReviewers"
+msgstr "Selecting reviewers"
+
+msgid "plugins.generic.authorTracker.st.inReview"
+msgstr "Under review: {$d} of {$n} reports completed (round {$r})"
+
+msgid "plugins.generic.authorTracker.st.reviewsComplete"
+msgstr "Round {$r} reports complete; decision with the editor"
+
+msgid "plugins.generic.authorTracker.st.awaitingRevision"
+msgstr "Awaiting your revised version (requested on {$d})"
+
+msgid "plugins.generic.authorTracker.st.revisionReceived"
+msgstr "Revised version received and under review"
+
+msgid "plugins.generic.authorTracker.st.copyediting"
+msgstr "Accepted; in copyediting"
+
+msgid "plugins.generic.authorTracker.st.production"
+msgstr "In production"
+
+msgid "plugins.generic.authorTracker.waiting.author"
+msgstr "The next step is yours"
+
+msgid "plugins.generic.authorTracker.waiting.journal"
+msgstr "The next step is with the journal"
+
+msgid "plugins.generic.authorTracker.waiting.none"
+msgstr "—"
+
+msgid "plugins.generic.authorTracker.timeline"
+msgstr "Timeline"
+
+msgid "plugins.generic.authorTracker.related"
+msgstr "Related"
+
+msgid "plugins.generic.authorTracker.editorPreview"
+msgstr "Editor preview: this is what the author sees."
+
+msgid "plugins.generic.authorTracker.link.officialLetters"
+msgstr "My official letters"
+
+msgid "plugins.generic.authorTracker.link.authorResponse"
+msgstr "Respond to reviewers"
+
+msgid "plugins.generic.authorTracker.link.proofApproval"
+msgstr "Proof approval"
+
+msgid "plugins.generic.authorTracker.ev.submitted"
+msgstr "Paper received"
+
+msgid "plugins.generic.authorTracker.ev.reviewersAssigned"
+msgstr "Sent to {$n} reviewers (round {$r})"
+
+msgid "plugins.generic.authorTracker.ev.reviewDone"
+msgstr "Review report {$i} of {$n} completed (round {$r})"
+
+msgid "plugins.generic.authorTracker.ev.revisionUploaded"
+msgstr "Revised version uploaded"
+
+msgid "plugins.generic.authorTracker.ev.published"
+msgstr "Paper published"
+
+msgid "plugins.generic.authorTracker.ev.dec.3"
+msgstr "Passed screening; sent to peer review"
+
+msgid "plugins.generic.authorTracker.ev.dec.2"
+msgstr "Decision: accepted"
+
+msgid "plugins.generic.authorTracker.ev.dec.17"
+msgstr "Decision: accepted"
+
+msgid "plugins.generic.authorTracker.ev.dec.4"
+msgstr "Decision: revisions required"
+
+msgid "plugins.generic.authorTracker.ev.dec.5"
+msgstr "Decision: resubmit for review"
+
+msgid "plugins.generic.authorTracker.ev.dec.6"
+msgstr "Decision: declined"
+
+msgid "plugins.generic.authorTracker.ev.dec.8"
+msgstr "Decision: declined at screening"
+
+msgid "plugins.generic.authorTracker.ev.dec.7"
+msgstr "Sent to production"
+
+msgid "plugins.generic.authorTracker.ev.dec.14"
+msgstr "New review round started"
+
+msgid "plugins.generic.authorTracker.ev.dec.15"
+msgstr "Paper reopened"
+
+msgid "plugins.generic.authorTracker.ev.dec.16"
+msgstr "Paper reopened"
+

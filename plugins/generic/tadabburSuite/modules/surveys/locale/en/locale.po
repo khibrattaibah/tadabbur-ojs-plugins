@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.surveys.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.surveys.none"
+msgstr "None."
+
+msgid "plugins.generic.surveys.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.surveys.save"
+msgstr "Save"
+
+msgid "plugins.generic.surveys.back"
+msgstr "Back"
+
+msgid "plugins.generic.surveys.name"
+msgstr "Surveys & Feedback"
+
+msgid "plugins.generic.surveys.description"
+msgstr "Author, reviewer and reader satisfaction surveys sent automatically on final decisions, completed reviews and publication; filled via a personal link without login, with live reports, a satisfaction score and CSV export."
+
+msgid "plugins.generic.surveys.open"
+msgstr "Open surveys"
+
+msgid "plugins.generic.surveys.menu"
+msgstr "Surveys"
+
+msgid "plugins.generic.surveys.intro"
+msgstr "Ready-made surveys that run automatically; edit their questions or add your own, and follow results here."
+
+msgid "plugins.generic.surveys.list"
+msgstr "Surveys"
+
+msgid "plugins.generic.surveys.new"
+msgstr "New survey"
+
+msgid "plugins.generic.surveys.edit"
+msgstr "Edit"
+
+msgid "plugins.generic.surveys.report"
+msgstr "Report"
+
+msgid "plugins.generic.surveys.publicLink"
+msgstr "Public link"
+
+msgid "plugins.generic.surveys.col.survey"
+msgstr "Survey"
+
+msgid "plugins.generic.surveys.col.state"
+msgstr "Status"
+
+msgid "plugins.generic.surveys.col.invited"
+msgstr "Invited"
+
+msgid "plugins.generic.surveys.col.answers"
+msgstr "Responses"
+
+msgid "plugins.generic.surveys.col.score"
+msgstr "Satisfaction"
+
+msgid "plugins.generic.surveys.active"
+msgstr "Active"
+
+msgid "plugins.generic.surveys.inactive"
+msgstr "Inactive"
+
+msgid "plugins.generic.surveys.rate"
+msgstr "Response rate"
+
+msgid "plugins.generic.surveys.aud.author"
+msgstr "Authors"
+
+msgid "plugins.generic.surveys.aud.reviewer"
+msgstr "Reviewers"
+
+msgid "plugins.generic.surveys.aud.public"
+msgstr "Readers"
+
+msgid "plugins.generic.surveys.aud.editor"
+msgstr "Editorial team"
+
+msgid "plugins.generic.surveys.tr.manual"
+msgstr "Manual"
+
+msgid "plugins.generic.surveys.tr.decision"
+msgstr "Auto after final decision"
+
+msgid "plugins.generic.surveys.tr.review"
+msgstr "Auto after review completed"
+
+msgid "plugins.generic.surveys.tr.publish"
+msgstr "Auto after publication"
+
+msgid "plugins.generic.surveys.tr.open"
+msgstr "Open public link"
+
+msgid "plugins.generic.surveys.autoHelp"
+msgstr "Automatic surveys send one invitation per paper or review via OJS mail; the link is personal, needs no login, and is never sent twice for the same target."
+
+msgid "plugins.generic.surveys.f.title"
+msgstr "Title"
+
+msgid "plugins.generic.surveys.f.intro"
+msgstr "Introduction shown on the form and in the email"
+
+msgid "plugins.generic.surveys.f.audience"
+msgstr "Audience"
+
+msgid "plugins.generic.surveys.f.trigger"
+msgstr "Sending"
+
+msgid "plugins.generic.surveys.f.triggerHelp"
+msgstr "“After final decision” = after acceptance or decline."
+
+msgid "plugins.generic.surveys.f.questions"
+msgstr "Questions (one per line)"
+
+msgid "plugins.generic.surveys.f.syntax"
+msgstr "Format: type | question | option1; option2 — types: rating (1–5), choice, multi, yesno, text. Start the line with * for required."
+
+msgid "plugins.generic.surveys.inviteTitle"
+msgstr "Send invitations now"
+
+msgid "plugins.generic.surveys.f.group"
+msgstr "Ready-made group"
+
+msgid "plugins.generic.surveys.f.groupHelp"
+msgstr "Within the last 12 months."
+
+msgid "plugins.generic.surveys.g.authors"
+msgstr "Authors with a final decision"
+
+msgid "plugins.generic.surveys.g.reviewers"
+msgstr "Reviewers who completed a review"
+
+msgid "plugins.generic.surveys.f.emails"
+msgstr "Or emails (one per line: email, name)"
+
+msgid "plugins.generic.surveys.sendInvites"
+msgstr "Send invitations"
+
+msgid "plugins.generic.surveys.type.rating"
+msgstr "Rating"
+
+msgid "plugins.generic.surveys.type.choice"
+msgstr "Choice"
+
+msgid "plugins.generic.surveys.type.multi"
+msgstr "Multiple"
+
+msgid "plugins.generic.surveys.type.yesno"
+msgstr "Yes/No"
+
+msgid "plugins.generic.surveys.type.text"
+msgstr "Text"
+
+msgid "plugins.generic.surveys.yes"
+msgstr "Yes"
+
+msgid "plugins.generic.surveys.no"
+msgstr "No"
+
+msgid "plugins.generic.surveys.low"
+msgstr "Poor"
+
+msgid "plugins.generic.surveys.high"
+msgstr "Excellent"
+
+msgid "plugins.generic.surveys.noAnswers"
+msgstr "No answers yet."
+
+msgid "plugins.generic.surveys.submit"
+msgstr "Submit"
+
+msgid "plugins.generic.surveys.thanks"
+msgstr "Thank you — your answers were received."
+
+msgid "plugins.generic.surveys.already"
+msgstr "Your answers were already recorded. Thank you."
+
+msgid "plugins.generic.surveys.badLink"
+msgstr "This link is invalid or has expired."
+
+msgid "plugins.generic.surveys.required"
+msgstr "Please answer the highlighted questions."
+
+msgid "plugins.generic.surveys.privacy"
+msgstr "Answers are kept confidential and reviewed in aggregate to improve our service."
+
+msgid "plugins.generic.surveys.mail.hello"
+msgstr "Dear {$name},"
+
+msgid "plugins.generic.surveys.mail.colleague"
+msgstr "colleague"
+
+msgid "plugins.generic.surveys.mail.button"
+msgstr "Take the survey (2 minutes)"
+
+msgid "plugins.generic.surveys.mail.note"
+msgstr "This link is personal and needs no login."
+
+msgid "plugins.generic.surveys.msg.invited"
+msgstr "Invitations sent."
+
+msgid "plugins.generic.surveys.msg.errEmpty"
+msgstr "Title and questions are required (check the question format)."
+

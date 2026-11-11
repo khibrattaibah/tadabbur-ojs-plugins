@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "plugins.generic.boardPortal.name"
+msgstr "بوابة الهيئتين"
+
+msgid "plugins.generic.boardPortal.description"
+msgstr "هيئة التحرير والهيئة الاستشارية: الأعضاء ومددهم، والاجتماعات والحضور والمحاضر، ومتابعة القرارات والتكليفات، ونشاط كل عضو السنوي من بيانات OJS، وبوابة خاصة لكل عضو، وصفحة عامة بأسماء الهيئتين. تطوير: مصطفى محمود — مكتب خبرات طيبة للبحوث والدراسات."
+
+msgid "plugins.generic.boardPortal.open"
+msgstr "فتح بوابة الهيئتين"
+
+msgid "plugins.generic.boardPortal.menu"
+msgstr "الهيئتان"
+
+msgid "plugins.generic.boardPortal.myMenu"
+msgstr "بوابتي في الهيئة"
+
+msgid "plugins.generic.boardPortal.forbidden"
+msgstr "لا تملك صلاحية الوصول إلى هذه الصفحة."
+
+msgid "plugins.generic.boardPortal.tab.members"
+msgstr "الأعضاء"
+
+msgid "plugins.generic.boardPortal.tab.meetings"
+msgstr "الاجتماعات"
+
+msgid "plugins.generic.boardPortal.tab.resolutions"
+msgstr "القرارات"
+
+msgid "plugins.generic.boardPortal.tab.report"
+msgstr "التقرير السنوي"
+
+msgid "plugins.generic.boardPortal.tab.public"
+msgstr "الصفحة العامة"
+
+msgid "plugins.generic.boardPortal.board.editorial"
+msgstr "هيئة التحرير"
+
+msgid "plugins.generic.boardPortal.board.advisory"
+msgstr "الهيئة الاستشارية"
+
+msgid "plugins.generic.boardPortal.col.name"
+msgstr "الاسم"
+
+msgid "plugins.generic.boardPortal.col.role"
+msgstr "الصفة"
+
+msgid "plugins.generic.boardPortal.col.affiliation"
+msgstr "الجهة"
+
+msgid "plugins.generic.boardPortal.col.country"
+msgstr "الدولة"
+
+msgid "plugins.generic.boardPortal.col.term"
+msgstr "المدة"
+
+msgid "plugins.generic.boardPortal.col.account"
+msgstr "حساب OJS"
+
+msgid "plugins.generic.boardPortal.col.number"
+msgstr "الرقم"
+
+msgid "plugins.generic.boardPortal.col.board"
+msgstr "الهيئة"
+
+msgid "plugins.generic.boardPortal.col.title"
+msgstr "العنوان"
+
+msgid "plugins.generic.boardPortal.col.date"
+msgstr "الموعد"
+
+msgid "plugins.generic.boardPortal.col.status"
+msgstr "الحالة"
+
+msgid "plugins.generic.boardPortal.col.text"
+msgstr "نص القرار"
+
+msgid "plugins.generic.boardPortal.col.owner"
+msgstr "المكلّف"
+
+msgid "plugins.generic.boardPortal.col.due"
+msgstr "الموعد النهائي"
+
+msgid "plugins.generic.boardPortal.edit"
+msgstr "تعديل"
+
+msgid "plugins.generic.boardPortal.activity"
+msgstr "النشاط"
+
+msgid "plugins.generic.boardPortal.none"
+msgstr "لا يوجد."
+
+msgid "plugins.generic.boardPortal.addMember"
+msgstr "إضافة عضو"
+
+msgid "plugins.generic.boardPortal.editMember"
+msgstr "تعديل عضو"
+
+msgid "plugins.generic.boardPortal.f.board"
+msgstr "الهيئة"
+
+msgid "plugins.generic.boardPortal.f.name_ar"
+msgstr "الاسم بالعربية"
+
+msgid "plugins.generic.boardPortal.f.name_en"
+msgstr "الاسم بالإنجليزية"
+
+msgid "plugins.generic.boardPortal.f.role_ar"
+msgstr "الصفة بالعربية"
+
+msgid "plugins.generic.boardPortal.f.role_en"
+msgstr "الصفة بالإنجليزية"
+
+msgid "plugins.generic.boardPortal.f.affiliation_ar"
+msgstr "الجهة بالعربية"
+
+msgid "plugins.generic.boardPortal.f.affiliation_en"
+msgstr "الجهة بالإنجليزية"
+
+msgid "plugins.generic.boardPortal.f.country"
+msgstr "الدولة"
+
+msgid "plugins.generic.boardPortal.f.email"
+msgstr "البريد"
+
+msgid "plugins.generic.boardPortal.f.orcid"
+msgstr "ORCID"
+
+msgid "plugins.generic.boardPortal.f.term_start"
+msgstr "بداية المدة"
+
+msgid "plugins.generic.boardPortal.f.term_end"
+msgstr "نهاية المدة"
+
+msgid "plugins.generic.boardPortal.f.seq"
+msgstr "الترتيب"
+
+msgid "plugins.generic.boardPortal.f.active"
+msgstr "فعّال (يظهر في الصفحة العامة)"
+
+msgid "plugins.generic.boardPortal.f.title"
+msgstr "عنوان الاجتماع"
+
+msgid "plugins.generic.boardPortal.f.location"
+msgstr "المكان / الرابط"
+
+msgid "plugins.generic.boardPortal.f.agenda"
+msgstr "جدول الأعمال"
+
+msgid "plugins.generic.boardPortal.f.minutes"
+msgstr "المحضر"
+
+msgid "plugins.generic.boardPortal.f.resText"
+msgstr "نص القرار"
+
+msgid "plugins.generic.boardPortal.f.owner"
+msgstr "المكلّف بالتنفيذ"
+
+msgid "plugins.generic.boardPortal.f.note"
+msgstr "ملاحظة الإنجاز"
+
+msgid "plugins.generic.boardPortal.linkHelp"
+msgstr "يُربط العضو تلقائيًا بحساب OJS عند تطابق البريد، فتظهر له «بوابتي» ويُحسب نشاطه من بيانات المجلة."
+
+msgid "plugins.generic.boardPortal.save"
+msgstr "حفظ"
+
+msgid "plugins.generic.boardPortal.create"
+msgstr "إنشاء"
+
+msgid "plugins.generic.boardPortal.add"
+msgstr "إضافة"
+
+msgid "plugins.generic.boardPortal.open_"
+msgstr "فتح"
+
+msgid "plugins.generic.boardPortal.newMeeting"
+msgstr "اجتماع جديد"
+
+msgid "plugins.generic.boardPortal.attendance"
+msgstr "الحضور"
+
+msgid "plugins.generic.boardPortal.att.present"
+msgstr "حاضر"
+
+msgid "plugins.generic.boardPortal.att.absent"
+msgstr "غائب"
+
+msgid "plugins.generic.boardPortal.att.excused"
+msgstr "معتذر"
+
+msgid "plugins.generic.boardPortal.st.planned"
+msgstr "مجدول"
+
+msgid "plugins.generic.boardPortal.st.held"
+msgstr "عُقد"
+
+msgid "plugins.generic.boardPortal.st.cancelled"
+msgstr "أُلغي"
+
+msgid "plugins.generic.boardPortal.rs.open"
+msgstr "مفتوح"
+
+msgid "plugins.generic.boardPortal.rs.done"
+msgstr "منجز"
+
+msgid "plugins.generic.boardPortal.all"
+msgstr "الكل"
+
+msgid "plugins.generic.boardPortal.addRes"
+msgstr "إضافة قرار"
+
+msgid "plugins.generic.boardPortal.markDone"
+msgstr "تم الإنجاز"
+
+msgid "plugins.generic.boardPortal.reopen"
+msgstr "إعادة فتح"
+
+msgid "plugins.generic.boardPortal.year"
+msgstr "السنة"
+
+msgid "plugins.generic.boardPortal.show"
+msgstr "عرض"
+
+msgid "plugins.generic.boardPortal.journalYear"
+msgstr "لمحة عن المجلة في {$y}"
+
+msgid "plugins.generic.boardPortal.membersYear"
+msgstr "نشاط الأعضاء"
+
+msgid "plugins.generic.boardPortal.jr.received"
+msgstr "بحوث واردة"
+
+msgid "plugins.generic.boardPortal.jr.published"
+msgstr "بحوث منشورة"
+
+msgid "plugins.generic.boardPortal.jr.accepted"
+msgstr "مقبولة"
+
+msgid "plugins.generic.boardPortal.jr.declined"
+msgstr "مرفوضة"
+
+msgid "plugins.generic.boardPortal.jr.acceptRate"
+msgstr "نسبة القبول"
+
+msgid "plugins.generic.boardPortal.jr.firstDecisionDays"
+msgstr "متوسط أيام أول قرار"
+
+msgid "plugins.generic.boardPortal.jr.reviews"
+msgstr "تقارير تحكيم مكتملة"
+
+msgid "plugins.generic.boardPortal.act.reviews"
+msgstr "تحكيمات منجزة"
+
+msgid "plugins.generic.boardPortal.act.declined"
+msgstr "تحكيمات معتذَر عنها"
+
+msgid "plugins.generic.boardPortal.act.decisions"
+msgstr "قرارات تحريرية"
+
+msgid "plugins.generic.boardPortal.act.handled"
+msgstr "بحوث أُسندت إليه"
+
+msgid "plugins.generic.boardPortal.act.authored"
+msgstr "بحوث منشورة له"
+
+msgid "plugins.generic.boardPortal.act.meetings"
+msgstr "اجتماعات حضرها"
+
+msgid "plugins.generic.boardPortal.act.resDone"
+msgstr "قرارات أنجزها"
+
+msgid "plugins.generic.boardPortal.act.resOpen"
+msgstr "قرارات مفتوحة"
+
+msgid "plugins.generic.boardPortal.notLinked"
+msgstr "هذا العضو غير مرتبط بحساب OJS، فلا يُحسب إلا حضوره وقراراته ومنشوراته بالبريد."
+
+msgid "plugins.generic.boardPortal.mineIntro"
+msgstr "نشاطك وقراراتك المكلّف بها واجتماعاتك القادمة."
+
+msgid "plugins.generic.boardPortal.upcoming"
+msgstr "الاجتماعات القادمة"
+
+msgid "plugins.generic.boardPortal.publicTitle"
+msgstr "هيئتا المجلة"
+
+msgid "plugins.generic.boardPortal.msg.saved"
+msgstr "تم الحفظ."
+
+msgid "plugins.generic.boardPortal.msg.needName"
+msgstr "أدخل اسم العضو."
+
+msgid "plugins.generic.boardPortal.msg.badDate"
+msgstr "موعد غير صالح."
+
+msgid "plugins.generic.boardPortal.msg.needText"
+msgstr "أدخل نص القرار."
+

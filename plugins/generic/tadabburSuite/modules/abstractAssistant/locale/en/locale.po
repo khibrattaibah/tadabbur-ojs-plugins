@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.abstractAssistant.name"
+msgstr "Abstract & Metadata Translation Assistant"
+
+msgid "plugins.generic.abstractAssistant.description"
+msgstr "Translates titles, abstracts and keywords between Arabic and English with Claude, or language-edits the English version, using a journal glossary. Nothing is applied without editor approval. Developed by Moustafa Mahmoud — Khibrat Taibah for Research and Studies."
+
+msgid "plugins.generic.abstractAssistant.open"
+msgstr "Open assistant"
+
+msgid "plugins.generic.abstractAssistant.menu"
+msgstr "Translation Assistant"
+
+msgid "plugins.generic.abstractAssistant.reviewTitle"
+msgstr "Review draft"
+
+msgid "plugins.generic.abstractAssistant.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.abstractAssistant.notFound"
+msgstr "Draft not found."
+
+msgid "plugins.generic.abstractAssistant.intro"
+msgstr "The assistant drafts a translation of the title, abstract and keywords — or language-edits the existing version — which the editor reviews, edits and approves field by field. A good English abstract is a practical requirement for Scopus and Web of Science."
+
+msgid "plugins.generic.abstractAssistant.noKey"
+msgstr "Enter a Claude API key in the settings below to enable the assistant."
+
+msgid "plugins.generic.abstractAssistant.error"
+msgstr "Could not create the draft:"
+
+msgid "plugins.generic.abstractAssistant.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.abstractAssistant.emptySource"
+msgstr "There is no title or abstract in the source language."
+
+msgid "plugins.generic.abstractAssistant.submissions"
+msgstr "Submissions"
+
+msgid "plugins.generic.abstractAssistant.search"
+msgstr "Search title or author"
+
+msgid "plugins.generic.abstractAssistant.searchBtn"
+msgstr "Search"
+
+msgid "plugins.generic.abstractAssistant.col.title"
+msgstr "Submission"
+
+msgid "plugins.generic.abstractAssistant.col.metadata"
+msgstr "Metadata completeness"
+
+msgid "plugins.generic.abstractAssistant.col.action"
+msgstr "Action"
+
+msgid "plugins.generic.abstractAssistant.f.title"
+msgstr "Title"
+
+msgid "plugins.generic.abstractAssistant.f.subtitle"
+msgstr "Subtitle"
+
+msgid "plugins.generic.abstractAssistant.f.abstract"
+msgstr "Abstract"
+
+msgid "plugins.generic.abstractAssistant.f.keywords"
+msgstr "Keywords"
+
+msgid "plugins.generic.abstractAssistant.mode.translate"
+msgstr "Translate {$from} → {$to}"
+
+msgid "plugins.generic.abstractAssistant.lang.ar"
+msgstr "Arabic"
+
+msgid "plugins.generic.abstractAssistant.lang.en"
+msgstr "English"
+
+msgid "plugins.generic.abstractAssistant.lang.fr"
+msgstr "French"
+
+msgid "plugins.generic.abstractAssistant.lang.tr"
+msgstr "Turkish"
+
+msgid "plugins.generic.abstractAssistant.lang.ur"
+msgstr "Urdu"
+
+msgid "plugins.generic.abstractAssistant.mode.polish"
+msgstr "Language-edit the {$to} version"
+
+msgid "plugins.generic.abstractAssistant.generate"
+msgstr "Create draft"
+
+msgid "plugins.generic.abstractAssistant.lastDraft"
+msgstr "Last draft: {$s} ({$d})"
+
+msgid "plugins.generic.abstractAssistant.pubStatus.published"
+msgstr "published"
+
+msgid "plugins.generic.abstractAssistant.pubStatus.draft"
+msgstr "unpublished"
+
+msgid "plugins.generic.abstractAssistant.status.draft"
+msgstr "awaiting review"
+
+msgid "plugins.generic.abstractAssistant.status.applied"
+msgstr "applied"
+
+msgid "plugins.generic.abstractAssistant.status.discarded"
+msgstr "discarded"
+
+msgid "plugins.generic.abstractAssistant.privacy"
+msgstr "Only the title, abstract and keywords are sent to Claude (not the manuscript or author names). Processing is subject to Anthropic’s commercial terms, under which API data is not used for training by default."
+
+msgid "plugins.generic.abstractAssistant.settings"
+msgstr "Settings"
+
+msgid "plugins.generic.abstractAssistant.save"
+msgstr "Save"
+
+msgid "plugins.generic.abstractAssistant.set.apiKey"
+msgstr "Claude API key"
+
+msgid "plugins.generic.abstractAssistant.set.apiKeyHelp"
+msgstr "From console.anthropic.com. Stored in the plugin settings and hidden after saving."
+
+msgid "plugins.generic.abstractAssistant.set.model"
+msgstr "Model"
+
+msgid "plugins.generic.abstractAssistant.set.endpoint"
+msgstr "API endpoint"
+
+msgid "plugins.generic.abstractAssistant.set.field"
+msgstr "Journal field (in English)"
+
+msgid "plugins.generic.abstractAssistant.set.glossary"
+msgstr "Journal glossary: one term per line as “Arabic = English”"
+
+msgid "plugins.generic.abstractAssistant.set.glossaryHelp"
+msgstr "The assistant always uses these renderings, keeping terminology consistent across issues."
+
+msgid "plugins.generic.abstractAssistant.usage"
+msgstr "This month: {$n} drafts · {$i} input tokens · {$o} output tokens"
+
+msgid "plugins.generic.abstractAssistant.back"
+msgstr "All submissions"
+
+msgid "plugins.generic.abstractAssistant.notes"
+msgstr "Assistant notes for the editor"
+
+msgid "plugins.generic.abstractAssistant.publishedNote"
+msgstr "This article is published: changes cannot be applied directly. Create a new version from the publication page and redo the draft, or copy the text manually."
+
+msgid "plugins.generic.abstractAssistant.col.field"
+msgstr "Field"
+
+msgid "plugins.generic.abstractAssistant.col.source"
+msgstr "Source ({$l})"
+
+msgid "plugins.generic.abstractAssistant.col.current"
+msgstr "Current ({$l})"
+
+msgid "plugins.generic.abstractAssistant.col.draft"
+msgstr "Draft (editable)"
+
+msgid "plugins.generic.abstractAssistant.applyField"
+msgstr "Apply this field"
+
+msgid "plugins.generic.abstractAssistant.empty"
+msgstr "empty"
+
+msgid "plugins.generic.abstractAssistant.words"
+msgstr "source {$s} words · draft {$d} words"
+
+msgid "plugins.generic.abstractAssistant.apply"
+msgstr "Apply selected fields"
+
+msgid "plugins.generic.abstractAssistant.applyNote"
+msgstr "Selected fields are written to the submission metadata, replacing current values in that language."
+
+msgid "plugins.generic.abstractAssistant.appliedMsg"
+msgstr "Fields applied to the submission metadata."
+
+msgid "plugins.generic.abstractAssistant.discard"
+msgstr "Discard draft"
+
+msgid "plugins.generic.abstractAssistant.history"
+msgstr "Drafts for this submission"
+

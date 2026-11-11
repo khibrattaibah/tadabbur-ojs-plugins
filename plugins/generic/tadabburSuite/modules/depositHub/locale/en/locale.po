@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "plugins.generic.depositHub.forbidden"
+msgstr "You are not allowed to access this page."
+
+msgid "plugins.generic.depositHub.none"
+msgstr "None."
+
+msgid "plugins.generic.depositHub.msg.saved"
+msgstr "Saved."
+
+msgid "plugins.generic.depositHub.save"
+msgstr "Save"
+
+msgid "plugins.generic.depositHub.back"
+msgstr "Back"
+
+msgid "plugins.generic.depositHub.name"
+msgstr "Deposit & Linking Hub"
+
+msgid "plugins.generic.depositHub.description"
+msgstr "One board for where each published paper stands outside the site: DOI and its OJS deposit status, actual presence in Crossref with abstract, references and ORCID, DOI resolving to the right landing page, OpenAlex presence and citations, and a Google Scholar search link. Journal level: Crossref coverage (abstracts, references, ORCID, affiliations, ROR, licences) and presence in OpenAlex and DOAJ. Developed by Moustafa Mahmoud — Khibrat Taibah."
+
+msgid "plugins.generic.depositHub.open"
+msgstr "Open Deposit Hub"
+
+msgid "plugins.generic.depositHub.menu"
+msgstr "Deposit & linking"
+
+msgid "plugins.generic.depositHub.intro"
+msgstr "Checks go live to Crossref, doi.org, OpenAlex and DOAJ (public data). The OJS status is what the journal sent; the live check proves it arrived and works."
+
+msgid "plugins.generic.depositHub.journal"
+msgstr "The journal in databases"
+
+msgid "plugins.generic.depositHub.notChecked"
+msgstr "Not checked yet."
+
+msgid "plugins.generic.depositHub.refresh"
+msgstr "Refresh"
+
+msgid "plugins.generic.depositHub.checkedAt"
+msgstr "Last check: {$d}"
+
+msgid "plugins.generic.depositHub.crDois"
+msgstr "{$n} DOIs deposited"
+
+msgid "plugins.generic.depositHub.oaLine"
+msgstr "{$w} works · {$c} citations · h={$h}"
+
+msgid "plugins.generic.depositHub.cov.abstracts"
+msgstr "Abstracts"
+
+msgid "plugins.generic.depositHub.cov.references"
+msgstr "References"
+
+msgid "plugins.generic.depositHub.cov.orcids"
+msgstr "ORCID"
+
+msgid "plugins.generic.depositHub.cov.affiliations"
+msgstr "Affiliations"
+
+msgid "plugins.generic.depositHub.cov.ror"
+msgstr "ROR"
+
+msgid "plugins.generic.depositHub.cov.licenses"
+msgstr "Licences"
+
+msgid "plugins.generic.depositHub.cov.similarity"
+msgstr "Similarity Check"
+
+msgid "plugins.generic.depositHub.notFound"
+msgstr "Not found"
+
+msgid "plugins.generic.depositHub.listed"
+msgstr "Listed"
+
+msgid "plugins.generic.depositHub.notListed"
+msgstr "Not listed"
+
+msgid "plugins.generic.depositHub.since"
+msgstr "since"
+
+msgid "plugins.generic.depositHub.articles"
+msgstr "Published papers"
+
+msgid "plugins.generic.depositHub.s.published"
+msgstr "published"
+
+msgid "plugins.generic.depositHub.s.doi"
+msgstr "with DOI"
+
+msgid "plugins.generic.depositHub.s.reg"
+msgstr "registered in OJS"
+
+msgid "plugins.generic.depositHub.s.cr"
+msgstr "found in Crossref"
+
+msgid "plugins.generic.depositHub.s.land"
+msgstr "DOI resolves correctly"
+
+msgid "plugins.generic.depositHub.s.oa"
+msgstr "in OpenAlex"
+
+msgid "plugins.generic.depositHub.s.cited"
+msgstr "citations"
+
+msgid "plugins.generic.depositHub.checkBatch"
+msgstr "Check 20 papers (oldest first)"
+
+msgid "plugins.generic.depositHub.showProblems"
+msgstr "Problems only"
+
+msgid "plugins.generic.depositHub.showAll"
+msgstr "Show all"
+
+msgid "plugins.generic.depositHub.oaKeyOn"
+msgstr "OpenAlex key active"
+
+msgid "plugins.generic.depositHub.oaKeyOff"
+msgstr "No OpenAlex key (add it in Suite Settings to raise limits)"
+
+msgid "plugins.generic.depositHub.col.title"
+msgstr "Paper"
+
+msgid "plugins.generic.depositHub.col.ojs"
+msgstr "OJS status"
+
+msgid "plugins.generic.depositHub.col.landing"
+msgstr "DOI landing"
+
+msgid "plugins.generic.depositHub.col.cited"
+msgstr "Citations"
+
+msgid "plugins.generic.depositHub.noDoi"
+msgstr "No DOI"
+
+msgid "plugins.generic.depositHub.doi.unregistered"
+msgstr "Not deposited"
+
+msgid "plugins.generic.depositHub.doi.submitted"
+msgstr "Submitted"
+
+msgid "plugins.generic.depositHub.doi.registered"
+msgstr "Registered"
+
+msgid "plugins.generic.depositHub.doi.error"
+msgstr "Error"
+
+msgid "plugins.generic.depositHub.doi.stale"
+msgstr "Stale"
+
+msgid "plugins.generic.depositHub.doi.none"
+msgstr "—"
+
+msgid "plugins.generic.depositHub.crMeta"
+msgstr "Metadata:"
+
+msgid "plugins.generic.depositHub.abs"
+msgstr "abstract"
+
+msgid "plugins.generic.depositHub.refs"
+msgstr "refs"
+
+msgid "plugins.generic.depositHub.checkNow"
+msgstr "Check"
+
+msgid "plugins.generic.depositHub.msg.checked"
+msgstr "Checked."
+
+msgid "plugins.generic.depositHub.msg.checkedBatch"
+msgstr "Batch checked; repeat for the rest."
+
